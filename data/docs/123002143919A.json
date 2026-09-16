@@ -1,0 +1,18 @@
+{
+ "ref": "123002143919A",
+ "refDisplay": "1230 02 143919A",
+ "title": "CORPS D’INJECTION MONOPOINT",
+ "nature": "",
+ "applicability": "1,580L ET INJ MONOPOINT ET BVM DEPUIS OPR 05285",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

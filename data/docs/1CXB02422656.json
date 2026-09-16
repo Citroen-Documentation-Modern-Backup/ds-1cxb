@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB02422656",
+ "refDisplay": "1CXB 0 242 2656",
+ "title": "2 TUBES ALIMENTATION FREINS ARRIERE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

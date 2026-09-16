@@ -1,0 +1,28 @@
+{
+ "ref": "123007008110",
+ "refDisplay": "1230 07 008110",
+ "title": "CAISSE PAVILLON",
+ "nature": "",
+ "applicability": "BERLINE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0144"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0146"
+  }
+ ]
+}

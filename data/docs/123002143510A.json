@@ -1,0 +1,18 @@
+{
+ "ref": "123002143510A",
+ "refDisplay": "1230 02 143510A",
+ "title": "CARBURATEUR-STARTER AUTOMATIQUE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET (D) ALLEMAGNE ET (NL) PAYS BAS DEPUIS OPR 04316 JUSQU’A OPR 05439",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

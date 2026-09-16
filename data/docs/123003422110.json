@@ -1,0 +1,18 @@
+{
+ "ref": "123003422110",
+ "refDisplay": "1230 03 422110",
+ "title": "TRAVERSE ARRIERE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0031"
+  }
+ ]
+}

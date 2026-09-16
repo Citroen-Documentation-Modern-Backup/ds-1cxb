@@ -1,0 +1,18 @@
+{
+ "ref": "123002146020",
+ "refDisplay": "1230 02 146020",
+ "title": "DISPOSITIF DE DOSAGE",
+ "nature": "",
+ "applicability": "ESSENCE ET INJECTION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

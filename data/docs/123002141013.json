@@ -1,0 +1,18 @@
+{
+ "ref": "123002141013",
+ "refDisplay": "1230 02 141013",
+ "title": "COLLECTEUR ADMISSION",
+ "nature": "",
+ "applicability": "CARBURATEUR ET 15 RE ET 15 TGE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

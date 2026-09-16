@@ -1,0 +1,18 @@
+{
+ "ref": "123001331430",
+ "refDisplay": "1230 01 331430",
+ "title": "CARTER BOITE DE VITESSES - FIXATION",
+ "nature": "",
+ "applicability": "4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

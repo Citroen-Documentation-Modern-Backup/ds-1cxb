@@ -1,0 +1,18 @@
+{
+ "ref": "123006175412",
+ "refDisplay": "1230 06 175412",
+ "title": "ANTI-POLLUTION (CANALISATION)",
+ "nature": "",
+ "applicability": "1,905L ET INJ MONOPOINT ET (XT) EXPORT DEPUIS OPR 04223 JUSQU’A OPR 04679",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

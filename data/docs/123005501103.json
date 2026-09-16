@@ -1,0 +1,18 @@
+{
+ "ref": "123005501103",
+ "refDisplay": "1230 05 501103",
+ "title": "FAISCEAU AVANT PRINCIPAL",
+ "nature": "",
+ "applicability": "ESSENCE ET FINIT. R ET FINIT. TR ET CLIMATISEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

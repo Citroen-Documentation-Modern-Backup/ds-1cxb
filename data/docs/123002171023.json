@@ -1,0 +1,18 @@
+{
+ "ref": "123002171023",
+ "refDisplay": "1230 02 171023",
+ "title": "FILTRE A AIR",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,905L DEPUIS OPR 03796 SAUF (CH) SUISSE SAUF (S) SUEDE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

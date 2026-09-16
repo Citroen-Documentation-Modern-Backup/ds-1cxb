@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB04155128_2",
+ "refDisplay": "1CXB 0 415 5128",
+ "title": "INTERRUPTEUR DE PLANCHE DE BORD",
+ "nature": "",
+ "applicability": "(B005) BX BERLINE 5PTES DIESEL TURBO XUD7TE",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0216"
+  }
+ ]
+}

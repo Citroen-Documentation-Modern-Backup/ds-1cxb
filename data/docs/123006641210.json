@@ -1,0 +1,18 @@
+{
+ "ref": "123006641210",
+ "refDisplay": "1230 06 641210",
+ "title": "BOITIER PULSEUR DE CLIMATISATION",
+ "nature": "",
+ "applicability": "CLIMATISEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

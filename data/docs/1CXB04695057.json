@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB04695057",
+ "refDisplay": "1CXB 0 469 5057",
+ "title": "CONDUIT VENTILATION PLACES AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

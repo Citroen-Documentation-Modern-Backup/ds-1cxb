@@ -1,0 +1,18 @@
+{
+ "ref": "123008941210",
+ "refDisplay": "1230 08 941210",
+ "title": "REPOSE TETE ARRIERE",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 04130",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

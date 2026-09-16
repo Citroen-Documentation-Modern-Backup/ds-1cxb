@@ -1,0 +1,18 @@
+{
+ "ref": "123002532013",
+ "refDisplay": "1230 02 532013",
+ "title": "ALTERNATEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,580L ET PAYS FROIDS ET CLIMATISEUR ET ATMOSPHERE POUSSIERES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

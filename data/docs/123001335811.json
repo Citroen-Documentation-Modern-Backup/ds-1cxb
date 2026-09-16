@@ -1,0 +1,18 @@
+{
+ "ref": "123001335811",
+ "refDisplay": "1230 01 335811",
+ "title": "COMMANDE DE VITESSES-COTE HABITACLE",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET 1,905L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0018"
+  }
+ ]
+}

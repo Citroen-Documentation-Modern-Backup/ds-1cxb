@@ -1,0 +1,18 @@
+{
+ "ref": "123006183212F",
+ "refDisplay": "1230 06 183212F",
+ "title": "ECHAPPEMENT AVANT ANTI-POLLUTION",
+ "nature": "",
+ "applicability": "1,905L ET CARBURATEUR DEPUIS OPR 03766",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

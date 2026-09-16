@@ -1,0 +1,18 @@
+{
+ "ref": "123003394420",
+ "refDisplay": "1230 03 394420",
+ "title": "CANALISATIONS RETOUR",
+ "nature": "",
+ "applicability": "DIRECTION ASSISTEE ET 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

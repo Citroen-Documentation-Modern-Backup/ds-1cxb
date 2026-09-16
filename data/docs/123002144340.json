@@ -1,0 +1,18 @@
+{
+ "ref": "123002144340",
+ "refDisplay": "1230 02 144340",
+ "title": "POMPE D’INJECTION",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET TURBO JUSQU’A OPR 05637",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

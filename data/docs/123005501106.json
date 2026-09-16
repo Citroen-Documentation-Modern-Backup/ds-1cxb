@@ -1,0 +1,18 @@
+{
+ "ref": "123005501106",
+ "refDisplay": "1230 05 501106",
+ "title": "FAISCEAU AVANT PRINCIPAL",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,905L ET INJECTION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

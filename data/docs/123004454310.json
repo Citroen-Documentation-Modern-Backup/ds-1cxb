@@ -1,0 +1,18 @@
+{
+ "ref": "123004454310",
+ "refDisplay": "1230 04 454310",
+ "title": "FREIN - CAPTEURS - SUPPORTS",
+ "nature": "",
+ "applicability": "ANTI-BLOCAGE ROUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0340"
+  }
+ ]
+}

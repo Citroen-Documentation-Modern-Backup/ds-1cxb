@@ -1,0 +1,18 @@
+{
+ "ref": "123008982849",
+ "refDisplay": "1230 08 982849",
+ "title": "PANNEAUX DE PORTE AVANT",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 05929",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0135"
+  }
+ ]
+}

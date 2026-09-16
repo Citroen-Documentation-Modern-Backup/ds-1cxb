@@ -1,0 +1,18 @@
+{
+ "ref": "123003416110",
+ "refDisplay": "1230 03 416110",
+ "title": "ROUES",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET (I) ITALIE ET (GR) GRECE ET 1,360L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0023"
+  }
+ ]
+}

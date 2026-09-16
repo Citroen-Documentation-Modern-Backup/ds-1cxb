@@ -1,0 +1,18 @@
+{
+ "ref": "123003394310",
+ "refDisplay": "1230 03 394310",
+ "title": "CANALISATIONS DIRECTION FREIN",
+ "nature": "",
+ "applicability": "DIRECTION ASSISTEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

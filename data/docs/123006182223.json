@@ -1,0 +1,18 @@
+{
+ "ref": "123006182223",
+ "refDisplay": "1230 06 182223",
+ "title": "ECHAPPEMENT POT DE DETENTE SILENCIEUX",
+ "nature": "",
+ "applicability": "1,905L ET INJ MONOPOINT ET (XT) EXPORT DEPUIS OPR 04223",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

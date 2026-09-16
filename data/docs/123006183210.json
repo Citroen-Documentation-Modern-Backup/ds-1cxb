@@ -1,0 +1,18 @@
+{
+ "ref": "123006183210",
+ "refDisplay": "1230 06 183210",
+ "title": "ECHAPPEMENT AVANT ANTI-POLLUTION",
+ "nature": "",
+ "applicability": "BERLINE ET ESSENCE ET 1,360L ET (CH) SUISSE ET (A) AUTRICHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

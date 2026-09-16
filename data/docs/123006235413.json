@@ -1,0 +1,18 @@
+{
+ "ref": "123006235413",
+ "refDisplay": "1230 06 235413",
+ "title": "CANALISATION D’EAU - FIXATION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,905L ET INJECTION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

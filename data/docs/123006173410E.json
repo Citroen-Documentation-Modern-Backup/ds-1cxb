@@ -1,0 +1,18 @@
+{
+ "ref": "123006173410E",
+ "refDisplay": "1230 06 173410E",
+ "title": "FIXATION POMPE ET CANALISATIONS ESSENCE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET 1,360L DEPUIS OPR 04192",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

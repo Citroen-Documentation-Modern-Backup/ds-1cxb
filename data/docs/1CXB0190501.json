@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB0190501",
+ "refDisplay": "1CXB 0 19 0501",
+ "title": "CIRCUIT DE REFROIDISSEMENT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

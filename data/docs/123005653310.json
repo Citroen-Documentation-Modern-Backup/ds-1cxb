@@ -1,0 +1,18 @@
+{
+ "ref": "123005653310",
+ "refDisplay": "1230 05 653310",
+ "title": "ANTENNE - GRILLES H-P - ANTIPARASITAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0350"
+  }
+ ]
+}

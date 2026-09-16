@@ -1,0 +1,18 @@
+{
+ "ref": "123002322010A",
+ "refDisplay": "1230 02 322010A",
+ "title": "EMBRAYAGE AUTOMATIQUE",
+ "nature": "",
+ "applicability": "1,580L ET INJ MONOPOINT ET (XT) EXPORT DEPUIS OPR 05307",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

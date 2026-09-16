@@ -1,0 +1,18 @@
+{
+ "ref": "123006235323A",
+ "refDisplay": "1230 06 235323A",
+ "title": "CANALISATION D’EAU REGULATEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET TURBO ECH DEPUIS OPR 05638",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123002322010E",
+ "refDisplay": "1230 02 322010E",
+ "title": "EMBRAYAGE AUTOMATIQUE",
+ "nature": "",
+ "applicability": "1,905L ET CARBURATEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

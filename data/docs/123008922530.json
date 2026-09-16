@@ -1,0 +1,23 @@
+{
+ "ref": "123008922530",
+ "refDisplay": "1230 08 922530",
+ "title": "SIEGES AVANT - ARMATURE",
+ "nature": "",
+ "applicability": "16 TRS ET 19 TRD ET 19 GTI ET 19 TRS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

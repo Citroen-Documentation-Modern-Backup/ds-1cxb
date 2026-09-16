@@ -1,0 +1,18 @@
+{
+ "ref": "123002141918K",
+ "refDisplay": "1230 02 141918K",
+ "title": "COMMANDE D’ACCELERATEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,580L ET INJ MONOPOINT DEPUIS OPR 05285",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

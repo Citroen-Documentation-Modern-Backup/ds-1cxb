@@ -1,0 +1,28 @@
+{
+ "ref": "123007747010",
+ "refDisplay": "1230 07 747010",
+ "title": "PANNEAUX DE COTE",
+ "nature": "",
+ "applicability": "BERLINE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0126"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0128"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0129"
+  }
+ ]
+}

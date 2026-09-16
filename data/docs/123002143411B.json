@@ -1,0 +1,18 @@
+{
+ "ref": "123002143411B",
+ "refDisplay": "1230 02 143411B",
+ "title": "CARBURATEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L DEPUIS OPR 05440",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

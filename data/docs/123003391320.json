@@ -1,0 +1,18 @@
+{
+ "ref": "123003391320",
+ "refDisplay": "1230 03 391320",
+ "title": "POMPE HP-SUPPORT-TENDEUR-FIXATION",
+ "nature": "",
+ "applicability": "GAZOLE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

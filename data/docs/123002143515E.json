@@ -1,0 +1,18 @@
+{
+ "ref": "123002143515E",
+ "refDisplay": "1230 02 143515E",
+ "title": "CARBURATEUR-STARTER AUTOMATIQUE",
+ "nature": "",
+ "applicability": "16 RE ET (D) ALLEMAGNE ET (NL) PAYS BAS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123003442610",
+ "refDisplay": "1230 03 442610",
+ "title": "DIRECTION - VALVE ASSISTANCE",
+ "nature": "",
+ "applicability": "DIRECTION ASSISTEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0037"
+  }
+ ]
+}

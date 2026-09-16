@@ -1,0 +1,18 @@
+{
+ "ref": "123002144501",
+ "refDisplay": "1230 02 144501",
+ "title": "FAISCEAU D’INJECTION INJECTEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET INJECTION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

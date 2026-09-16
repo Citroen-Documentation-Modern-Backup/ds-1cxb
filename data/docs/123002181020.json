@@ -1,0 +1,18 @@
+{
+ "ref": "123002181020",
+ "refDisplay": "1230 02 181020",
+ "title": "TUBULURE D’ECHAPPEMENT",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET TURBO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

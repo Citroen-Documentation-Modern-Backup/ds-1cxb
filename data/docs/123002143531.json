@@ -1,0 +1,18 @@
+{
+ "ref": "123002143531",
+ "refDisplay": "1230 02 143531",
+ "title": "CARBURATEUR-STARTER AUTOMATIQUE",
+ "nature": "",
+ "applicability": "1,905L DEPUIS OPR 04621 JUSQU’A OPR 04923",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

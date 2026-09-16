@@ -1,0 +1,18 @@
+{
+ "ref": "123005501501",
+ "refDisplay": "1230 05 501501",
+ "title": "FAISCEAU TRANSMISSION",
+ "nature": "",
+ "applicability": "4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

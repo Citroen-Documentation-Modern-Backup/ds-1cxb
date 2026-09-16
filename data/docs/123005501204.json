@@ -1,0 +1,18 @@
+{
+ "ref": "123005501204",
+ "refDisplay": "1230 05 501204",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "(XT) EXPORT ET 1,360L ET INJ MONOPOINT DEPUIS OPR 04193",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

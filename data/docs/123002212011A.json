@@ -1,0 +1,18 @@
+{
+ "ref": "123002212011A",
+ "refDisplay": "1230 02 212011A",
+ "title": "BOBINE BOUGIE FAISCEAU D’ALLUMAGE",
+ "nature": "",
+ "applicability": "ESSENCE ET 15 TGE DEPUIS OPR 04711",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

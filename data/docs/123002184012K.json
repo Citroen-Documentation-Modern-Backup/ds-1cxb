@@ -1,0 +1,18 @@
+{
+ "ref": "123002184012K",
+ "refDisplay": "1230 02 184012K",
+ "title": "ANTI POLLUTION-CIRCUIT DEPRESSION",
+ "nature": "",
+ "applicability": "16 RE ET (D) ALLEMAGNE ET (NL) PAYS BAS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123002184314",
+ "refDisplay": "1230 02 184314",
+ "title": "CIRCUIT ANTI POLLUTION",
+ "nature": "",
+ "applicability": "1,905L ET CARBURATEUR ET (D) ALLEMAGNE ET (A) AUTRICHE ET (NL) PAYS BAS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

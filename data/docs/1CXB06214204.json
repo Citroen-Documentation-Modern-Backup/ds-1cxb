@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB06214204",
+ "refDisplay": "1CXB 0 621 4204",
+ "title": "VERROUILLAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0018"
+  }
+ ]
+}

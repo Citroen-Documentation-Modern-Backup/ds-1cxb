@@ -1,0 +1,23 @@
+{
+ "ref": "123008922520",
+ "refDisplay": "1230 08 922520",
+ "title": "SIEGES AVANT - ARMATURE",
+ "nature": "",
+ "applicability": "19 D ET 19 RD",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

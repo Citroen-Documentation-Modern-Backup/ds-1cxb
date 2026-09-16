@@ -1,0 +1,18 @@
+{
+ "ref": "123002184610",
+ "refDisplay": "1230 02 184610",
+ "title": "CIRCUIT RECYCLAGE-DEPRESSION",
+ "nature": "",
+ "applicability": "ESSENCE ET 16 RE ET BVM ET (TW) TAIWAN JUSQU’A OPR 04495",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

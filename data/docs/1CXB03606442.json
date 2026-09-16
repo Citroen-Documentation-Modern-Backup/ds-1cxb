@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB03606442",
+ "refDisplay": "1CXB 0 360 6442",
+ "title": "PORTES AV ET AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  }
+ ]
+}

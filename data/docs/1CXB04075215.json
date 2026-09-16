@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB04075215",
+ "refDisplay": "1CXB 0 407 5215",
+ "title": "ENCADREMENT PHARE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0203"
+  }
+ ]
+}

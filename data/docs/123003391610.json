@@ -1,0 +1,18 @@
+{
+ "ref": "123003391610",
+ "refDisplay": "1230 03 391610",
+ "title": "CONJONCTEUR ACCUMULATEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

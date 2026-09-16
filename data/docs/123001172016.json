@@ -1,0 +1,18 @@
+{
+ "ref": "123001172016",
+ "refDisplay": "1230 01 172016",
+ "title": "TURBO - RACCORDS - ECHANGEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET TURBO DEPUIS OPR 05440",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0014"
+  }
+ ]
+}

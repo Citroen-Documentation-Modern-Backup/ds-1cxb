@@ -1,0 +1,18 @@
+{
+ "ref": "123002184620",
+ "refDisplay": "1230 02 184620",
+ "title": "CIRCUIT RECYCLAGE-DEPRESSION",
+ "nature": "",
+ "applicability": "CARBURATEUR ET (TW) TAIWAN JUSQU’A OPR 04495",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

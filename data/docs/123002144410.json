@@ -1,0 +1,18 @@
+{
+ "ref": "123002144410",
+ "refDisplay": "1230 02 144410",
+ "title": "COMMANDE DE RALENTI ACCELéRé",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET 1,905L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

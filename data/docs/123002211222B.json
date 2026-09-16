@@ -1,0 +1,18 @@
+{
+ "ref": "123002211222B",
+ "refDisplay": "1230 02 211222B",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "1,905L ET INJECTION DEPUIS OPR 03852",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

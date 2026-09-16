@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB01622359",
+ "refDisplay": "1CXB 0 162 2359",
+ "title": "CYLINDRES DE SUSPENSION AR 2 COTES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0031"
+  }
+ ]
+}

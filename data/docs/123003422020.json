@@ -1,0 +1,18 @@
+{
+ "ref": "123003422020",
+ "refDisplay": "1230 03 422020",
+ "title": "BRAS ARRIERE",
+ "nature": "",
+ "applicability": "4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0030"
+  }
+ ]
+}

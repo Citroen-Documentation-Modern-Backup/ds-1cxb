@@ -1,0 +1,18 @@
+{
+ "ref": "123004314102",
+ "refDisplay": "1230 04 314102",
+ "title": "PEDALIER - FREIN",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0047"
+  }
+ ]
+}

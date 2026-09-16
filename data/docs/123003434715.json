@@ -1,0 +1,18 @@
+{
+ "ref": "123003434715",
+ "refDisplay": "1230 03 434715",
+ "title": "CYLINDRE DE SUSPENSION ARRIERE",
+ "nature": "",
+ "applicability": "4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0031"
+  }
+ ]
+}

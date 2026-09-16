@@ -1,0 +1,18 @@
+{
+ "ref": "123005521310",
+ "refDisplay": "1230 05 521310",
+ "title": "COMBINE DE BORD - ACCESSOIRES",
+ "nature": "",
+ "applicability": " SAUF 19 GTI",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0213"
+  }
+ ]
+}

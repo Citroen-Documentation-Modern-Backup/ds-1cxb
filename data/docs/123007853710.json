@@ -1,0 +1,18 @@
+{
+ "ref": "123007853710",
+ "refDisplay": "1230 07 853710",
+ "title": "CONSOLE CENTRALE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0216"
+  }
+ ]
+}

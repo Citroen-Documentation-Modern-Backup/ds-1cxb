@@ -1,0 +1,18 @@
+{
+ "ref": "123003442510",
+ "refDisplay": "1230 03 442510",
+ "title": "CREMAILLERE DE DIRECTION - DETAILS",
+ "nature": "",
+ "applicability": "DIRECTION NON ASSISTEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0037"
+  }
+ ]
+}

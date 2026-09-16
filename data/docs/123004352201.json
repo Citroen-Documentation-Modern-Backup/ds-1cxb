@@ -1,0 +1,18 @@
+{
+ "ref": "123004352201",
+ "refDisplay": "1230 04 352201",
+ "title": "COMMANDE DE PONT ARRIERE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0021"
+  }
+ ]
+}

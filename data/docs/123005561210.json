@@ -1,0 +1,18 @@
+{
+ "ref": "123005561210",
+ "refDisplay": "1230 05 561210",
+ "title": "ESSUIE VITRE ARRIERE",
+ "nature": "",
+ "applicability": "BERLINE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0322"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123005501108",
+ "refDisplay": "1230 05 501108",
+ "title": "FAISCEAU AVANT PRINCIPAL",
+ "nature": "",
+ "applicability": "GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

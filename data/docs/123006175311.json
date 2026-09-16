@@ -1,0 +1,18 @@
+{
+ "ref": "123006175311",
+ "refDisplay": "1230 06 175311",
+ "title": "ANTI-POLLUTION (RESERVOIR ESSENCE)",
+ "nature": "",
+ "applicability": "1,905L ET INJECTION ET (AUS) AUSTRALIE ET (I) ITALIE ET (AS) ARABIE SAOUDITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

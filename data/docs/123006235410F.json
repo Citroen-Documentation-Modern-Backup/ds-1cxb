@@ -1,0 +1,18 @@
+{
+ "ref": "123006235410F",
+ "refDisplay": "1230 06 235410F",
+ "title": "CANALISATION D’EAU - FIXATION",
+ "nature": "",
+ "applicability": "1,124L ET 1,360L DEPUIS OPR 04196",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

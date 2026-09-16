@@ -1,0 +1,18 @@
+{
+ "ref": "123004314110",
+ "refDisplay": "1230 04 314110",
+ "title": "PEDALIER - FREIN",
+ "nature": "",
+ "applicability": "BVA",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0047"
+  }
+ ]
+}

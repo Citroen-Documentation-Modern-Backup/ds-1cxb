@@ -1,0 +1,18 @@
+{
+ "ref": "123005501102",
+ "refDisplay": "1230 05 501102",
+ "title": "FAISCEAU AVANT PRINCIPAL",
+ "nature": "",
+ "applicability": "ESSENCE ET FINIT. R ET FINIT. TR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123006182205B",
+ "refDisplay": "1230 06 182205B",
+ "title": "ECHAPPEMENT POT DE DETENTE SILENCIEUX",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

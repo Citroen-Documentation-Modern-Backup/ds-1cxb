@@ -1,0 +1,18 @@
+{
+ "ref": "123002184630",
+ "refDisplay": "1230 02 184630",
+ "title": "CIRCUIT RECYCLAGE-DEPRESSION",
+ "nature": "",
+ "applicability": "1,905L ET CARBURATEUR ET BVA ET (TW) TAIWAN JUSQU’A OPR 04495",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123001334420",
+ "refDisplay": "1230 01 334420",
+ "title": "LIGNE SECONDAIRE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET BVM5 4X2 ET (I) ITALIE ET (GR) GRECE JUSQU’A OPR 04192",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

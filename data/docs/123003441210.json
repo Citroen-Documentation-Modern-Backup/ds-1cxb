@@ -1,0 +1,18 @@
+{
+ "ref": "123003441210",
+ "refDisplay": "1230 03 441210",
+ "title": "DIRECTION - VOLANT - ANTIVOL",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0034"
+  }
+ ]
+}

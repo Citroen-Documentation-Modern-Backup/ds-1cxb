@@ -1,0 +1,18 @@
+{
+ "ref": "123006182315",
+ "refDisplay": "1230 06 182315",
+ "title": "ECRAN D’ECHAPPEMENT",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,905L ET 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

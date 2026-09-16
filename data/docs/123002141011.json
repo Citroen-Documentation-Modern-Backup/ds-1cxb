@@ -1,0 +1,18 @@
+{
+ "ref": "123002141011",
+ "refDisplay": "1230 02 141011",
+ "title": "COLLECTEUR ADMISSION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L JUSQU’A OPR 04192",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

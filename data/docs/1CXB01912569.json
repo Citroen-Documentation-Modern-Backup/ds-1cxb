@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB01912569",
+ "refDisplay": "1CXB 0 191 2569",
+ "title": "1 TOLE DE PROTECTION DISQUE AV",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0026"
+  }
+ ]
+}

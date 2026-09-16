@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB03875360",
+ "refDisplay": "1CXB 0 387 5360",
+ "title": "RESERVOIR DE LAVE VITRE AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0321"
+  }
+ ]
+}

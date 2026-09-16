@@ -1,0 +1,18 @@
+{
+ "ref": "123001121805",
+ "refDisplay": "1230 01 121805",
+ "title": "BIELLES - PISTONS",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET CARTER CYLINDRE FONTE DEPUIS OPR 05440",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0005"
+  }
+ ]
+}

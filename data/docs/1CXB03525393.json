@@ -1,0 +1,24 @@
+{
+ "ref": "1CXB03525393",
+ "refDisplay": "1CXB 0 352 5393",
+ "title": "COMMUTATEUR ORIENTATION RETROVISEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0136"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0331"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123001335121",
+ "refDisplay": "1230 01 335121",
+ "title": "AXES ET FOURCHETTES",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET 1,905L ET TURBO ET GTI 16S JUSQU’A OPR 04529",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

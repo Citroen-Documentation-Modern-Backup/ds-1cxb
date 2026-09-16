@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB02281302",
+ "refDisplay": "1CXB 0 228 1302",
+ "title": "RESERVOIR HYDRAULIQUE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0339"
+  }
+ ]
+}

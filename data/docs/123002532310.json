@@ -1,0 +1,23 @@
+{
+ "ref": "123002532310",
+ "refDisplay": "1230 02 532310",
+ "title": "ALTERNATEUR - FIXATION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L JUSQU’A OPR 04205",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0216"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

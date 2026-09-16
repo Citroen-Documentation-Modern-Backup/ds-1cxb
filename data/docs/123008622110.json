@@ -1,0 +1,28 @@
+{
+ "ref": "123008622110",
+ "refDisplay": "1230 08 622110",
+ "title": "SUPPORT DE ROUE DE SECOURS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0120"
+  }
+ ]
+}

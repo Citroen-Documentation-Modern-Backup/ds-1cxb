@@ -1,0 +1,18 @@
+{
+ "ref": "123002211222",
+ "refDisplay": "1230 02 211222",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "1,905L ET INJECTION JUSQU’A DATE 19870526",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

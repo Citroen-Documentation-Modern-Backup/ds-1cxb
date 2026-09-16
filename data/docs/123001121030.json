@@ -1,0 +1,18 @@
+{
+ "ref": "123001121030",
+ "refDisplay": "1230 01 121030",
+ "title": "VILEBREQUIN",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,905L OU GAZOLE ET 1,769L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0005"
+  }
+ ]
+}

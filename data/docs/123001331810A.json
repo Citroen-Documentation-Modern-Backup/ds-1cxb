@@ -1,0 +1,18 @@
+{
+ "ref": "123001331810A",
+ "refDisplay": "1230 01 331810A",
+ "title": "BOITE TRANSFERT-DETAILS",
+ "nature": "",
+ "applicability": "4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0020"
+  }
+ ]
+}

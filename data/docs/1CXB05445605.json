@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB05445605",
+ "refDisplay": "1CXB 0 544 5605",
+ "title": "FAISCEAU D’ALIMENTATION DE BATTERIEA ANTIPARASITAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0350"
+  }
+ ]
+}

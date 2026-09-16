@@ -1,0 +1,18 @@
+{
+ "ref": "123002532513T",
+ "refDisplay": "1230 02 532513T",
+ "title": "ALTERNATEUR - DETAILS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

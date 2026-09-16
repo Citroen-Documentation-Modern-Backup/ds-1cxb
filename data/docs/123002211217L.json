@@ -1,0 +1,18 @@
+{
+ "ref": "123002211217L",
+ "refDisplay": "1230 02 211217L",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "1,580L ET CARBURATEUR DEPUIS OPR 04158",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

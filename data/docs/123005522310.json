@@ -1,0 +1,18 @@
+{
+ "ref": "123005522310",
+ "refDisplay": "1230 05 522310",
+ "title": "ACCESSOIRES DE TABLEAU DE BORD",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0212"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123005501001",
+ "refDisplay": "1230 05 501001",
+ "title": "FAISCEAU AVANT",
+ "nature": "",
+ "applicability": "PROJECTEURS ANTI BROUILLARD",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

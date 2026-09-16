@@ -1,0 +1,18 @@
+{
+ "ref": "123001114020",
+ "refDisplay": "1230 01 114020",
+ "title": "CARTER MOTEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,580L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0004"
+  }
+ ]
+}

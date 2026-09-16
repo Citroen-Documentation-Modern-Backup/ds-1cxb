@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB02732357",
+ "refDisplay": "1CXB 0 273 2357",
+ "title": "CORRECTEUR DE HAUTEUR AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

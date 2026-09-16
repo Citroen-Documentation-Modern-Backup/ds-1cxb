@@ -1,0 +1,18 @@
+{
+ "ref": "123003416220",
+ "refDisplay": "1230 03 416220",
+ "title": "ENJOLIVEURS DE ROUES",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET 1,905L JUSQU’A OPR 04740",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0023"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123006235312",
+ "refDisplay": "1230 06 235312",
+ "title": "CANALISATION D’EAU REGULATEUR",
+ "nature": "",
+ "applicability": "1,580L ET INJECTION ET (D) ALLEMAGNE ET (NL) PAYS BAS ET (S) SUEDE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

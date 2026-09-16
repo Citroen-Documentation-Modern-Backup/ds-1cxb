@@ -1,0 +1,18 @@
+{
+ "ref": "123001112010A",
+ "refDisplay": "1230 01 112010A",
+ "title": "CULASSE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET (I) ITALIE ET (GR) GRECE DEPUIS OPR 04193",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0006"
+  }
+ ]
+}

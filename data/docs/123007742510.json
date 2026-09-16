@@ -1,0 +1,23 @@
+{
+ "ref": "123007742510",
+ "refDisplay": "1230 07 742510",
+ "title": "TABLIER",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0106"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0107"
+  }
+ ]
+}

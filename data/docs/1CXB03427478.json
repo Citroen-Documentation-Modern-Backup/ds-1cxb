@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB03427478",
+ "refDisplay": "1CXB 0 342 7478",
+ "title": "LONGERON PARTIE AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0127"
+  }
+ ]
+}

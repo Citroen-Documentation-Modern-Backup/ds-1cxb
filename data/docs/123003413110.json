@@ -1,0 +1,18 @@
+{
+ "ref": "123003413110",
+ "refDisplay": "1230 03 413110",
+ "title": "PIVOTS AVANT - MOYEUX",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0026"
+  }
+ ]
+}

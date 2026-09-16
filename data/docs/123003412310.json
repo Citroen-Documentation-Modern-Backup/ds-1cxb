@@ -1,0 +1,18 @@
+{
+ "ref": "123003412310",
+ "refDisplay": "1230 03 412310",
+ "title": "BRAS AVANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0026"
+  }
+ ]
+}

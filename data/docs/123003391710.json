@@ -1,0 +1,18 @@
+{
+ "ref": "123003391710",
+ "refDisplay": "1230 03 391710",
+ "title": "CONJONCTEUR - SUPPORTS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

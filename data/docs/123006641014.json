@@ -1,0 +1,18 @@
+{
+ "ref": "123006641014",
+ "refDisplay": "1230 06 641014",
+ "title": "CLIMATISATION COMPRESSEUR CONDENSEUR",
+ "nature": "",
+ "applicability": "1,905L ET CARBURATEUR ET INJ MONOPOINT ET 4 ROUES MOTRICES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

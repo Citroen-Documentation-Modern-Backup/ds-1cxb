@@ -1,0 +1,18 @@
+{
+ "ref": "123005564110",
+ "refDisplay": "1230 05 564110",
+ "title": "LAVE VITRE AVANT - ARRIERE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0321"
+  }
+ ]
+}

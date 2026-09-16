@@ -1,0 +1,18 @@
+{
+ "ref": "123002322010M",
+ "refDisplay": "1230 02 322010M",
+ "title": "EMBRAYAGE AUTOMATIQUE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,905L ET INJECTION ET (J) JAPON ET 19 TRI",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

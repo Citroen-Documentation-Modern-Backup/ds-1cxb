@@ -1,0 +1,18 @@
+{
+ "ref": "123005501202",
+ "refDisplay": "1230 05 501202",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "1,124L ET (I) ITALIE ET (GR) GRECE ET 1,360L DEPUIS OPR 04193",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123002212012L",
+ "refDisplay": "1230 02 212012L",
+ "title": "BOBINE BOUGIE FAISCEAU D’ALLUMAGE",
+ "nature": "",
+ "applicability": "1,580L ET INJ MONOPOINT DEPUIS OPR 05285",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

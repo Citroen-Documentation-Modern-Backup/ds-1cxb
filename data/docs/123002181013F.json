@@ -1,0 +1,18 @@
+{
+ "ref": "123002181013F",
+ "refDisplay": "1230 02 181013F",
+ "title": "TUBULURE D’ECHAPPEMENT",
+ "nature": "",
+ "applicability": "ESSENCE ET 16 RE ET 1,580L ET INJECTION ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

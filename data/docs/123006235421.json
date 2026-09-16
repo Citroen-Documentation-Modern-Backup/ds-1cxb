@@ -1,0 +1,18 @@
+{
+ "ref": "123006235421",
+ "refDisplay": "1230 06 235421",
+ "title": "CANALISATION D’EAU - FIXATION",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,905L JUSQU’A OPR 03795",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

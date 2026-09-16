@@ -1,0 +1,18 @@
+{
+ "ref": "123002211224",
+ "refDisplay": "1230 02 211224",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "1,905L ET INJECTION ET (XT) EXPORT JUSQU’A OPR 04227",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

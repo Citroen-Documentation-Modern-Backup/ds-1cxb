@@ -1,0 +1,18 @@
+{
+ "ref": "123002171004",
+ "refDisplay": "1230 02 171004",
+ "title": "FILTRE A AIR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET (CH) SUISSE JUSQU’A OPR 04192",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123001114726A",
+ "refDisplay": "1230 01 114726A",
+ "title": "CARTER D’HUILE",
+ "nature": "",
+ "applicability": "ESSENCE ET XU5 ET XU9 ET REFRIGERATION DEPUIS OPR 06141",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0005"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123008941010",
+ "refDisplay": "1230 08 941010",
+ "title": "REPOSE TETE AVANT",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 04130",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

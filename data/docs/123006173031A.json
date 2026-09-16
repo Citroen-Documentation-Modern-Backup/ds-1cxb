@@ -1,0 +1,18 @@
+{
+ "ref": "123006173031A",
+ "refDisplay": "1230 06 173031A",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,905L ET CARBURATEUR ET 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

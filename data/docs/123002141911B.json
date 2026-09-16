@@ -1,0 +1,18 @@
+{
+ "ref": "123002141911B",
+ "refDisplay": "1230 02 141911B",
+ "title": "COMMANDE D’ACCELERATEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L DEPUIS OPR 05440",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

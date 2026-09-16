@@ -1,0 +1,18 @@
+{
+ "ref": "123008979602",
+ "refDisplay": "1230 08 979602",
+ "title": "GARNITURES INTERIEURES",
+ "nature": "",
+ "applicability": " DEPUIS OPR 04131",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

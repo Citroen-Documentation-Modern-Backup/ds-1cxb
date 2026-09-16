@@ -1,0 +1,18 @@
+{
+ "ref": "123002211820",
+ "refDisplay": "1230 02 211820",
+ "title": "DISTRIBUTEUR D’ALLUMAGE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,905L ET INJECTION ET (XT) EXPORT DEPUIS OPR 04228",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

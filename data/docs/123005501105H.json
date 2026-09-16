@@ -1,0 +1,18 @@
+{
+ "ref": "123005501105H",
+ "refDisplay": "1230 05 501105H",
+ "title": "FAISCEAU AVANT PRINCIPAL",
+ "nature": "",
+ "applicability": "1,360L ET 1,580L ET (CH) SUISSE ET (A) AUTRICHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

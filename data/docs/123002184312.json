@@ -1,0 +1,18 @@
+{
+ "ref": "123002184312",
+ "refDisplay": "1230 02 184312",
+ "title": "CIRCUIT ANTI POLLUTION",
+ "nature": "",
+ "applicability": "1,580L ET INJECTION ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

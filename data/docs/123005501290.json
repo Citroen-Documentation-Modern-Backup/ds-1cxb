@@ -1,0 +1,18 @@
+{
+ "ref": "123005501290",
+ "refDisplay": "1230 05 501290",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "INJECTION ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

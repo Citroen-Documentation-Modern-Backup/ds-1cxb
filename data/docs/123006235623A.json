@@ -1,0 +1,18 @@
+{
+ "ref": "123006235623A",
+ "refDisplay": "1230 06 235623A",
+ "title": "BOITIER DE SORTIE D’EAU",
+ "nature": "",
+ "applicability": "GAZOLE ET TURBO ECH ET 1,769L DEPUIS OPR 05638",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

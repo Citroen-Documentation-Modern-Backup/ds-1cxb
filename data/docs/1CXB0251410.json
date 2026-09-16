@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB0251410",
+ "refDisplay": "1CXB 0 25 1410",
+ "title": "TUBE C/C ENTRE RACCORD 3V-RENIFLARD",
+ "nature": "",
+ "applicability": "(BI16) BX BERLINE 5PTES 1,905L",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

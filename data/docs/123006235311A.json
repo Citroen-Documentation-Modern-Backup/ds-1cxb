@@ -1,0 +1,18 @@
+{
+ "ref": "123006235311A",
+ "refDisplay": "1230 06 235311A",
+ "title": "CANALISATION D’EAU REGULATEUR",
+ "nature": "",
+ "applicability": "CARBURATEUR ET 1,580L DEPUIS OPR 05138",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123004371135",
+ "refDisplay": "1230 04 371135",
+ "title": "TRANSMISSION",
+ "nature": "",
+ "applicability": "1,905L ET 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0022"
+  }
+ ]
+}

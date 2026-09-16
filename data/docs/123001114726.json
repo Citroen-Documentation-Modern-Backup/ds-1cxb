@@ -1,0 +1,18 @@
+{
+ "ref": "123001114726",
+ "refDisplay": "1230 01 114726",
+ "title": "CARTER D’HUILE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,580L ET 1,905L ET CLIMATISEUR JUSQU’A OPR 06040",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0005"
+  }
+ ]
+}

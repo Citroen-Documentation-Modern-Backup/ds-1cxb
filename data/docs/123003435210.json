@@ -1,0 +1,18 @@
+{
+ "ref": "123003435210",
+ "refDisplay": "1230 03 435210",
+ "title": "BARRE ANTI DEVERS - BIELLETTE",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 03856",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0029"
+  }
+ ]
+}

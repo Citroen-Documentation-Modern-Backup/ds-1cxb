@@ -1,0 +1,23 @@
+{
+ "ref": "123005544013",
+ "refDisplay": "1230 05 544013",
+ "title": "ECLAIRAGE ARRIERE",
+ "nature": "",
+ "applicability": "BREAK",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0203"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0314"
+  }
+ ]
+}

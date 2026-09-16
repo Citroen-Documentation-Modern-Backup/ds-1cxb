@@ -1,0 +1,18 @@
+{
+ "ref": "123005544010A",
+ "refDisplay": "1230 05 544010A",
+ "title": "ECLAIRAGE ARRIERE",
+ "nature": "",
+ "applicability": "BERLINE ET (AUS) AUSTRALIE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0314"
+  }
+ ]
+}

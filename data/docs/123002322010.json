@@ -1,0 +1,18 @@
+{
+ "ref": "123002322010",
+ "refDisplay": "1230 02 322010",
+ "title": "EMBRAYAGE AUTOMATIQUE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,580L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

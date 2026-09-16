@@ -1,0 +1,23 @@
+{
+ "ref": "123004455510",
+ "refDisplay": "1230 04 455510",
+ "title": "COMMANDE DE FREIN PARKING",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0046"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0351"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123001330021A",
+ "refDisplay": "1230 01 330021A",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,580L ET BVM DEPUIS OPR 04530",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

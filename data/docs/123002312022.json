@@ -1,0 +1,18 @@
+{
+ "ref": "123002312022",
+ "refDisplay": "1230 02 312022",
+ "title": "EMBRAYAGE",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,905L ET 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

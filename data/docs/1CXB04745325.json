@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB04745325",
+ "refDisplay": "1CXB 0 474 5325",
+ "title": "MOTO REDUCTEUR DE TOIT OUVRANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0149"
+  }
+ ]
+}

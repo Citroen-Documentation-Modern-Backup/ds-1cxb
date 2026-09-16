@@ -1,0 +1,18 @@
+{
+ "ref": "123003434610",
+ "refDisplay": "1230 03 434610",
+ "title": "CYLINDRE DE SUSPENSION - DETAILS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0027"
+  }
+ ]
+}

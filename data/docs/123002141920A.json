@@ -1,0 +1,18 @@
+{
+ "ref": "123002141920A",
+ "refDisplay": "1230 02 141920A",
+ "title": "COMMANDE D’ACCELERATEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L DEPUIS OPR 03797",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

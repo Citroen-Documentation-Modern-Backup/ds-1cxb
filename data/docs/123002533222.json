@@ -1,0 +1,18 @@
+{
+ "ref": "123002533222",
+ "refDisplay": "1230 02 533222",
+ "title": "DEMARREUR - DETAILS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0302"
+  }
+ ]
+}

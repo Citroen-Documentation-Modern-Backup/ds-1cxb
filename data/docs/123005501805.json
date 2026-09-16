@@ -1,0 +1,18 @@
+{
+ "ref": "123005501805",
+ "refDisplay": "1230 05 501805",
+ "title": "FAISCEAU PLANCHE DE BORD ET CONSOLE",
+ "nature": "",
+ "applicability": "GTI",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

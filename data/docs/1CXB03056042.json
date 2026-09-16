@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB03056042",
+ "refDisplay": "1CXB 0 305 6042",
+ "title": "BANDE ADHESIVE D’AILE AV 1 COTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0104"
+  }
+ ]
+}

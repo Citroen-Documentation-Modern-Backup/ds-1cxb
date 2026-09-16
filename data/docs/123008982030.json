@@ -1,0 +1,18 @@
+{
+ "ref": "123008982030",
+ "refDisplay": "1230 08 982030",
+ "title": "GARNITURE DE PAVILLON",
+ "nature": "",
+ "applicability": " SAUF TOIT OUVRANT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0235"
+  }
+ ]
+}

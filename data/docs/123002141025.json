@@ -1,0 +1,18 @@
+{
+ "ref": "123002141025",
+ "refDisplay": "1230 02 141025",
+ "title": "COLLECTEUR ADMISSION",
+ "nature": "",
+ "applicability": "1,769L ET GAZOLE ET TURBO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

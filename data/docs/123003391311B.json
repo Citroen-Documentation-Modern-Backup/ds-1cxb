@@ -1,0 +1,18 @@
+{
+ "ref": "123003391311B",
+ "refDisplay": "1230 03 391311B",
+ "title": "POMPE HP-SUPPORT-TENDEUR-FIXATION",
+ "nature": "",
+ "applicability": "1,360L DEPUIS OPR 05410",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123006173034A",
+ "refDisplay": "1230 06 173034A",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": "1,905L ET INJ MONOPOINT ET (XT) EXPORT ET 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

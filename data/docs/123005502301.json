@@ -1,0 +1,18 @@
+{
+ "ref": "123005502301",
+ "refDisplay": "1230 05 502301",
+ "title": "FAISCEAU PORTES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

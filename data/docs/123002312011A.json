@@ -1,0 +1,18 @@
+{
+ "ref": "123002312011A",
+ "refDisplay": "1230 02 312011A",
+ "title": "EMBRAYAGE",
+ "nature": "",
+ "applicability": "ESSENCE ET MA DEPUIS OPR 04193",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

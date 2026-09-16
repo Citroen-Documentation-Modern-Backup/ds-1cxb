@@ -1,0 +1,18 @@
+{
+ "ref": "123005501252",
+ "refDisplay": "1230 05 501252",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "1,905L ET GAZOLE ET BVA",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

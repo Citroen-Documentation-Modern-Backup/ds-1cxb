@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB04146533",
+ "refDisplay": "1CXB 0 414 6533",
+ "title": "CENDRIER AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0216"
+  }
+ ]
+}

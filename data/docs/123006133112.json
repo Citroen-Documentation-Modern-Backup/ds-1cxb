@@ -1,0 +1,18 @@
+{
+ "ref": "123006133112",
+ "refDisplay": "1230 06 133112",
+ "title": "SUSPENSION MOTEUR - BV - FIXATION",
+ "nature": "",
+ "applicability": "GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

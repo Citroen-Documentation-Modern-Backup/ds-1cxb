@@ -1,0 +1,18 @@
+{
+ "ref": "123002532425",
+ "refDisplay": "1230 02 532425",
+ "title": "ALTERNATEUR - FIXATION COURROIE",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,905L ET POMPE 6+2 + ANTI-AFFAISSEMENT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

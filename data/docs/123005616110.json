@@ -1,0 +1,18 @@
+{
+ "ref": "123005616110",
+ "refDisplay": "1230 05 616110",
+ "title": "APPAREILLAGE ELECTRONIQUE SOUS CAPOT",
+ "nature": "",
+ "applicability": " SAUF (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0942"
+  }
+ ]
+}

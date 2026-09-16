@@ -1,0 +1,28 @@
+{
+ "ref": "123007854201",
+ "refDisplay": "1230 07 854201",
+ "title": "DECORS ADHESIFS",
+ "nature": "",
+ "applicability": "19 TRS ET 19 TRD ET ATHENA ET (E) ESPAGNE JUSQU’A OPR 04771",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0236"
+  }
+ ]
+}

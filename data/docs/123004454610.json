@@ -1,0 +1,18 @@
+{
+ "ref": "123004454610",
+ "refDisplay": "1230 04 454610",
+ "title": "FREIN - CALCULATEUR - RELAIS - SUPPORT",
+ "nature": "",
+ "applicability": "ANTI-BLOCAGE ROUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0340"
+  }
+ ]
+}

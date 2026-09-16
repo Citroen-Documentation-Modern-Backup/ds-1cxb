@@ -1,0 +1,18 @@
+{
+ "ref": "123006235314",
+ "refDisplay": "1230 06 235314",
+ "title": "CANALISATION D’EAU REGULATEUR",
+ "nature": "",
+ "applicability": "GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

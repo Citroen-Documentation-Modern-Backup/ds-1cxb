@@ -1,0 +1,28 @@
+{
+ "ref": "123007854110A",
+ "refDisplay": "1230 07 854110A",
+ "title": "ENJOLIVEMENT EXTERIEUR POIGNEE MONTOIRE",
+ "nature": "",
+ "applicability": " DEPUIS OPR 04755",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0236"
+  }
+ ]
+}

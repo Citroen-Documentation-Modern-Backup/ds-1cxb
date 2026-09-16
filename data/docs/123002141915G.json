@@ -1,0 +1,18 @@
+{
+ "ref": "123002141915G",
+ "refDisplay": "1230 02 141915G",
+ "title": "COMMANDE D’ACCELERATEUR",
+ "nature": "",
+ "applicability": "1,905L ET CARBURATEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

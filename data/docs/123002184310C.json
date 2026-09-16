@@ -1,0 +1,18 @@
+{
+ "ref": "123002184310C",
+ "refDisplay": "1230 02 184310C",
+ "title": "CIRCUIT ANTI POLLUTION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET (D) ALLEMAGNE ET (NL) PAYS BAS DEPUIS OPR 04316 JUSQU’A OPR 05439",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "123008934710",
+ "refDisplay": "1230 08 934710",
+ "title": "BANQUETTE 2/3-1/3 - ARMATURE-MATELASSURE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0230"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

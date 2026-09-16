@@ -1,0 +1,18 @@
+{
+ "ref": "123006173416",
+ "refDisplay": "1230 06 173416",
+ "title": "FIXATION POMPE ET CANALISATIONS ESSENCE",
+ "nature": "",
+ "applicability": "1,360L ET INJ MONOPOINT ET (CH) SUISSE ET (S) SUEDE ET (A) AUTRICHE JUSQU’A OPR 05565",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

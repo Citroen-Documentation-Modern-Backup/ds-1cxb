@@ -1,0 +1,18 @@
+{
+ "ref": "123006175314",
+ "refDisplay": "1230 06 175314",
+ "title": "ANTI-POLLUTION (RESERVOIR ESSENCE)",
+ "nature": "",
+ "applicability": "ESSENCE ET (TW) TAIWAN",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

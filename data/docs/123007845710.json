@@ -1,0 +1,18 @@
+{
+ "ref": "123007845710",
+ "refDisplay": "1230 07 845710",
+ "title": "BECQUET DE PORTE DE COFFRE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0117"
+  }
+ ]
+}

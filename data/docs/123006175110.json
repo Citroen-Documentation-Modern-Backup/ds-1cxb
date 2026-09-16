@@ -1,0 +1,18 @@
+{
+ "ref": "123006175110",
+ "refDisplay": "1230 06 175110",
+ "title": "TUBULURE DE REMPLISSAGE RESERVOIR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

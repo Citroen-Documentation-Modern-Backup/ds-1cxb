@@ -1,0 +1,18 @@
+{
+ "ref": "123002211216B",
+ "refDisplay": "1230 02 211216B",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "15 TGE DEPUIS OPR 04924",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

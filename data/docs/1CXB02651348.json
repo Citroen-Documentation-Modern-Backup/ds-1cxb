@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB02651348",
+ "refDisplay": "1CXB 0 265 1348",
+ "title": "INDICATEUR DE NIVEAU",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

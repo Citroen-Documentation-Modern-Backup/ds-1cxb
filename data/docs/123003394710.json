@@ -1,0 +1,18 @@
+{
+ "ref": "123003394710",
+ "refDisplay": "1230 03 394710",
+ "title": "CANALISATIONS - GAINES ET COLLIERS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

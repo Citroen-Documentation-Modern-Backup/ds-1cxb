@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB03515328",
+ "refDisplay": "1CXB 0 351 5328",
+ "title": "ACTIONNEURS DE VERROUILLAGE PORTES AV 2 COTES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0134"
+  }
+ ]
+}

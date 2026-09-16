@@ -1,0 +1,18 @@
+{
+ "ref": "123003394210",
+ "refDisplay": "1230 03 394210",
+ "title": "CANALISATIONS ALIMENTATION FREIN",
+ "nature": "",
+ "applicability": "DIRECTION NON ASSISTEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

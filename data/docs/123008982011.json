@@ -1,0 +1,23 @@
+{
+ "ref": "123008982011",
+ "refDisplay": "1230 08 982011",
+ "title": "GARNITURE DE PAVILLON",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 04130",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0235"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB05285430",
+ "refDisplay": "1CXB 0 528 5430",
+ "title": "FAISCEAU ECLAIRAGE PLAQUE POLICE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0310"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123001334460A",
+ "refDisplay": "1230 01 334460A",
+ "title": "LIGNE SECONDAIRE",
+ "nature": "",
+ "applicability": "19 GTI DEPUIS OPR 04530",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123005523010",
+ "refDisplay": "1230 05 523010",
+ "title": "ACCESSOIRES TABLEAU DE BORD ET CONSOLE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0216"
+  }
+ ]
+}

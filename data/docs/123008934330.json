@@ -1,0 +1,23 @@
+{
+ "ref": "123008934330",
+ "refDisplay": "1230 08 934330",
+ "title": "BANQUETTE ARRIERE - ARMATURE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0230"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

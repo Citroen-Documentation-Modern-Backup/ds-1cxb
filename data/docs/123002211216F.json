@@ -1,0 +1,18 @@
+{
+ "ref": "123002211216F",
+ "refDisplay": "1230 02 211216F",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "15 RE ET 15 TGE JUSQU’A OPR 04710",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

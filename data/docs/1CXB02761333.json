@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB02761333",
+ "refDisplay": "1CXB 0 276 1333",
+ "title": "REGULATEUR DE DEBIT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0339"
+  }
+ ]
+}

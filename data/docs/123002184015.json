@@ -1,0 +1,18 @@
+{
+ "ref": "123002184015",
+ "refDisplay": "1230 02 184015",
+ "title": "ANTI POLLUTION-CIRCUIT DEPRESSION",
+ "nature": "",
+ "applicability": "1,905L ET CARBURATEUR ET (D) ALLEMAGNE DEPUIS OPR 03887",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

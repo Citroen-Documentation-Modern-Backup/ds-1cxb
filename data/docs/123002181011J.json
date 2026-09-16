@@ -1,0 +1,18 @@
+{
+ "ref": "123002181011J",
+ "refDisplay": "1230 02 181011J",
+ "title": "TUBULURE D’ECHAPPEMENT",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,905L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

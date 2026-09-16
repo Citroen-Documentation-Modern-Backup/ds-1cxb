@@ -1,0 +1,18 @@
+{
+ "ref": "123002171019C",
+ "refDisplay": "1230 02 171019C",
+ "title": "FILTRE A AIR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,905L ET INJECTION ET (XT) EXPORT DEPUIS OPR 04228",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

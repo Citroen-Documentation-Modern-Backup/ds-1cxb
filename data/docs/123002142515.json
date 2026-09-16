@@ -1,0 +1,18 @@
+{
+ "ref": "123002142515",
+ "refDisplay": "1230 02 142515",
+ "title": "CIRCUIT DE DEPRESSION DE RALENTI",
+ "nature": "",
+ "applicability": "1,580L ET INJECTION ET BVM ET CLIMATISEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

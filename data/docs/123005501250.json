@@ -1,0 +1,18 @@
+{
+ "ref": "123005501250",
+ "refDisplay": "1230 05 501250",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "1,769L ET GAZOLE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

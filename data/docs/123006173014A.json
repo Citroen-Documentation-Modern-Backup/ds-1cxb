@@ -1,0 +1,18 @@
+{
+ "ref": "123006173014A",
+ "refDisplay": "1230 06 173014A",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": "1,360L ET INJ MONOPOINT ET (CH) SUISSE ET (S) SUEDE ET (A) AUTRICHE DEPUIS OPR 05566",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

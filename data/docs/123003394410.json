@@ -1,0 +1,18 @@
+{
+ "ref": "123003394410",
+ "refDisplay": "1230 03 394410",
+ "title": "CANALISATIONS RETOUR",
+ "nature": "",
+ "applicability": "DIRECTION NON ASSISTEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

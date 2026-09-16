@@ -1,0 +1,18 @@
+{
+ "ref": "123003394212A",
+ "refDisplay": "1230 03 394212A",
+ "title": "CANALISATIONS ALIMENTATION FREIN",
+ "nature": "",
+ "applicability": "ANTI-BLOCAGE ROUE DEPUIS OPR 03887 SAUF TURBO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

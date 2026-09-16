@@ -1,0 +1,18 @@
+{
+ "ref": "123002171013A",
+ "refDisplay": "1230 02 171013A",
+ "title": "FILTRE A AIR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,580L ET INJ MONOPOINT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

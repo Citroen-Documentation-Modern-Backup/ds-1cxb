@@ -1,0 +1,18 @@
+{
+ "ref": "123005541110",
+ "refDisplay": "1230 05 541110",
+ "title": "ECLAIRAGE AVANT - ANTI-BROUILLARD",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0203"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123004351020",
+ "refDisplay": "1230 04 351020",
+ "title": "TRANSMISSION ARRIERE - DETAILS",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,905L ET 4X4 DEPUIS OPR 06050",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0022"
+  }
+ ]
+}

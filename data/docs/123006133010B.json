@@ -1,0 +1,18 @@
+{
+ "ref": "123006133010B",
+ "refDisplay": "1230 06 133010B",
+ "title": "SUSPENSION MOTEUR - BOITE DE VITESSES",
+ "nature": "",
+ "applicability": "1,360L ET INJ MONOPOINT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

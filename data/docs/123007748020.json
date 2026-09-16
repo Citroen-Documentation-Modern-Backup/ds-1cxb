@@ -1,0 +1,18 @@
+{
+ "ref": "123007748020",
+ "refDisplay": "1230 07 748020",
+ "title": "PLANCHER DE CHARGE CLOISON DE SEPARATION",
+ "nature": "",
+ "applicability": "BREAK ENTREPRIS 3PTS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  }
+ ]
+}

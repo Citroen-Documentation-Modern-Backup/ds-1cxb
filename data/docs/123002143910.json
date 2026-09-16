@@ -1,0 +1,18 @@
+{
+ "ref": "123002143910",
+ "refDisplay": "1230 02 143910",
+ "title": "CORPS D’INJECTION MONOPOINT",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET INJ MONOPOINT ET (XT) EXPORT JUSQU’A OPR 04347",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123007744110",
+ "refDisplay": "1230 07 744110",
+ "title": "PLANCHER ET PANNEAU ARRIERE",
+ "nature": "",
+ "applicability": "BERLINE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  }
+ ]
+}

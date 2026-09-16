@@ -1,0 +1,18 @@
+{
+ "ref": "123002211218F",
+ "refDisplay": "1230 02 211218F",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "1,580L ET CARBURATEUR ET (CH) SUISSE ET (A) AUTRICHE ET (S) SUEDE DEPUIS OPR 03887",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB01532330",
+ "refDisplay": "1CXB 0 153 2330",
+ "title": "BIELLETTE BARRE ANTI DEVERS 1 COTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0029"
+  }
+ ]
+}

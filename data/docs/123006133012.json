@@ -1,0 +1,18 @@
+{
+ "ref": "123006133012",
+ "refDisplay": "1230 06 133012",
+ "title": "SUSPENSION MOTEUR - BOITE DE VITESSES",
+ "nature": "",
+ "applicability": "CARBURATEUR ET 1,580L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

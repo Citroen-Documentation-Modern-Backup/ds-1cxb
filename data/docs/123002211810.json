@@ -1,0 +1,18 @@
+{
+ "ref": "123002211810",
+ "refDisplay": "1230 02 211810",
+ "title": "DISTRIBUTEUR D’ALLUMAGE",
+ "nature": "",
+ "applicability": "GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

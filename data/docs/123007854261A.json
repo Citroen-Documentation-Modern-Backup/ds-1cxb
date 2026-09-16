@@ -1,0 +1,28 @@
+{
+ "ref": "123007854261A",
+ "refDisplay": "1230 07 854261A",
+ "title": "DECORS ADHESIFS",
+ "nature": "",
+ "applicability": "IMAGE ET BREAK 5PTES DEPUIS DATE 19910401",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0236"
+  }
+ ]
+}

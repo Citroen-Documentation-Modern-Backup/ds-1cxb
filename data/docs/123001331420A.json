@@ -1,0 +1,18 @@
+{
+ "ref": "123001331420A",
+ "refDisplay": "1230 01 331420A",
+ "title": "CARTER BOITE DE VITESSES - FIXATION",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET 1,905L ET TURBO DEPUIS OPR 04530",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

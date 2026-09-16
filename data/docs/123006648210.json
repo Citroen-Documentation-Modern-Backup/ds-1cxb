@@ -1,0 +1,18 @@
+{
+ "ref": "123006648210",
+ "refDisplay": "1230 06 648210",
+ "title": "CONDUIT BOITIER AERATEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0215"
+  }
+ ]
+}

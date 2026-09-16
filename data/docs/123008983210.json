@@ -1,0 +1,18 @@
+{
+ "ref": "123008983210",
+ "refDisplay": "1230 08 983210",
+ "title": "PANNEAUX DE PORTE AVANT - FINITION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0135"
+  }
+ ]
+}

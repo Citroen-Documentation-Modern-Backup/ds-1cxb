@@ -1,0 +1,18 @@
+{
+ "ref": "123002171019",
+ "refDisplay": "1230 02 171019",
+ "title": "FILTRE A AIR",
+ "nature": "",
+ "applicability": "1,905L ET INJECTION DEPUIS OPR 04924",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123006642312",
+ "refDisplay": "1230 06 642312",
+ "title": "GROUPE DE CHAUFFAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

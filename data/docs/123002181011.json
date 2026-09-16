@@ -1,0 +1,18 @@
+{
+ "ref": "123002181011",
+ "refDisplay": "1230 02 181011",
+ "title": "TUBULURE D’ECHAPPEMENT",
+ "nature": "",
+ "applicability": "ESSENCE ET 15 RE ET 15 TGE SAUF (D) ALLEMAGNE SAUF (NL) PAYS BAS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

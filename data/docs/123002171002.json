@@ -1,0 +1,18 @@
+{
+ "ref": "123002171002",
+ "refDisplay": "1230 02 171002",
+ "title": "FILTRE A AIR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L JUSQU’A OPR 04205",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

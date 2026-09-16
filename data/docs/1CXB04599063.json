@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB04599063",
+ "refDisplay": "1CXB 0 459 9063",
+ "title": "GARNITURE DE PANNEAU AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0234"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123002211221",
+ "refDisplay": "1230 02 211221",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "1,905L ET CARBURATEUR ET (D) ALLEMAGNE ET (A) AUTRICHE ET (NL) PAYS BAS JUSQU’A OPR 04922",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123003393010",
+ "refDisplay": "1230 03 393010",
+ "title": "RESERVOIR HYDRAULIQUE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

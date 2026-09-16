@@ -1,0 +1,18 @@
+{
+ "ref": "123005502405",
+ "refDisplay": "1230 05 502405",
+ "title": "FAISCEAU INTERMEDIAIRE AVANT - ARRIERE",
+ "nature": "",
+ "applicability": "GTI ET GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

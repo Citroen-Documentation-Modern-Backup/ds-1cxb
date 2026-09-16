@@ -1,0 +1,18 @@
+{
+ "ref": "123002212015D",
+ "refDisplay": "1230 02 212015D",
+ "title": "BOBINE BOUGIE FAISCEAU D’ALLUMAGE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,905L ET INJECTION ET (J) JAPON ET 19 TRI DEPUIS OPR 04680",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

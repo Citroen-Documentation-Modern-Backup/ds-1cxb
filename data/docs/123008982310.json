@@ -1,0 +1,18 @@
+{
+ "ref": "123008982310",
+ "refDisplay": "1230 08 982310",
+ "title": "TABLETTE ARRIERE - STORE - PARE SOLEIL",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0240"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123002211215",
+ "refDisplay": "1230 02 211215",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET BVM5 4X2 JUSQU’A OPR 04192",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

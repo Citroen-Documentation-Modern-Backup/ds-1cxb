@@ -1,0 +1,18 @@
+{
+ "ref": "123006133020",
+ "refDisplay": "1230 06 133020",
+ "title": "SUSPENSION MOTEUR - BOITE DE VITESSES",
+ "nature": "",
+ "applicability": "GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

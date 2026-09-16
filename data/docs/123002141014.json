@@ -1,0 +1,18 @@
+{
+ "ref": "123002141014",
+ "refDisplay": "1230 02 141014",
+ "title": "COLLECTEUR ADMISSION",
+ "nature": "",
+ "applicability": "1,905L ET CARBURATEUR JUSQU’A OPR 04683",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123002532015B",
+ "refDisplay": "1230 02 532015B",
+ "title": "ALTERNATEUR",
+ "nature": "",
+ "applicability": "DIESEL ET XU",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

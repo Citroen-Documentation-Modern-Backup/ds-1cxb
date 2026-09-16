@@ -1,0 +1,18 @@
+{
+ "ref": "123003391313",
+ "refDisplay": "1230 03 391313",
+ "title": "POMPE HP-SUPPORT-TENDEUR-FIXATION",
+ "nature": "",
+ "applicability": "GTI 16S JUSQU’A OPR 04223",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

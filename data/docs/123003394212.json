@@ -1,0 +1,18 @@
+{
+ "ref": "123003394212",
+ "refDisplay": "1230 03 394212",
+ "title": "CANALISATIONS ALIMENTATION FREIN",
+ "nature": "",
+ "applicability": "ANTI-BLOCAGE ROUE JUSQU’A OPR 03886",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

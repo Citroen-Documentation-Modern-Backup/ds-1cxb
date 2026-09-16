@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB03616521",
+ "refDisplay": "1CXB 0 361 6521",
+ "title": "GACHES DE PORTES AR 2 COTES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0140"
+  }
+ ]
+}

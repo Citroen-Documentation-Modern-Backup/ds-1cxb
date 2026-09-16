@@ -1,0 +1,18 @@
+{
+ "ref": "123006183014",
+ "refDisplay": "1230 06 183014",
+ "title": "ECHAPPEMENT AVANT",
+ "nature": "",
+ "applicability": "1,580L ET INJECTION ET (D) ALLEMAGNE ET (S) SUEDE ET (NL) PAYS BAS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

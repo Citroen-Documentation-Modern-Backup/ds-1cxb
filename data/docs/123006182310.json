@@ -1,0 +1,18 @@
+{
+ "ref": "123006182310",
+ "refDisplay": "1230 06 182310",
+ "title": "ECRAN D’ECHAPPEMENT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

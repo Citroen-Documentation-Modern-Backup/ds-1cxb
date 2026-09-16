@@ -1,0 +1,18 @@
+{
+ "ref": "123006183211A",
+ "refDisplay": "1230 06 183211A",
+ "title": "ECHAPPEMENT AVANT ANTI-POLLUTION",
+ "nature": "",
+ "applicability": "1,360L ET INJ MONOPOINT ET (XT) EXPORT DEPUIS OPR 04329",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

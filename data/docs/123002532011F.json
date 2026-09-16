@@ -1,0 +1,18 @@
+{
+ "ref": "123002532011F",
+ "refDisplay": "1230 02 532011F",
+ "title": "ALTERNATEUR",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 05222",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

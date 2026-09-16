@@ -1,0 +1,18 @@
+{
+ "ref": "123002143412",
+ "refDisplay": "1230 02 143412",
+ "title": "CARBURATEUR",
+ "nature": "",
+ "applicability": "1,360L ET (D) ALLEMAGNE JUSQU’A OPR 04315",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

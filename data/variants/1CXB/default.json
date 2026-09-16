@@ -1,0 +1,8862 @@
+{
+ "ldp": "1CXB",
+ "variant": {
+  "key": "",
+  "selections": {},
+  "label": ""
+ },
+ "domains": [
+  {
+   "id": "FCT0001",
+   "label": "Mécanique",
+   "image": "",
+   "level": 1,
+   "order": 4,
+   "greyed": false,
+   "children": [
+    {
+     "id": "FCT0512",
+     "label": "Moteur",
+     "image": "Fct20091028113400134.jpg",
+     "level": 2,
+     "order": 1,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0049",
+       "label": "Groupe moteur",
+       "image": "Fct20100503165049615.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0004",
+       "label": "Bloc moteur",
+       "image": "Fct20091028155419386.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0005",
+       "label": "Vilebrequin",
+       "image": "Fct20091028112003836.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0006",
+       "label": "Culasse",
+       "image": "Fct20091028155432171.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0007",
+       "label": "Distribution",
+       "image": "Fct20091028112027824.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0008",
+       "label": "Lubrification",
+       "image": "Fct20091028112048497.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0009",
+       "label": "Refroidissement",
+       "image": "Fct20091028112106563.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0010",
+       "label": "Alimentation",
+       "image": "Fct20091210110912149.jpg",
+       "level": 3,
+       "order": 8,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0011",
+       "label": "Échappement",
+       "image": "Fct20091028112125630.jpg",
+       "level": 3,
+       "order": 9,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0012",
+       "label": "Antipollution",
+       "image": "Fct20091210110942269.jpg",
+       "level": 3,
+       "order": 10,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0013",
+       "label": "Allumage",
+       "image": "Fct20091028112144063.jpg",
+       "level": 3,
+       "order": 11,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0014",
+       "label": "Suralimentation",
+       "image": "Fct20091028112202922.jpg",
+       "level": 3,
+       "order": 12,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0015",
+     "label": "Ensemble boîte de vitesses",
+     "image": "Fct20091028112220614.jpg",
+     "level": 2,
+     "order": 2,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0016",
+       "label": "Embrayage",
+       "image": "Fct20091028112239854.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0017",
+       "label": "Boîte de vitesses",
+       "image": "Fct20091028112303709.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0018",
+       "label": "Commande de vitesses",
+       "image": "Fct20091028112322653.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0019",
+     "label": "Transmission",
+     "image": "Fct20091028112339899.jpg",
+     "level": 2,
+     "order": 3,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0020",
+       "label": "Boîte transfert",
+       "image": "Fct20091028112355637.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0021",
+       "label": "Pont arrière",
+       "image": "Fct20091028112410428.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0022",
+       "label": "Transmissions",
+       "image": "Fct20091028112433455.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0023",
+       "label": "Roues",
+       "image": "Fct20091028112449090.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0024",
+       "label": "Pneumatiques",
+       "image": "Fct20091028112504687.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0025",
+     "label": "Ensemble suspension",
+     "image": "Fct20091028112522183.jpg",
+     "level": 2,
+     "order": 4,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0337",
+       "label": "Suspension",
+       "image": "Fct20091210122038993.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0026",
+       "label": "Essieu avant",
+       "image": "Fct20091028112537202.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0027",
+       "label": "Ressorts avant",
+       "image": "Fct20091028112550600.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0028",
+       "label": "Amortisseurs avant",
+       "image": "Fct20091028112605303.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0029",
+       "label": "Barre antidévers avant",
+       "image": "Fct20091028112615696.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0030",
+       "label": "Essieu arrière",
+       "image": "Fct20091028112629003.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0031",
+       "label": "Ressorts arrière",
+       "image": "Fct20091028112655856.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0032",
+       "label": "Amortisseurs arrière",
+       "image": "Fct20091028112709616.jpg",
+       "level": 3,
+       "order": 8,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0033",
+     "label": "Direction",
+     "image": "Fct20091028112722068.jpg",
+     "level": 2,
+     "order": 5,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0034",
+       "label": "Volant et commandes sous volant",
+       "image": "Fct20091028112734261.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0035",
+       "label": "Colonne de direction",
+       "image": "Fct20091028112748762.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0036",
+       "label": "Antivol",
+       "image": "Fct20091028112801620.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0037",
+       "label": "Crémaillère",
+       "image": "Fct20091028112828895.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0339",
+       "label": "Direction assistée",
+       "image": "Fct20091029160043835.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0039",
+     "label": "Freinage",
+     "image": "Fct20091028112851594.jpg",
+     "level": 2,
+     "order": 6,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0040",
+       "label": "Freins avant",
+       "image": "Fct20091028155449136.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0041",
+       "label": "Freins arrière",
+       "image": "Fct20091028155503143.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0042",
+       "label": "Canalisations",
+       "image": "Fct20091028155517268.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0043",
+       "label": "Compensateur",
+       "image": "Fct20091028155527798.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0044",
+       "label": "Assistance de freinage",
+       "image": "Fct20091210111006949.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0045",
+       "label": "Maître-cylindre",
+       "image": "Fct20091028155538270.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0046",
+       "label": "Frein de stationnement",
+       "image": "Fct20091028155548262.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0047",
+       "label": "Pédalier",
+       "image": "Fct20091028155601048.jpg",
+       "level": 3,
+       "order": 8,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0340",
+       "label": "ABS/ASR/ESP",
+       "image": "Fct20091210111238606.jpg",
+       "level": 3,
+       "order": 9,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "FCT0100",
+   "label": "Carrosserie",
+   "image": "",
+   "level": 1,
+   "order": 5,
+   "greyed": false,
+   "children": [
+    {
+     "id": "FCT0101",
+     "label": "Partie avant",
+     "image": "Fct20091028112932572.jpg",
+     "level": 2,
+     "order": 1,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0102",
+       "label": "Pare-chocs avant",
+       "image": "Fct20091028155651155.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0103",
+       "label": "Façade",
+       "image": "Fct20091103083956613.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0104",
+       "label": "Aile avant",
+       "image": "Fct20091028155704849.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0105",
+       "label": "Capot",
+       "image": "Fct20091028155721620.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0106",
+       "label": "Pare-brise",
+       "image": "Fct20091028155737327.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0107",
+       "label": "Traverse",
+       "image": "Fct20091028155749576.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0108",
+       "label": "Calandre",
+       "image": "Fct20091118153301451.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0109",
+       "label": "Berceau",
+       "image": "Fct20091028155806159.jpg",
+       "level": 3,
+       "order": 8,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0110",
+       "label": "Brancard",
+       "image": "Fct20091028155817168.jpg",
+       "level": 3,
+       "order": 9,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0111",
+       "label": "Plancher avant",
+       "image": "Fct20091103084013679.jpg",
+       "level": 3,
+       "order": 10,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0112",
+       "label": "Protection sous caisse",
+       "image": "Fct20091118153314971.jpg",
+       "level": 3,
+       "order": 11,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0113",
+       "label": "Insonorisant",
+       "image": "Fct20091118153328543.jpg",
+       "level": 3,
+       "order": 12,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0114",
+     "label": "Partie arrière",
+     "image": "Fct20091028113000771.jpg",
+     "level": 2,
+     "order": 2,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0115",
+       "label": "Pare-chocs arrière",
+       "image": "Fct20091103084031586.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0116",
+       "label": "Plancher arrière",
+       "image": "Fct20091103084043551.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0148",
+       "label": "Cloison de cabine / séparation arrière",
+       "image": "Fct20091103084247867.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0117",
+       "label": "Volet / porte",
+       "image": "Fct20091103084104656.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0118",
+       "label": "Aile arrière",
+       "image": "Fct20091028155933175.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0119",
+       "label": "Lunette",
+       "image": "Fct20091103084140707.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0120",
+       "label": "Soubassement",
+       "image": "Fct20091210111032045.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0121",
+       "label": "Custode",
+       "image": "Fct20091103084153258.jpg",
+       "level": 3,
+       "order": 8,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0122",
+       "label": "Garniture",
+       "image": "Fct20091210111101884.jpg",
+       "level": 3,
+       "order": 9,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0123",
+       "label": "Serrure",
+       "image": "Fct20091118153346106.jpg",
+       "level": 3,
+       "order": 10,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0124",
+       "label": "Monogramme",
+       "image": "Fct20091118153403703.jpg",
+       "level": 3,
+       "order": 11,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0151",
+       "label": "Attelage de remorque et faisceaux",
+       "image": "Fct20120808145856642.jpg",
+       "level": 3,
+       "order": 12,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0125",
+     "label": "Partie latérale",
+     "image": "Fct20091028113018246.jpg",
+     "level": 2,
+     "order": 3,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0126",
+       "label": "Pied avant",
+       "image": "Fct20091028155953382.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0127",
+       "label": "Bas de caisse",
+       "image": "Fct20091103084206912.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0128",
+       "label": "Pied central",
+       "image": "Fct20091103084230796.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0129",
+       "label": "Panneau de coté",
+       "image": "Fct20091028160011462.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0130",
+       "label": "Vitre latérale fixe",
+       "image": "Fct20091118153417259.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0131",
+     "label": "Portes avant et garnissage",
+     "image": "Fct20091028160038774.jpg",
+     "level": 2,
+     "order": 4,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0132",
+       "label": "Portes avant",
+       "image": "Fct20091028160050238.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0133",
+       "label": "Vitres de porte avant",
+       "image": "Fct20091028160116498.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0134",
+       "label": "Commande de porte avant",
+       "image": "Fct20091028160126215.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0135",
+       "label": "Garnissage de porte avant",
+       "image": "Fct20091028160140466.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0136",
+       "label": "Rétroviseurs",
+       "image": "Fct20091028160151630.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0137",
+     "label": "Portes arrière et garnissage",
+     "image": "Fct20091028160204409.jpg",
+     "level": 2,
+     "order": 5,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0138",
+       "label": "Portes arrière",
+       "image": "Fct20091028160221299.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0139",
+       "label": "Vitres de porte arrière",
+       "image": "Fct20091028160233845.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0140",
+       "label": "Commande de porte arrière",
+       "image": "Fct20091028160304358.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0141",
+       "label": "Garnissage de porte arrière",
+       "image": "Fct20091028160315449.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0142",
+     "label": "Ensemble pavillon et garnissage",
+     "image": "Fct20091028113108857.jpg",
+     "level": 2,
+     "order": 6,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0143",
+       "label": "Pavillon",
+       "image": "Fct20091029154656674.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0144",
+       "label": "Arc de pavillon",
+       "image": "Fct20091029154725013.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0235",
+       "label": "Garnitures de pavillon",
+       "image": "Fct20091029160117471.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0149",
+       "label": "Toit ouvrant/capote",
+       "image": "Fct20100125133305182.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0145",
+     "label": "Caisse",
+     "image": "Fct20091028113124454.jpg",
+     "level": 2,
+     "order": 7,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0146",
+       "label": "Caisse nue",
+       "image": "Fct20091028160327341.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0147",
+       "label": "Obturateurs de caisse",
+       "image": "Fct20091028160337999.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0150",
+       "label": "Plateau-cabine",
+       "image": "Fct20100922141421873.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "FCT0200",
+   "label": "Équipements",
+   "image": "",
+   "level": 1,
+   "order": 6,
+   "greyed": false,
+   "children": [
+    {
+     "id": "FCT0201",
+     "label": "Éclairage - signalisation",
+     "image": "Fct20100223121748499.jpg",
+     "level": 2,
+     "order": 1,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0202",
+       "label": "Éclairage intérieur",
+       "image": "Fct20091118153451850.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0203",
+       "label": "Éclairage extérieur",
+       "image": "Fct20091118153512268.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0314",
+       "label": "Signalisation",
+       "image": "Fct20091118153549609.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0051",
+       "label": "Commandes sous volant",
+       "image": "Fct20100720145703181.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0205",
+     "label": "Lavage et essuyage",
+     "image": "Fct20100223121841352.jpg",
+     "level": 2,
+     "order": 2,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0321",
+       "label": "Lavage",
+       "image": "Fct20091103084914839.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0322",
+       "label": "Essuyage",
+       "image": "Fct20091103084927215.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0051",
+       "label": "Commandes sous volant",
+       "image": "Fct20100720145703181.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0211",
+     "label": "Ensemble planche de bord",
+     "image": "Fct20091028113147033.jpg",
+     "level": 2,
+     "order": 3,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0212",
+       "label": "Planche de bord",
+       "image": "Fct20091029154744775.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0213",
+       "label": "Combiné",
+       "image": "Fct20091028113206072.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0214",
+       "label": "Vide-poches",
+       "image": "Fct20091028113218124.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0215",
+       "label": "Aérateurs",
+       "image": "Fct20091028113230235.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0216",
+       "label": "Façade de la planche de bord",
+       "image": "Fct20091029154804166.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0217",
+     "label": "Ensemble siège avant",
+     "image": "Fct20091029154829215.jpg",
+     "level": 2,
+     "order": 4,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0218",
+       "label": "Sièges avant",
+       "image": "Fct20091029154840941.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0219",
+       "label": "Armature siège avant",
+       "image": "Fct20091029154902397.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0220",
+       "label": "Coiffe de siège avant",
+       "image": "Fct20091029154920081.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0221",
+       "label": "Accoudoir avant",
+       "image": "Fct20091029154942940.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0237",
+       "label": "Ceintures de sécurité avant",
+       "image": "Fct20100407121553446.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0222",
+     "label": "Ensemble siège intermédiaire",
+     "image": "Fct20091028113252624.jpg",
+     "level": 2,
+     "order": 5,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0223",
+       "label": "Sièges intermédiaires",
+       "image": "Fct20091029155158604.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0224",
+       "label": "Armature siège intermédiaire",
+       "image": "Fct20091029155214003.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0225",
+       "label": "Coiffe de siège intermédiaire",
+       "image": "Fct20091029155227169.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0226",
+       "label": "Accoudoir central",
+       "image": "Fct20091029155242207.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0238",
+       "label": "Ceintures de sécurité intermédiaire",
+       "image": "Fct20100407121830853.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0227",
+     "label": "Sièges arrière/banquette",
+     "image": "Fct20091029155304051.jpg",
+     "level": 2,
+     "order": 6,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0228",
+       "label": "Sièges arrière",
+       "image": "Fct20091029155339556.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0229",
+       "label": "Banquette",
+       "image": "Fct20091029155358027.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0230",
+       "label": "Armature siège arrière",
+       "image": "Fct20091029155425855.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0231",
+       "label": "Coiffe de siège arrière",
+       "image": "Fct20091029155446348.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0232",
+       "label": "Accoudoir arrière",
+       "image": "Fct20091029155512730.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0239",
+       "label": "Ceintures de sécurité arrière",
+       "image": "Fct20100407121943761.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0240",
+       "label": "Tablette arrière",
+       "image": "Fct20110221152437766.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0233",
+     "label": "Habillage",
+     "image": "Fct20091029155532041.jpg",
+     "level": 2,
+     "order": 7,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0234",
+       "label": "Garnissage intérieur",
+       "image": "Fct20091029155549875.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0235",
+       "label": "Garnitures de pavillon",
+       "image": "Fct20091029160117471.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0236",
+       "label": "Protections latérales",
+       "image": "Fct20091210120343072.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0240",
+       "label": "Tablette arrière",
+       "image": "Fct20110221152437766.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "FCT0300",
+   "label": "Organes électriques",
+   "image": "",
+   "level": 1,
+   "order": 7,
+   "greyed": false,
+   "children": [
+    {
+     "id": "FCT0700",
+     "label": "Généralités",
+     "image": "Fct20100114093159000.jpg",
+     "level": 2,
+     "order": 1,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0701",
+       "label": "Affectation des fusibles",
+       "image": "Fct20091118153716853.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0703",
+       "label": "Prises / bornes / connecteurs",
+       "image": "Fct20091210111434392.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0704",
+       "label": "Épissures",
+       "image": "Fct20091210111447074.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0705",
+       "label": "Interconnexions",
+       "image": "Fct20091210111500141.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0706",
+       "label": "Implantations",
+       "image": "Fct20091210111512920.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0942",
+       "label": "Boîtiers / platines / coffrets",
+       "image": "Fct20091210111540611.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0946",
+       "label": "Divers",
+       "image": "Fct20091210111553621.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0301",
+     "label": "Électricité moteur",
+     "image": "Fct20091029155622994.jpg",
+     "level": 2,
+     "order": 2,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0302",
+       "label": "Démarrage",
+       "image": "Fct20091103084443272.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0303",
+       "label": "Génération de courant",
+       "image": "Fct20091103084518473.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0304",
+       "label": "Préchauffage",
+       "image": "Fct20091103084549043.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0305",
+       "label": "Batterie",
+       "image": "Fct20091103084601438.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0766",
+       "label": "Batterie de traction",
+       "image": "Fct20100915125530075.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0306",
+     "label": "Faisceaux électriques",
+     "image": "Fct20091103084623468.jpg",
+     "level": 2,
+     "order": 3,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0307",
+       "label": "Connectique",
+       "image": "Fct20091103084641645.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0308",
+       "label": "Faisceaux avant",
+       "image": "Fct20091103084654588.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0309",
+       "label": "Faisceaux centraux",
+       "image": "Fct20091103084707532.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0310",
+       "label": "Faisceaux arrière",
+       "image": "Fct20091103084729708.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0767",
+       "label": "Cable haute tension / 12V",
+       "image": "Fct20100915125846562.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0201",
+     "label": "Éclairage - signalisation",
+     "image": "Fct20100223121748499.jpg",
+     "level": 2,
+     "order": 4,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0202",
+       "label": "Éclairage intérieur",
+       "image": "Fct20091118153451850.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0203",
+       "label": "Éclairage extérieur",
+       "image": "Fct20091118153512268.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0314",
+       "label": "Signalisation",
+       "image": "Fct20091118153549609.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0051",
+       "label": "Commandes sous volant",
+       "image": "Fct20100720145703181.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0516",
+     "label": "Informations conducteur",
+     "image": "Fct20100223121814681.jpg",
+     "level": 2,
+     "order": 5,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0213",
+       "label": "Combiné",
+       "image": "Fct20091028113206072.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0954",
+       "label": "Messages, sons et témoins groupe motopropulseur",
+       "image": "Fct20091210111607296.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0955",
+       "label": "Messages, sons et témoins éclairage - signalisation",
+       "image": "Fct20091210111626325.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0503",
+       "label": "Messages, sons et témoins informations conducteur",
+       "image": "Fct20091210111416316.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0956",
+       "label": "Messages, sons et témoins lavage et essuyage",
+       "image": "Fct20091210111635995.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0957",
+       "label": "Messages, sons et témoins protections et ouvrants",
+       "image": "Fct20091210111646567.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0958",
+       "label": "Messages, sons et témoins poste de conduite",
+       "image": "Fct20091210111659284.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0959",
+       "label": "Messages, sons et témoins aide à la conduite",
+       "image": "Fct20091210111711676.jpg",
+       "level": 3,
+       "order": 8,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0960",
+       "label": "Messages, sons et témoins confort et vie à bord",
+       "image": "Fct20091210111723041.jpg",
+       "level": 3,
+       "order": 9,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0961",
+       "label": "Messages, sons et témoins accessoires",
+       "image": "Fct20091210111732545.jpg",
+       "level": 3,
+       "order": 10,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0319",
+       "label": "Systèmes d&#8217;affichage",
+       "image": "Fct20091118153606741.jpg",
+       "level": 3,
+       "order": 11,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0205",
+     "label": "Lavage et essuyage",
+     "image": "Fct20100223121841352.jpg",
+     "level": 2,
+     "order": 6,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0321",
+       "label": "Lavage",
+       "image": "Fct20091103084914839.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0322",
+       "label": "Essuyage",
+       "image": "Fct20091103084927215.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0051",
+       "label": "Commandes sous volant",
+       "image": "Fct20100720145703181.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0323",
+     "label": "Protections et ouvrants",
+     "image": "Fct20100223121913861.jpg",
+     "level": 2,
+     "order": 7,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0324",
+       "label": "Antidémarrage",
+       "image": "Fct20091210111157013.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0311",
+       "label": "Alarme",
+       "image": "Fct20091118153536428.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0325",
+       "label": "Verrouillage / déverrouillage",
+       "image": "Fct20091103084948003.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0857",
+       "label": "Porte latérale coulissante",
+       "image": "Fct20091029160150580.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0329",
+       "label": "Lève-vitres",
+       "image": "Fct20091029155933226.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0858",
+       "label": "Coffre motorisé",
+       "image": "Fct20091210122117274.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0952",
+       "label": "Ceintures de sécurité",
+       "image": "Fct20091029160225887.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0953",
+       "label": "Coussins gonflables",
+       "image": "Fct20091029160253837.jpg",
+       "level": 3,
+       "order": 8,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0327",
+       "label": "Choc piéton",
+       "image": "Fct20091210111216076.jpg",
+       "level": 3,
+       "order": 9,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0328",
+       "label": "Toit / rideau",
+       "image": "Fct20091103085002569.jpg",
+       "level": 3,
+       "order": 10,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0330",
+     "label": "Poste de conduite",
+     "image": "Fct20100223121947693.jpg",
+     "level": 2,
+     "order": 8,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0331",
+       "label": "Rétroviseurs",
+       "image": "Fct20091103085015553.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0035",
+       "label": "Colonne de direction",
+       "image": "Fct20091028112748762.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0333",
+       "label": "Sièges",
+       "image": "Fct20091029155956579.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0877",
+       "label": "Mémorisation poste de conduite",
+       "image": "Fct20091210122132905.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0051",
+       "label": "Commandes sous volant",
+       "image": "Fct20100720145703181.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0334",
+     "label": "Aide à la conduite",
+     "image": "Fct20100223122014782.jpg",
+     "level": 2,
+     "order": 9,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0951",
+       "label": "Aide au stationnement",
+       "image": "Fct20091210122155659.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0336",
+       "label": "Alerte de franchissement involontaire de ligne",
+       "image": "Fct20091103085051787.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0337",
+       "label": "Suspension",
+       "image": "Fct20091210122038993.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0338",
+       "label": "Détection de sous-gonflage",
+       "image": "Fct20091029160015745.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0339",
+       "label": "Direction assistée",
+       "image": "Fct20091029160043835.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0340",
+       "label": "ABS/ASR/ESP",
+       "image": "Fct20091210111238606.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0351",
+       "label": "Frein de stationnement",
+       "image": "Fct20091103085208425.jpg",
+       "level": 3,
+       "order": 7,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0341",
+       "label": "Surveillance angle mort",
+       "image": "Fct20091210122052815.jpg",
+       "level": 3,
+       "order": 8,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0343",
+       "label": "Déflecteur mobile de coffre",
+       "image": "Fct20091103085116754.jpg",
+       "level": 3,
+       "order": 9,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0344",
+       "label": "Régulation / limitation de vitesse",
+       "image": "Fct20091118153645376.jpg",
+       "level": 3,
+       "order": 10,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0044",
+       "label": "Assistance de freinage",
+       "image": "Fct20091210111006949.jpg",
+       "level": 3,
+       "order": 11,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0345",
+       "label": "Respect distance de sécurité",
+       "image": "Fct20091103085139809.jpg",
+       "level": 3,
+       "order": 12,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    },
+    {
+     "id": "FCT0346",
+     "label": "Confort et vie à bord",
+     "image": "Fct20100223122034087.jpg",
+     "level": 2,
+     "order": 10,
+     "greyed": false,
+     "children": [
+      {
+       "id": "FCT0347",
+       "label": "Chauffage / réfrigération",
+       "image": "Fct20091210111258014.jpg",
+       "level": 3,
+       "order": 1,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0348",
+       "label": "Chauffage additionnel",
+       "image": "Fct20091210111309685.jpg",
+       "level": 3,
+       "order": 2,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0349",
+       "label": "Équipements chauffants",
+       "image": "Fct20091210111324615.jpg",
+       "level": 3,
+       "order": 3,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0350",
+       "label": "Autoradio / navigation / télématique / téléphonie / multimédia",
+       "image": "Fct20091103085152831.jpg",
+       "level": 3,
+       "order": 4,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0051",
+       "label": "Commandes sous volant",
+       "image": "Fct20100720145703181.jpg",
+       "level": 3,
+       "order": 5,
+       "greyed": false,
+       "children": []
+      },
+      {
+       "id": "FCT0703",
+       "label": "Prises / bornes / connecteurs",
+       "image": "Fct20091210111434392.jpg",
+       "level": 3,
+       "order": 6,
+       "greyed": false,
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "leaves": {
+  "FCT0049": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 30,
+     "truncated": false,
+     "refs": [
+      "123001001015",
+      "123001001016",
+      "123001001025",
+      "123001001035",
+      "123001001010A",
+      "123001001010",
+      "123001001011A",
+      "123001001012",
+      "123001001011",
+      "123001001020",
+      "123001001030",
+      "123001001031",
+      "123001001040",
+      "123001001045",
+      "123001001041",
+      "123006133010B",
+      "123006133012",
+      "123006133010A",
+      "123006133010",
+      "123006133030",
+      "123006133041",
+      "123006133020",
+      "123006133015",
+      "123006133040",
+      "123006133114",
+      "123006133113",
+      "123006133110",
+      "123006133141",
+      "123006133112",
+      "123006133140"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 18,
+     "truncated": false,
+     "refs": [
+      "B1BB2AP0",
+      "B1BB2UP0",
+      "B1BB51P0",
+      "B1BBQGP0",
+      "B1BB1YP0",
+      "B1BB2GP0",
+      "B1BB4NP0",
+      "B1BBQMP0",
+      "B1BG1LP0",
+      "B1BG1WP0",
+      "B1BG31P0",
+      "B1BG8GP0",
+      "B1BG1QP0",
+      "B1BG1ZP0",
+      "B1BG32P0",
+      "B1BG8FP0",
+      "B1BP0CP0",
+      "B1BP05P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 16,
+     "truncated": false,
+     "refs": [
+      "1CXB040196",
+      "1CXB050720",
+      "1CXB050742",
+      "1CXB050741",
+      "1CXB050728",
+      "1CXB050710",
+      "1CXB050717",
+      "1CXB030103",
+      "1CXB032015",
+      "1CXB030102",
+      "1CXB030074",
+      "1CXB040076",
+      "1CXB030101",
+      "1CXB050771",
+      "1CXB050724",
+      "1CXB050768"
+     ]
+    }
+   ]
+  },
+  "FCT0004": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 11,
+     "truncated": false,
+     "refs": [
+      "123001114005A",
+      "123001114005",
+      "123001114010A",
+      "123001114012",
+      "123001114010",
+      "123001114020",
+      "123001114021",
+      "123001114030",
+      "123001114040",
+      "123001114031",
+      "123001114025"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "B1BBQNP0",
+      "B1BB2QP0",
+      "B1BB4XP0",
+      "B1BB26P0",
+      "B1BBQRP0",
+      "B1BBQLP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CXB060104",
+      "1CXB070104",
+      "1CXB070139",
+      "1CXB070105"
+     ]
+    }
+   ]
+  },
+  "FCT0005": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 25,
+     "truncated": false,
+     "refs": [
+      "123001121805E",
+      "123001121802",
+      "123001121801",
+      "123001121804",
+      "123001121805",
+      "123001121803",
+      "123001121806",
+      "123001121807",
+      "123001121810",
+      "123001121830",
+      "123001121820",
+      "123001121808",
+      "123001114726",
+      "123001114726A",
+      "123001121016",
+      "123001121010A",
+      "123001121010",
+      "123001121011A",
+      "123001121012",
+      "123001121011",
+      "123001121020",
+      "123001121021",
+      "123001121040",
+      "123001121030",
+      "123001121025"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 21,
+     "truncated": false,
+     "refs": [
+      "B1BBQJP0",
+      "B1BB50P0",
+      "B1BB2TP0",
+      "B1BB2RP0",
+      "B1BB27P0",
+      "B1BBQEP0",
+      "B1BB2SP0",
+      "B1BB28P0",
+      "B1BB4ZP0",
+      "B1BB29P0",
+      "B1BBQLP0",
+      "B1BB4YP0",
+      "B1BD0VP0",
+      "B1BG1PP0",
+      "B1BG1YP0",
+      "B1BG8LP0",
+      "B1BG1NP0",
+      "B1BG8JP0",
+      "B1BG1MP0",
+      "B1BG1XP0",
+      "B1BG8MP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 14,
+     "truncated": false,
+     "refs": [
+      "1CXB080121",
+      "1CXB080123",
+      "1CXB080124",
+      "1CXB090128",
+      "1CXB080131",
+      "1CXB090126",
+      "1CXB090122",
+      "1CXB080115",
+      "1CXB090191",
+      "1CXB080166",
+      "1CXB090129",
+      "1CXB080132",
+      "1CXB080120",
+      "1CXB080130"
+     ]
+    }
+   ]
+  },
+  "FCT0006": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 38,
+     "truncated": false,
+     "refs": [
+      "123001112210A",
+      "123001112210",
+      "123001112212",
+      "123001112220",
+      "123001112240",
+      "123001112245",
+      "123001112230",
+      "123001112016",
+      "123001112010A",
+      "123001112010",
+      "123001112011A",
+      "123001112012",
+      "123001112011",
+      "123001112020",
+      "123001112030",
+      "123001112040",
+      "123001112045",
+      "123001112041",
+      "123001112031",
+      "123001112120",
+      "123001112125",
+      "123001112111",
+      "123001124210",
+      "123001124210A",
+      "123001124211",
+      "123001124212",
+      "123001124211A",
+      "123001124106",
+      "123001124102",
+      "123001124101",
+      "123001124104",
+      "123001124105",
+      "123001124103",
+      "123001124110",
+      "123001124111",
+      "123001124130",
+      "123001124135",
+      "123001124120"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 25,
+     "truncated": false,
+     "refs": [
+      "B1BB2JP0",
+      "B1BB20P0",
+      "B1BB4QP0",
+      "B1BBQQP0",
+      "B1BB4PP0",
+      "B1BB2LP0",
+      "B1BB22P0",
+      "B1BB1ZP0",
+      "B1BB2HP0",
+      "B1BB2PP0",
+      "B1BB25P0",
+      "B1BB4UP0",
+      "B1BB2KP0",
+      "B1BB21P0",
+      "B1BB2MP0",
+      "B1BB23P0",
+      "B1BB4SP0",
+      "B1BBQCP0",
+      "B1BB4RP0",
+      "B1BB4VP0",
+      "B1BS0MP0",
+      "B1BS0LP0",
+      "B1BS03P0",
+      "B1BS04P0",
+      "B1BS07P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 8,
+     "truncated": false,
+     "refs": [
+      "1CXB0110230",
+      "1CXB0120219",
+      "1CXB0110205",
+      "1CXB0110202",
+      "1CXB0110235",
+      "1CXB0120201",
+      "1CXB0110208",
+      "1CXB0120254"
+     ]
+    }
+   ]
+  },
+  "FCT0007": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 27,
+     "truncated": false,
+     "refs": [
+      "123001123016",
+      "123001123011A",
+      "123001123011",
+      "123001123010A",
+      "123001123012",
+      "123001123010",
+      "123001123020",
+      "123001123021",
+      "123001123040",
+      "123001123045",
+      "123001123041",
+      "123001123030",
+      "123001114508",
+      "123001114505",
+      "123001114507",
+      "123001114510A",
+      "123001114510B",
+      "123001114510",
+      "123001114530",
+      "123001114540",
+      "123001114520",
+      "123001114740B",
+      "123001114741",
+      "123001114735A",
+      "123001114735",
+      "123001114410",
+      "123001114411"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "B1BBQFP0",
+      "B1BB2NP0",
+      "B1BB24P0",
+      "B1BB4TP0",
+      "B1BBQPP0",
+      "B1BB4WP0",
+      "B1BBQLP0",
+      "C5HG0QP0",
+      "B1BG8MP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 27,
+     "truncated": false,
+     "refs": [
+      "1CXB0150164",
+      "1CXB0150173",
+      "1CXB0150184",
+      "1CXB0150168",
+      "1CXB0150161",
+      "1CXB0150125",
+      "1CXB0150172",
+      "1CXB0150171",
+      "1CXB0150170",
+      "1CXB0140165",
+      "1CXB0140162",
+      "1CXB0140163",
+      "1CXB0140114",
+      "1CXB0140119",
+      "1CXB0140562",
+      "1CXB0150179",
+      "1CXB0150182",
+      "1CXB0150136",
+      "1CXB0140115",
+      "1CXB0150183",
+      "1CXB0140113",
+      "1CXB0150218",
+      "1CXB0150167",
+      "1CXB0150135",
+      "1CXB0150539",
+      "1CXB0150180",
+      "1CXB0140561"
+     ]
+    }
+   ]
+  },
+  "FCT0008": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 23,
+     "truncated": false,
+     "refs": [
+      "123001114710A",
+      "123001114710",
+      "123001114712",
+      "123001114720",
+      "123001114720A",
+      "123001114745",
+      "123001114730A",
+      "123001114730",
+      "123001225630A",
+      "123001225630",
+      "123001225640",
+      "123001225632",
+      "123001222016",
+      "123001222012",
+      "123001222110A",
+      "123001222110",
+      "123001222120",
+      "123001222140",
+      "123001222150",
+      "123001222130",
+      "123001225510",
+      "123001225511",
+      "123001225520"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "B1FB0DP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 25,
+     "truncated": false,
+     "refs": [
+      "1CXB0180108",
+      "1CXB0180149",
+      "1CXB0170143",
+      "1CXB0170154",
+      "1CXB0330090",
+      "1CXB0331484",
+      "1CXB0180564",
+      "1CXB0170151",
+      "1CXB0180091",
+      "1CXB0180109",
+      "1CXB0330134",
+      "1CXB0180144",
+      "1CXB0185370",
+      "1CXB0170150",
+      "1CXB0170146",
+      "1CXB0180140",
+      "1CXB0180263",
+      "1CXB0185371",
+      "1CXB0331665",
+      "1CXB0330142",
+      "1CXB0180199",
+      "1CXB0180198",
+      "1CXB0180145",
+      "1CXB0331468",
+      "1CXB0330141"
+     ]
+    }
+   ]
+  },
+  "FCT0009": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 61,
+     "truncated": false,
+     "refs": [
+      "123006235603",
+      "123006235605",
+      "123006235601",
+      "123006235602",
+      "123006235604",
+      "123006235620A",
+      "123006235623",
+      "123006235620",
+      "123006235622",
+      "123006235621",
+      "123006235622A",
+      "123006235623A",
+      "123006235606",
+      "123006235221",
+      "123006235220",
+      "123006235222",
+      "123006235220A",
+      "123006235410F",
+      "123006235412",
+      "123006235411",
+      "123006235410",
+      "123006235413",
+      "123006235420",
+      "123006235425",
+      "123006235422",
+      "123006235421",
+      "123006235414",
+      "123006235415",
+      "123006235312",
+      "123006235311A",
+      "123006235311",
+      "123006235311F",
+      "123006235310F",
+      "123006235310",
+      "123006235310A",
+      "123006235313",
+      "123006235323A",
+      "123006235323",
+      "123006235314",
+      "123006235315A",
+      "123006235315",
+      "123001241012",
+      "123001241010",
+      "123001241011",
+      "123001241030",
+      "123001241013",
+      "123001241020",
+      "123001231016",
+      "123001231010A",
+      "123001231010",
+      "123001231012",
+      "123001231020",
+      "123001231030",
+      "123001231035",
+      "123001231025",
+      "123006235510",
+      "123006235520",
+      "123006235511",
+      "123006235516",
+      "123006235913",
+      "123006235910"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 30,
+     "truncated": false,
+     "refs": [
+      "1CXB0590629",
+      "1CXB0590529",
+      "1CXB0230598",
+      "1CXB0230548",
+      "1CXB0190501",
+      "1CXB0200517",
+      "1CXB0360543",
+      "1CXB0200528",
+      "1CXB0220594",
+      "1CXB0360549",
+      "1CXB0200530",
+      "1CXB0200539",
+      "1CXB0210505",
+      "1CXB0590545",
+      "1CXB0210503",
+      "1CXB0590546",
+      "1CXB0360581",
+      "1CXB0360534",
+      "1CXB0230514",
+      "1CXB0360544",
+      "1CXB0220510",
+      "1CXB0220511",
+      "1CXB0220569",
+      "1CXB0220568",
+      "1CXB0220570",
+      "1CXB0220380",
+      "1CXB0220566",
+      "1CXB0220526",
+      "1CXB0230512",
+      "1CXB0360541"
+     ]
+    }
+   ]
+  },
+  "FCT0010": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 196,
+     "truncated": false,
+     "refs": [
+      "123007745810",
+      "123007745820",
+      "123006173014A",
+      "123006173013A",
+      "123006173020A",
+      "123006173025A",
+      "123006173034A",
+      "123006173033A",
+      "123006173036A",
+      "123006173035A",
+      "123006173022A",
+      "123006173012A",
+      "123006173023A",
+      "123006173032A",
+      "123006173021A",
+      "123006173031A",
+      "123006173030A",
+      "123006173011A",
+      "123006173010",
+      "123006173051",
+      "123006173050",
+      "123006173055",
+      "123006173054",
+      "123006173053",
+      "123006173052",
+      "123006173037A",
+      "123006173024A",
+      "123002143410B",
+      "123002143410",
+      "123002143412",
+      "123002143411",
+      "123002143415",
+      "123002143416",
+      "123002143413",
+      "123002143413A",
+      "123002143415K",
+      "123002143410A",
+      "123002143411A",
+      "123002143411B",
+      "123002143611",
+      "123002143610",
+      "123002143616",
+      "123002143612",
+      "123002143850A",
+      "123002143510",
+      "123002143513A",
+      "123002143515",
+      "123002143515A",
+      "123002143513Z",
+      "123002143514A",
+      "123002143512",
+      "123002143513",
+      "123002143511",
+      "123002143531",
+      "123002143531A",
+      "123002143530",
+      "123002143516",
+      "123002143551",
+      "123002143535",
+      "123002143519",
+      "123002143525",
+      "123002143515E",
+      "123002143510A",
+      "123002143514",
+      "123002143515Q",
+      "123002143515K",
+      "123002143521",
+      "123002142510",
+      "123002142515",
+      "123002141011P",
+      "123002141012A",
+      "123002141012",
+      "123002141013J",
+      "123002141025",
+      "123002141014A",
+      "123002141014",
+      "123002141016",
+      "123002141017E",
+      "123002141017",
+      "123002141013",
+      "123002141011D",
+      "123002141010",
+      "123002141011I",
+      "123002141011K",
+      "123002141011N",
+      "123002141011",
+      "123002141013F",
+      "123002141013E",
+      "123002141018",
+      "123002141020",
+      "123002141021D",
+      "123002141021",
+      "123002141022",
+      "123002141020A",
+      "123002141019",
+      "123002141911G",
+      "123002141915A",
+      "123002141915",
+      "123002141918P",
+      "123002141918",
+      "123002141930",
+      "123002141915G",
+      "123002141916",
+      "123002141919",
+      "123002141914",
+      "123002141910",
+      "123002141910A",
+      "123002141911A",
+      "123002141911B",
+      "123002141911F",
+      "123002141911",
+      "123002141918K",
+      "123002141918J",
+      "123002141918F",
+      "123002141919F",
+      "123002141920A",
+      "123002141920",
+      "123002141921",
+      "123002141917",
+      "123002144410",
+      "123002144415",
+      "123002143916",
+      "123002143919",
+      "123002143918",
+      "123002143919B",
+      "123002143919A",
+      "123002143915",
+      "123002143915A",
+      "123002143910",
+      "123002143921",
+      "123002143920",
+      "123002146001",
+      "123002146005",
+      "123002146010",
+      "123002146015",
+      "123002146020",
+      "123002146025",
+      "123002144501",
+      "123002144560",
+      "123002144565",
+      "123002144551",
+      "123002144550",
+      "123002144502",
+      "123002171010A",
+      "123002171012A",
+      "123002171011A",
+      "123002171025",
+      "123002171015D",
+      "123002171016",
+      "123002171015A",
+      "123002171019",
+      "123002171018",
+      "123002171012D",
+      "123002171002C",
+      "123002171002",
+      "123002171005",
+      "123002171007",
+      "123002171004",
+      "123002171006",
+      "123002171008",
+      "123002171009",
+      "123002171003",
+      "123002171013A",
+      "123002171014",
+      "123002171017",
+      "123002171019C",
+      "123002171021",
+      "123002171023",
+      "123002171024",
+      "123002171022",
+      "123002171020",
+      "123006173310",
+      "123006173312",
+      "123006173313",
+      "123006173417",
+      "123006173416",
+      "123006173411",
+      "123006173410E",
+      "123006173410",
+      "123006173415",
+      "123006173413",
+      "123006173412",
+      "123006173430",
+      "123002144355",
+      "123002144330",
+      "123002144340",
+      "123002144350",
+      "123002144310",
+      "123002144320",
+      "123002142910",
+      "123006175010",
+      "123006175011",
+      "123006175012",
+      "123006175110",
+      "123006175111",
+      "123002144210"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "C5HB0AP0",
+      "B1HF0GP0",
+      "B1HF0EP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 136,
+     "truncated": false,
+     "refs": [
+      "1CXB0271680",
+      "1CXB0351624",
+      "1CXB0351629",
+      "1CXB0261450",
+      "1CXB0351712",
+      "1CXB0351713",
+      "1CXB0351620",
+      "1CXB0351630",
+      "1CXB0351552",
+      "1CXB0340357",
+      "1CXB0340358",
+      "1CXB0351621",
+      "1CXB0340197",
+      "1CXB0316699",
+      "1CXB0414225",
+      "1CXB0251498",
+      "1CXB0261637",
+      "1CXB0251432",
+      "1CXB0261497",
+      "1CXB0414220",
+      "1CXB0270399",
+      "1CXB0271612",
+      "1CXB0261663",
+      "1CXB0271640",
+      "1CXB0270642",
+      "1CXB0341601",
+      "1CXB0341651",
+      "1CXB0341672",
+      "1CXB0281550",
+      "1CXB0250089",
+      "1CXB0401606",
+      "1CXB0261431",
+      "1CXB0251424",
+      "1CXB0261609",
+      "1CXB0394223",
+      "1CXB0261684",
+      "1CXB0251425",
+      "1CXB0251458",
+      "1CXB0261616",
+      "1CXB0341674",
+      "1CXB0301504",
+      "1CXB0291510",
+      "1CXB0401685",
+      "1CXB0271635",
+      "1CXB0260496",
+      "1CXB0341691",
+      "1CXB0251403",
+      "1CXB0341610",
+      "1CXB0341605",
+      "1CXB0401652",
+      "1CXB0251401",
+      "1CXB0401511",
+      "1CXB0281551",
+      "1CXB0401653",
+      "1CXB0319055",
+      "1CXB0319056",
+      "1CXB0319056_1",
+      "1CXB0319096",
+      "1CXB0319096_1",
+      "1CXB0319097",
+      "1CXB0261413",
+      "1CXB0261414",
+      "1CXB0261417",
+      "1CXB0261664",
+      "1CXB0414219",
+      "1CXB0401597",
+      "1CXB0301592",
+      "1CXB0340193",
+      "1CXB0341675",
+      "1CXB0414215",
+      "1CXB0381627",
+      "1CXB0251499",
+      "1CXB0291602",
+      "1CXB0291670",
+      "1CXB0381626",
+      "1CXB0260345",
+      "1CXB0241607",
+      "1CXB0251426",
+      "1CXB0381604",
+      "1CXB0351617",
+      "1CXB0401650",
+      "1CXB0351615",
+      "1CXB0401615",
+      "1CXB0271681",
+      "1CXB0291501",
+      "1CXB0291599",
+      "1CXB0291509",
+      "1CXB0271673",
+      "1CXB0391633",
+      "1CXB0271614",
+      "1CXB0340398",
+      "1CXB0270397",
+      "1CXB0381623",
+      "1CXB0340396",
+      "1CXB0251444",
+      "1CXB0281561",
+      "1CXB0424222",
+      "1CXB0316626",
+      "1CXB0401518",
+      "1CXB0251404",
+      "1CXB0401524",
+      "1CXB0261466",
+      "1CXB0261449",
+      "1CXB0401526",
+      "1CXB0261465",
+      "1CXB0401538",
+      "1CXB0261462",
+      "1CXB0401540",
+      "1CXB0401543",
+      "1CXB0401572",
+      "1CXB0270390",
+      "1CXB0261447",
+      "1CXB0401571",
+      "1CXB0301505",
+      "1CXB0251440",
+      "1CXB0401514",
+      "1CXB0401525",
+      "1CXB0251410",
+      "1CXB0251474",
+      "1CXB0251422",
+      "1CXB0401539",
+      "1CXB0301507",
+      "1CXB0251408",
+      "1CXB0401547",
+      "1CXB0251428",
+      "1CXB0251406",
+      "1CXB0301506",
+      "1CXB0251472",
+      "1CXB0351427",
+      "1CXB0401515",
+      "1CXB0251454",
+      "1CXB0251430",
+      "1CXB0251461",
+      "1CXB0401523",
+      "1CXB0301502",
+      "1CXB0261415"
+     ]
+    }
+   ]
+  },
+  "FCT0011": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 54,
+     "truncated": false,
+     "refs": [
+      "123006183011",
+      "123006183012",
+      "123006183014",
+      "123006183017",
+      "123006183013",
+      "123006183015",
+      "123006183010B",
+      "123006183010A",
+      "123006183010",
+      "123006183020",
+      "123006183023",
+      "123006183018",
+      "123006183016",
+      "123006183221",
+      "123006183222",
+      "123006182205",
+      "123006182216",
+      "123006182210",
+      "123006182213",
+      "123006182218",
+      "123006182214",
+      "123006182224",
+      "123006182215",
+      "123006182211",
+      "123006182222",
+      "123006182223",
+      "123006182220",
+      "123006182205A",
+      "123006182205B",
+      "123006182224F",
+      "123006182225",
+      "123006182226",
+      "123006182227",
+      "123006182310",
+      "123006182311",
+      "123006182313",
+      "123006182314",
+      "123006182315",
+      "123006182312",
+      "123002181010M",
+      "123002181013",
+      "123002181010G",
+      "123002181010F",
+      "123002181010A",
+      "123002181010B",
+      "123002181010L",
+      "123002181010",
+      "123002181011E",
+      "123002181011J",
+      "123002181011",
+      "123002181013F",
+      "123002181014",
+      "123002181020",
+      "123002181012"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 20,
+     "truncated": false,
+     "refs": [
+      "1CXB0490418",
+      "1CXB0490401",
+      "1CXB0490440",
+      "1CXB0500440",
+      "1CXB0490440_1",
+      "1CXB0500440_1",
+      "1CXB0510481",
+      "1CXB0510323",
+      "1CXB0490450",
+      "1CXB0490417",
+      "1CXB0490315",
+      "1CXB0500420",
+      "1CXB0490325",
+      "1CXB0500325",
+      "1CXB0500475",
+      "1CXB0500473",
+      "1CXB0500426",
+      "1CXB0490416",
+      "1CXB0500446",
+      "1CXB0490411"
+     ]
+    }
+   ]
+  },
+  "FCT0012": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 51,
+     "truncated": false,
+     "refs": [
+      "123002184011L",
+      "123002184012F",
+      "123002184012",
+      "123002184015",
+      "123002184013",
+      "123002184012K",
+      "123002184010",
+      "123002184011F",
+      "123002184011",
+      "123002184011K",
+      "123002184020",
+      "123002184710",
+      "123002184720",
+      "123006175420",
+      "123006175421",
+      "123006175411",
+      "123006175412",
+      "123006175410",
+      "123006175414",
+      "123006175413",
+      "123006175412A",
+      "123006175320",
+      "123006175312",
+      "123006175311A",
+      "123006175311",
+      "123006175313",
+      "123006175314",
+      "123006175310",
+      "123006175311B",
+      "123002184311",
+      "123002184313",
+      "123002184312",
+      "123002184314",
+      "123002184310",
+      "123002184310C",
+      "123002184310H",
+      "123002184630",
+      "123002184641",
+      "123002184640",
+      "123002184620",
+      "123002184631",
+      "123002184611",
+      "123002184610",
+      "123006183211A",
+      "123006183213",
+      "123006183214A",
+      "123006183212F",
+      "123006183212",
+      "123006183214",
+      "123006183210",
+      "123006183211"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 31,
+     "truncated": false,
+     "refs": [
+      "1CXB0530394",
+      "1CXB0530344",
+      "1CXB0530326",
+      "1CXB0730306",
+      "1CXB0530349",
+      "1CXB0730361",
+      "1CXB0530348",
+      "1CXB0730307",
+      "1CXB0730311",
+      "1CXB0730302",
+      "1CXB0540312",
+      "1CXB0540314",
+      "1CXB0530352",
+      "1CXB0531698",
+      "1CXB0730364",
+      "1CXB0540313",
+      "1CXB0530338",
+      "1CXB0730303",
+      "1CXB0530395",
+      "1CXB0730305",
+      "1CXB0530377",
+      "1CXB0530392",
+      "1CXB0730381",
+      "1CXB0530391",
+      "1CXB0530383",
+      "1CXB0730304",
+      "1CXB0530388",
+      "1CXB0530367",
+      "1CXB0530368",
+      "1CXB0730363",
+      "1CXB0530350"
+     ]
+    }
+   ]
+  },
+  "FCT0013": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 84,
+     "truncated": false,
+     "refs": [
+      "123002211214",
+      "123002211215M",
+      "123002211215R",
+      "123002211217R",
+      "123002211217L",
+      "123002211218F",
+      "123002211218",
+      "123002211217",
+      "123002211217F",
+      "123002211219A",
+      "123002211219B",
+      "123002211219",
+      "123002211220K",
+      "123002211220F",
+      "123002211220L",
+      "123002211220G",
+      "123002211221A",
+      "123002211221",
+      "123002211220J",
+      "123002211220E",
+      "123002211219F",
+      "123002211220",
+      "123002211223",
+      "123002211222B",
+      "123002211230",
+      "123002211226",
+      "123002211225",
+      "123002211224",
+      "123002211222",
+      "123002211216F",
+      "123002211216",
+      "123002211216A",
+      "123002211216B",
+      "123002211210E",
+      "123002211210A",
+      "123002211210",
+      "123002211215F",
+      "123002211215A",
+      "123002211215B",
+      "123002211215G",
+      "123002211213",
+      "123002211211",
+      "123002211215",
+      "123002211212",
+      "123002211215Q",
+      "123002211215L",
+      "123002211215K",
+      "123002211215P",
+      "123002211227",
+      "123002211216K",
+      "123002211216J",
+      "123002211216P",
+      "123002212010M",
+      "123002212012L",
+      "123002212012G",
+      "123002212013F",
+      "123002212013A",
+      "123002212013E",
+      "123002212015",
+      "123002212015A",
+      "123002212014",
+      "123002212010",
+      "123002212010A",
+      "123002212010G",
+      "123002212010H",
+      "123002212010F",
+      "123002212012A",
+      "123002212012K",
+      "123002212012F",
+      "123002212012",
+      "123002212013",
+      "123002212020",
+      "123002212015D",
+      "123002212015F",
+      "123002212015G",
+      "123002212011",
+      "123002212011A",
+      "123002212016",
+      "123002212010L",
+      "123002211805",
+      "123002211815",
+      "123002211825",
+      "123002211820",
+      "123002211810"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 19,
+     "truncated": false,
+     "refs": [
+      "1CXB0440601",
+      "1CXB0450197",
+      "1CXB0460620",
+      "1CXB0460625",
+      "1CXB0450609",
+      "1CXB0450697",
+      "1CXB0460624",
+      "1CXB0460623",
+      "1CXB0460622",
+      "1CXB0450193",
+      "1CXB0460618",
+      "1CXB0450604",
+      "1CXB0460637",
+      "1CXB0460616",
+      "1CXB0450644",
+      "1CXB0460621",
+      "1CXB0450602",
+      "1CXB0450696",
+      "1CXB0450610"
+     ]
+    }
+   ]
+  },
+  "FCT0014": {
+   "parentId": "FCT0512",
+   "parentIds": [
+    "FCT0512"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "123001172310",
+      "123001172016",
+      "123001172011",
+      "123001172015",
+      "123001172010",
+      "123001172211",
+      "123001172210"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "1CXB0581450",
+      "1CXB0561495",
+      "1CXB0581456",
+      "1CXB0561689",
+      "1CXB0431696",
+      "1CXB0431690",
+      "1CXB0431697",
+      "1CXB0581454",
+      "1CXB0431695",
+      "1CXB0431692"
+     ]
+    }
+   ]
+  },
+  "FCT0016": {
+   "parentId": "FCT0015",
+   "parentIds": [
+    "FCT0015"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 18,
+     "truncated": false,
+     "refs": [
+      "123002312023",
+      "123002312011",
+      "123002312014B",
+      "123002312014",
+      "123002312015",
+      "123002312011A",
+      "123002312022",
+      "123002312020",
+      "123002312016",
+      "123002322010A",
+      "123002322010E",
+      "123002322010",
+      "123002322010H",
+      "123002322010M",
+      "123002322010J",
+      "123002322020",
+      "123004314011",
+      "123004314010"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 12,
+     "truncated": false,
+     "refs": [
+      "1CXB0620808",
+      "1CXB0640803",
+      "1CXB0630821",
+      "1CXB0620804",
+      "1CXB0620806",
+      "1CXB0620810",
+      "1CXB0620801",
+      "1CXB0640801",
+      "1CXB0620807",
+      "1CXB0620805",
+      "1CXB0644217",
+      "1CXB0644263"
+     ]
+    }
+   ]
+  },
+  "FCT0017": {
+   "parentId": "FCT0015",
+   "parentIds": [
+    "FCT0015"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 95,
+     "truncated": false,
+     "refs": [
+      "123001334630A",
+      "123001334630",
+      "123001334645",
+      "123001334610A",
+      "123001334610",
+      "123001334615A",
+      "123001334615",
+      "123001334620A",
+      "123001334620",
+      "123001334625A",
+      "123001334625",
+      "123001334640A",
+      "123001334640",
+      "123001335111",
+      "123001335115",
+      "123001335110",
+      "123001335112",
+      "123001335120A",
+      "123001335120",
+      "123001335125",
+      "123001335121",
+      "123001335121A",
+      "123001333310",
+      "123001330101",
+      "123001330102",
+      "123001330103",
+      "123001333110",
+      "123001330025",
+      "123001330010A",
+      "123001330010",
+      "123001330011",
+      "123001330021A",
+      "123001330021",
+      "123001330023A",
+      "123001330023",
+      "123001330030A",
+      "123001330030",
+      "123001330045A",
+      "123001330045",
+      "123001330040A",
+      "123001330040",
+      "123001330050A",
+      "123001330050",
+      "123001331430",
+      "123001331405",
+      "123001331410A",
+      "123001331410",
+      "123001331420A",
+      "123001331420",
+      "123001331050",
+      "123001331010A",
+      "123001331010",
+      "123001331011A",
+      "123001331011",
+      "123001331030A",
+      "123001331030",
+      "123001331020A",
+      "123001331020",
+      "123001331040A",
+      "123001331040",
+      "123001332410",
+      "123001332420",
+      "123001332315",
+      "123001332310A",
+      "123001332310",
+      "123001343001",
+      "123001343010A",
+      "123001343011",
+      "123001343010",
+      "123001343050",
+      "123001334510",
+      "123001334230A",
+      "123001334220",
+      "123001334210",
+      "123001334230",
+      "123001334461",
+      "123001334461A",
+      "123001334460A",
+      "123001334460",
+      "123001334435",
+      "123001334420",
+      "123001334410",
+      "123001334430",
+      "123001334440A",
+      "123001334440",
+      "123001334444A",
+      "123001334444",
+      "123001334475",
+      "123001334450A",
+      "123001334455A",
+      "123001334455",
+      "123001334450",
+      "123001334470A",
+      "123001334470",
+      "123001333010"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "B2CB0BP0",
+      "B2CB59P0",
+      "B2CK0AP0",
+      "B2CM0ZP0",
+      "B2CT0AP0",
+      "B2CT0YP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 34,
+     "truncated": false,
+     "refs": [
+      "1CXB0670933",
+      "1CXB0850920",
+      "1CXB0850921",
+      "1CXB06101911",
+      "1CXB0670901",
+      "1CXB0911901",
+      "1CXB0670960",
+      "1CXB0850075",
+      "1CXB0980075",
+      "1CXB0840952",
+      "1CXB0840951",
+      "1CXB0690902",
+      "1CXB0690959",
+      "1CXB0690820",
+      "1CXB0911904",
+      "1CXB06001912",
+      "1CXB0690944",
+      "1CXB06131965",
+      "1CXB0690962",
+      "1CXB06001903",
+      "1CXB06111913",
+      "1CXB01001964",
+      "1CXB0830964",
+      "1CXB0850922",
+      "1CXB0690807",
+      "1CXB0670076",
+      "1CXB0850076",
+      "1CXB0980076",
+      "1CXB0670101",
+      "1CXB0690946",
+      "1CXB0840967",
+      "1CXB0840945",
+      "1CXB0670963",
+      "1CXB06001921"
+     ]
+    }
+   ]
+  },
+  "FCT0018": {
+   "parentId": "FCT0015",
+   "parentIds": [
+    "FCT0015"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 16,
+     "truncated": false,
+     "refs": [
+      "123001335610",
+      "123001335611",
+      "123001335705",
+      "123001335710A",
+      "123001335710",
+      "123001335730",
+      "123001335711A",
+      "123001335711",
+      "123001335805",
+      "123001335810",
+      "123001335830",
+      "123001335811",
+      "123001335815",
+      "123001335901",
+      "123001335960",
+      "123001333010"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 23,
+     "truncated": false,
+     "refs": [
+      "1CXB06200936",
+      "1CXB06211907",
+      "1CXB0864206",
+      "1CXB06201909",
+      "1CXB06211918",
+      "1CXB0864299",
+      "1CXB0861957",
+      "1CXB06211961",
+      "1CXB06211956",
+      "1CXB0864202",
+      "1CXB0874205",
+      "1CXB06201919",
+      "1CXB0864210",
+      "1CXB06211951",
+      "1CXB0864201",
+      "1CXB06211962",
+      "1CXB0864207",
+      "1CXB06214250",
+      "1CXB0864211",
+      "1CXB0861955",
+      "1CXB06211952",
+      "1CXB06214204",
+      "1CXB06211950"
+     ]
+    }
+   ]
+  },
+  "FCT0020": {
+   "parentId": "FCT0019",
+   "parentIds": [
+    "FCT0019"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "123001331510",
+      "123001331710",
+      "123001331810A",
+      "123001331801A",
+      "123001331802A"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CXB01111057",
+      "1CXB01110819",
+      "1CXB01110860"
+     ]
+    }
+   ]
+  },
+  "FCT0021": {
+   "parentId": "FCT0019",
+   "parentIds": [
+    "FCT0019"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123004352201",
+      "123004352010"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CXB01230075",
+      "1CXB01230076",
+      "1CXB01211056"
+     ]
+    }
+   ]
+  },
+  "FCT0022": {
+   "parentId": "FCT0019",
+   "parentIds": [
+    "FCT0019"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "123004371135",
+      "123004371130",
+      "123004371111A",
+      "123004371110",
+      "123004371115",
+      "123004371120",
+      "123004351020",
+      "123004351010",
+      "123004350510"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "1CXB01321021",
+      "1CXB01321028",
+      "1CXB01321034",
+      "1CXB01321029",
+      "1CXB01321039",
+      "1CXB01321003",
+      "1CXB01321001",
+      "1CXB01321002",
+      "1CXB01321004"
+     ]
+    }
+   ]
+  },
+  "FCT0023": {
+   "parentId": "FCT0019",
+   "parentIds": [
+    "FCT0019"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "123003416225",
+      "123003416205",
+      "123003416210",
+      "123003416220",
+      "123003416110",
+      "123003416111",
+      "123003416120",
+      "123003416320",
+      "123008622110"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "B2GB0102P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 18,
+     "truncated": false,
+     "refs": [
+      "1CXB01410086",
+      "1CXB01410081",
+      "1CXB01410080",
+      "1CXB01410082",
+      "1CXB01412210",
+      "1CXB01412202",
+      "1CXB01410085",
+      "1CXB01412251",
+      "1CXB01412211",
+      "1CXB01412203",
+      "1CXB01412218",
+      "1CXB01412254",
+      "1CXB01442250",
+      "1CXB01412206",
+      "1CXB01412204",
+      "1CXB01412252",
+      "1CXB01412201",
+      "1CXB01412208"
+     ]
+    }
+   ]
+  },
+  "FCT0024": {
+   "parentId": "FCT0019",
+   "parentIds": [
+    "FCT0019"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CXB01470086",
+      "1CXB01470081",
+      "1CXB01470080",
+      "1CXB01472213",
+      "1CXB01472212"
+     ]
+    }
+   ]
+  },
+  "FCT0337": {
+   "parentId": "FCT0025",
+   "parentIds": [
+    "FCT0025",
+    "FCT0334"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 26,
+     "truncated": false,
+     "refs": [
+      "123003394611",
+      "123003394610",
+      "123003394710",
+      "123003394111",
+      "123003394120",
+      "123003394110",
+      "123003437010",
+      "123003437020",
+      "123003391710",
+      "123003391610",
+      "123003435110",
+      "123003394510",
+      "123003394511",
+      "123003391210",
+      "123003391311B",
+      "123003391317",
+      "123003391310A",
+      "123003391310",
+      "123003391311A",
+      "123003391311",
+      "123003391312",
+      "123003391320",
+      "123003391314",
+      "123003391313",
+      "123003393010",
+      "123003392110"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "B3BT07P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 40,
+     "truncated": false,
+     "refs": [
+      "1CXB02621311",
+      "1CXB02651350",
+      "1CXB02651349",
+      "1CXB02621310",
+      "1CXB02732357",
+      "1CXB02732345",
+      "1CXB02671308",
+      "1CXB02651303",
+      "1CXB02671362",
+      "1CXB02671362_1",
+      "1CXB01512002",
+      "1CXB01512001",
+      "1CXB02732303",
+      "1CXB02651348",
+      "1CXB01512003",
+      "1CXB02661307",
+      "1CXB02661339",
+      "1CXB02671378",
+      "1CXB02651302",
+      "1CXB01681614",
+      "1CXB02671361",
+      "1CXB01512300",
+      "1CXB02732344",
+      "1CXB02671363",
+      "1CXB02771373",
+      "1CXB02771305",
+      "1CXB02771352",
+      "1CXB02771372",
+      "1CXB02772459",
+      "1CXB02771353",
+      "1CXB02771309",
+      "1CXB02791357",
+      "1CXB02791326",
+      "1CXB02791359",
+      "1CXB02791397",
+      "1CXB02771312",
+      "1CXB02771374",
+      "1CXB02771351",
+      "1CXB02791398",
+      "1CXB02641330"
+     ]
+    }
+   ]
+  },
+  "FCT0026": {
+   "parentId": "FCT0025",
+   "parentIds": [
+    "FCT0025"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123003412310",
+      "123003413110"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 16,
+     "truncated": false,
+     "refs": [
+      "1CXB01912569",
+      "1CXB01912570",
+      "1CXB01912038",
+      "1CXB01912039",
+      "1CXB01912016",
+      "1CXB01912017",
+      "1CXB01912044",
+      "1CXB01912045",
+      "1CXB01912055",
+      "1CXB01912056",
+      "1CXB01912072",
+      "1CXB01912040",
+      "1CXB01912073",
+      "1CXB01912041",
+      "1CXB01912029",
+      "1CXB01912027"
+     ]
+    }
+   ]
+  },
+  "FCT0027": {
+   "parentId": "FCT0025",
+   "parentIds": [
+    "FCT0025"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123003434610",
+      "123003434510"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "1CXB01612348",
+      "1CXB01612349",
+      "1CXB01612352",
+      "1CXB01612353",
+      "1CXB01612350",
+      "1CXB01612339",
+      "1CXB01612351"
+     ]
+    }
+   ]
+  },
+  "FCT0028": {
+   "parentId": "FCT0025",
+   "parentIds": [
+    "FCT0025"
+   ],
+   "types": []
+  },
+  "FCT0029": {
+   "parentId": "FCT0025",
+   "parentIds": [
+    "FCT0025"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123003435210A",
+      "123003435210"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CXB01532326",
+      "1CXB01532330",
+      "1CXB01532331"
+     ]
+    }
+   ]
+  },
+  "FCT0030": {
+   "parentId": "FCT0025",
+   "parentIds": [
+    "FCT0025"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123003422010",
+      "123003422020"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "1CXB01572120",
+      "1CXB01572121",
+      "1CXB01572115",
+      "1CXB01572116",
+      "1CXB01572134",
+      "1CXB01572139",
+      "1CXB01572135",
+      "1CXB01572136",
+      "1CXB01572102"
+     ]
+    }
+   ]
+  },
+  "FCT0031": {
+   "parentId": "FCT0025",
+   "parentIds": [
+    "FCT0025"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "123003434710",
+      "123003434715",
+      "123003422110",
+      "123003422120"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 13,
+     "truncated": false,
+     "refs": [
+      "1CXB01552365",
+      "1CXB01622358",
+      "1CXB01622359",
+      "1CXB01552101",
+      "1CXB01552102",
+      "1CXB01622362",
+      "1CXB01622363",
+      "1CXB01622360",
+      "1CXB01622339",
+      "1CXB01622361",
+      "1CXB01552160",
+      "1CXB01552112",
+      "1CXB01552104"
+     ]
+    }
+   ]
+  },
+  "FCT0032": {
+   "parentId": "FCT0025",
+   "parentIds": [
+    "FCT0025"
+   ],
+   "types": []
+  },
+  "FCT0034": {
+   "parentId": "FCT0033",
+   "parentIds": [
+    "FCT0033"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123003441210",
+      "123005522210"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 12,
+     "truncated": false,
+     "refs": [
+      "1CXB05355105",
+      "1CXB05355130",
+      "1CXB05355130_1",
+      "1CXB05355101",
+      "1CXB05355126",
+      "1CXB05355126_1",
+      "1CXB02212479",
+      "1CXB02214353",
+      "1CXB02214352",
+      "1CXB02212478",
+      "1CXB02212480",
+      "1CXB02212480_1"
+     ]
+    }
+   ]
+  },
+  "FCT0035": {
+   "parentId": "FCT0033",
+   "parentIds": [
+    "FCT0033",
+    "FCT0330"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "1CXB02222482",
+      "1CXB02222482_1",
+      "1CXB02222486",
+      "1CXB02222487",
+      "1CXB02222487_1",
+      "1CXB02222488",
+      "1CXB02222488_1",
+      "1CXB02222497",
+      "1CXB02222497_1",
+      "1CXB02222492"
+     ]
+    }
+   ]
+  },
+  "FCT0036": {
+   "parentId": "FCT0033",
+   "parentIds": [
+    "FCT0033"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123003441310"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CXB02232498",
+      "1CXB02232498_1",
+      "1CXB02239056",
+      "1CXB02239056_1",
+      "1CXB02239097"
+     ]
+    }
+   ]
+  },
+  "FCT0037": {
+   "parentId": "FCT0033",
+   "parentIds": [
+    "FCT0033"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "123003442511",
+      "123003442510",
+      "123003442610",
+      "123003441410",
+      "123003442011",
+      "123003442010"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "1CXB02252412",
+      "1CXB02252413",
+      "1CXB02242415",
+      "1CXB02252417",
+      "1CXB02252418",
+      "1CXB02252452",
+      "1CXB02252451"
+     ]
+    }
+   ]
+  },
+  "FCT0339": {
+   "parentId": "FCT0033",
+   "parentIds": [
+    "FCT0033",
+    "FCT0334"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "123003441410",
+      "123003442011",
+      "123003442010",
+      "123003442810"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "1CXB02242415",
+      "1CXB02271308",
+      "1CXB02761333",
+      "1CXB02281302",
+      "1CXB02262453",
+      "1CXB02752453"
+     ]
+    }
+   ]
+  },
+  "FCT0040": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123004451210"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "1CXB02312567",
+      "1CXB02312569",
+      "1CXB02312568",
+      "1CXB02312570",
+      "1CXB02312564",
+      "1CXB02312565",
+      "1CXB02302601",
+      "1CXB02302501",
+      "1CXB02312521"
+     ]
+    }
+   ]
+  },
+  "FCT0041": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123004451610"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "1CXB02322635",
+      "1CXB02322636",
+      "1CXB02322630",
+      "1CXB02322631",
+      "1CXB02302601",
+      "1CXB02302501",
+      "1CXB02322606",
+      "1CXB02322642",
+      "1CXB02322643"
+     ]
+    }
+   ]
+  },
+  "FCT0042": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "123003394212A",
+      "123003394220",
+      "123003394213",
+      "123003394212",
+      "123003394210",
+      "123003394310",
+      "123003394412",
+      "123003394420",
+      "123003394411",
+      "123003394410"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 29,
+     "truncated": false,
+     "refs": [
+      "1CXB02352541",
+      "1CXB02352655",
+      "1CXB02422655",
+      "1CXB02432655",
+      "1CXB02782655",
+      "1CXB02352542",
+      "1CXB02782542",
+      "1CXB02352656",
+      "1CXB02422656",
+      "1CXB02432656",
+      "1CXB02782656",
+      "1CXB02352538",
+      "1CXB02782538",
+      "1CXB02352548",
+      "1CXB02782548",
+      "1CXB02352664",
+      "1CXB02782664",
+      "1CXB02352546",
+      "1CXB02782546",
+      "1CXB02352651",
+      "1CXB02782651",
+      "1CXB02352544",
+      "1CXB02782544",
+      "1CXB02352650",
+      "1CXB02782650",
+      "1CXB02352535",
+      "1CXB02782535",
+      "1CXB02352539",
+      "1CXB02782539"
+     ]
+    }
+   ]
+  },
+  "FCT0043": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039"
+   ],
+   "types": []
+  },
+  "FCT0044": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039",
+    "FCT0334"
+   ],
+   "types": []
+  },
+  "FCT0045": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CXB02382504",
+      "1CXB02382530"
+     ]
+    }
+   ]
+  },
+  "FCT0046": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123004455510"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CXB02392586",
+      "1CXB02392587",
+      "1CXB02395146",
+      "1CXB02392576",
+      "1CXB02392577"
+     ]
+    }
+   ]
+  },
+  "FCT0047": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "123004454010",
+      "123004454011",
+      "123004314110",
+      "123004314102",
+      "123004314101"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CXB02412504",
+      "1CXB02405127",
+      "1CXB02412508",
+      "1CXB02404217"
+     ]
+    }
+   ]
+  },
+  "FCT0340": {
+   "parentId": "FCT0039",
+   "parentIds": [
+    "FCT0039",
+    "FCT0334"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "123004454210",
+      "123004454610",
+      "123004454310"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "1CXB02512509",
+      "1CXB02512596",
+      "1CXB02522694",
+      "1CXB02522594",
+      "1CXB02522695",
+      "1CXB02522595",
+      "1CXB01465128_2",
+      "1CXB01465128",
+      "1CXB01465128_1",
+      "1CXB02512599"
+     ]
+    }
+   ]
+  },
+  "FCT0102": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123006617110",
+      "123006617112"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C5JM0102P0",
+      "C5GM0105P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 24,
+     "truncated": false,
+     "refs": [
+      "1CXB03036220",
+      "1CXB03036261",
+      "1CXB03036222",
+      "1CXB03036111",
+      "1CXB03036111_1",
+      "1CXB03036111_3",
+      "1CXB03036111_2",
+      "1CXB03036133",
+      "1CXB03036133_1",
+      "1CXB03036133_3",
+      "1CXB03036133_2",
+      "1CXB03036112",
+      "1CXB03036112_1",
+      "1CXB03036112_3",
+      "1CXB03036112_2",
+      "1CXB03036131",
+      "1CXB03036131_1",
+      "1CXB03036131_3",
+      "1CXB03036131_2",
+      "1CXB03036215",
+      "1CXB03036215_1",
+      "1CXB03036215_3",
+      "1CXB03036215_2",
+      "1CXB03036241"
+     ]
+    }
+   ]
+  },
+  "FCT0103": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123007741110"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 24,
+     "truncated": false,
+     "refs": [
+      "1CXB03040599",
+      "1CXB03047271",
+      "1CXB03047271_1",
+      "1CXB03047271_3",
+      "1CXB03047271_2",
+      "1CXB03047272",
+      "1CXB03047272_4",
+      "1CXB03047272_1",
+      "1CXB03047272_3",
+      "1CXB03047272_2",
+      "1CXB03047273",
+      "1CXB03047283",
+      "1CXB03047281",
+      "1CXB03047282",
+      "1CXB03047016",
+      "1CXB03047016_1",
+      "1CXB03047016_3",
+      "1CXB03047016_2",
+      "1CXB03047015",
+      "1CXB03047064",
+      "1CXB03047014",
+      "1CXB03047014_1",
+      "1CXB03047014_3",
+      "1CXB03047014_2"
+     ]
+    }
+   ]
+  },
+  "FCT0104": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "123007851110",
+      "123007845210A",
+      "123007845210",
+      "123007845220A",
+      "123007845220"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 51,
+     "truncated": false,
+     "refs": [
+      "1CXB03056434",
+      "1CXB03056434_1",
+      "1CXB03056434_3",
+      "1CXB03056434_2",
+      "1CXB03056402",
+      "1CXB03056402_1",
+      "1CXB03056402_3",
+      "1CXB03056402_2",
+      "1CXB03056030",
+      "1CXB03056030_2",
+      "1CXB03056030_1",
+      "1CXB03056042",
+      "1CXB03056044",
+      "1CXB03056050",
+      "1CXB03056102",
+      "1CXB03056102_2",
+      "1CXB03056102_1",
+      "1CXB03056104",
+      "1CXB03056104_2",
+      "1CXB03056104_1",
+      "1CXB03056027",
+      "1CXB03056027_1",
+      "1CXB03057481",
+      "1CXB03057480",
+      "1CXB03057479",
+      "1CXB03296826",
+      "1CXB03057425",
+      "1CXB03057425_2",
+      "1CXB03057425_1",
+      "1CXB03057426",
+      "1CXB03057428",
+      "1CXB03057432",
+      "1CXB03056111",
+      "1CXB03056111_1",
+      "1CXB03056111_3",
+      "1CXB03056111_2",
+      "1CXB03056133",
+      "1CXB03056133_1",
+      "1CXB03056133_3",
+      "1CXB03056133_2",
+      "1CXB03056112",
+      "1CXB03056112_1",
+      "1CXB03056112_3",
+      "1CXB03056112_2",
+      "1CXB03056131",
+      "1CXB03056131_1",
+      "1CXB03056131_3",
+      "1CXB03056131_2",
+      "1CXB03056040",
+      "1CXB03056043",
+      "1CXB03059002"
+     ]
+    }
+   ]
+  },
+  "FCT0105": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123007850110"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 26,
+     "truncated": false,
+     "refs": [
+      "1CXB03066002",
+      "1CXB03066006",
+      "1CXB03066011",
+      "1CXB03066102",
+      "1CXB03066102_2",
+      "1CXB03066102_1",
+      "1CXB03066104",
+      "1CXB03066104_2",
+      "1CXB03066104_1",
+      "1CXB03066007",
+      "1CXB03066019",
+      "1CXB03066021",
+      "1CXB03066004",
+      "1CXB03066039",
+      "1CXB03066003",
+      "1CXB03066009",
+      "1CXB03066008",
+      "1CXB03066133",
+      "1CXB03066133_1",
+      "1CXB03066133_3",
+      "1CXB03066133_2",
+      "1CXB03066131",
+      "1CXB03066131_1",
+      "1CXB03066131_3",
+      "1CXB03066131_2",
+      "1CXB03066259"
+     ]
+    }
+   ]
+  },
+  "FCT0106": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123007961210",
+      "123007742510"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "E4AB0FP0",
+      "C5CB0104P0",
+      "C5CB0105P0",
+      "C5CM0103P0",
+      "C5CM0106P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 11,
+     "truncated": false,
+     "refs": [
+      "1CXB03075902",
+      "1CXB03075903",
+      "1CXB03075903_1",
+      "1CXB03075904",
+      "1CXB03076015",
+      "1CXB03075901",
+      "1CXB03075901_1",
+      "1CXB03075901_2",
+      "1CXB03077033",
+      "1CXB03077033_1",
+      "1CXB03077033_2"
+     ]
+    }
+   ]
+  },
+  "FCT0107": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123007742510"
+     ]
+    }
+   ]
+  },
+  "FCT0108": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CXB03096209",
+      "1CXB03096036",
+      "1CXB03096211"
+     ]
+    }
+   ]
+  },
+  "FCT0109": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "123007741511",
+      "123007741510A",
+      "123007741510"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CXB03132015",
+      "1CXB03132010"
+     ]
+    }
+   ]
+  },
+  "FCT0110": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "1CXB03147004",
+      "1CXB03147024",
+      "1CXB03147024_1",
+      "1CXB03147024_3",
+      "1CXB03147024_2",
+      "1CXB03147025",
+      "1CXB03147025_1",
+      "1CXB03147025_3",
+      "1CXB03147025_2",
+      "1CXB03146238"
+     ]
+    }
+   ]
+  },
+  "FCT0111": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123007745510",
+      "123007744010"
+     ]
+    }
+   ]
+  },
+  "FCT0112": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CXB03105577"
+     ]
+    }
+   ]
+  },
+  "FCT0113": {
+   "parentId": "FCT0101",
+   "parentIds": [
+    "FCT0101"
+   ],
+   "types": []
+  },
+  "FCT0115": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "123006617210",
+      "123006617212",
+      "123006617214"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C5JM0102P0",
+      "C5GM0105P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "1CXB03216819",
+      "1CXB03216830",
+      "1CXB03216815",
+      "1CXB03216815_2",
+      "1CXB03216815_3",
+      "1CXB03216815_1"
+     ]
+    }
+   ]
+  },
+  "FCT0116": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 8,
+     "truncated": false,
+     "refs": [
+      "123007008110",
+      "123007008120",
+      "123007744010",
+      "123007748010",
+      "123007748020",
+      "123007744110",
+      "123008622110",
+      "123007745210"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 19,
+     "truncated": false,
+     "refs": [
+      "1CXB03228260",
+      "1CXB03228224",
+      "1CXB03228291",
+      "1CXB03228207",
+      "1CXB03228222",
+      "1CXB03228221",
+      "1CXB03228220",
+      "1CXB03325398",
+      "1CXB03228264",
+      "1CXB03228281",
+      "1CXB03228284",
+      "1CXB03228280",
+      "1CXB03228282",
+      "1CXB03228283",
+      "1CXB03325397",
+      "1CXB03228211",
+      "1CXB03228010",
+      "1CXB03228271",
+      "1CXB03228013"
+     ]
+    }
+   ]
+  },
+  "FCT0148": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": []
+  },
+  "FCT0117": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "123007845710",
+      "123007845410",
+      "123007845210A",
+      "123007845210",
+      "123007845220A",
+      "123007845220"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "E4AB0FP0",
+      "C5CB0104P0",
+      "C5CB0105P0",
+      "C5CM0103P0",
+      "C5CM0106P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 17,
+     "truncated": false,
+     "refs": [
+      "1CXB03276036",
+      "1CXB03256829",
+      "1CXB03276829",
+      "1CXB03276806",
+      "1CXB03256803",
+      "1CXB03279065",
+      "1CXB03196807",
+      "1CXB03276807",
+      "1CXB03276808",
+      "1CXB03366808",
+      "1CXB03296826",
+      "1CXB03276835",
+      "1CXB03276816",
+      "1CXB03276873",
+      "1CXB03366578",
+      "1CXB03256802",
+      "1CXB03275980"
+     ]
+    }
+   ]
+  },
+  "FCT0118": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "123007745810",
+      "123007745820",
+      "123007845210A",
+      "123007845210",
+      "123007845220A",
+      "123007845220"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 28,
+     "truncated": false,
+     "refs": [
+      "1CXB03248260",
+      "1CXB03248224",
+      "1CXB03246629",
+      "1CXB03248291",
+      "1CXB03246437",
+      "1CXB03248207",
+      "1CXB03248222",
+      "1CXB03248221",
+      "1CXB03248215",
+      "1CXB03248220",
+      "1CXB03246650",
+      "1CXB03246625",
+      "1CXB03246640",
+      "1CXB03249020",
+      "1CXB03246624",
+      "1CXB03247478",
+      "1CXB03247478_1",
+      "1CXB03247478_3",
+      "1CXB03247478_2",
+      "1CXB03296826",
+      "1CXB03248281",
+      "1CXB03248284",
+      "1CXB03248280",
+      "1CXB03248282",
+      "1CXB03248283",
+      "1CXB03247427",
+      "1CXB03246430",
+      "1CXB03248013"
+     ]
+    }
+   ]
+  },
+  "FCT0119": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "E4AB0FP0",
+      "C5CB0104P0",
+      "C5CB0105P0",
+      "C5CM0103P0",
+      "C5CM0106P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CXB03285968",
+      "1CXB03285969"
+     ]
+    }
+   ]
+  },
+  "FCT0120": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123008622110"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CXB03325398",
+      "1CXB03325397"
+     ]
+    }
+   ]
+  },
+  "FCT0121": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123007962010",
+      "123007962020"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "E4AB0FP0",
+      "C5CB0104P0",
+      "C5CB0105P0",
+      "C5CM0103P0",
+      "C5CM0106P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CXB03305967",
+      "1CXB03305351",
+      "1CXB03305970",
+      "1CXB03305990"
+     ]
+    }
+   ]
+  },
+  "FCT0122": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123008980210",
+      "123008980220"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CXB03269090",
+      "1CXB03269063",
+      "1CXB03269087",
+      "1CXB03269037"
+     ]
+    }
+   ]
+  },
+  "FCT0123": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123007845610"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C5DM05P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "1CXB03375323",
+      "1CXB03166805",
+      "1CXB03166803",
+      "1CXB03169055",
+      "1CXB03169056",
+      "1CXB03169056_1",
+      "1CXB03169096",
+      "1CXB03169096_1",
+      "1CXB03169097",
+      "1CXB03166802"
+     ]
+    }
+   ]
+  },
+  "FCT0124": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "123007845210A",
+      "123007845210",
+      "123007845220A",
+      "123007845220"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CXB03296826"
+     ]
+    }
+   ]
+  },
+  "FCT0151": {
+   "parentId": "FCT0114",
+   "parentIds": [
+    "FCT0114"
+   ],
+   "types": []
+  },
+  "FCT0126": {
+   "parentId": "FCT0125",
+   "parentIds": [
+    "FCT0125"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123007747010",
+      "123007747020"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 21,
+     "truncated": false,
+     "refs": [
+      "1CXB03417425",
+      "1CXB03417425_2",
+      "1CXB03417425_1",
+      "1CXB03417605",
+      "1CXB03417605_1",
+      "1CXB03417605_3",
+      "1CXB03417605_2",
+      "1CXB03417606",
+      "1CXB03417606_2",
+      "1CXB03417606_1",
+      "1CXB03417405",
+      "1CXB03417405_1",
+      "1CXB03417405_3",
+      "1CXB03417405_2",
+      "1CXB03417040",
+      "1CXB03417040_1",
+      "1CXB03417040_3",
+      "1CXB03417040_2",
+      "1CXB03417041",
+      "1CXB03417041_2",
+      "1CXB03417041_1"
+     ]
+    }
+   ]
+  },
+  "FCT0127": {
+   "parentId": "FCT0125",
+   "parentIds": [
+    "FCT0125"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123007745510"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 12,
+     "truncated": false,
+     "refs": [
+      "1CXB03427098",
+      "1CXB03427099",
+      "1CXB03427476",
+      "1CXB03427476_1",
+      "1CXB03427476_3",
+      "1CXB03427476_2",
+      "1CXB03427478",
+      "1CXB03427478_1",
+      "1CXB03427478_3",
+      "1CXB03427478_2",
+      "1CXB03427474",
+      "1CXB03426060"
+     ]
+    }
+   ]
+  },
+  "FCT0128": {
+   "parentId": "FCT0125",
+   "parentIds": [
+    "FCT0125"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123007747010",
+      "123007747020"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CXB03437443",
+      "1CXB03437443_1",
+      "1CXB03437443_3",
+      "1CXB03437443_2"
+     ]
+    }
+   ]
+  },
+  "FCT0129": {
+   "parentId": "FCT0125",
+   "parentIds": [
+    "FCT0125"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123007747010",
+      "123007747020"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 26,
+     "truncated": false,
+     "refs": [
+      "1CXB03446342",
+      "1CXB03447441",
+      "1CXB03447441_1",
+      "1CXB03447441_2",
+      "1CXB03447425",
+      "1CXB03447425_2",
+      "1CXB03447425_1",
+      "1CXB03447426",
+      "1CXB03447427",
+      "1CXB03447428",
+      "1CXB03447432",
+      "1CXB03447605",
+      "1CXB03447605_1",
+      "1CXB03447605_3",
+      "1CXB03447605_2",
+      "1CXB03447606",
+      "1CXB03447606_2",
+      "1CXB03447606_1",
+      "1CXB03447403",
+      "1CXB03447404",
+      "1CXB03446646",
+      "1CXB03446696",
+      "1CXB03447405",
+      "1CXB03447405_1",
+      "1CXB03447405_3",
+      "1CXB03447405_2"
+     ]
+    }
+   ]
+  },
+  "FCT0130": {
+   "parentId": "FCT0125",
+   "parentIds": [
+    "FCT0125"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "C5CB0104P0",
+      "C5CB0105P0",
+      "C5CM0106P0"
+     ]
+    }
+   ]
+  },
+  "FCT0132": {
+   "parentId": "FCT0131",
+   "parentIds": [
+    "FCT0131"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 24,
+     "truncated": false,
+     "refs": [
+      "123007854201",
+      "123007854240",
+      "123007854263",
+      "123007854280",
+      "123007854260A",
+      "123007854260",
+      "123007854261A",
+      "123007854261",
+      "123007854210",
+      "123007854270",
+      "123007854220",
+      "123007854290",
+      "123007854230",
+      "123007854202",
+      "123007854250",
+      "123007854010A",
+      "123007854010",
+      "123007854110A",
+      "123007854110",
+      "123007841110",
+      "123007845210A",
+      "123007845210",
+      "123007845220A",
+      "123007845220"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 42,
+     "truncated": false,
+     "refs": [
+      "1CXB03506434",
+      "1CXB03506434_1",
+      "1CXB03506434_3",
+      "1CXB03506434_2",
+      "1CXB03506402",
+      "1CXB03506402_1",
+      "1CXB03506402_3",
+      "1CXB03506402_2",
+      "1CXB04566537",
+      "1CXB04566632",
+      "1CXB03506337",
+      "1CXB04566687",
+      "1CXB03506338",
+      "1CXB03506388",
+      "1CXB04566485",
+      "1CXB04566682",
+      "1CXB04566560",
+      "1CXB04565533",
+      "1CXB03506387",
+      "1CXB03506342",
+      "1CXB03506347",
+      "1CXB03296826",
+      "1CXB03506339",
+      "1CXB03506444",
+      "1CXB03506444_3",
+      "1CXB03506444_2",
+      "1CXB03506444_1",
+      "1CXB03506499",
+      "1CXB03506336",
+      "1CXB03506430",
+      "1CXB03506498",
+      "1CXB03506498_1",
+      "1CXB03506498_3",
+      "1CXB03506498_2",
+      "1CXB03506442",
+      "1CXB03506442_1",
+      "1CXB03506442_3",
+      "1CXB03506442_2",
+      "1CXB04566637",
+      "1CXB03506303",
+      "1CXB03506373",
+      "1CXB03509002"
+     ]
+    }
+   ]
+  },
+  "FCT0133": {
+   "parentId": "FCT0131",
+   "parentIds": [
+    "FCT0131"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123007841410"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C5CM0103P0",
+      "C5CM0106P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 25,
+     "truncated": false,
+     "refs": [
+      "1CXB03535390",
+      "1CXB03535946",
+      "1CXB03535916",
+      "1CXB03535955",
+      "1CXB03535926",
+      "1CXB03535956",
+      "1CXB03536319",
+      "1CXB03535116",
+      "1CXB03535935",
+      "1CXB03535953",
+      "1CXB03535953_2",
+      "1CXB03535953_1",
+      "1CXB03535947",
+      "1CXB03535962",
+      "1CXB03536317",
+      "1CXB03536367",
+      "1CXB03535535",
+      "1CXB03536318",
+      "1CXB03535350",
+      "1CXB03535363",
+      "1CXB03535369",
+      "1CXB03535910",
+      "1CXB03535911",
+      "1CXB03535911_2",
+      "1CXB03535911_1"
+     ]
+    }
+   ]
+  },
+  "FCT0134": {
+   "parentId": "FCT0131",
+   "parentIds": [
+    "FCT0131"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123007841630"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C5DM05P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 21,
+     "truncated": false,
+     "refs": [
+      "1CXB03515320",
+      "1CXB03565320",
+      "1CXB03515322",
+      "1CXB03515328",
+      "1CXB03516304",
+      "1CXB03516305",
+      "1CXB03516302",
+      "1CXB03516306",
+      "1CXB03516311",
+      "1CXB03516371",
+      "1CXB03519055",
+      "1CXB03519056",
+      "1CXB03519056_1",
+      "1CXB03519096",
+      "1CXB03519096_1",
+      "1CXB03519097",
+      "1CXB03516310",
+      "1CXB03516313",
+      "1CXB03516307",
+      "1CXB03516325",
+      "1CXB03516383"
+     ]
+    }
+   ]
+  },
+  "FCT0135": {
+   "parentId": "FCT0131",
+   "parentIds": [
+    "FCT0131"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 18,
+     "truncated": false,
+     "refs": [
+      "123008982828",
+      "123008982843",
+      "123008982813",
+      "123008982816",
+      "123008982855",
+      "123008982822",
+      "123008982858",
+      "123008982819",
+      "123008982810",
+      "123008982825",
+      "123008982834",
+      "123008982846",
+      "123008982840",
+      "123008982831",
+      "123008982837",
+      "123008982849",
+      "123008982852",
+      "123008983210"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 12,
+     "truncated": false,
+     "refs": [
+      "1CXB03546331",
+      "1CXB03546363",
+      "1CXB03545393",
+      "1CXB03545377",
+      "1CXB03545116",
+      "1CXB03546370",
+      "1CXB03546328",
+      "1CXB03546328_2",
+      "1CXB03546328_1",
+      "1CXB03546328_3",
+      "1CXB03546378",
+      "1CXB03546332"
+     ]
+    }
+   ]
+  },
+  "FCT0136": {
+   "parentId": "FCT0131",
+   "parentIds": [
+    "FCT0131"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123007842410",
+      "123007842010"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "1CXB03526355",
+      "1CXB03525393",
+      "1CXB0352636A",
+      "1CXB03526351",
+      "1CXB03526352",
+      "1CXB03526397",
+      "1CXB03526350",
+      "1CXB03526382",
+      "1CXB03526398"
+     ]
+    }
+   ]
+  },
+  "FCT0138": {
+   "parentId": "FCT0137",
+   "parentIds": [
+    "FCT0137"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 24,
+     "truncated": false,
+     "refs": [
+      "123007854201",
+      "123007854240",
+      "123007854263",
+      "123007854280",
+      "123007854260A",
+      "123007854260",
+      "123007854261A",
+      "123007854261",
+      "123007854210",
+      "123007854270",
+      "123007854220",
+      "123007854290",
+      "123007854230",
+      "123007854202",
+      "123007854250",
+      "123007854010A",
+      "123007854010",
+      "123007854110A",
+      "123007854110",
+      "123007846910",
+      "123007845210A",
+      "123007845210",
+      "123007845220A",
+      "123007845220"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 34,
+     "truncated": false,
+     "refs": [
+      "1CXB03606437",
+      "1CXB04566537",
+      "1CXB04566632",
+      "1CXB03606538",
+      "1CXB04566687",
+      "1CXB03606558",
+      "1CXB04566485",
+      "1CXB04566682",
+      "1CXB04566560",
+      "1CXB04565533",
+      "1CXB03606542",
+      "1CXB03646542",
+      "1CXB03606550",
+      "1CXB03296826",
+      "1CXB03606539",
+      "1CXB03606444",
+      "1CXB03606444_3",
+      "1CXB03606444_2",
+      "1CXB03606444_1",
+      "1CXB03606536",
+      "1CXB03606499",
+      "1CXB03606498",
+      "1CXB03606498_1",
+      "1CXB03606498_3",
+      "1CXB03606498_2",
+      "1CXB03606442",
+      "1CXB03606442_1",
+      "1CXB03606442_3",
+      "1CXB03606442_2",
+      "1CXB04566637",
+      "1CXB03606503",
+      "1CXB03606523",
+      "1CXB03609002",
+      "1CXB03605910"
+     ]
+    }
+   ]
+  },
+  "FCT0139": {
+   "parentId": "FCT0137",
+   "parentIds": [
+    "FCT0137"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123007843110"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C5CM0103P0",
+      "C5CM0106P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 21,
+     "truncated": false,
+     "refs": [
+      "1CXB03625364",
+      "1CXB03625939",
+      "1CXB03665939",
+      "1CXB03625965",
+      "1CXB03626519",
+      "1CXB03625987",
+      "1CXB03665987",
+      "1CXB03625988",
+      "1CXB03665988",
+      "1CXB03626517",
+      "1CXB03626569",
+      "1CXB03626518",
+      "1CXB03625351",
+      "1CXB03665351",
+      "1CXB03625974",
+      "1CXB03665974",
+      "1CXB03625974_2",
+      "1CXB03665974_2",
+      "1CXB03625974_1",
+      "1CXB03665974_1",
+      "1CXB03665914"
+     ]
+    }
+   ]
+  },
+  "FCT0140": {
+   "parentId": "FCT0137",
+   "parentIds": [
+    "FCT0137"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123007847110"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "C5DM05P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 20,
+     "truncated": false,
+     "refs": [
+      "1CXB03615323",
+      "1CXB03615320",
+      "1CXB03615322",
+      "1CXB03615328",
+      "1CXB03616522",
+      "1CXB03656522",
+      "1CXB03656502",
+      "1CXB03616506",
+      "1CXB03616511",
+      "1CXB03656511",
+      "1CXB03616521",
+      "1CXB03656521",
+      "1CXB03616510",
+      "1CXB03656510",
+      "1CXB03616561",
+      "1CXB03616513",
+      "1CXB03616507",
+      "1CXB03656507",
+      "1CXB03616525",
+      "1CXB03656525"
+     ]
+    }
+   ]
+  },
+  "FCT0141": {
+   "parentId": "FCT0137",
+   "parentIds": [
+    "FCT0137"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 20,
+     "truncated": false,
+     "refs": [
+      "123008982928",
+      "123008982970",
+      "123008982913",
+      "123008982955",
+      "123008982943",
+      "123008982958",
+      "123008982916",
+      "123008982925",
+      "123008982934",
+      "123008982946",
+      "123008982922",
+      "123008982973",
+      "123008982919",
+      "123008982910",
+      "123008982940",
+      "123008982931",
+      "123008982937",
+      "123008982949",
+      "123008982952",
+      "123008983310"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CXB03636531",
+      "1CXB03636528",
+      "1CXB03676528",
+      "1CXB03636534"
+     ]
+    }
+   ]
+  },
+  "FCT0143": {
+   "parentId": "FCT0142",
+   "parentIds": [
+    "FCT0142"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "123007825510",
+      "123007845210A",
+      "123007845210",
+      "123007845220A",
+      "123007845220"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C5CM0103P0",
+      "C5CM0106P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 20,
+     "truncated": false,
+     "refs": [
+      "1CXB03717898",
+      "1CXB03717899",
+      "1CXB03717854",
+      "1CXB03717855",
+      "1CXB03296826",
+      "1CXB03717425",
+      "1CXB03717425_2",
+      "1CXB03717425_1",
+      "1CXB03717426",
+      "1CXB03717427",
+      "1CXB03717428",
+      "1CXB03717403",
+      "1CXB03717404",
+      "1CXB03717405",
+      "1CXB03717405_1",
+      "1CXB03717405_3",
+      "1CXB03717405_2",
+      "1CXB03717801",
+      "1CXB03717897",
+      "1CXB03717828"
+     ]
+    }
+   ]
+  },
+  "FCT0144": {
+   "parentId": "FCT0142",
+   "parentIds": [
+    "FCT0142"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123007008110",
+      "123007008120"
+     ]
+    }
+   ]
+  },
+  "FCT0235": {
+   "parentId": "FCT0142",
+   "parentIds": [
+    "FCT0142",
+    "FCT0233"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "123008982013",
+      "123008982011",
+      "123008982030",
+      "123008982031",
+      "123008982014",
+      "123008554110"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "1CXB04835327",
+      "1CXB04439070",
+      "1CXB04439085",
+      "1CXB04439040",
+      "1CXB04439086",
+      "1CXB04439094",
+      "1CXB04444346",
+      "1CXB04437838",
+      "1CXB04444344"
+     ]
+    }
+   ]
+  },
+  "FCT0149": {
+   "parentId": "FCT0142",
+   "parentIds": [
+    "FCT0142"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123007825110"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 12,
+     "truncated": false,
+     "refs": [
+      "1CXB04737870",
+      "1CXB04747877",
+      "1CXB04745165",
+      "1CXB04737859",
+      "1CXB04739085",
+      "1CXB04747865",
+      "1CXB04745325",
+      "1CXB04745326",
+      "1CXB04745324",
+      "1CXB04737802",
+      "1CXB04737866",
+      "1CXB04735915"
+     ]
+    }
+   ]
+  },
+  "FCT0146": {
+   "parentId": "FCT0145",
+   "parentIds": [
+    "FCT0145"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123007008110",
+      "123007008120"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "1CXB03767018",
+      "1CXB03769003",
+      "1CXB03762013",
+      "1CXB03762110",
+      "1CXB03762015",
+      "1CXB03769001",
+      "1CXB03769002"
+     ]
+    }
+   ]
+  },
+  "FCT0147": {
+   "parentId": "FCT0145",
+   "parentIds": [
+    "FCT0145"
+   ],
+   "types": []
+  },
+  "FCT0150": {
+   "parentId": "FCT0145",
+   "parentIds": [
+    "FCT0145"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CXB03475331"
+     ]
+    }
+   ]
+  },
+  "FCT0202": {
+   "parentId": "FCT0201",
+   "parentIds": [
+    "FCT0201"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "123005512710",
+      "123005545510",
+      "123005545010",
+      "123008554110"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 17,
+     "truncated": false,
+     "refs": [
+      "1CXB04085125",
+      "1CXB04084341",
+      "1CXB04085125_1",
+      "1CXB04065114",
+      "1CXB04095124",
+      "1CXB04084371",
+      "1CXB04095173",
+      "1CXB04065274",
+      "1CXB04065123",
+      "1CXB04085183",
+      "1CXB04085183_1",
+      "1CXB04095291",
+      "1CXB04065174",
+      "1CXB04065153",
+      "1CXB04444346",
+      "1CXB04065150",
+      "1CXB04444344"
+     ]
+    }
+   ]
+  },
+  "FCT0203": {
+   "parentId": "FCT0201",
+   "parentIds": [
+    "FCT0201"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "123005512710",
+      "123005544010",
+      "123005544013",
+      "123005541010",
+      "123005541110"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 35,
+     "truncated": false,
+     "refs": [
+      "1CXB04015205",
+      "1CXB04035220",
+      "1CXB04075209",
+      "1CXB04075211",
+      "1CXB04075211_1",
+      "1CXB04015206",
+      "1CXB04035225",
+      "1CXB04075210_2",
+      "1CXB04075210",
+      "1CXB04075210_1",
+      "1CXB04075214",
+      "1CXB04075214_1",
+      "1CXB04045277",
+      "1CXB04045281",
+      "1CXB04035276",
+      "1CXB04015280",
+      "1CXB04045280",
+      "1CXB04045282",
+      "1CXB04015207",
+      "1CXB04055272",
+      "1CXB04075215",
+      "1CXB04045250",
+      "1CXB04045251",
+      "1CXB04055289",
+      "1CXB04045286",
+      "1CXB04045288",
+      "1CXB04035299",
+      "1CXB04015296",
+      "1CXB04075298",
+      "1CXB04075297",
+      "1CXB04015293",
+      "1CXB04015202",
+      "1CXB04075213",
+      "1CXB04035219",
+      "1CXB04045262"
+     ]
+    }
+   ]
+  },
+  "FCT0314": {
+   "parentId": "FCT0201",
+   "parentIds": [
+    "FCT0201"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "123005571010",
+      "123005544010",
+      "123005544010A",
+      "123005544013",
+      "123005541010"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 16,
+     "truncated": false,
+     "refs": [
+      "1CXB04035220",
+      "1CXB04035225",
+      "1CXB05315310",
+      "1CXB05315312",
+      "1CXB04045277",
+      "1CXB04045281",
+      "1CXB04035276",
+      "1CXB04045280",
+      "1CXB04045282",
+      "1CXB04045250",
+      "1CXB04045251",
+      "1CXB04045286",
+      "1CXB04045288",
+      "1CXB04035299",
+      "1CXB04035219",
+      "1CXB04045262"
+     ]
+    }
+   ]
+  },
+  "FCT0051": {
+   "parentId": "FCT0201",
+   "parentIds": [
+    "FCT0201",
+    "FCT0205",
+    "FCT0330",
+    "FCT0346"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123005522210"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "1CXB05355105",
+      "1CXB05355130",
+      "1CXB05355130_1",
+      "1CXB05355101",
+      "1CXB05355126",
+      "1CXB05355126_1"
+     ]
+    }
+   ]
+  },
+  "FCT0321": {
+   "parentId": "FCT0205",
+   "parentIds": [
+    "FCT0205"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "123005564410",
+      "123005564210",
+      "123005564110"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 8,
+     "truncated": false,
+     "refs": [
+      "1CXB03875362",
+      "1CXB03855346",
+      "1CXB03875361",
+      "1CXB03875361_1",
+      "1CXB03855348",
+      "1CXB03855348_1",
+      "1CXB03855347",
+      "1CXB03875360"
+     ]
+    }
+   ]
+  },
+  "FCT0322": {
+   "parentId": "FCT0205",
+   "parentIds": [
+    "FCT0205"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "123005561210",
+      "123005561213",
+      "123005561110",
+      "123005522210"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 18,
+     "truncated": false,
+     "refs": [
+      "1CXB03865357",
+      "1CXB05355105",
+      "1CXB05355130",
+      "1CXB05355130_1",
+      "1CXB05355101",
+      "1CXB05355126",
+      "1CXB05355126_1",
+      "1CXB03865330",
+      "1CXB03865542",
+      "1CXB03845339",
+      "1CXB03865355",
+      "1CXB03845334",
+      "1CXB03865356",
+      "1CXB03845341",
+      "1CXB03845343",
+      "1CXB03865358",
+      "1CXB03865354",
+      "1CXB03845333"
+     ]
+    }
+   ]
+  },
+  "FCT0212": {
+   "parentId": "FCT0211",
+   "parentIds": [
+    "FCT0211"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "123005522310",
+      "123007856410",
+      "123007856310",
+      "123005522210"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 33,
+     "truncated": false,
+     "refs": [
+      "1CXB04115048",
+      "1CXB04115048_1",
+      "1CXB04114308",
+      "1CXB04114340",
+      "1CXB04114340_1",
+      "1CXB04875543",
+      "1CXB04114354",
+      "1CXB04114360",
+      "1CXB04114347",
+      "1CXB04134376",
+      "1CXB04114392",
+      "1CXB04134349",
+      "1CXB04114306",
+      "1CXB04114324",
+      "1CXB04114302",
+      "1CXB04114313",
+      "1CXB04114390",
+      "1CXB04135128_2",
+      "1CXB04135128",
+      "1CXB04135128_1",
+      "1CXB04114329",
+      "1CXB04114329_2",
+      "1CXB04114329_1",
+      "1CXB04134377",
+      "1CXB04114301_2",
+      "1CXB04114301",
+      "1CXB04114301_1",
+      "1CXB04114351",
+      "1CXB04114350",
+      "1CXB04114391",
+      "1CXB04114335",
+      "1CXB04105529",
+      "1CXB04114307"
+     ]
+    }
+   ]
+  },
+  "FCT0213": {
+   "parentId": "FCT0211",
+   "parentIds": [
+    "FCT0211",
+    "FCT0516"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "123005521312",
+      "123005521310",
+      "123005521313",
+      "123005521311",
+      "123005521210"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 33,
+     "truncated": false,
+     "refs": [
+      "1CXB04174378",
+      "1CXB04174327",
+      "1CXB04180952",
+      "1CXB04180951",
+      "1CXB04174321",
+      "1CXB04174321_2",
+      "1CXB04174321_1",
+      "1CXB04164320",
+      "1CXB04164320_1",
+      "1CXB04164320_3",
+      "1CXB04164320_2",
+      "1CXB04174325",
+      "1CXB04174325_2",
+      "1CXB04174325_1",
+      "1CXB04174322",
+      "1CXB04174322_1",
+      "1CXB04172597",
+      "1CXB04174328",
+      "1CXB04174382",
+      "1CXB04174380",
+      "1CXB04174381",
+      "1CXB04175170",
+      "1CXB04175184",
+      "1CXB04175175",
+      "1CXB04175175_1",
+      "1CXB04175175_3",
+      "1CXB04175175_2",
+      "1CXB04175199",
+      "1CXB04175192",
+      "1CXB04174329",
+      "1CXB04174329_2",
+      "1CXB04174329_1",
+      "1CXB04174319"
+     ]
+    }
+   ]
+  },
+  "FCT0214": {
+   "parentId": "FCT0211",
+   "parentIds": [
+    "FCT0211"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123007856410"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CXB04284355",
+      "1CXB04284304",
+      "1CXB04284351",
+      "1CXB04284350",
+      "1CXB04284370"
+     ]
+    }
+   ]
+  },
+  "FCT0215": {
+   "parentId": "FCT0211",
+   "parentIds": [
+    "FCT0211"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123006648210"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CXB04295048",
+      "1CXB04295048_1",
+      "1CXB04295037",
+      "1CXB04295037_1"
+     ]
+    }
+   ]
+  },
+  "FCT0216": {
+   "parentId": "FCT0211",
+   "parentIds": [
+    "FCT0211"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "123005523010",
+      "123002532310",
+      "123007853710",
+      "123002533030",
+      "123005521910",
+      "123001336010",
+      "123001336005",
+      "123001336015",
+      "123007856410",
+      "123007856310"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 22,
+     "truncated": false,
+     "refs": [
+      "1CXB04504330",
+      "1CXB04144331",
+      "1CXB04504331",
+      "1CXB04144331_1",
+      "1CXB04504331_1",
+      "1CXB04146533",
+      "1CXB04414312",
+      "1CXB04144311",
+      "1CXB04144314",
+      "1CXB04155126",
+      "1CXB04155126_1",
+      "1CXB04419057",
+      "1CXB04144399",
+      "1CXB03885116",
+      "1CXB04155128_2",
+      "1CXB04155128",
+      "1CXB04155128_1",
+      "1CXB04504329",
+      "1CXB04504329_2",
+      "1CXB04504329_1",
+      "1CXB04145383",
+      "1CXB04155148"
+     ]
+    }
+   ]
+  },
+  "FCT0218": {
+   "parentId": "FCT0217",
+   "parentIds": [
+    "FCT0217"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C5GM0103P0",
+      "C5GM0104P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CXB04215525",
+      "1CXB04218905"
+     ]
+    }
+   ]
+  },
+  "FCT0219": {
+   "parentId": "FCT0217",
+   "parentIds": [
+    "FCT0217"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "123008922910",
+      "123008924661",
+      "123008924660",
+      "123008924651",
+      "123008924650",
+      "123008922510",
+      "123008922530",
+      "123008922520",
+      "123008922540",
+      "123008922610"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CXB04228917",
+      "1CXB04228915",
+      "1CXB04221199",
+      "1CXB04228950"
+     ]
+    }
+   ]
+  },
+  "FCT0220": {
+   "parentId": "FCT0217",
+   "parentIds": [
+    "FCT0217"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "123008941010A",
+      "123008941010",
+      "123008922010A",
+      "123008922010",
+      "123008922610"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CXB04238985",
+      "1CXB04238965",
+      "1CXB04238966",
+      "1CXB04238921",
+      "1CXB04238987"
+     ]
+    }
+   ]
+  },
+  "FCT0221": {
+   "parentId": "FCT0217",
+   "parentIds": [
+    "FCT0217"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C5GM0103P0",
+      "C5GM0104P0"
+     ]
+    }
+   ]
+  },
+  "FCT0237": {
+   "parentId": "FCT0217",
+   "parentIds": [
+    "FCT0217"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "123008616310A",
+      "123008616310B",
+      "123008616310"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "C5JH0104P0",
+      "C5JK0106P0",
+      "C5JK0107P0",
+      "C5JM08P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CXB04489043"
+     ]
+    }
+   ]
+  },
+  "FCT0223": {
+   "parentId": "FCT0222",
+   "parentIds": [
+    "FCT0222"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C5GM0103P0",
+      "C5GM0104P0"
+     ]
+    }
+   ]
+  },
+  "FCT0224": {
+   "parentId": "FCT0222",
+   "parentIds": [
+    "FCT0222"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CXB04408983"
+     ]
+    }
+   ]
+  },
+  "FCT0225": {
+   "parentId": "FCT0222",
+   "parentIds": [
+    "FCT0222"
+   ],
+   "types": []
+  },
+  "FCT0226": {
+   "parentId": "FCT0222",
+   "parentIds": [
+    "FCT0222"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CXB04278973",
+      "1CXB04278972",
+      "1CXB04278992"
+     ]
+    }
+   ]
+  },
+  "FCT0238": {
+   "parentId": "FCT0222",
+   "parentIds": [
+    "FCT0222"
+   ],
+   "types": []
+  },
+  "FCT0228": {
+   "parentId": "FCT0227",
+   "parentIds": [
+    "FCT0227"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C5GM0103P0",
+      "C5GM0104P0"
+     ]
+    }
+   ]
+  },
+  "FCT0229": {
+   "parentId": "FCT0227",
+   "parentIds": [
+    "FCT0227"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "C5GM0103P0",
+      "C5GM0104P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CXB04355526"
+     ]
+    }
+   ]
+  },
+  "FCT0230": {
+   "parentId": "FCT0227",
+   "parentIds": [
+    "FCT0227"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "123008934710",
+      "123008935310",
+      "123008935910",
+      "123008934330",
+      "123008934510",
+      "123008935110",
+      "123008935810"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "1CXB04318967",
+      "1CXB04318968",
+      "1CXB04318993",
+      "1CXB04318929",
+      "1CXB04318954",
+      "1CXB04318953"
+     ]
+    }
+   ]
+  },
+  "FCT0231": {
+   "parentId": "FCT0227",
+   "parentIds": [
+    "FCT0227"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 8,
+     "truncated": false,
+     "refs": [
+      "123008934822",
+      "123008934810",
+      "123008934820",
+      "123008934821",
+      "123008934830",
+      "123008934823A",
+      "123008941210A",
+      "123008941210"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "1CXB04328985",
+      "1CXB04328911",
+      "1CXB04328910",
+      "1CXB04328956",
+      "1CXB04328955",
+      "1CXB04328909",
+      "1CXB04328959",
+      "1CXB04328987",
+      "1CXB04328957",
+      "1CXB04328958"
+     ]
+    }
+   ]
+  },
+  "FCT0232": {
+   "parentId": "FCT0227",
+   "parentIds": [
+    "FCT0227"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CXB04388973",
+      "1CXB04388972",
+      "1CXB04388992"
+     ]
+    }
+   ]
+  },
+  "FCT0239": {
+   "parentId": "FCT0227",
+   "parentIds": [
+    "FCT0227"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "123008616610A",
+      "123008616610B",
+      "123008616610",
+      "123008616510A",
+      "123008616510"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CXB04499045",
+      "1CXB04499044"
+     ]
+    }
+   ]
+  },
+  "FCT0240": {
+   "parentId": "FCT0227",
+   "parentIds": [
+    "FCT0227",
+    "FCT0233"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123008982310"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CXB04479054",
+      "1CXB04479051"
+     ]
+    }
+   ]
+  },
+  "FCT0234": {
+   "parentId": "FCT0233",
+   "parentIds": [
+    "FCT0233"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "123008980210",
+      "123008980220",
+      "123008982013",
+      "123008982011",
+      "123008979602",
+      "123008979601",
+      "123008979210A",
+      "123008979210",
+      "123008979410"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 23,
+     "truncated": false,
+     "refs": [
+      "1CXB04469093",
+      "1CXB04599093",
+      "1CXB04469092",
+      "1CXB04599092",
+      "1CXB03269090",
+      "1CXB04429074",
+      "1CXB04469077",
+      "1CXB03269063",
+      "1CXB04599063",
+      "1CXB04579073",
+      "1CXB04429075",
+      "1CXB04469069",
+      "1CXB03269087",
+      "1CXB03269037",
+      "1CXB04469061",
+      "1CXB04597838",
+      "1CXB04597839",
+      "1CXB04425596",
+      "1CXB04458939",
+      "1CXB04458938",
+      "1CXB04458941",
+      "1CXB04425548",
+      "1CXB04425594"
+     ]
+    }
+   ]
+  },
+  "FCT0236": {
+   "parentId": "FCT0233",
+   "parentIds": [
+    "FCT0233"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 19,
+     "truncated": false,
+     "refs": [
+      "123007854201",
+      "123007854240",
+      "123007854263",
+      "123007854280",
+      "123007854260A",
+      "123007854260",
+      "123007854261A",
+      "123007854261",
+      "123007854210",
+      "123007854270",
+      "123007854220",
+      "123007854290",
+      "123007854230",
+      "123007854202",
+      "123007854250",
+      "123007854010A",
+      "123007854010",
+      "123007854110A",
+      "123007854110"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 10,
+     "truncated": false,
+     "refs": [
+      "1CXB04566537",
+      "1CXB04566632",
+      "1CXB04566687",
+      "1CXB04566485",
+      "1CXB04566682",
+      "1CXB04566560",
+      "1CXB04565533",
+      "1CXB04555571",
+      "1CXB04555597",
+      "1CXB04566637"
+     ]
+    }
+   ]
+  },
+  "FCT0701": {
+   "parentId": "FCT0700",
+   "parentIds": [
+    "FCT0700"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    }
+   ]
+  },
+  "FCT0703": {
+   "parentId": "FCT0700",
+   "parentIds": [
+    "FCT0700",
+    "FCT0346"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    }
+   ]
+  },
+  "FCT0704": {
+   "parentId": "FCT0700",
+   "parentIds": [
+    "FCT0700"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    }
+   ]
+  },
+  "FCT0705": {
+   "parentId": "FCT0700",
+   "parentIds": [
+    "FCT0700"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    }
+   ]
+  },
+  "FCT0706": {
+   "parentId": "FCT0700",
+   "parentIds": [
+    "FCT0700"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    }
+   ]
+  },
+  "FCT0942": {
+   "parentId": "FCT0700",
+   "parentIds": [
+    "FCT0700"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "123005616110",
+      "123005616111",
+      "123005615610",
+      "123005616010",
+      "123005616012",
+      "123005614510"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 9,
+     "truncated": false,
+     "refs": [
+      "1CXB05325420",
+      "1CXB05465373",
+      "1CXB05465372",
+      "1CXB05475160",
+      "1CXB05475399",
+      "1CXB05475157",
+      "1CXB05475157_1",
+      "1CXB05475157_2",
+      "1CXB05465469"
+     ]
+    }
+   ]
+  },
+  "FCT0946": {
+   "parentId": "FCT0700",
+   "parentIds": [
+    "FCT0700"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    }
+   ]
+  },
+  "FCT0302": {
+   "parentId": "FCT0301",
+   "parentIds": [
+    "FCT0301"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 30,
+     "truncated": false,
+     "refs": [
+      "123002533020",
+      "123002533015",
+      "123002533030",
+      "123002533010",
+      "123002533025",
+      "123002533211B",
+      "123002533213",
+      "123002533214",
+      "123002533221",
+      "123002533231K",
+      "123002533216F",
+      "123002533212",
+      "123002533220",
+      "123002533224",
+      "123002533223",
+      "123002533218",
+      "123002533211",
+      "123002533210",
+      "123002533216",
+      "123002533226E",
+      "123002533225",
+      "123002533219",
+      "123002533222",
+      "123002533211A",
+      "123002533105",
+      "123002533115",
+      "123002533110",
+      "123002533118",
+      "123002533111",
+      "123002533120"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CXB04911151",
+      "1CXB04921158",
+      "1CXB04921152",
+      "1CXB04911157"
+     ]
+    }
+   ]
+  },
+  "FCT0303": {
+   "parentId": "FCT0301",
+   "parentIds": [
+    "FCT0301"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 56,
+     "truncated": false,
+     "refs": [
+      "123002532011",
+      "123002532015P",
+      "123002532010",
+      "123002532011A",
+      "123002532011I",
+      "123002532011L",
+      "123002532011G",
+      "123002532011H",
+      "123002532011N",
+      "123002532011K",
+      "123002532011F",
+      "123002532015B",
+      "123002532014A",
+      "123002532015A",
+      "123002532012G",
+      "123002532012F",
+      "123002532014",
+      "123002532015",
+      "123002532013",
+      "123002532013F",
+      "123002532014L",
+      "123002532015H",
+      "123002532015G",
+      "123002532015F",
+      "123002532014F",
+      "123002532013R",
+      "123002532014K",
+      "123002532015N",
+      "123002532013L",
+      "123002532513L",
+      "123002532502",
+      "123002532513W",
+      "123002532513J",
+      "123002532504",
+      "123002532503",
+      "123002532513R",
+      "123002532513T",
+      "123002532310A",
+      "123002532310",
+      "123002532315",
+      "123002532316",
+      "123002532314",
+      "123002532406",
+      "123002532405",
+      "123002532410A",
+      "123002532410",
+      "123002532420",
+      "123002532425",
+      "123002532411",
+      "123002532235",
+      "123002532240",
+      "123002532225",
+      "123002532228",
+      "123002532210",
+      "123002532225A",
+      "123002532225B"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 8,
+     "truncated": false,
+     "refs": [
+      "1CXB04961108",
+      "1CXB04961120",
+      "1CXB04961109",
+      "1CXB04971115",
+      "1CXB04961113",
+      "1CXB04961107",
+      "1CXB04961111",
+      "1CXB04961110"
+     ]
+    }
+   ]
+  },
+  "FCT0304": {
+   "parentId": "FCT0301",
+   "parentIds": [
+    "FCT0301"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123002212101",
+      "123002212102"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "B1HD04P0",
+      "B1HD03P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CXB04820635",
+      "1CXB04820636",
+      "1CXB04820638",
+      "1CXB04824224"
+     ]
+    }
+   ]
+  },
+  "FCT0305": {
+   "parentId": "FCT0301",
+   "parentIds": [
+    "FCT0301"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123005531010"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "E2AK010FP0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CXB04861101",
+      "1CXB04865402",
+      "1CXB04865401"
+     ]
+    }
+   ]
+  },
+  "FCT0766": {
+   "parentId": "FCT0301",
+   "parentIds": [
+    "FCT0301"
+   ],
+   "types": []
+  },
+  "FCT0307": {
+   "parentId": "FCT0306",
+   "parentIds": [
+    "FCT0306"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "123005512611",
+      "123005512610"
+     ]
+    }
+   ]
+  },
+  "FCT0308": {
+   "parentId": "FCT0306",
+   "parentIds": [
+    "FCT0306"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 47,
+     "truncated": false,
+     "refs": [
+      "123005501401",
+      "123005501002",
+      "123005501001",
+      "123005501105H",
+      "123005501101",
+      "123005501106",
+      "123005501107",
+      "123005501105",
+      "123005501102",
+      "123005501103",
+      "123005501104",
+      "123005501123",
+      "123005501122",
+      "123005501120",
+      "123005501121",
+      "123005501124",
+      "123005501125",
+      "123005501126",
+      "123005501108",
+      "123005501109",
+      "123005501301",
+      "123005501302",
+      "123005501701",
+      "123005501702",
+      "123005501204",
+      "123005501202",
+      "123005501201",
+      "123005501203",
+      "123005501270",
+      "123005501205",
+      "123005501206",
+      "123005501271",
+      "123005501207",
+      "123005501272",
+      "123005501250",
+      "123005501208",
+      "123005501252",
+      "123005501251",
+      "123005501209",
+      "123005501273",
+      "123005501274",
+      "123005501210",
+      "123005501253",
+      "123005501275",
+      "123005501211",
+      "123005501290",
+      "123005501501"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 20,
+     "truncated": false,
+     "refs": [
+      "1CXB05195487",
+      "1CXB05145499",
+      "1CXB05145491",
+      "1CXB05145428",
+      "1CXB05125456",
+      "1CXB05125405",
+      "1CXB05135405",
+      "1CXB05125404",
+      "1CXB05135404",
+      "1CXB05125404_1",
+      "1CXB05135404_1",
+      "1CXB05125404_2",
+      "1CXB05135404_2",
+      "1CXB05145408",
+      "1CXB05145492",
+      "1CXB05195429",
+      "1CXB05195415",
+      "1CXB05145493",
+      "1CXB05145486",
+      "1CXB05195449"
+     ]
+    }
+   ]
+  },
+  "FCT0309": {
+   "parentId": "FCT0306",
+   "parentIds": [
+    "FCT0306"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 23,
+     "truncated": false,
+     "refs": [
+      "123005502101",
+      "123005502102",
+      "123005502450",
+      "123005502402",
+      "123005502401",
+      "123005502404",
+      "123005502403",
+      "123005502405",
+      "123005502451",
+      "123005501850",
+      "123005501840",
+      "123005501851",
+      "123005501854",
+      "123005501852",
+      "123005501853",
+      "123005501860",
+      "123005501801",
+      "123005501802",
+      "123005501803",
+      "123005501806",
+      "123005501805",
+      "123005501804",
+      "123005502301"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 22,
+     "truncated": false,
+     "refs": [
+      "1CXB05205470",
+      "1CXB05235443",
+      "1CXB05215437",
+      "1CXB05255482",
+      "1CXB05235434",
+      "1CXB05265489",
+      "1CXB05205407",
+      "1CXB05215438",
+      "1CXB05215438_2",
+      "1CXB05215438_1",
+      "1CXB05255460",
+      "1CXB05055453",
+      "1CXB05255453",
+      "1CXB05205494",
+      "1CXB05205409",
+      "1CXB05205409_1",
+      "1CXB05205409_2",
+      "1CXB05255425",
+      "1CXB05055471",
+      "1CXB05255471",
+      "1CXB05205454",
+      "1CXB05235479"
+     ]
+    }
+   ]
+  },
+  "FCT0310": {
+   "parentId": "FCT0306",
+   "parentIds": [
+    "FCT0306"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "123005502501",
+      "123005502530",
+      "123005502430"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "D6AM03P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 7,
+     "truncated": false,
+     "refs": [
+      "1CXB05285410",
+      "1CXB05285432",
+      "1CXB05285447",
+      "1CXB05285430",
+      "1CXB05275465",
+      "1CXB05285462",
+      "1CXB05295413"
+     ]
+    }
+   ]
+  },
+  "FCT0767": {
+   "parentId": "FCT0306",
+   "parentIds": [
+    "FCT0306"
+   ],
+   "types": []
+  },
+  "FCT0954": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": []
+  },
+  "FCT0955": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": []
+  },
+  "FCT0503": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123005614510"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CXB05475160",
+      "1CXB05475399",
+      "1CXB05475157",
+      "1CXB05475157_1",
+      "1CXB05475157_2"
+     ]
+    }
+   ]
+  },
+  "FCT0956": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": []
+  },
+  "FCT0957": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": []
+  },
+  "FCT0958": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": []
+  },
+  "FCT0959": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": []
+  },
+  "FCT0960": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": []
+  },
+  "FCT0961": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": []
+  },
+  "FCT0319": {
+   "parentId": "FCT0516",
+   "parentIds": [
+    "FCT0516"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123005521810"
+     ]
+    }
+   ]
+  },
+  "FCT0324": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": []
+  },
+  "FCT0311": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 12,
+     "truncated": false,
+     "refs": [
+      "1CXB05455537",
+      "1CXB05455675",
+      "1CXB05455677",
+      "1CXB05455652",
+      "1CXB05455654",
+      "1CXB05455655",
+      "1CXB05455656",
+      "1CXB05455657",
+      "1CXB05455670",
+      "1CXB05455129",
+      "1CXB05455650",
+      "1CXB05455538"
+     ]
+    }
+   ]
+  },
+  "FCT0325": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123005571501"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "1CXB05365321",
+      "1CXB05365321_2",
+      "1CXB05365321_1",
+      "1CXB05365392"
+     ]
+    }
+   ]
+  },
+  "FCT0857": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "1CXB03646542"
+     ]
+    }
+   ]
+  },
+  "FCT0329": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "123007962010",
+      "123007962020",
+      "123007843110",
+      "123007841410"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "E4AB0FP0",
+      "C5CB0104P0",
+      "C5CB0105P0",
+      "C5CM0103P0",
+      "C5CM0106P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 50,
+     "truncated": false,
+     "refs": [
+      "1CXB03625364",
+      "1CXB03535390",
+      "1CXB03535946",
+      "1CXB03535916",
+      "1CXB03535955",
+      "1CXB03625939",
+      "1CXB03665939",
+      "1CXB03535926",
+      "1CXB03625965",
+      "1CXB03535956",
+      "1CXB03305967",
+      "1CXB03536319",
+      "1CXB03626519",
+      "1CXB03535116",
+      "1CXB03625987",
+      "1CXB03665987",
+      "1CXB03625988",
+      "1CXB03665988",
+      "1CXB03535935",
+      "1CXB03535953",
+      "1CXB03535953_2",
+      "1CXB03535953_1",
+      "1CXB03535947",
+      "1CXB03535962",
+      "1CXB03626517",
+      "1CXB03536317",
+      "1CXB03626569",
+      "1CXB03536367",
+      "1CXB03535535",
+      "1CXB03536318",
+      "1CXB03626518",
+      "1CXB03305351",
+      "1CXB03625351",
+      "1CXB03665351",
+      "1CXB03535350",
+      "1CXB03535363",
+      "1CXB03535369",
+      "1CXB03535910",
+      "1CXB03535911",
+      "1CXB03535911_2",
+      "1CXB03535911_1",
+      "1CXB03625974",
+      "1CXB03665974",
+      "1CXB03625974_2",
+      "1CXB03665974_2",
+      "1CXB03625974_1",
+      "1CXB03665974_1",
+      "1CXB03665914",
+      "1CXB03305970",
+      "1CXB03305990"
+     ]
+    }
+   ]
+  },
+  "FCT0858": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CXB03256829",
+      "1CXB03256803",
+      "1CXB03256802"
+     ]
+    }
+   ]
+  },
+  "FCT0952": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 8,
+     "truncated": false,
+     "refs": [
+      "123008616310A",
+      "123008616310B",
+      "123008616310",
+      "123008616610A",
+      "123008616610B",
+      "123008616610",
+      "123008616510A",
+      "123008616510"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "C5JH0104P0",
+      "C5JK0106P0",
+      "C5JK0107P0",
+      "C5JM08P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "1CXB04499045",
+      "1CXB04499044",
+      "1CXB04489043"
+     ]
+    }
+   ]
+  },
+  "FCT0953": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": [
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 4,
+     "truncated": false,
+     "refs": [
+      "C5JH0104P0",
+      "C5JK0106P0",
+      "C5JK0107P0",
+      "C5JM08P0"
+     ]
+    }
+   ]
+  },
+  "FCT0327": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": []
+  },
+  "FCT0328": {
+   "parentId": "FCT0323",
+   "parentIds": [
+    "FCT0323"
+   ],
+   "types": []
+  },
+  "FCT0331": {
+   "parentId": "FCT0330",
+   "parentIds": [
+    "FCT0330"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "123007842410",
+      "123008554110",
+      "123007842010"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 11,
+     "truncated": false,
+     "refs": [
+      "1CXB03526355",
+      "1CXB03525393",
+      "1CXB0352636A",
+      "1CXB03526351",
+      "1CXB04444346",
+      "1CXB03526352",
+      "1CXB03526397",
+      "1CXB03526350",
+      "1CXB04444344",
+      "1CXB03526382",
+      "1CXB03526398"
+     ]
+    }
+   ]
+  },
+  "FCT0333": {
+   "parentId": "FCT0330",
+   "parentIds": [
+    "FCT0330"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 15,
+     "truncated": false,
+     "refs": [
+      "123008934710",
+      "123008935910",
+      "123008934330",
+      "123008934510",
+      "123008935810",
+      "123008922910",
+      "123008924661",
+      "123008924660",
+      "123008924651",
+      "123008924650",
+      "123008922510",
+      "123008922530",
+      "123008922520",
+      "123008922540",
+      "123008922610"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 13,
+     "truncated": false,
+     "refs": [
+      "1CXB04228917",
+      "1CXB04318967",
+      "1CXB04318968",
+      "1CXB04228915",
+      "1CXB04318993",
+      "1CXB04221199",
+      "1CXB04318929",
+      "1CXB04318954",
+      "1CXB04355526",
+      "1CXB04215525",
+      "1CXB04228950",
+      "1CXB04218905",
+      "1CXB04318953"
+     ]
+    }
+   ]
+  },
+  "FCT0877": {
+   "parentId": "FCT0330",
+   "parentIds": [
+    "FCT0330"
+   ],
+   "types": [
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 2,
+     "truncated": false,
+     "refs": [
+      "1CXB04215525",
+      "1CXB04218905"
+     ]
+    }
+   ]
+  },
+  "FCT0951": {
+   "parentId": "FCT0334",
+   "parentIds": [
+    "FCT0334"
+   ],
+   "types": []
+  },
+  "FCT0336": {
+   "parentId": "FCT0334",
+   "parentIds": [
+    "FCT0334"
+   ],
+   "types": []
+  },
+  "FCT0338": {
+   "parentId": "FCT0334",
+   "parentIds": [
+    "FCT0334"
+   ],
+   "types": []
+  },
+  "FCT0351": {
+   "parentId": "FCT0334",
+   "parentIds": [
+    "FCT0334"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123004455510"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 5,
+     "truncated": false,
+     "refs": [
+      "1CXB02392586",
+      "1CXB02392587",
+      "1CXB02395146",
+      "1CXB02392576",
+      "1CXB02392577"
+     ]
+    }
+   ]
+  },
+  "FCT0341": {
+   "parentId": "FCT0334",
+   "parentIds": [
+    "FCT0334"
+   ],
+   "types": []
+  },
+  "FCT0343": {
+   "parentId": "FCT0334",
+   "parentIds": [
+    "FCT0334"
+   ],
+   "types": []
+  },
+  "FCT0344": {
+   "parentId": "FCT0334",
+   "parentIds": [
+    "FCT0334"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 1,
+     "truncated": false,
+     "refs": [
+      "123005522210"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 6,
+     "truncated": false,
+     "refs": [
+      "1CXB05355105",
+      "1CXB05355130",
+      "1CXB05355130_1",
+      "1CXB05355101",
+      "1CXB05355126",
+      "1CXB05355126_1"
+     ]
+    }
+   ]
+  },
+  "FCT0345": {
+   "parentId": "FCT0334",
+   "parentIds": [
+    "FCT0334"
+   ],
+   "types": []
+  },
+  "FCT0347": {
+   "parentId": "FCT0346",
+   "parentIds": [
+    "FCT0346"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 18,
+     "truncated": false,
+     "refs": [
+      "123006642510",
+      "123006641710",
+      "123006644510",
+      "123006641215",
+      "123006641210",
+      "123006641110",
+      "123006641014",
+      "123006641010",
+      "123006641010A",
+      "123006641011",
+      "123006641011A",
+      "123006641013",
+      "123006643110",
+      "123006643112",
+      "123006647010",
+      "123006648610",
+      "123006642310",
+      "123006642312"
+     ]
+    },
+    {
+     "typDoc": "2",
+     "label": "Méthodes de réparation",
+     "count": 20,
+     "truncated": false,
+     "refs": [
+      "C5HB0AP0",
+      "C5HB08P0",
+      "C5HD0BP0",
+      "C5HD010SP0",
+      "C5HD010QP0",
+      "C5HE03P0",
+      "C5HG0QP0",
+      "C5HG0NP0",
+      "C5HG0PP0",
+      "C5HG0MP0",
+      "C5HH01P0",
+      "C5HI03P0",
+      "C5HI0CP0",
+      "C5HK0CP0",
+      "C5HK0BP0",
+      "C5HK04P0",
+      "C5HK07P0",
+      "C5HM05P0",
+      "C5HM0AP0",
+      "C5HM04P0"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 77,
+     "truncated": false,
+     "refs": [
+      "1CXB04624943",
+      "1CXB04624943_2",
+      "1CXB04624943_1",
+      "1CXB04614940_2",
+      "1CXB04614940_1",
+      "1CXB04614940",
+      "1CXB04645052",
+      "1CXB04645052_1",
+      "1CXB04645052_2",
+      "1CXB04624941",
+      "1CXB04624941_2",
+      "1CXB04624941_1",
+      "1CXB04624942",
+      "1CXB04624942_2",
+      "1CXB04624942_1",
+      "1CXB04695022",
+      "1CXB04635001",
+      "1CXB04664963",
+      "1CXB04604900",
+      "1CXB04684902",
+      "1CXB04674919",
+      "1CXB04695031",
+      "1CXB04695039",
+      "1CXB04695039_1",
+      "1CXB04695039_2",
+      "1CXB04695040",
+      "1CXB04695057",
+      "1CXB04684904",
+      "1CXB04684906",
+      "1CXB04625012",
+      "1CXB04674910",
+      "1CXB04664920",
+      "1CXB04664921",
+      "1CXB04674909",
+      "1CXB04684909",
+      "1CXB04614950",
+      "1CXB04615050",
+      "1CXB04635177",
+      "1CXB04615060",
+      "1CXB04614961",
+      "1CXB04614962",
+      "1CXB04624962",
+      "1CXB04614938",
+      "1CXB04884938",
+      "1CXB04614938_1",
+      "1CXB04884938_1",
+      "1CXB04614938_2",
+      "1CXB04884938_2",
+      "1CXB04614939",
+      "1CXB04614939_1",
+      "1CXB04625046",
+      "1CXB04615059",
+      "1CXB04635006",
+      "1CXB04684905",
+      "1CXB04674918",
+      "1CXB04624925",
+      "1CXB04624923",
+      "1CXB04625041",
+      "1CXB04625041_1",
+      "1CXB04624924",
+      "1CXB04624959",
+      "1CXB04625097",
+      "1CXB04624960",
+      "1CXB04645055",
+      "1CXB04645055_1",
+      "1CXB04645055_2",
+      "1CXB04615086",
+      "1CXB04624922",
+      "1CXB04624922_2",
+      "1CXB04624922_1",
+      "1CXB04674911",
+      "1CXB04764930",
+      "1CXB04764928",
+      "1CXB04764931",
+      "1CXB04764929",
+      "1CXB04645074",
+      "1CXB04695017"
+     ]
+    }
+   ]
+  },
+  "FCT0348": {
+   "parentId": "FCT0346",
+   "parentIds": [
+    "FCT0346"
+   ],
+   "types": []
+  },
+  "FCT0349": {
+   "parentId": "FCT0346",
+   "parentIds": [
+    "FCT0346"
+   ],
+   "types": []
+  },
+  "FCT0350": {
+   "parentId": "FCT0346",
+   "parentIds": [
+    "FCT0346"
+   ],
+   "types": [
+    {
+     "typDoc": "1",
+     "label": "Pièces",
+     "count": 3,
+     "truncated": false,
+     "refs": [
+      "123005653310",
+      "123005521810",
+      "123005522210"
+     ]
+    },
+    {
+     "typDoc": "6",
+     "label": "Barème des temps",
+     "count": 30,
+     "truncated": false,
+     "refs": [
+      "1CXB05425382",
+      "1CXB05425608",
+      "1CXB05415502",
+      "1CXB05415514",
+      "1CXB05425514",
+      "1CXB05415384",
+      "1CXB05355105",
+      "1CXB05425455",
+      "1CXB05445622",
+      "1CXB05445602",
+      "1CXB05355130",
+      "1CXB05355130_1",
+      "1CXB05355101",
+      "1CXB05355126",
+      "1CXB05355126_1",
+      "1CXB05445604",
+      "1CXB05445623",
+      "1CXB05445603",
+      "1CXB05445607",
+      "1CXB05445605",
+      "1CXB05445606",
+      "1CXB05445612",
+      "1CXB05435381",
+      "1CXB05435378",
+      "1CXB05435378_1",
+      "1CXB05435379",
+      "1CXB05445611",
+      "1CXB05445601",
+      "1CXB05445621",
+      "1CXB05445614"
+     ]
+    }
+   ]
+  }
+ }
+}

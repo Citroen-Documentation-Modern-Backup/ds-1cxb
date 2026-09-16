@@ -1,0 +1,18 @@
+{
+ "ref": "123002141019",
+ "refDisplay": "1230 02 141019",
+ "title": "COLLECTEUR ADMISSION",
+ "nature": "",
+ "applicability": "GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

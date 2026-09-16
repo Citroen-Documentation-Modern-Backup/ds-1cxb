@@ -1,0 +1,18 @@
+{
+ "ref": "123001331801A",
+ "refDisplay": "1230 01 331801A",
+ "title": "BOITE TRANSFERT-DETAILS",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET (I) ITALIE ET (GR) GRECE JUSQU’A OPR 04192",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0020"
+  }
+ ]
+}

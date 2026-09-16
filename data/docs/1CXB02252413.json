@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB02252413",
+ "refDisplay": "1CXB 0 225 2413",
+ "title": "BIELLES DE CONNEXIONS 2 COTES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0037"
+  }
+ ]
+}

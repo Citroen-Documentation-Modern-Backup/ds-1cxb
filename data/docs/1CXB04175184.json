@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB04175184",
+ "refDisplay": "1CXB 0 417 5184",
+ "title": "LAMPE D’AFFICHEUR SYNOPTIQUE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0213"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123005502102",
+ "refDisplay": "1230 05 502102",
+ "title": "FAISCEAU D’HABITACLE - PLAFONNIER",
+ "nature": "",
+ "applicability": "BREAK",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

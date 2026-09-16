@@ -1,0 +1,18 @@
+{
+ "ref": "123002141910",
+ "refDisplay": "1230 02 141910",
+ "title": "COMMANDE D’ACCELERATEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET (I) ITALIE ET (GR) GRECE DEPUIS DATE 19860701 JUSQU’A OPR 04205",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

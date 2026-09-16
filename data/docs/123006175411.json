@@ -1,0 +1,18 @@
+{
+ "ref": "123006175411",
+ "refDisplay": "1230 06 175411",
+ "title": "ANTI-POLLUTION (CANALISATION)",
+ "nature": "",
+ "applicability": "1,360L ET INJ MONOPOINT ET (CH) SUISSE ET (S) SUEDE ET (A) AUTRICHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

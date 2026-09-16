@@ -1,0 +1,18 @@
+{
+ "ref": "123002184012",
+ "refDisplay": "1230 02 184012",
+ "title": "ANTI POLLUTION-CIRCUIT DEPRESSION",
+ "nature": "",
+ "applicability": "1,580L ET CARBURATEUR ET (CH) SUISSE ET (A) AUTRICHE JUSQU’A DATE 19870630",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

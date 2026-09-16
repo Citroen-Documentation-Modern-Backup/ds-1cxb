@@ -1,0 +1,28 @@
+{
+ "ref": "123007854260",
+ "refDisplay": "1230 07 854260",
+ "title": "DECORS ADHESIFS",
+ "nature": "",
+ "applicability": "IMAGE ET BERLINE 5PTES JUSQU’A DATE 19910401",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0236"
+  }
+ ]
+}

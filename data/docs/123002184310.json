@@ -1,0 +1,18 @@
+{
+ "ref": "123002184310",
+ "refDisplay": "1230 02 184310",
+ "title": "CIRCUIT ANTI POLLUTION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET (CH) SUISSE ET (S) SUEDE JUSQU’A OPR 05439",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

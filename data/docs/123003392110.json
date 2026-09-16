@@ -1,0 +1,18 @@
+{
+ "ref": "123003392110",
+ "refDisplay": "1230 03 392110",
+ "title": "VANNE DE SECURITE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

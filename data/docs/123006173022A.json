@@ -1,0 +1,18 @@
+{
+ "ref": "123006173022A",
+ "refDisplay": "1230 06 173022A",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": "15 RE ET (CH) SUISSE ET (A) AUTRICHE ET (S) SUEDE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

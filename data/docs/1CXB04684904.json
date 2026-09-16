@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB04684904",
+ "refDisplay": "1CXB 0 468 4904",
+ "title": "COUPELLES SUPPORTS COMPRESSEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

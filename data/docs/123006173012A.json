@@ -1,0 +1,18 @@
+{
+ "ref": "123006173012A",
+ "refDisplay": "1230 06 173012A",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": "CARBURATEUR ET 1,360L DEPUIS OPR 05440",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

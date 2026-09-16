@@ -1,0 +1,18 @@
+{
+ "ref": "123003391310A",
+ "refDisplay": "1230 03 391310A",
+ "title": "POMPE HP-SUPPORT-TENDEUR-FIXATION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET (I) ITALIE ET (GR) GRECE DEPUIS OPR 04206",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

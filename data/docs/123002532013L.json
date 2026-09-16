@@ -1,0 +1,18 @@
+{
+ "ref": "123002532013L",
+ "refDisplay": "1230 02 532013L",
+ "title": "ALTERNATEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,905L ET PAYS FROIDS ET CLIMATISEUR ET ATMOSPHERE POUSSIERES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

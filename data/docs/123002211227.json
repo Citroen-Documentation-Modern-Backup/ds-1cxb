@@ -1,0 +1,18 @@
+{
+ "ref": "123002211227",
+ "refDisplay": "1230 02 211227",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,905L ET INJECTION ET (J) JAPON DEPUIS OPR 04680",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

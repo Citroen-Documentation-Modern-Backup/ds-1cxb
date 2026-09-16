@@ -1,0 +1,18 @@
+{
+ "ref": "123002181010M",
+ "refDisplay": "1230 02 181010M",
+ "title": "TUBULURE D’ECHAPPEMENT",
+ "nature": "",
+ "applicability": "1,360L ET INJ MONOPOINT DEPUIS OPR 05440",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

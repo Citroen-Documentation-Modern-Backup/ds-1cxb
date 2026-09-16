@@ -1,0 +1,18 @@
+{
+ "ref": "123005616012",
+ "refDisplay": "1230 05 616012",
+ "title": "BOITIER ELECTRONIQUE DE MULTIPLEXAGE",
+ "nature": "",
+ "applicability": "(XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0942"
+  }
+ ]
+}

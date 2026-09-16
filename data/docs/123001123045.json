@@ -1,0 +1,18 @@
+{
+ "ref": "123001123045",
+ "refDisplay": "1230 01 123045",
+ "title": "ARBRE A CAMES",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET TURBO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0007"
+  }
+ ]
+}

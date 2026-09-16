@@ -1,0 +1,18 @@
+{
+ "ref": "123006641013",
+ "refDisplay": "1230 06 641013",
+ "title": "CLIMATISATION COMPRESSEUR CONDENSEUR",
+ "nature": "",
+ "applicability": "GTI 16S DEPUIS OPR 04131",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123006235411",
+ "refDisplay": "1230 06 235411",
+ "title": "CANALISATION D’EAU - FIXATION",
+ "nature": "",
+ "applicability": "CARBURATEUR ET 1,580L ET 1,905L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

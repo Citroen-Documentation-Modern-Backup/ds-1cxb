@@ -1,0 +1,18 @@
+{
+ "ref": "123005501701",
+ "refDisplay": "1230 05 501701",
+ "title": "FAISCEAU FREINS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

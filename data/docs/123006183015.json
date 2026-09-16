@@ -1,0 +1,18 @@
+{
+ "ref": "123006183015",
+ "refDisplay": "1230 06 183015",
+ "title": "ECHAPPEMENT AVANT",
+ "nature": "",
+ "applicability": "1,905L ET INJECTION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

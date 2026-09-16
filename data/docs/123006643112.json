@@ -1,0 +1,18 @@
+{
+ "ref": "123006643112",
+ "refDisplay": "1230 06 643112",
+ "title": "COMMANDE DE CHAUFFAGE ET D’AERATION",
+ "nature": "",
+ "applicability": "CLIMATISEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

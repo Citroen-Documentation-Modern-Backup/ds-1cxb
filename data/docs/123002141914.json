@@ -1,0 +1,18 @@
+{
+ "ref": "123002141914",
+ "refDisplay": "1230 02 141914",
+ "title": "COMMANDE D’ACCELERATEUR",
+ "nature": "",
+ "applicability": "15 RE ET 15 TGE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB03036220",
+ "refDisplay": "1CXB 0 303 6220",
+ "title": "2 BUTOIRS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0102"
+  }
+ ]
+}

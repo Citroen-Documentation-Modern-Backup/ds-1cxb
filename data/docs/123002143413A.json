@@ -1,0 +1,18 @@
+{
+ "ref": "123002143413A",
+ "refDisplay": "1230 02 143413A",
+ "title": "CARBURATEUR",
+ "nature": "",
+ "applicability": "15 TGE DEPUIS OPR 04923",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

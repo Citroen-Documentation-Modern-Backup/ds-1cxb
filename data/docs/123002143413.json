@@ -1,0 +1,18 @@
+{
+ "ref": "123002143413",
+ "refDisplay": "1230 02 143413",
+ "title": "CARBURATEUR",
+ "nature": "",
+ "applicability": "15 RE ET 15 TGE DEPUIS OPR 03887 JUSQU’A OPR 04922 SAUF (D) ALLEMAGNE SAUF (NL) PAYS BAS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

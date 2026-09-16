@@ -1,0 +1,18 @@
+{
+ "ref": "123002143850A",
+ "refDisplay": "1230 02 143850A",
+ "title": "CARBURATEUR-NECESSAIRE DE REPARATION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

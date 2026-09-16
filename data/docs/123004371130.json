@@ -1,0 +1,18 @@
+{
+ "ref": "123004371130",
+ "refDisplay": "1230 04 371130",
+ "title": "TRANSMISSION",
+ "nature": "",
+ "applicability": "ANTI-BLOCAGE ROUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0022"
+  }
+ ]
+}

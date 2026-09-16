@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB03246650",
+ "refDisplay": "1CXB 0 324 6650",
+ "title": "BAVETTES D’AILES AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0118"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB03865355",
+ "refDisplay": "1CXB 0 386 5355",
+ "title": "MOTEUR D’ESSUIE VITRE AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0322"
+  }
+ ]
+}

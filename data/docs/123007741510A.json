@@ -1,0 +1,18 @@
+{
+ "ref": "123007741510A",
+ "refDisplay": "1230 07 741510A",
+ "title": "BERCEAU AVANT",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET 1,124L ET (I) ITALIE DEPUIS OPR 04192",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0109"
+  }
+ ]
+}

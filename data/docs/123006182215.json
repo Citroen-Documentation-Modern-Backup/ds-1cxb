@@ -1,0 +1,18 @@
+{
+ "ref": "123006182215",
+ "refDisplay": "1230 06 182215",
+ "title": "ECHAPPEMENT POT DE DETENTE SILENCIEUX",
+ "nature": "",
+ "applicability": "1,905L ET CARBURATEUR DEPUIS OPR 03766",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

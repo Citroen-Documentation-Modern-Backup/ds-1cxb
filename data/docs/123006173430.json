@@ -1,0 +1,18 @@
+{
+ "ref": "123006173430",
+ "refDisplay": "1230 06 173430",
+ "title": "FIXATION POMPE ET CANALISATIONS ESSENCE",
+ "nature": "",
+ "applicability": "INJECTION ET 1,905L ET 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

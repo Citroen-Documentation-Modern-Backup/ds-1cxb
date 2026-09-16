@@ -1,0 +1,18 @@
+{
+ "ref": "123004314011",
+ "refDisplay": "1230 04 314011",
+ "title": "PEDALIER - FREIN - DEBRAYAGE",
+ "nature": "",
+ "applicability": "CONDUITE A DROITE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

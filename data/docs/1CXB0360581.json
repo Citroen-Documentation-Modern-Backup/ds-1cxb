@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB0360581",
+ "refDisplay": "1CXB 0 36 0581",
+ "title": "SONDE TEMPERATURE D’AIR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

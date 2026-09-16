@@ -1,0 +1,18 @@
+{
+ "ref": "123005501806",
+ "refDisplay": "1230 05 501806",
+ "title": "FAISCEAU PLANCHE DE BORD ET CONSOLE",
+ "nature": "",
+ "applicability": "GAZOLE ET TURBO ET FINIT. R ET FINIT. TR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123002143410B",
+ "refDisplay": "1230 02 143410B",
+ "title": "CARBURATEUR",
+ "nature": "",
+ "applicability": "1,124L DEPUIS OPR 05075",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

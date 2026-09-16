@@ -1,0 +1,18 @@
+{
+ "ref": "123002141919F",
+ "refDisplay": "1230 02 141919F",
+ "title": "COMMANDE D’ACCELERATEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,905L ET INJ MONOPOINT ET (CH) SUISSE ET (S) SUEDE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123004371115",
+ "refDisplay": "1230 04 371115",
+ "title": "TRANSMISSION",
+ "nature": "",
+ "applicability": "ESSENCE ET INJECTION ET 1,580L ET 1,905L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0022"
+  }
+ ]
+}

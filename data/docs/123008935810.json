@@ -1,0 +1,23 @@
+{
+ "ref": "123008935810",
+ "refDisplay": "1230 08 935810",
+ "title": "BANQUETTE ARRIERE RABATTABLE - FINITION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0230"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

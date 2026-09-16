@@ -1,0 +1,18 @@
+{
+ "ref": "123002171024",
+ "refDisplay": "1230 02 171024",
+ "title": "FILTRE A AIR",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,905L ET (CH) SUISSE ET (S) SUEDE DEPUIS OPR 03796",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

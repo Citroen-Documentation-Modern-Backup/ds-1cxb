@@ -1,0 +1,18 @@
+{
+ "ref": "123006183010A",
+ "refDisplay": "1230 06 183010A",
+ "title": "ECHAPPEMENT AVANT",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET 1,360L DEPUIS OPR 04196",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

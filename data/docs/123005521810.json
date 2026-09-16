@@ -1,0 +1,23 @@
+{
+ "ref": "123005521810",
+ "refDisplay": "1230 05 521810",
+ "title": "ORDINATEUR DE BORD",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0319"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0350"
+  }
+ ]
+}

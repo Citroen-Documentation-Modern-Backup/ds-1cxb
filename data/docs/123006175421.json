@@ -1,0 +1,18 @@
+{
+ "ref": "123006175421",
+ "refDisplay": "1230 06 175421",
+ "title": "ANTI-POLLUTION (CANALISATION)",
+ "nature": "",
+ "applicability": " DEPUIS OPR 05173",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

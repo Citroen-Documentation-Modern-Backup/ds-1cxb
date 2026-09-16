@@ -1,0 +1,18 @@
+{
+ "ref": "123002533120",
+ "refDisplay": "1230 02 533120",
+ "title": "DEMARREUR - FIXATION",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET 1,905L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0302"
+  }
+ ]
+}

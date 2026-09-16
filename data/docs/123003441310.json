@@ -1,0 +1,18 @@
+{
+ "ref": "123003441310",
+ "refDisplay": "1230 03 441310",
+ "title": "DIRECTION-VOLANT-ANTIVOL-TRANSMISSION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0036"
+  }
+ ]
+}

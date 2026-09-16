@@ -1,0 +1,18 @@
+{
+ "ref": "123003416320",
+ "refDisplay": "1230 03 416320",
+ "title": "ROUES ALLIAGE LEGER",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0023"
+  }
+ ]
+}

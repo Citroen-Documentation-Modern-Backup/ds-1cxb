@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB03036131",
+ "refDisplay": "1CXB 0 303 6131",
+ "title": "PARE CHOCS + CAPOT + 1 AILE AVD OU 1 COTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0102"
+  }
+ ]
+}

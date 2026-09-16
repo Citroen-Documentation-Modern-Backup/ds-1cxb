@@ -1,0 +1,18 @@
+{
+ "ref": "123004350510",
+ "refDisplay": "1230 04 350510",
+ "title": "TRANSMISSION LONGITUDINALE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,905L ET 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0022"
+  }
+ ]
+}

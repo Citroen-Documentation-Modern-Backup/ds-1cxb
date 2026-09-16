@@ -1,0 +1,18 @@
+{
+ "ref": "123006183214A",
+ "refDisplay": "1230 06 183214A",
+ "title": "ECHAPPEMENT AVANT ANTI-POLLUTION",
+ "nature": "",
+ "applicability": "1,905L ET 1,580L ET INJ MONOPOINT ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

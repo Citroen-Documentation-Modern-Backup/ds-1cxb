@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB0864202",
+ "refDisplay": "1CXB 0 86 4202",
+ "title": "LEVIER COMMANDE DE VITESSES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0018"
+  }
+ ]
+}

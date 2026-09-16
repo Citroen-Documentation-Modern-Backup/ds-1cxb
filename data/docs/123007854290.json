@@ -1,0 +1,28 @@
+{
+ "ref": "123007854290",
+ "refDisplay": "1230 07 854290",
+ "title": "DECORS ADHESIFS",
+ "nature": "",
+ "applicability": "OURANE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0236"
+  }
+ ]
+}

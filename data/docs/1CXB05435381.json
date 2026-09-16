@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB05435381",
+ "refDisplay": "1CXB 0 543 5381",
+ "title": "HAUT-PARLEUR MEDIUM SUR CUSTODE OU TABLETTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0350"
+  }
+ ]
+}

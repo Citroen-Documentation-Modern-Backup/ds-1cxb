@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB02252451",
+ "refDisplay": "1CXB 0 225 2451",
+ "title": "VERIN D’ASSISTANCE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0037"
+  }
+ ]
+}

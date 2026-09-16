@@ -1,0 +1,18 @@
+{
+ "ref": "123006617214",
+ "refDisplay": "1230 06 617214",
+ "title": "PARE-CHOCS ARRIERE",
+ "nature": "",
+ "applicability": "GTI 16S DEPUIS OPR 04495",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0115"
+  }
+ ]
+}

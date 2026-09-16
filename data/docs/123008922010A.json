@@ -1,0 +1,18 @@
+{
+ "ref": "123008922010A",
+ "refDisplay": "1230 08 922010A",
+ "title": "SIEGES AVANT - GARNITURES",
+ "nature": "",
+ "applicability": " DEPUIS OPR 03767",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0220"
+  }
+ ]
+}

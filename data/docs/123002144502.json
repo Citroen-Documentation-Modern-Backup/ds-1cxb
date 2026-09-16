@@ -1,0 +1,18 @@
+{
+ "ref": "123002144502",
+ "refDisplay": "1230 02 144502",
+ "title": "FAISCEAU D’INJECTION INJECTEUR",
+ "nature": "",
+ "applicability": "GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

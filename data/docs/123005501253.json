@@ -1,0 +1,18 @@
+{
+ "ref": "123005501253",
+ "refDisplay": "1230 05 501253",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET TURBO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

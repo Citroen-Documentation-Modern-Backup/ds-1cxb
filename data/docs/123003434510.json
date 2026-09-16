@@ -1,0 +1,18 @@
+{
+ "ref": "123003434510",
+ "refDisplay": "1230 03 434510",
+ "title": "CYLINDRE DE SUSPENSION AVANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0027"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123002212010",
+ "refDisplay": "1230 02 212010",
+ "title": "BOBINE BOUGIE FAISCEAU D’ALLUMAGE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L DEPUIS OPR 04205 JUSQU’A DATE 19880514",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123002144210",
+ "refDisplay": "1230 02 144210",
+ "title": "VENTILATION CARBURATEUR PILOTE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,580L ET (A) AUTRICHE ET (CH) SUISSE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

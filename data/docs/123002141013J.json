@@ -1,0 +1,18 @@
+{
+ "ref": "123002141013J",
+ "refDisplay": "1230 02 141013J",
+ "title": "COLLECTEUR ADMISSION",
+ "nature": "",
+ "applicability": "1,580L ET INJECTION ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

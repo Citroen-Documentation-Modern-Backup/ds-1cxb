@@ -1,0 +1,18 @@
+{
+ "ref": "123006235310F",
+ "refDisplay": "1230 06 235310F",
+ "title": "CANALISATION D’EAU REGULATEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET 1,360L DEPUIS OPR 04196",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

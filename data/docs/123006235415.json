@@ -1,0 +1,18 @@
+{
+ "ref": "123006235415",
+ "refDisplay": "1230 06 235415",
+ "title": "CANALISATION D’EAU - FIXATION",
+ "nature": "",
+ "applicability": "INJ MONOPOINT ET 1,580L ET 1,905L ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

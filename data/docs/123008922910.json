@@ -1,0 +1,23 @@
+{
+ "ref": "123008922910",
+ "refDisplay": "1230 08 922910",
+ "title": "SIEGE AVANT - GLISSIERE - CADRE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

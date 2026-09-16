@@ -1,0 +1,18 @@
+{
+ "ref": "123006182216",
+ "refDisplay": "1230 06 182216",
+ "title": "ECHAPPEMENT POT DE DETENTE SILENCIEUX",
+ "nature": "",
+ "applicability": "1,580L ET CARBURATEUR ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

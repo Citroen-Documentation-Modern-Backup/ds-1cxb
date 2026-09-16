@@ -1,0 +1,18 @@
+{
+ "ref": "123002532225B",
+ "refDisplay": "1230 02 532225B",
+ "title": "ALTERNATEUR A REGULATEUR INCORPORE",
+ "nature": "",
+ "applicability": "GAZOLE ET TURBO DEPUIS OPR 05224",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

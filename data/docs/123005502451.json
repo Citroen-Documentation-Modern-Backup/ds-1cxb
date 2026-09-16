@@ -1,0 +1,18 @@
+{
+ "ref": "123005502451",
+ "refDisplay": "1230 05 502451",
+ "title": "FAISCEAU INTERMEDIAIRE AVANT - ARRIERE",
+ "nature": "",
+ "applicability": "MONTAGE HP",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

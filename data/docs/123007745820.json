@@ -1,0 +1,23 @@
+{
+ "ref": "123007745820",
+ "refDisplay": "1230 07 745820",
+ "title": "AILE ARRIERE - PASSAGE DE ROUE",
+ "nature": "",
+ "applicability": "BREAK",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0118"
+  }
+ ]
+}

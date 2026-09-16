@@ -1,0 +1,18 @@
+{
+ "ref": "123002532012F",
+ "refDisplay": "1230 02 532012F",
+ "title": "ALTERNATEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,580L ET 1,905L ET GAZOLE JUSQU’A OPR 04921",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

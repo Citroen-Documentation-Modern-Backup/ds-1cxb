@@ -1,0 +1,18 @@
+{
+ "ref": "123002141013E",
+ "refDisplay": "1230 02 141013E",
+ "title": "COLLECTEUR ADMISSION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,580L ET INJ MONOPOINT ET (XT) EXPORT JUSQU’A OPR 05284",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

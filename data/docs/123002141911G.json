@@ -1,0 +1,18 @@
+{
+ "ref": "123002141911G",
+ "refDisplay": "1230 02 141911G",
+ "title": "COMMANDE D’ACCELERATEUR",
+ "nature": "",
+ "applicability": "1,360L ET INJ MONOPOINT ET (XT) EXPORT DEPUIS OPR 05440",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

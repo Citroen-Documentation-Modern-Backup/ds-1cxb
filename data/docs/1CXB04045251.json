@@ -1,0 +1,24 @@
+{
+ "ref": "1CXB04045251",
+ "refDisplay": "1CXB 0 404 5251",
+ "title": "FEUX AR COMPLET 2 COTES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0203"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0314"
+  }
+ ]
+}

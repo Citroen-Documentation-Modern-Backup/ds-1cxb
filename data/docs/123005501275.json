@@ -1,0 +1,18 @@
+{
+ "ref": "123005501275",
+ "refDisplay": "1230 05 501275",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123002141930",
+ "refDisplay": "1230 02 141930",
+ "title": "COMMANDE D’ACCELERATEUR",
+ "nature": "",
+ "applicability": "1,769L ET GAZOLE ET TURBO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

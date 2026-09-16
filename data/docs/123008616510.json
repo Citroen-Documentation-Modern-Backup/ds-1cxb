@@ -1,0 +1,23 @@
+{
+ "ref": "123008616510",
+ "refDisplay": "1230 08 616510",
+ "title": "CEINTURES DE SECURITE AR SANS ENROULEUR",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 04741",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0239"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0952"
+  }
+ ]
+}

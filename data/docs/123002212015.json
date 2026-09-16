@@ -1,0 +1,18 @@
+{
+ "ref": "123002212015",
+ "refDisplay": "1230 02 212015",
+ "title": "BOBINE BOUGIE FAISCEAU D’ALLUMAGE",
+ "nature": "",
+ "applicability": "1,905L ET INJECTION DEPUIS OPR 03852 JUSQU’A OPR 04923",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123005512611",
+ "refDisplay": "1230 05 512611",
+ "title": "BRIDAGE DE CABLERIES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0307"
+  }
+ ]
+}

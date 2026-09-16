@@ -1,0 +1,18 @@
+{
+ "ref": "123008934823A",
+ "refDisplay": "1230 08 934823A",
+ "title": "BANQUETTE ARRIERE - GARNITURES",
+ "nature": "",
+ "applicability": " DEPUIS OPR 04131",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

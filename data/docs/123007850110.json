@@ -1,0 +1,18 @@
+{
+ "ref": "123007850110",
+ "refDisplay": "1230 07 850110",
+ "title": "CAPOT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0105"
+  }
+ ]
+}

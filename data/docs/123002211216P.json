@@ -1,0 +1,18 @@
+{
+ "ref": "123002211216P",
+ "refDisplay": "1230 02 211216P",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 16 RE ET (D) ALLEMAGNE ET (NL) PAYS BAS JUSQU’A OPR 04710",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

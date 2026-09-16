@@ -1,0 +1,18 @@
+{
+ "ref": "123002184710",
+ "refDisplay": "1230 02 184710",
+ "title": "ANTI POLLUTION-CIRCUIT RGE",
+ "nature": "",
+ "applicability": "CARBURATEUR ET INJECTION ET 1,580L ET (CH) SUISSE ET (S) SUEDE JUSQU’A OPR 05100",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

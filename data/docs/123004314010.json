@@ -1,0 +1,18 @@
+{
+ "ref": "123004314010",
+ "refDisplay": "1230 04 314010",
+ "title": "PEDALIER - FREIN - DEBRAYAGE",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

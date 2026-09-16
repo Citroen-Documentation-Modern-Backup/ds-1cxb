@@ -1,0 +1,23 @@
+{
+ "ref": "123007744010",
+ "refDisplay": "1230 07 744010",
+ "title": "PLANCHER ARRIERE",
+ "nature": "",
+ "applicability": "BREAK",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0111"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  }
+ ]
+}

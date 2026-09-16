@@ -1,0 +1,18 @@
+{
+ "ref": "123006173021A",
+ "refDisplay": "1230 06 173021A",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": "CARBURATEUR ET 15 RE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

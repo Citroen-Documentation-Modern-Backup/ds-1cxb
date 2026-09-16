@@ -1,0 +1,18 @@
+{
+ "ref": "123003394610",
+ "refDisplay": "1230 03 394610",
+ "title": "CANALISATION - PATTES ET SUPPORTS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

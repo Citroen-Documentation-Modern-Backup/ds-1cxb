@@ -1,0 +1,18 @@
+{
+ "ref": "123004451610",
+ "refDisplay": "1230 04 451610",
+ "title": "FREINS ARRIERE - ETRIERS ET DISQUE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0041"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123002144310",
+ "refDisplay": "1230 02 144310",
+ "title": "POMPE D’INJECTION",
+ "nature": "",
+ "applicability": "GAZOLE SAUF TURBO ECH",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

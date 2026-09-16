@@ -1,0 +1,18 @@
+{
+ "ref": "123006617212",
+ "refDisplay": "1230 06 617212",
+ "title": "PARE-CHOCS ARRIERE",
+ "nature": "",
+ "applicability": "BREAK",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0115"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123005501852",
+ "refDisplay": "1230 05 501852",
+ "title": "FAISCEAU PLANCHE DE BORD ET CONSOLE",
+ "nature": "",
+ "applicability": "AVEC ORDINATEUR DE BORD ET CARBURATEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

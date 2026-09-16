@@ -1,0 +1,18 @@
+{
+ "ref": "123006641011",
+ "refDisplay": "1230 06 641011",
+ "title": "CLIMATISATION COMPRESSEUR CONDENSEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET 1,905L ET TURBO ECH DEPUIS OPR 04074 JUSQU’A OPR 04738",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

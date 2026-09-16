@@ -1,0 +1,24 @@
+{
+ "ref": "1CXB02242415",
+ "refDisplay": "1CXB 0 224 2415",
+ "title": "BOITIER DE DIRECTION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0037"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0339"
+  }
+ ]
+}

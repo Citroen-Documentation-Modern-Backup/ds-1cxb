@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB02782535",
+ "refDisplay": "1CXB 0 278 2535",
+ "title": "TUBE SORTIE MAITRE CYLINDRE/DOSEUR ALIMENTATION FREINS AVANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

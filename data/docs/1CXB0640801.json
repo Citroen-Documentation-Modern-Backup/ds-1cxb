@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB0640801",
+ "refDisplay": "1CXB 0 64 0801",
+ "title": "GARDE D’EMBRAYAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

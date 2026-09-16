@@ -1,0 +1,18 @@
+{
+ "ref": "123001334444A",
+ "refDisplay": "1230 01 334444A",
+ "title": "LIGNE SECONDAIRE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,905L ET CARBURATEUR DEPUIS OPR 04530",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

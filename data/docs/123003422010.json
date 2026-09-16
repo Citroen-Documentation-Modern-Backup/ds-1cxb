@@ -1,0 +1,18 @@
+{
+ "ref": "123003422010",
+ "refDisplay": "1230 03 422010",
+ "title": "BRAS ARRIERE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0030"
+  }
+ ]
+}

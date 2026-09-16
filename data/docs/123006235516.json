@@ -1,0 +1,18 @@
+{
+ "ref": "123006235516",
+ "refDisplay": "1230 06 235516",
+ "title": "RADIATEUR",
+ "nature": "",
+ "applicability": "GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

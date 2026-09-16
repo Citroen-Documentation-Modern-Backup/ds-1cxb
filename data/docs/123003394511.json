@@ -1,0 +1,18 @@
+{
+ "ref": "123003394511",
+ "refDisplay": "1230 03 394511",
+ "title": "FIXATION DE CANALISATIONS HYDRAULIQUES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123002212013F",
+ "refDisplay": "1230 02 212013F",
+ "title": "BOBINE BOUGIE FAISCEAU D’ALLUMAGE",
+ "nature": "",
+ "applicability": "1,905L ET CARBURATEUR DEPUIS OPR 04579",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

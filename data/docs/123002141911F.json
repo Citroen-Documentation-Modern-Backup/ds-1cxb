@@ -1,0 +1,18 @@
+{
+ "ref": "123002141911F",
+ "refDisplay": "1230 02 141911F",
+ "title": "COMMANDE D’ACCELERATEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L ET INJ MONOPOINT ET (XT) EXPORT JUSQU’A OPR 05439",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

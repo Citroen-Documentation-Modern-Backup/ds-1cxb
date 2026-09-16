@@ -1,0 +1,18 @@
+{
+ "ref": "123003437020",
+ "refDisplay": "1230 03 437020",
+ "title": "COMMANDE DE VARIATION DE HAUTEUR",
+ "nature": "",
+ "applicability": "4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

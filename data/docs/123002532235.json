@@ -1,0 +1,18 @@
+{
+ "ref": "123002532235",
+ "refDisplay": "1230 02 532235",
+ "title": "ALTERNATEUR A REGULATEUR INCORPORE",
+ "nature": "",
+ "applicability": " DEPUIS OPR 04091",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

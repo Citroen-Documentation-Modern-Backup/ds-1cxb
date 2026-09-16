@@ -1,0 +1,18 @@
+{
+ "ref": "123002312020",
+ "refDisplay": "1230 02 312020",
+ "title": "EMBRAYAGE",
+ "nature": "",
+ "applicability": "GAZOLE SAUF TURBO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

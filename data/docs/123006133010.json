@@ -1,0 +1,18 @@
+{
+ "ref": "123006133010",
+ "refDisplay": "1230 06 133010",
+ "title": "SUSPENSION MOTEUR - BOITE DE VITESSES",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET 1,360L JUSQU’A OPR 04196",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

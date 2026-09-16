@@ -1,0 +1,18 @@
+{
+ "ref": "123002143416",
+ "refDisplay": "1230 02 143416",
+ "title": "CARBURATEUR",
+ "nature": "",
+ "applicability": "1,905L ET (D) ALLEMAGNE ET (A) AUTRICHE ET (NL) PAYS BAS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

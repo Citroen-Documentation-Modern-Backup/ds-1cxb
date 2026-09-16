@@ -1,0 +1,18 @@
+{
+ "ref": "123002211215M",
+ "refDisplay": "1230 02 211215M",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "1,360L ET INJ MONOPOINT DEPUIS OPR 05440",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

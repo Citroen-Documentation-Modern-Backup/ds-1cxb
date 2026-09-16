@@ -1,0 +1,18 @@
+{
+ "ref": "123006641010",
+ "refDisplay": "1230 06 641010",
+ "title": "CLIMATISATION COMPRESSEUR CONDENSEUR",
+ "nature": "",
+ "applicability": "CLIMATISEUR JUSQU’A OPR 04739",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

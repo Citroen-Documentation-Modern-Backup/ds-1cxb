@@ -1,0 +1,18 @@
+{
+ "ref": "123006235606",
+ "refDisplay": "1230 06 235606",
+ "title": "BOITIER DE SORTIE D’EAU",
+ "nature": "",
+ "applicability": "GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123002143514",
+ "refDisplay": "1230 02 143514",
+ "title": "CARBURATEUR-STARTER AUTOMATIQUE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,580L DEPUIS OPR 04158 JUSQU’A OPR 04620 SAUF BVA SAUF CLIMATISEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "ref": "123007854250",
+ "refDisplay": "1230 07 854250",
+ "title": "DECORS ADHESIFS",
+ "nature": "",
+ "applicability": "TONIC",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0132"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0138"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0236"
+  }
+ ]
+}

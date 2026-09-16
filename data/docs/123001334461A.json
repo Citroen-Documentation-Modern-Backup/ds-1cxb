@@ -1,0 +1,18 @@
+{
+ "ref": "123001334461A",
+ "refDisplay": "1230 01 334461A",
+ "title": "LIGNE SECONDAIRE",
+ "nature": "",
+ "applicability": "1,905L ET INJ MONOPOINT DEPUIS OPR 04530",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

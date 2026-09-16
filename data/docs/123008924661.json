@@ -1,0 +1,23 @@
+{
+ "ref": "123008924661",
+ "refDisplay": "1230 08 924661",
+ "title": "SIEGE AVANT - HABILLAGE",
+ "nature": "",
+ "applicability": "SIEGE AVANT CONDUCTEUR DEPUIS OPR 04131",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0219"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0333"
+  }
+ ]
+}

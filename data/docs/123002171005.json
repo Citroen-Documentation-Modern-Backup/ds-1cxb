@@ -1,0 +1,18 @@
+{
+ "ref": "123002171005",
+ "refDisplay": "1230 02 171005",
+ "title": "FILTRE A AIR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L DEPUIS OPR 04193 JUSQU’A OPR 05439",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

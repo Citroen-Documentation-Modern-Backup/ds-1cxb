@@ -1,0 +1,18 @@
+{
+ "ref": "123002211219F",
+ "refDisplay": "1230 02 211219F",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "1,905L ET CARBURATEUR JUSQU’A OPR 04578 SAUF 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

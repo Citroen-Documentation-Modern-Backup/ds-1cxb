@@ -1,0 +1,23 @@
+{
+ "ref": "123008616310",
+ "refDisplay": "1230 08 616310",
+ "title": "CEINTURE DE SECURITE AVANT A ENROULEUR",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 03705",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0237"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0952"
+  }
+ ]
+}

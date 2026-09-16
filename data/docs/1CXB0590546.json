@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB0590546",
+ "refDisplay": "1CXB 0 59 0546",
+ "title": "SONDE DE TEMPERATURE D’EAU",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

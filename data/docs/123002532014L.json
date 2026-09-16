@@ -1,0 +1,18 @@
+{
+ "ref": "123002532014L",
+ "refDisplay": "1230 02 532014L",
+ "title": "ALTERNATEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L DEPUIS OPR 04316",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

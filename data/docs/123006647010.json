@@ -1,0 +1,18 @@
+{
+ "ref": "123006647010",
+ "refDisplay": "1230 06 647010",
+ "title": "CONDUIT D’AERATION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

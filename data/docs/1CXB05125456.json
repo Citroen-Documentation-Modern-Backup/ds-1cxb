@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB05125456",
+ "refDisplay": "1CXB 0 512 5456",
+ "title": "FAISCEAU DE PHARES SUPPLEMENTAIRES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

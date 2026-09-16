@@ -1,0 +1,18 @@
+{
+ "ref": "123002312011",
+ "refDisplay": "1230 02 312011",
+ "title": "EMBRAYAGE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET 1,360L JUSQU’A OPR 04192",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123003391312",
+ "refDisplay": "1230 03 391312",
+ "title": "POMPE HP-SUPPORT-TENDEUR-FIXATION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,580L ET 1,905L SAUF GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

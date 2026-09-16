@@ -1,0 +1,18 @@
+{
+ "ref": "123003394111",
+ "refDisplay": "1230 03 394111",
+ "title": "CANALISATIONS ALIMENTATION SUSPENSION",
+ "nature": "",
+ "applicability": "DIRECTION ASSISTEE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

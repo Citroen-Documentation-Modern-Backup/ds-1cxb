@@ -1,0 +1,18 @@
+{
+ "ref": "123001001025",
+ "refDisplay": "1230 01 001025",
+ "title": "MOTEUR - POCHETTE DE JOINTS",
+ "nature": "",
+ "applicability": "(XT) EXPORT ET ESSENCE ET 1,580L ET INJ MONOPOINT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0049"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "123007841410",
+ "refDisplay": "1230 07 841410",
+ "title": "VITRE - LEVE VITRE DE PORTE AVANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0133"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0329"
+  }
+ ]
+}

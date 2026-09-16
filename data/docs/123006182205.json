@@ -1,0 +1,18 @@
+{
+ "ref": "123006182205",
+ "refDisplay": "1230 06 182205",
+ "title": "ECHAPPEMENT POT DE DETENTE SILENCIEUX",
+ "nature": "",
+ "applicability": "1,124L ET (I) ITALIE ET (GR) GRECE ET 1,360L JUSQU’A OPR 04195",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

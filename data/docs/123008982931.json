@@ -1,0 +1,18 @@
+{
+ "ref": "123008982931",
+ "refDisplay": "1230 08 982931",
+ "title": "PANNEAUX DE PORTE ARRIERE",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 04507",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0141"
+  }
+ ]
+}

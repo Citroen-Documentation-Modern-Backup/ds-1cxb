@@ -1,0 +1,18 @@
+{
+ "ref": "123002141013F",
+ "refDisplay": "1230 02 141013F",
+ "title": "COLLECTEUR ADMISSION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,580L ET INJ MONOPOINT DEPUIS OPR 05285",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

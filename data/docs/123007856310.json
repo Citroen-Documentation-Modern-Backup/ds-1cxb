@@ -1,0 +1,23 @@
+{
+ "ref": "123007856310",
+ "refDisplay": "1230 07 856310",
+ "title": "PLANCHE DE BORD - PARTIE SUPERIEURE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0212"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0216"
+  }
+ ]
+}

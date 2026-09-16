@@ -1,0 +1,18 @@
+{
+ "ref": "123002141017",
+ "refDisplay": "1230 02 141017",
+ "title": "COLLECTEUR ADMISSION",
+ "nature": "",
+ "applicability": "1,905L ET INJECTION JUSQU’A OPR 04923 SAUF (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

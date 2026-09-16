@@ -1,0 +1,18 @@
+{
+ "ref": "123005501840",
+ "refDisplay": "1230 05 501840",
+ "title": "FAISCEAU PLANCHE DE BORD ET CONSOLE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

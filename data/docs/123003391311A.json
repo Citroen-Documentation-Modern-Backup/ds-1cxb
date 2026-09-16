@@ -1,0 +1,18 @@
+{
+ "ref": "123003391311A",
+ "refDisplay": "1230 03 391311A",
+ "title": "POMPE HP-SUPPORT-TENDEUR-FIXATION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,360L DEPUIS OPR 04193 JUSQU’A OPR 05409",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0337"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB06214250",
+ "refDisplay": "1CXB 0 621 4250",
+ "title": "RESSORT VERROUILLAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0018"
+  }
+ ]
+}

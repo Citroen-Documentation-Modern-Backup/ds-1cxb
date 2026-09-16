@@ -1,0 +1,18 @@
+{
+ "ref": "123006173032A",
+ "refDisplay": "1230 06 173032A",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": "CARBURATEUR ET 1,905L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123002211226",
+ "refDisplay": "1230 02 211226",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "1,905L ET INJECTION ET (J) JAPON JUSQU’A OPR 04679",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

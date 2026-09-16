@@ -1,0 +1,18 @@
+{
+ "ref": "123002532013R",
+ "refDisplay": "1230 02 532013R",
+ "title": "ALTERNATEUR",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET TURBO ET PAYS FROIDS ET CLIMATISEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

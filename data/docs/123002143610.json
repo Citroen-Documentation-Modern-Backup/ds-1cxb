@@ -1,0 +1,18 @@
+{
+ "ref": "123002143610",
+ "refDisplay": "1230 02 143610",
+ "title": "CARBURATEUR PILOTE",
+ "nature": "",
+ "applicability": "1,360L ET (CH) SUISSE ET (A) AUTRICHE JUSQU’A OPR 04011",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

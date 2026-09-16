@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB04055272",
+ "refDisplay": "1CXB 0 405 5272",
+ "title": "ECLAIREUR DE PLAQUE DE POLICE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0203"
+  }
+ ]
+}

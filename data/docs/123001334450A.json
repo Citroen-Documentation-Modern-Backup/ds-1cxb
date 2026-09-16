@@ -1,0 +1,18 @@
+{
+ "ref": "123001334450A",
+ "refDisplay": "1230 01 334450A",
+ "title": "LIGNE SECONDAIRE",
+ "nature": "",
+ "applicability": "GAZOLE DEPUIS OPR 04530",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

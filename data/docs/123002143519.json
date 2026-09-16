@@ -1,0 +1,18 @@
+{
+ "ref": "123002143519",
+ "refDisplay": "1230 02 143519",
+ "title": "CARBURATEUR-STARTER AUTOMATIQUE",
+ "nature": "",
+ "applicability": "1,905L ET CLIMATISEUR ET (D) ALLEMAGNE ET (A) AUTRICHE ET (NL) PAYS BAS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

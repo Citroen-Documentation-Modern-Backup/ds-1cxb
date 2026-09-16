@@ -1,0 +1,18 @@
+{
+ "ref": "123007841630",
+ "refDisplay": "1230 07 841630",
+ "title": "VERROUILLAGE DE PORTE AVANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0134"
+  }
+ ]
+}

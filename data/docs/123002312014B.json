@@ -1,0 +1,18 @@
+{
+ "ref": "123002312014B",
+ "refDisplay": "1230 02 312014B",
+ "title": "EMBRAYAGE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,580L ET 1,905L DEPUIS OPR 04530 SAUF 4X4 SAUF GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0016"
+  }
+ ]
+}

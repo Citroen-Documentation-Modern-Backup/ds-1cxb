@@ -1,0 +1,18 @@
+{
+ "ref": "123001114510A",
+ "refDisplay": "1230 01 114510A",
+ "title": "CAPOTAGE DE DISTRIBUTION",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,580L ET 1,905L DEPUIS OPR 03826 JUSQU’A OPR 05545",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0007"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "ref": "123007962020",
+ "refDisplay": "1230 07 962020",
+ "title": "GLACES DE CUSTODE",
+ "nature": "",
+ "applicability": "BREAK",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0121"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0329"
+  }
+ ]
+}

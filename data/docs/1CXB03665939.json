@@ -1,0 +1,24 @@
+{
+ "ref": "1CXB03665939",
+ "refDisplay": "1CXB 0 366 5939",
+ "title": "COULISSE DE VITRE AR 1 COTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0329"
+  }
+ ]
+}

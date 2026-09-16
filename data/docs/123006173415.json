@@ -1,0 +1,18 @@
+{
+ "ref": "123006173415",
+ "refDisplay": "1230 06 173415",
+ "title": "FIXATION POMPE ET CANALISATIONS ESSENCE",
+ "nature": "",
+ "applicability": "GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

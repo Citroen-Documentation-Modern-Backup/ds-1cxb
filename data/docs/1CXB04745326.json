@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB04745326",
+ "refDisplay": "1CXB 0 474 5326",
+ "title": "PIGNONS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0149"
+  }
+ ]
+}

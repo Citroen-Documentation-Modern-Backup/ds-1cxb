@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB02212478",
+ "refDisplay": "1CXB 0 221 2478",
+ "title": "MONOGRAMME SUR VOLANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0034"
+  }
+ ]
+}

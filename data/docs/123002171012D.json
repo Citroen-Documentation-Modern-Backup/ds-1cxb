@@ -1,0 +1,18 @@
+{
+ "ref": "123002171012D",
+ "refDisplay": "1230 02 171012D",
+ "title": "FILTRE A AIR",
+ "nature": "",
+ "applicability": "15 RE ET 15 TGE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

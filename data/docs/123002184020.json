@@ -1,0 +1,18 @@
+{
+ "ref": "123002184020",
+ "refDisplay": "1230 02 184020",
+ "title": "ANTI POLLUTION-CIRCUIT DEPRESSION",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,905L ET (CH) SUISSE ET (S) SUEDE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

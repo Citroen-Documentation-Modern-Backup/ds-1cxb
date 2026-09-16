@@ -1,0 +1,18 @@
+{
+ "ref": "123005501854",
+ "refDisplay": "1230 05 501854",
+ "title": "FAISCEAU PLANCHE DE BORD ET CONSOLE",
+ "nature": "",
+ "applicability": "(AUS) AUSTRALIE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

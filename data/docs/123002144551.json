@@ -1,0 +1,18 @@
+{
+ "ref": "123002144551",
+ "refDisplay": "1230 02 144551",
+ "title": "FAISCEAU D’INJECTION INJECTEUR",
+ "nature": "",
+ "applicability": "GAZOLE SAUF TURBO ECH",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123006173050",
+ "refDisplay": "1230 06 173050",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET 1,905L JUSQU’A OPR 03795 SAUF 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

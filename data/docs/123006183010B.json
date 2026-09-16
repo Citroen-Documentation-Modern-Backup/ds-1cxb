@@ -1,0 +1,18 @@
+{
+ "ref": "123006183010B",
+ "refDisplay": "1230 06 183010B",
+ "title": "ECHAPPEMENT AVANT",
+ "nature": "",
+ "applicability": "BERLINE ET 1,360L ET CARBURATEUR ET (D) ALLEMAGNE ET (NL) PAYS BAS DEPUIS OPR 04223",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

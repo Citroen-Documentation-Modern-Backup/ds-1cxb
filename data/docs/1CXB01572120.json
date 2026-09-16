@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB01572120",
+ "refDisplay": "1CXB 0 157 2120",
+ "title": "AXE D’ARTICULATION DE BRAS 1 COTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0030"
+  }
+ ]
+}

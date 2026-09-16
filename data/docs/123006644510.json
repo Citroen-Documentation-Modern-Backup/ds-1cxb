@@ -1,0 +1,18 @@
+{
+ "ref": "123006644510",
+ "refDisplay": "1230 06 644510",
+ "title": "BOITIER EVAPORATEUR DETENDEUR",
+ "nature": "",
+ "applicability": "CLIMATISEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

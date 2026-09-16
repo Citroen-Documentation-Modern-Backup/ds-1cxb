@@ -1,0 +1,23 @@
+{
+ "ref": "123005614510",
+ "refDisplay": "1230 05 614510",
+ "title": "RELAIS FUSIBLES",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0942"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0503"
+  }
+ ]
+}

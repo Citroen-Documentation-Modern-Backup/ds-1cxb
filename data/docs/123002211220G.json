@@ -1,0 +1,18 @@
+{
+ "ref": "123002211220G",
+ "refDisplay": "1230 02 211220G",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "1,905L ET CARBURATEUR DEPUIS OPR 04923",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0013"
+  }
+ ]
+}

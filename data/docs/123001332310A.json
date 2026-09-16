@@ -1,0 +1,18 @@
+{
+ "ref": "123001332310A",
+ "refDisplay": "1230 01 332310A",
+ "title": "COMMANDE DE COMPTEUR",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET 1,360L DEPUIS OPR 04193",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "123006648610",
+ "refDisplay": "1230 06 648610",
+ "title": "EXTRACTEUR D’AIR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

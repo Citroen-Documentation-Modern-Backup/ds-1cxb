@@ -1,0 +1,18 @@
+{
+ "ref": "123005501301",
+ "refDisplay": "1230 05 501301",
+ "title": "FAISCEAU ELECTROVANNE ANTIPOLLUTION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

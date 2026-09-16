@@ -1,0 +1,24 @@
+{
+ "ref": "1CXB03325398",
+ "refDisplay": "1CXB 0 332 5398",
+ "title": "CROCHET ET VIS SUPPORT ROUE SECOURS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0120"
+  }
+ ]
+}

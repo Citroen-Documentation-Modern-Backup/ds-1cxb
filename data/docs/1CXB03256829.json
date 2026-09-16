@@ -1,0 +1,24 @@
+{
+ "ref": "1CXB03256829",
+ "refDisplay": "1CXB 0 325 6829",
+ "title": "DEFLECTEUR AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0117"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0858"
+  }
+ ]
+}

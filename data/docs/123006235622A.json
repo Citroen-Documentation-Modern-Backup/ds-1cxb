@@ -1,0 +1,18 @@
+{
+ "ref": "123006235622A",
+ "refDisplay": "1230 06 235622A",
+ "title": "BOITIER DE SORTIE D’EAU",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,905L SAUF DEPOL EGR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

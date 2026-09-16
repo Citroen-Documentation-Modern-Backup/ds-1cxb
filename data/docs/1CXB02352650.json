@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB02352650",
+ "refDisplay": "1CXB 0 235 2650",
+ "title": "TUBE SORTIE MAITRE CYLINDRE DOSEUR ALIMENTATION FREINS AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

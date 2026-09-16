@@ -1,0 +1,18 @@
+{
+ "ref": "123006182227",
+ "refDisplay": "1230 06 182227",
+ "title": "ECHAPPEMENT POT DE DETENTE SILENCIEUX",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,905L ET TURBO ECH ET 1,769L ET (XT) EXPORT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

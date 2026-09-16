@@ -1,0 +1,18 @@
+{
+ "ref": "123001114735A",
+ "refDisplay": "1230 01 114735A",
+ "title": "CARTER D’HUILE",
+ "nature": "",
+ "applicability": "GTI 16S ET REFRIGERATION DEPUIS OPR 06141",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0007"
+  }
+ ]
+}

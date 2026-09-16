@@ -1,0 +1,18 @@
+{
+ "ref": "123002532405",
+ "refDisplay": "1230 02 532405",
+ "title": "ALTERNATEUR - FIXATION COURROIE",
+ "nature": "",
+ "applicability": "1,360L ET INJ MONOPOINT ET (XT) EXPORT JUSQU’A OPR 05439",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

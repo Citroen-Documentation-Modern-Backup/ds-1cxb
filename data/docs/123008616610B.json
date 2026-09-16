@@ -1,0 +1,23 @@
+{
+ "ref": "123008616610B",
+ "refDisplay": "1230 08 616610B",
+ "title": "CEINTURES DE SECURITE AR A ENROULEUR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 04742",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0239"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0952"
+  }
+ ]
+}

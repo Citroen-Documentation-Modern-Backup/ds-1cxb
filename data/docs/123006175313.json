@@ -1,0 +1,18 @@
+{
+ "ref": "123006175313",
+ "refDisplay": "1230 06 175313",
+ "title": "ANTI-POLLUTION (RESERVOIR ESSENCE)",
+ "nature": "",
+ "applicability": "15 RE ET (A) AUTRICHE ET (CH) SUISSE ET (S) SUEDE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0012"
+  }
+ ]
+}

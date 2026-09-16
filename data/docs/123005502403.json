@@ -1,0 +1,18 @@
+{
+ "ref": "123005502403",
+ "refDisplay": "1230 05 502403",
+ "title": "FAISCEAU INTERMEDIAIRE AVANT - ARRIERE",
+ "nature": "",
+ "applicability": "FINIT. TR ET CONDAMNAT CENTRAL CONDUC+PASSA ET LEVE VITRE AR CDE ELECTRIQUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0309"
+  }
+ ]
+}

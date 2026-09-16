@@ -1,0 +1,18 @@
+{
+ "ref": "123006235315",
+ "refDisplay": "1230 06 235315",
+ "title": "CANALISATION D’EAU REGULATEUR",
+ "nature": "",
+ "applicability": "INJ MONOPOINT ET 1,580L ET 1,905L JUSQU’A OPR 05137",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0009"
+  }
+ ]
+}

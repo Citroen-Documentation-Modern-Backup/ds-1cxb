@@ -1,0 +1,18 @@
+{
+ "ref": "123003394411",
+ "refDisplay": "1230 03 394411",
+ "title": "CANALISATIONS RETOUR",
+ "nature": "",
+ "applicability": "DIRECTION ASSISTEE JUSQU’A OPR 05167 SAUF 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0042"
+  }
+ ]
+}

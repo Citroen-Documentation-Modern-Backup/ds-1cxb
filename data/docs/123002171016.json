@@ -1,0 +1,18 @@
+{
+ "ref": "123002171016",
+ "refDisplay": "1230 02 171016",
+ "title": "FILTRE A AIR",
+ "nature": "",
+ "applicability": "1,905L ET CARBURATEUR ET TOUS TYPES DEPUIS OPR 04579",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

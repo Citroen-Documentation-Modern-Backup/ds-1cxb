@@ -1,0 +1,23 @@
+{
+ "ref": "123001333010",
+ "refDisplay": "1230 01 333010",
+ "title": "REFROIDISSEMENT BOITE DE VITESSES",
+ "nature": "",
+ "applicability": "BVA",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0018"
+  }
+ ]
+}

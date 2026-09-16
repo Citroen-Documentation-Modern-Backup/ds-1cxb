@@ -1,0 +1,18 @@
+{
+ "ref": "123001222130",
+ "refDisplay": "1230 01 222130",
+ "title": "POMPE A HUILE-CARTOUCHE FILTRANTE",
+ "nature": "",
+ "applicability": "GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0008"
+  }
+ ]
+}

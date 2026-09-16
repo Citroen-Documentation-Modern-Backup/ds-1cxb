@@ -1,0 +1,18 @@
+{
+ "ref": "123006641010A",
+ "refDisplay": "1230 06 641010A",
+ "title": "CLIMATISATION COMPRESSEUR CONDENSEUR",
+ "nature": "",
+ "applicability": "ESSENCE DEPUIS OPR 04740 SAUF GAZOLE SAUF 4X4 SAUF GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0347"
+  }
+ ]
+}

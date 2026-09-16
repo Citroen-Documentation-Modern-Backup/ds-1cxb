@@ -1,0 +1,18 @@
+{
+ "ref": "123005501208",
+ "refDisplay": "1230 05 501208",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "1,905L ET CARBURATEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB04328911",
+ "refDisplay": "1CXB 0 432 8911",
+ "title": "1 COUSSIN DE BANQUETTE AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0231"
+  }
+ ]
+}

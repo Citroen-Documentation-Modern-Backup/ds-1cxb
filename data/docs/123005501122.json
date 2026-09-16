@@ -1,0 +1,18 @@
+{
+ "ref": "123005501122",
+ "refDisplay": "1230 05 501122",
+ "title": "FAISCEAU AVANT PRINCIPAL",
+ "nature": "",
+ "applicability": "GAZOLE ET FINIT TG ET IMAGE ET MILLESIME SAUF TURBO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

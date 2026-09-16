@@ -1,0 +1,18 @@
+{
+ "ref": "123006183016",
+ "refDisplay": "1230 06 183016",
+ "title": "ECHAPPEMENT AVANT",
+ "nature": "",
+ "applicability": "GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0011"
+  }
+ ]
+}

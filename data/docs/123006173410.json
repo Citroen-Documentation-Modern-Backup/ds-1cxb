@@ -1,0 +1,18 @@
+{
+ "ref": "123006173410",
+ "refDisplay": "1230 06 173410",
+ "title": "FIXATION POMPE ET CANALISATIONS ESSENCE",
+ "nature": "",
+ "applicability": "ESSENCE ET CARBURATEUR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

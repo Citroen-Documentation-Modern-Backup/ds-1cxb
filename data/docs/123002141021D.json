@@ -1,0 +1,18 @@
+{
+ "ref": "123002141021D",
+ "refDisplay": "1230 02 141021D",
+ "title": "COLLECTEUR ADMISSION",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,905L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

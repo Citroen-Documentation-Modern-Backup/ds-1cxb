@@ -1,0 +1,18 @@
+{
+ "ref": "123002532410A",
+ "refDisplay": "1230 02 532410A",
+ "title": "ALTERNATEUR - FIXATION COURROIE",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,580L ET 1,905L DEPUIS OPR 05285 SAUF GTI 16S",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0303"
+  }
+ ]
+}

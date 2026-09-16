@@ -1,0 +1,18 @@
+{
+ "ref": "123001172310",
+ "refDisplay": "1230 01 172310",
+ "title": "ECHANGEUR AIR-AIR",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,769L ET TURBO",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0014"
+  }
+ ]
+}

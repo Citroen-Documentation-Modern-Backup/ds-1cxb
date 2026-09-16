@@ -1,0 +1,18 @@
+{
+ "ref": "123005501101",
+ "refDisplay": "1230 05 501101",
+ "title": "FAISCEAU AVANT PRINCIPAL",
+ "nature": "",
+ "applicability": "ESSENCE ET 1,124L ET 1,360L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0308"
+  }
+ ]
+}

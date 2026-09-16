@@ -1,0 +1,19 @@
+{
+ "ref": "1CXB0251458",
+ "refDisplay": "1CXB 0 25 1458",
+ "title": "CONDUIT C/C DE FILTRE A AIR A TURBO",
+ "nature": "",
+ "applicability": "(B005) BX BERLINE 5PTES DIESEL TURBO XUD7TE OU (B004) BX BERLINE 5PTES DIESEL XUD9 OU (B003) BX BERLINE 5PTES DIESEL XUD7 OU (B002) BX BREAK 5PTES DIESEL TURBO XUD7TE OU (B001) BX BREAK 5PTES DIESEL XUD9 OU (B000) BX BREAK 5PTES DIESEL XUD7",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

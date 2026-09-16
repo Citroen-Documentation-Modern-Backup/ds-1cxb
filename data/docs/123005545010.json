@@ -1,0 +1,18 @@
+{
+ "ref": "123005545010",
+ "refDisplay": "1230 05 545010",
+ "title": "ECLAIRAGE INTERIEUR",
+ "nature": "",
+ "applicability": " SAUF TOIT OUVRANT",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0202"
+  }
+ ]
+}

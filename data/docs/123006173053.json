@@ -1,0 +1,18 @@
+{
+ "ref": "123006173053",
+ "refDisplay": "1230 06 173053",
+ "title": "CANALISATIONS CARBURANT",
+ "nature": "",
+ "applicability": "GAZOLE ET 1,905L",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0010"
+  }
+ ]
+}

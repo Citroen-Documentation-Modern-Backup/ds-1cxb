@@ -1,0 +1,18 @@
+{
+ "ref": "123004454210",
+ "refDisplay": "1230 04 454210",
+ "title": "FREIN - BLOC HYDRAULIQUE",
+ "nature": "",
+ "applicability": "ANTI-BLOCAGE ROUE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CXB",
+   "variantKey": "",
+   "fctId": "FCT0340"
+  }
+ ]
+}
