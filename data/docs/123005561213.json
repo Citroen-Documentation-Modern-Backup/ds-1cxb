@@ -1,18 +1,1 @@
-{
- "ref": "123005561213",
- "refDisplay": "1230 05 561213",
- "title": "ESSUIE VITRE ARRIERE",
- "nature": "",
- "applicability": "BREAK",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0322"
-  }
- ]
-}
+{"ref":"123005561213","refDisplay":"1230 05 561213","title":"ESSUIE VITRE ARRIERE","nature":"","applicability":"BREAK","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0322"}],"kind":"pr","appl":"{(?1CXB)(@BK)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006544"},[]],["thesaurus",{"type":"10","code":"016994"},[]],["thesaurus",{"type":"10","code":"003057"},[]],["thesaurus",{"type":"10","code":"014149"},[]],["thesaurus",{"type":"10","code":"000034"},[]],["thesaurus",{"type":"10","code":"002614"},[]],["thesaurus",{"type":"10","code":"005282"},[]],["mpr",{"catal":"1230","grp":"386","grp2":"05","maj":"20110723","numfich":"561213"},[["appl",{},["{(?1CXB)(@BK)}"]],["sti",{"ident":"NL561201"},[]],["img",{"numfich":"d5612130","path":"/img/pr/30/d561/d5612130.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006544","obsnfp":"NFP","ref":"95633171","refpg":"95 633 171"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"016994","obsnfp":"NFP","ref":"95635437","refpg":"95 635 437"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"003057","ref":"00006426AV","refpg":"6426 AV"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 500"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006426WH","refpg":"6426 WH"},[]]]],["pr",{"codesi":"014149","ref":"E429007","refpg":"E429007","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 500"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000034","obsnfp":"NFP","ref":"95611488","refpg":"95 611 488"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002614","obsnfp":"NFP","ref":"95613177","refpg":"95 613 177"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20X DIAM 16X5,6"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"005282","obsnfp":"NFP","ref":"95630113","refpg":"95 630 113"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 32X20,2X1"]]]]]]]]]]]]}

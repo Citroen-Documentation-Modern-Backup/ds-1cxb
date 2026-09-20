@@ -1,18 +1,1 @@
-{
- "ref": "123005502450",
- "refDisplay": "1230 05 502450",
- "title": "FAISCEAU INTERMEDIAIRE AVANT - ARRIERE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"123005502450","refDisplay":"1230 05 502450","title":"FAISCEAU INTERMEDIAIRE AVANT - ARRIERE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005633"},[]],["thesaurus",{"type":"10","code":"005933"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"506","grp2":"05","maj":"20110723","numfich":"502450"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL502401"},[]],["img",{"numfich":"d5024500","path":"/img/pr/00/d502/d5024500.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005633","cote":"G","obsnfp":"NFP","ref":"95635338","refpg":"95 635 338"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BL)}"]]]]]],["pr",{"codesi":"005633","cote":"G","obsnfp":"NFP","ref":"95611824","refpg":"95 611 824"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005933","cote":"D","obsnfp":"NFP","ref":"95569068","refpg":"95 569 068"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($,,1,03856)/}"]]]]]],["pr",{"codesi":"005933","cote":"D","obsnfp":"NFP","ref":"96016837","refpg":"96 016 837"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,03857,,)/}"]]]]]],["pr",{"codesi":"005933","cote":"D","obsnfp":"NFP","ref":"96004524","refpg":"96 004 524"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DEU02)/($1,03857,,)/[(%DEU06)]}"]]]]]],["pr",{"codesi":"005933","cote":"D","obsnfp":"NFP","ref":"95631071","refpg":"95 631 071"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DEU02)(%DEU06)/($,,1,03856)/}"]]]]]],["pr",{"codesi":"005933","cote":"D","obsnfp":"NFP","ref":"96004520","refpg":"96 004 520"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DEU02)(%DEU06)/($1,03857,,)/}"]]]]]]]]]]]]}

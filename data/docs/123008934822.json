@@ -1,18 +1,1 @@
-{
- "ref": "123008934822",
- "refDisplay": "1230 08 934822",
- "title": "BANQUETTE ARRIERE - GARNITURES",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0231"
-  }
- ]
-}
+{"ref":"123008934822","refDisplay":"1230 08 934822","title":"BANQUETTE ARRIERE - GARNITURES","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0231"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"7","code":"V037-"},[]],["thesaurus",{"type":"7","code":"V062-"},[]],["thesaurus",{"type":"7","code":"V033-"},[]],["thesaurus",{"type":"10","code":"004378"},[]],["thesaurus",{"type":"10","code":"008115"},[]],["mpr",{"catal":"1230","grp":"437","grp2":"08","maj":"20110723","numfich":"934822"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL934801"},[]],["enssup",{},[["refd",{},["ACCOUDOIR"]]]],["repere",{"rep":"01"},[["pr",{"codesi":"004378","obsnfp":"NFP","ref":"95605374TL","refpg":"95 605 374 TL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"008115","obsnfp":"NFP","ref":"95656485XX","refpg":"95 656 485 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,04683,,)/}"]],["complpr",{"matiere":"V037-"},[]]]]]],["pr",{"codesi":"008115","obsnfp":"NFP","ref":"95663079XX","refpg":"95 663 079 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0J4V)/($1,05411,,)/}"]],["complpr",{"matiere":"V062-"},[]]]]]]]],["repere",{"rep":"52"},[["pr",{"codesi":"008115","obsnfp":"NFP","ref":"95658516LE","refpg":"95 658 516 LE"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H75)/($1,04923,1,05618)/}"]],["complpr",{"matiere":"V033-"},[]]]]]],["pr",{"codesi":"008115","obsnfp":"NFP","ref":"95658517TR","refpg":"95 658 517 TR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H75)/($1,04923,,)/}"]]]]]]]]]]]]}

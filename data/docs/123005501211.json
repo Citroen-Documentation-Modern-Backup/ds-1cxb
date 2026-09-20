@@ -1,18 +1,1 @@
-{
- "ref": "123005501211",
- "refDisplay": "1230 05 501211",
- "title": "FAISCEAU MOTEUR",
- "nature": "",
- "applicability": "GTI 16S",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"123005501211","refDisplay":"1230 05 501211","title":"FAISCEAU MOTEUR","nature":"","applicability":"GTI 16S","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CXB)(%GTI16S)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003753"},[]],["thesaurus",{"type":"10","code":"003752"},[]],["mpr",{"catal":"1230","grp":"514","grp2":"05","maj":"20110723","numfich":"501211"},[["appl",{},["{(?1CXB)(%GTI16S)}"]],["sti",{"ident":"NL501201"},[]],["img",{"numfich":"00059123","path":"/img/pr/23/0005/00059123.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96081489","refpg":"96 081 489"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($,,1,04922)/}"]]]]]],["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96111725","refpg":"96 111 725"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,04923,,)/}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"257, 283, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003752","obsnfp":"NFP","ref":"96006925","refpg":"96 006 925"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($,,1,04922)/}"]]]]]],["pr",{"codesi":"003752","obsnfp":"NFP","ref":"96103848","refpg":"96 103 848"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,04923,,)/}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"29, 176, 11","shape":"circle"},[]]]]]],["repere",{"rep":"52"},[["pr",{"codesi":"003752","obsnfp":"NFP","ref":"96032184","refpg":"96 032 184"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F190)(DAZ04)(%DDC02A)(B0H04)/($,,1,04922)/}"]]]]]],["pr",{"codesi":"003752","obsnfp":"NFP","ref":"96104393","refpg":"96 104 393"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%GTI16V)(%DDC02A)(B0H04)/($1,04923,,)/}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"46, 177, 11","shape":"circle"},[]]]]]]]]]]}

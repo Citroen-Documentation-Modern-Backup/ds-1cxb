@@ -1,18 +1,1 @@
-{
- "ref": "123004351020",
- "refDisplay": "1230 04 351020",
- "title": "TRANSMISSION ARRIERE - DETAILS",
- "nature": "",
- "applicability": "ESSENCE ET 1,905L ET 4X4 DEPUIS OPR 06050",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0022"
-  }
- ]
-}
+{"ref":"123004351020","refDisplay":"1230 04 351020","title":"TRANSMISSION ARRIERE - DETAILS","nature":"","applicability":"ESSENCE ET 1,905L ET 4X4 DEPUIS OPR 06050","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0022"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F190)(%4X4)/($1,06050,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001703"},[]],["thesaurus",{"type":"10","code":"001223"},[]],["thesaurus",{"type":"10","code":"001196"},[]],["thesaurus",{"type":"10","code":"005360"},[]],["thesaurus",{"type":"10","code":"006202"},[]],["mpr",{"catal":"1230","grp":"132","grp2":"04","maj":"20110723","numfich":"351020"},[["appl",{},["{(?1CXB)(DCD10)(%B0F190)(%4X4)/($1,06050,,)/}"]],["sti",{"ident":"NL351001"},[]],["img",{"numfich":"d3510200","path":"/img/pr/00/d351/d3510200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001703","obsnfp":"NFP","ref":"00003274A8","refpg":"3274 A8"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001223","obsnfp":"NFP","ref":"0000329376","refpg":"3293 76"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["ROUES ET PONT"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001196","ref":"0000329700","refpg":"3297 00"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["24 X 150"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000329733","refpg":"3297 33"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"005360","ref":"0000329702","refpg":"3297 02"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000329735","refpg":"3297 35"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"006202","ref":"0000329703","refpg":"3297 03"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

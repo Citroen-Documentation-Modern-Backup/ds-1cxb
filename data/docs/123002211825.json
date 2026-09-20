@@ -1,18 +1,1 @@
-{
- "ref": "123002211825",
- "refDisplay": "1230 02 211825",
- "title": "DISTRIBUTEUR D’ALLUMAGE",
- "nature": "",
- "applicability": "ESSENCE ET 1,905L ET INJECTION ET (J) JAPON",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"123002211825","refDisplay":"1230 02 211825","title":"DISTRIBUTEUR D’ALLUMAGE","nature":"","applicability":"ESSENCE ET 1,905L ET INJECTION ET (J) JAPON","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0013"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F190)(DAZ04)(B0H49)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006796"},[]],["thesaurus",{"type":"10","code":"002116"},[]],["thesaurus",{"type":"10","code":"002169"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["mpr",{"catal":"1230","grp":"44 45","grp2":"02","maj":"20110723","numfich":"211825"},[["appl",{},["{(?1CXB)(DCD10)(%B0F190)(DAZ04)(B0H49)}"]],["sti",{"ident":"NL211801"},[]],["enssup",{},[["fourn",{},["13286R"]],["refd",{},["2525709A"]]]],["img",{"numfich":"d2118250","path":"/img/pr/50/d211/d2118250.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006796","obsnfp":"NFP","ref":"00005900H4","refpg":"5900 H4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["13286R"]]]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002116","ref":"0000594035","refpg":"5940 35"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002169","ref":"0000590317","refpg":"5903 17"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002169","obsnfp":"NFP","ref":"96042439","refpg":"96 042 439"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004675","ref":"0000691536","refpg":"6915 36"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-20"]]]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"008588","ref":"0000696270","refpg":"6962 70"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X18-1,4"]]]]]]]]]]]]}

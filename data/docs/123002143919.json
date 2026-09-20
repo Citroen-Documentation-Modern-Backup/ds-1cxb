@@ -1,18 +1,1 @@
-{
- "ref": "123002143919",
- "refDisplay": "1230 02 143919",
- "title": "CORPS D’INJECTION MONOPOINT",
- "nature": "",
- "applicability": "1,580L ET INJ MONOPOINT ET (XT) EXPORT DEPUIS OPR 05226 JUSQU’A OPR 05284",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"123002143919","refDisplay":"1230 02 143919","title":"CORPS D’INJECTION MONOPOINT","nature":"","applicability":"1,580L ET INJ MONOPOINT ET (XT) EXPORT DEPUIS OPR 05226 JUSQU’A OPR 05284","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CXB)(%B0F158)(%DAZ07)(%B0HXT)/($1,05226,1,05284)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"007190"},[]],["thesaurus",{"type":"10","code":"000834"},[]],["thesaurus",{"type":"10","code":"010066"},[]],["thesaurus",{"type":"10","code":"000412"},[]],["thesaurus",{"type":"22","code":"P0000194"},[]],["mpr",{"catal":"1230","grp":"34","grp2":"02","maj":"20110723","numfich":"143919"},[["appl",{},["{(?1CXB)(%B0F158)(%DAZ07)(%B0HXT)/($1,05226,1,05284)/}"]],["sti",{"ident":"NL143901"},[]],["obspage",{"ident":"P0000194"},[]],["enssup",{},[["fourn",{},["18770B"]],["refd",{},["16068 REP 564"]]]],["img",{"numfich":"d1439190","path":"/img/pr/90/d143/d1439190.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"007190","obsnfp":"NFP","ref":"00001920J0","refpg":"1920 J0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["18770B"]]]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"007190","obsnfp":"NFP","ref":"00001920A5","refpg":"1920 A5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["18770B"]]]]]],["descomp",{},[["lib",{"langue":"01"},["ENS SUP"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000834","ref":"000019200F","refpg":"1920 0F"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"010066","obsnfp":"NFP","ref":"00001920E6","refpg":"1920 E6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000412","obsnfp":"NFP","ref":"00001920J2","refpg":"1920 J2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "123005501001",
- "refDisplay": "1230 05 501001",
- "title": "FAISCEAU AVANT",
- "nature": "",
- "applicability": "PROJECTEURS ANTI BROUILLARD",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"123005501001","refDisplay":"1230 05 501001","title":"FAISCEAU AVANT","nature":"","applicability":"PROJECTEURS ANTI BROUILLARD","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CXB)(DPR01)}","tree":["document",{},[["thesaurus",{"type":"10","code":"008792"},[]],["thesaurus",{"type":"10","code":"006770"},[]],["mpr",{"catal":"1230","grp":"512","grp2":"05","maj":"20110723","numfich":"501001"},[["appl",{},["{(?1CXB)(DPR01)}"]],["sti",{"ident":"NL501001"},[]],["img",{"numfich":"d5010010","path":"/img/pr/10/d501/d5010010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"008792","obsnfp":"NFP","ref":"96125659","refpg":"96 125 659"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TZDTU)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006770","obsnfp":"NFP","ref":"96036742","refpg":"96 036 742"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TZDTU)}"]]]]]]]]]]]]}

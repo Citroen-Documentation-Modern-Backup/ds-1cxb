@@ -1,18 +1,1 @@
-{
- "ref": "123003391314",
- "refDisplay": "1230 03 391314",
- "title": "POMPE HP-SUPPORT-TENDEUR-FIXATION",
- "nature": "",
- "applicability": "GTI 16S DEPUIS OPR 04224",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0337"
-  }
- ]
-}
+{"ref":"123003391314","refDisplay":"1230 03 391314","title":"POMPE HP-SUPPORT-TENDEUR-FIXATION","nature":"","applicability":"GTI 16S DEPUIS OPR 04224","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0337"}],"kind":"pr","appl":"{(?1CXB)(%GTI16S)/($1,04224,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001661"},[]],["thesaurus",{"type":"10","code":"001283"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"004669"},[]],["thesaurus",{"type":"10","code":"006028"},[]],["mpr",{"catal":"1230","grp":"267","grp2":"03","maj":"20110723","numfich":"391314"},[["appl",{},["{(?1CXB)(%GTI16S)/($1,04224,,)/}"]],["sti",{"ident":"NL391301"},[]],["img",{"numfich":"d3913140","path":"/img/pr/40/d391/d3913140.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001661","obsnfp":"NFP","ref":"96034024","refpg":"96 034 024"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001283","obsnfp":"NFP","ref":"96034825","refpg":"96 034 825"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004675","ref":"0000693304","refpg":"6933 04"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-50"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004675","obsnfp":"NFP","ref":"0000580408","refpg":"5804 08"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-25"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"008006","ref":"0000692288","refpg":"6922 88"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-40"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004675","ref":"0000692183","refpg":"6921 83"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-35"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000691462","refpg":"6914 62"},[]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"004667","ref":"0000694778","refpg":"6947 78"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X16-1,5"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"004669","ref":"0000695858","refpg":"6958 58"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8,3X14,3-0,8"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"006028","ref":"00006936C6","refpg":"6936 C6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-9,7-22"]]]]]]]]]]]]}

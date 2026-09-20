@@ -1,18 +1,1 @@
-{
- "ref": "123006235606",
- "refDisplay": "1230 06 235606",
- "title": "BOITIER DE SORTIE D’EAU",
- "nature": "",
- "applicability": "GTI 16S",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0009"
-  }
- ]
-}
+{"ref":"123006235606","refDisplay":"1230 06 235606","title":"BOITIER DE SORTIE D’EAU","nature":"","applicability":"GTI 16S","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0009"}],"kind":"pr","appl":"{(?1CXB)(%GTI16S)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000056"},[]],["thesaurus",{"type":"10","code":"000516"},[]],["thesaurus",{"type":"10","code":"007350"},[]],["thesaurus",{"type":"10","code":"000441"},[]],["thesaurus",{"type":"10","code":"016975"},[]],["thesaurus",{"type":"10","code":"000559"},[]],["thesaurus",{"type":"10","code":"017006"},[]],["thesaurus",{"type":"10","code":"004957"},[]],["thesaurus",{"type":"10","code":"001734"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004682"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["mpr",{"catal":"1230","grp":"59","grp2":"06","maj":"20110723","numfich":"235606"},[["appl",{},["{(?1CXB)(%GTI16S)}"]],["sti",{"ident":"NL235601"},[]],["img",{"numfich":"d2356060","path":"/img/pr/60/d235/d2356060.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000056","obsnfp":"NFP","ref":"0000133691","refpg":"1336 91"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000516","ref":"0000130629","refpg":"1306 29"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-18"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"007350","ref":"0000024246","refpg":"0242 46"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["12X150"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000441","ref":"0000133978","refpg":"1339 78"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X6,2"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"016975","ref":"0000156251","refpg":"1562 51"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 12X16X2"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000559","obsnfp":"NFP","ref":"95579684","refpg":"95 579 684"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 14-150 - 112DEG"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"017006","ref":"0000133772","refpg":"1337 72"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 14X125"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"004957","obsnfp":"NFP","ref":"96088592","refpg":"96 088 592"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"001734","obsnfp":"NFP","ref":"95638556","refpg":"95 638 556"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-63 7X100-15"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"004675","ref":"0000691584","refpg":"6915 84"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-12"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"004682","ref":"00006913A8","refpg":"6913 A8"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-60"]]]]]]]],["repere",{"rep":"12"},[["pr",{"codesi":"008588","ref":"0000696204","refpg":"6962 04"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X12,2-0,5"]]]]]]]],["repere",{"rep":"13"},[["pr",{"codesi":"008588","ref":"0000696299","refpg":"6962 99"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X12-1,7"]]]]]]]]]]]]}

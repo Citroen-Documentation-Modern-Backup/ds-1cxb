@@ -1,18 +1,1 @@
-{
- "ref": "123007745210",
- "refDisplay": "1230 07 745210",
- "title": "TRAVERSE - SUPPORT D’ESSIEU ARRIERE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0116"
-  }
- ]
-}
+{"ref":"123007745210","refDisplay":"1230 07 745210","title":"TRAVERSE - SUPPORT D’ESSIEU ARRIERE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0116"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002338"},[]],["thesaurus",{"type":"10","code":"002722"},[]],["thesaurus",{"type":"10","code":"002950"},[]],["thesaurus",{"type":"10","code":"005880"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"322","grp2":"07","maj":"20110723","numfich":"745210"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL745201"},[]],["img",{"numfich":"d7452100","path":"/img/pr/00/d745/d7452100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002338","obsnfp":"NFP","ref":"95578145","refpg":"95 578 145"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002722","cote":"G","obsnfp":"NFP","ref":"95587862","refpg":"95 587 862"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["pr",{"codesi":"002722","cote":"D","obsnfp":"NFP","ref":"95587861","refpg":"95 587 861"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002950","cote":"G","obsnfp":"NFP","ref":"95560802","refpg":"95 560 802"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["pr",{"codesi":"002950","cote":"D","obsnfp":"NFP","ref":"95560801","refpg":"95 560 801"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"005880","cote":"G","obsnfp":"NFP","ref":"0000725192","refpg":"7251 92"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]]]],["pr",{"codesi":"005880","cote":"D","obsnfp":"NFP","ref":"00007252C2","refpg":"7252 C2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]]]]]]]]]]}

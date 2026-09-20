@@ -1,18 +1,1 @@
-{
- "ref": "123006133015",
- "refDisplay": "1230 06 133015",
- "title": "SUSPENSION MOTEUR - BOITE DE VITESSES",
- "nature": "",
- "applicability": "INJECTION ET 1,580L ET ESSENCE ET 1,905L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"123006133015","refDisplay":"1230 06 133015","title":"SUSPENSION MOTEUR - BOITE DE VITESSES","nature":"","applicability":"INJECTION ET 1,580L ET ESSENCE ET 1,905L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CXB)(DAZ04)(%B0F158)(DCD10)(%B0F190)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000666"},[]],["thesaurus",{"type":"10","code":"000660"},[]],["thesaurus",{"type":"10","code":"000165"},[]],["thesaurus",{"type":"10","code":"000111"},[]],["thesaurus",{"type":"10","code":"005206"},[]],["thesaurus",{"type":"10","code":"004660"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"13","code":"D"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"21","code":"L0059887"},[]],["thesaurus",{"type":"21","code":"L0059902"},[]],["mpr",{"catal":"1230","grp":"5","grp2":"06","maj":"20110723","numfich":"133015"},[["appl",{},["{(?1CXB)(DAZ04)(%B0F158)(DCD10)(%B0F190)}"]],["sti",{"ident":"NL133001"},[]],["img",{"numfich":"d1330150","path":"/img/pr/50/d133/d1330150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000666","cote":"D","ref":"0000184659","refpg":"1846 59"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0059887"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000660","cote":"D","obsnfp":"NFP","ref":"0000180747","refpg":"1807 47"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000666","cote":"D","ref":"0000183927","refpg":"1839 27"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000660","cote":"D","ref":"0000184442","refpg":"1844 42"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000660","cote":"G","ref":"0000184395","refpg":"1843 95"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,04193,,)/}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000165","ref":"0000185416","refpg":"1854 16"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000111","obsnfp":"NFP","ref":"91521582","refpg":"91 521 582"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"005206","ref":"0000184028","refpg":"1840 28"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,04193,,)/}"]],["obsligne",{"ident":"L0059902"},[]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"004660","ref":"0000693085","refpg":"6930 85"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X150-35-15-5,5"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"004667","ref":"0000184114","refpg":"1841 14"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["14X48-3"]]]]]]]]]]]]}

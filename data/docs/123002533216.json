@@ -1,18 +1,1 @@
-{
- "ref": "123002533216",
- "refDisplay": "1230 02 533216",
- "title": "DEMARREUR - DETAILS",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0302"
-  }
- ]
-}
+{"ref":"123002533216","refDisplay":"1230 02 533216","title":"DEMARREUR - DETAILS","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0302"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002074"},[]],["thesaurus",{"type":"10","code":"002117"},[]],["thesaurus",{"type":"10","code":"002049"},[]],["thesaurus",{"type":"10","code":"001886"},[]],["thesaurus",{"type":"10","code":"005156"},[]],["mpr",{"catal":"1230","grp":"492","grp2":"02","maj":"20110723","numfich":"533216"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL533201"},[]],["enssup",{},[["fourn",{},["76253H"]],["refd",{},["09E48"]]]],["img",{"numfich":"d5332160","path":"/img/pr/60/d533/d5332160.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002074","obsnfp":"NFP","ref":"0000580722","refpg":"5807 22"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002117","obsnfp":"NFP","ref":"0000583556","refpg":"5835 56"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002049","ref":"95618200","refpg":"95 618 200"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["ENS"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001886","ref":"75526989","refpg":"75 526 989"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["ENS"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"005156","ref":"95618207","refpg":"95 618 207"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["ENS"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"005156","obsnfp":"NFP","ref":"0000582929","refpg":"5829 29"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

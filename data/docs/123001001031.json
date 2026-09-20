@@ -1,18 +1,1 @@
-{
- "ref": "123001001031",
- "refDisplay": "1230 01 001031",
- "title": "MOTEUR - POCHETTE DE JOINTS",
- "nature": "",
- "applicability": "ESSENCE ET GTI 16S",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"123001001031","refDisplay":"1230 01 001031","title":"MOTEUR - POCHETTE DE JOINTS","nature":"","applicability":"ESSENCE ET GTI 16S","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%GTI16S)}","tree":["document",{},[["thesaurus",{"type":"7","code":"A005-"},[]],["thesaurus",{"type":"10","code":"013644"},[]],["thesaurus",{"type":"10","code":"013646"},[]],["thesaurus",{"type":"10","code":"000816"},[]],["thesaurus",{"type":"10","code":"000815"},[]],["thesaurus",{"type":"22","code":"P0000099"},[]],["mpr",{"catal":"1230","grp":"4","grp2":"01","maj":"20110723","numfich":"001031"},[["appl",{},["{(?1CXB)(DCD10)(%GTI16S)}"]],["sti",{"ident":"NL001001"},[]],["obspage",{"ident":"P0000099"},[]],["img",{"numfich":"00058123","path":"/img/pr/23/0005/00058123.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013644","obsnfp":"NFP","ref":"95624939","refpg":"95 624 939"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($,,1,04617)/}"]]]],["reporg",{},[["monte",{},[" D6C"]]]]]],["pr",{"codesi":"013646","obsnfp":"NFP","ref":"95624940","refpg":"95 624 940"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0F5H)/($,,1,04617)/(~2)}"]]]],["reporg",{},[["monte",{},[" D6C"]]]]]],["pr",{"codesi":"013644","obsnfp":"NFP","ref":"00000135H9","refpg":"0135 H9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,04618,,)/}"]]]],["reporg",{},[["monte",{},["(D6C)"]],["monte",{},["D6C"]]]]]],["pr",{"codesi":"013646","obsnfp":"NFP","ref":"00000139E2","refpg":"0139 E2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(~2)}"]]]],["reporg",{},[["monte",{},["(D6C)"]],["monte",{},[" D6C"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"389, 256, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000816","obsnfp":"NFP","ref":"00000197J3","refpg":"0197 J3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["complpr",{"matiere":"A005-"},[]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"172, 461, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000815","obsnfp":"NFP","ref":"00000197J2","refpg":"0197 J2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["complpr",{"matiere":"A005-"},[]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"306, 471, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"013644","obsnfp":"NFP","ref":"95646306","refpg":"95 646 306"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H04)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H75)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H06)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H09)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H08)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H44)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H05)}"]]]],["reporg",{},[["monte",{},[" DFW"]]]]]],["pr",{"codesi":"013646","obsnfp":"NFP","ref":"95668937","refpg":"95 668 937"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H04)(~2)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H75)(~2)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H06)(~2)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H09)(~2)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H08)(~2)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H44)(~2)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H05)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["REP DFW"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"393, 281, 11","shape":"circle"},[]]]]]]]]]]}

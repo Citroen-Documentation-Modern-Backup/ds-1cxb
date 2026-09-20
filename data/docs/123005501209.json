@@ -1,18 +1,1 @@
-{
- "ref": "123005501209",
- "refDisplay": "1230 05 501209",
- "title": "FAISCEAU MOTEUR",
- "nature": "",
- "applicability": "1,905L ET INJ MONOPOINT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"123005501209","refDisplay":"1230 05 501209","title":"FAISCEAU MOTEUR","nature":"","applicability":"1,905L ET INJ MONOPOINT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CXB)(%B0F190)(%DAZ07)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003753"},[]],["thesaurus",{"type":"10","code":"003752"},[]],["mpr",{"catal":"1230","grp":"514","grp2":"05","maj":"20110723","numfich":"501209"},[["appl",{},["{(?1CXB)(%B0F190)(%DAZ07)}"]],["sti",{"ident":"NL501201"},[]],["img",{"numfich":"00059121","path":"/img/pr/21/0005/00059121.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96036175","refpg":"96 036 175"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%4X4)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"401, 386, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"003753","obsnfp":"NFP","ref":"95637396","refpg":"95 637 396"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H09)(B0H08)(B0H07)}"]]]]]],["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96036176","refpg":"96 036 176"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%4X4)(DEK01)(B0H09)(B0H08)(B0H07)/($,,1,04802)/}"]]]]]],["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96081475","refpg":"96 081 475"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%4X4)(DEK01)(B0H09)(B0H08)(B0H07)/($1,04803,,)/}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"406, 410, 11","shape":"circle"},[]]]]]],["repere",{"rep":"52"},[["pr",{"codesi":"003752","obsnfp":"NFP","ref":"96030134","refpg":"96 030 134"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"116, 80, 11","shape":"circle"},[]]]]]]]]]]}

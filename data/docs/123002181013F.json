@@ -1,18 +1,1 @@
-{
- "ref": "123002181013F",
- "refDisplay": "1230 02 181013F",
- "title": "TUBULURE D’ECHAPPEMENT",
- "nature": "",
- "applicability": "ESSENCE ET 16 RE ET 1,580L ET INJECTION ET (XT) EXPORT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0011"
-  }
- ]
-}
+{"ref":"123002181013F","refDisplay":"1230 02 181013F","title":"TUBULURE D’ECHAPPEMENT","nature":"","applicability":"ESSENCE ET 16 RE ET 1,580L ET INJECTION ET (XT) EXPORT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0011"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%16RE)(%B0F158)(DAZ04)(%B0HXT)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000181"},[]],["thesaurus",{"type":"10","code":"000390"},[]],["thesaurus",{"type":"10","code":"004660"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["thesaurus",{"type":"22","code":"P0000223"},[]],["mpr",{"catal":"1230","grp":"49","grp2":"02","maj":"20110723","numfich":"181013F"},[["appl",{},["{(?1CXB)(DCD10)(%16RE)(%B0F158)(DAZ04)(%B0HXT)}"]],["sti",{"ident":"NL181001"},[]],["obspage",{"ident":"P0000223"},[]],["img",{"numfich":"d181013f","path":"/img/pr/3f/d181/d181013f.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000181","obsnfp":"NFP","ref":"0000034120","refpg":"0341 20"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000390","ref":"0000034970","refpg":"0349 70"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004660","ref":"0000692923","refpg":"6929 23"},[["pmont",{"coef":"08"},[["appl",{},["{(?1CXB)/($,,1,04952)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-32-22-18"]]]]]],["pr",{"codesi":"004660","ref":"0000035537","refpg":"0355 37"},[["pmont",{"coef":"08"},[["appl",{},["{(?1CXB)/($1,04953,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-36-25-8-10"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004651","ref":"0000693238","refpg":"6932 38"},[["pmont",{"coef":"08"},[["appl",{},["{(?1CXB)/($,,1,04620)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-6,5"]]]]]],["pr",{"codesi":"006142","ref":"0000034122","refpg":"0341 22"},[["pmont",{"coef":"08"},[["appl",{},["{(?1CXB)/($1,04621,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-11-17,5"]]]]]]]]]]]]}

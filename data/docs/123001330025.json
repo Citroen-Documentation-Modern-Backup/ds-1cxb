@@ -1,18 +1,1 @@
-{
- "ref": "123001330025",
- "refDisplay": "1230 01 330025",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "4X4",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"123001330025","refDisplay":"1230 01 330025","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"4X4","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CXB)(%4X4)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000047"},[]],["thesaurus",{"type":"10","code":"000048"},[]],["thesaurus",{"type":"21","code":"L0048457"},[]],["mpr",{"catal":"1230","grp":"67","grp2":"01","maj":"20110723","numfich":"330025"},[["appl",{},["{(?1CXB)(%4X4)}"]],["sti",{"ident":"NL330001"},[]],["img",{"numfich":"d3300250","path":"/img/pr/50/d330/d3300250.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000047","obsnfp":"NFP","ref":"9455780880","refpg":"94 557 808 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,04880,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["C14X62 REP CK13"]]]],["reporg",{},[["monte",{},["(CK13)"]],["monte",{},["CK13"]]]]]],["pr",{"codesi":"000048","obsnfp":"NFP","ref":"95666882","refpg":"95 666 882"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 14X62"]]]],["reporg",{},[["monte",{},[" CK04"]],["monte",{},["(CKAC)"]],["monte",{},[" CK13"]]]]]],["pr",{"codesi":"000048","obsnfp":"NFP","ref":"95666881","refpg":"95 666 881"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ04)/($1,04880,1,05655)/(~2)}"]],["obsligne",{"ident":"L0048457"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(~2)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCD06)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 16X67"]]]],["reporg",{},[["monte",{},["2CK02"]],["monte",{},[" CK12"]],["monte",{},[" CK02"]],["monte",{},["(CKAB)"]]]]]]]]]]]]}

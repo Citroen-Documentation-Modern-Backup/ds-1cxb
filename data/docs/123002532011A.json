@@ -1,18 +1,1 @@
-{
- "ref": "123002532011A",
- "refDisplay": "1230 02 532011A",
- "title": "ALTERNATEUR",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0303"
-  }
- ]
-}
+{"ref":"123002532011A","refDisplay":"1230 02 532011A","title":"ALTERNATEUR","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0303"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001783"},[]],["thesaurus",{"type":"10","code":"002253"},[]],["thesaurus",{"type":"10","code":"002208"},[]],["thesaurus",{"type":"10","code":"001843"},[]],["mpr",{"catal":"1230","grp":"496","grp2":"02","maj":"20110723","numfich":"532011A"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL532001"},[]],["enssup",{},[["fourn",{},["71367X"]],["refd",{},["A001T02674A"]]]],["img",{"numfich":"d532011a","path":"/img/pr/1a/d532/d532011a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001783","ref":"0000570589","refpg":"5705 89"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F11)(B0H01)/($1,04206,1,05347)/}"]],["reffour",{},[["four",{},["22969R"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F11)(B0H01)/($1,04206,1,05347)/}"]],["reffour",{},[["four",{},["71485A"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F11)(B0H01)/($1,04206,1,05347)/}"]],["reffour",{},[["four",{},["72043G"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F11)(B0H38)/($1,04206,1,05437)/}"]],["reffour",{},[["four",{},["22969R"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F11)(B0H38)/($1,04206,1,05437)/}"]],["reffour",{},[["four",{},["71485A"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F11)(B0H38)/($1,04206,1,05437)/}"]],["reffour",{},[["four",{},["72043G"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F136)/($1,04193,1,05439)/}"]],["reffour",{},[["four",{},["22969R"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F136)/($1,04193,1,05439)/}"]],["reffour",{},[["four",{},["71485A"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F136)/($1,04193,1,05439)/}"]],["reffour",{},[["four",{},["72043G"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CLASSE 5 - 50 AMP"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002253","ref":"9405727308","refpg":"94 05 727 308"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002208","ref":"9405761758","refpg":"94 05 761 758"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001843","ref":"9405744928","refpg":"94 05 744 928"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

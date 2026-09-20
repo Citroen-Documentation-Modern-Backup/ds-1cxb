@@ -1,18 +1,1 @@
-{
- "ref": "123002211210",
- "refDisplay": "1230 02 211210",
- "title": "ALLUMEUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,124L JUSQU’A OPR 04205",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"123002211210","refDisplay":"1230 02 211210","title":"ALLUMEUR","nature":"","applicability":"ESSENCE ET 1,124L JUSQU’A OPR 04205","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0013"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F11)/($,,1,04205)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"005554"},[]],["thesaurus",{"type":"10","code":"002116"},[]],["thesaurus",{"type":"10","code":"000689"},[]],["mpr",{"catal":"1230","grp":"44 45","grp2":"02","maj":"20110723","numfich":"211210"},[["appl",{},["{(?1CXB)(DCD10)(%B0F11)/($,,1,04205)/}"]],["sti",{"ident":"NL211201"},[]],["enssup",{},[["fourn",{},["13286R"]],["refd",{},["2525618A"]]]],["img",{"numfich":"d2112100","path":"/img/pr/00/d211/d2112100.jpg","ext":"jpg"},[]],["repere",{"rep":"05"},[["pr",{"codesi":"005554","obsnfp":"NFP","ref":"00005904N3","refpg":"5904 N3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002116","ref":"0000594029","refpg":"5940 29"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000689","ref":"0000595306","refpg":"5953 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CL 3,5X8-5000"]]]]]]]]]]]]}

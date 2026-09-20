@@ -1,18 +1,1 @@
-{
- "ref": "123004314101",
- "refDisplay": "1230 04 314101",
- "title": "PEDALIER - FREIN",
- "nature": "",
- "applicability": "CONDUITE A GAUCHE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0047"
-  }
- ]
-}
+{"ref":"123004314101","refDisplay":"1230 04 314101","title":"PEDALIER - FREIN","nature":"","applicability":"CONDUITE A GAUCHE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0047"}],"kind":"pr","appl":"{(?1CXB)(DCX01)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005428"},[]],["thesaurus",{"type":"10","code":"000177"},[]],["thesaurus",{"type":"10","code":"000739"},[]],["thesaurus",{"type":"10","code":"001130"},[]],["thesaurus",{"type":"10","code":"004682"},[]],["thesaurus",{"type":"10","code":"004670"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"1230","grp":"240","grp2":"04","maj":"20110723","numfich":"314101"},[["appl",{},["{(?1CXB)(DCX01)}"]],["sti",{"ident":"NL314101"},[]],["img",{"numfich":"d3141010","path":"/img/pr/10/d314/d3141010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005428","obsnfp":"NFP","ref":"96080508","refpg":"96 080 508"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000177","ref":"0000213014","refpg":"2130 14"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000739","obsnfp":"NFP","ref":"95593620","refpg":"95 593 620"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM EXT15,3 LON 105"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001130","ref":"0000453402","refpg":"4534 02"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004682","ref":"0000691310","refpg":"6913 10"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000691306","refpg":"6913 06"},[]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004670","ref":"7903058063","refpg":"79 03 058 063"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X18-1,7"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"004651","ref":"7903032121","refpg":"79 03 032 121"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X100-3,2"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006935A9","refpg":"6935 A9"},[]]]]]]]]]]}

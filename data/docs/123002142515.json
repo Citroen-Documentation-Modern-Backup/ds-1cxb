@@ -1,18 +1,1 @@
-{
- "ref": "123002142515",
- "refDisplay": "1230 02 142515",
- "title": "CIRCUIT DE DEPRESSION DE RALENTI",
- "nature": "",
- "applicability": "1,580L ET INJECTION ET BVM ET CLIMATISEUR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"123002142515","refDisplay":"1230 02 142515","title":"CIRCUIT DE DEPRESSION DE RALENTI","nature":"","applicability":"1,580L ET INJECTION ET BVM ET CLIMATISEUR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CXB)(%B0F158)(DAZ04)(@BVM)(DCL10)}","tree":["document",{},[["thesaurus",{"type":"10","code":"008355"},[]],["thesaurus",{"type":"10","code":"009767"},[]],["thesaurus",{"type":"10","code":"000664"},[]],["thesaurus",{"type":"10","code":"000485"},[]],["thesaurus",{"type":"10","code":"005655"},[]],["thesaurus",{"type":"10","code":"007206"},[]],["thesaurus",{"type":"10","code":"008699"},[]],["thesaurus",{"type":"10","code":"004657"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"006028"},[]],["mpr",{"catal":"1230","grp":"34","grp2":"02","maj":"20110723","numfich":"142515"},[["appl",{},["{(?1CXB)(%B0F158)(DAZ04)(@BVM)(DCL10)}"]],["sti",{"ident":"NL142501"},[]],["img",{"numfich":"d1425150","path":"/img/pr/50/d142/d1425150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"008355","obsnfp":"NFP","ref":"0000162172","refpg":"1621 72"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"009767","obsnfp":"NFP","ref":"96008841","refpg":"96 008 841"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000664","obsnfp":"NFP","ref":"96147485","refpg":"96 147 485"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000485","obsnfp":"NFP","ref":"0000162630","refpg":"1626 30"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005655","ref":"00001622A4","refpg":"1622 A4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["5-5-5"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"007206","obsnfp":"NFP","ref":"00001622A2","refpg":"1622 A2"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"007206","obsnfp":"NFP","ref":"00001622A3","refpg":"1622 A3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"008699","ref":"00006913J1","refpg":"6913 J1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"008699","ref":"00006913K2","refpg":"6913 K2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-20"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004657","obsnfp":"NFP","ref":"0000694216","refpg":"6942 16"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-5-11"]]]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"004675","ref":"0000692138","refpg":"6921 38"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 5X80-12"]]]]]]]],["repere",{"rep":"72"},[["pr",{"codesi":"006028","ref":"0000693648","refpg":"6936 48"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["5X80-6-15"]]]]]]]]]]]]}

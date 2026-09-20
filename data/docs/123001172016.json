@@ -1,18 +1,1 @@
-{
- "ref": "123001172016",
- "refDisplay": "1230 01 172016",
- "title": "TURBO - RACCORDS - ECHANGEUR",
- "nature": "",
- "applicability": "GAZOLE ET 1,769L ET TURBO DEPUIS OPR 05440",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0014"
-  }
- ]
-}
+{"ref":"123001172016","refDisplay":"1230 01 172016","title":"TURBO - RACCORDS - ECHANGEUR","nature":"","applicability":"GAZOLE ET 1,769L ET TURBO DEPUIS OPR 05440","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0014"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(%B0F17)(DAZ09)/($1,05440,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000586"},[]],["thesaurus",{"type":"10","code":"004682"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["mpr",{"catal":"1230","grp":"43","grp2":"01","maj":"20110723","numfich":"172016"},[["appl",{},["{(?1CXB)(DCD06)(%B0F17)(DAZ09)/($1,05440,,)/}"]],["sti",{"ident":"NL172001"},[]],["enssup",{},[["fourn",{},["31636L"]]]],["img",{"numfich":"d1720160","path":"/img/pr/60/d172/d1720160.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000586","obsnfp":"NFP","ref":"0000037538","refpg":"0375 38"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["31636L"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["60010C"]]]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004682","ref":"0000037608","refpg":"0376 08"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-25"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004675","ref":"0000037605","refpg":"0376 05"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10X150-27"]]]]]],["pr",{"codesi":"004675","ref":"0000032437","refpg":"0324 37"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10X150-32"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"004667","obsnfp":"NFP","ref":"0000037607","refpg":"0376 07"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["22X10,5-7"]]]]]]]]]]]]}

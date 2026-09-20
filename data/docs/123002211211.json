@@ -1,18 +1,1 @@
-{
- "ref": "123002211211",
- "refDisplay": "1230 02 211211",
- "title": "ALLUMEUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,360L ET BVM4 JUSQU’A OPR 04192",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"123002211211","refDisplay":"1230 02 211211","title":"ALLUMEUR","nature":"","applicability":"ESSENCE ET 1,360L ET BVM4 JUSQU’A OPR 04192","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0013"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F136)(B0G04)/($,,1,04192)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"005554"},[]],["thesaurus",{"type":"10","code":"002116"},[]],["mpr",{"catal":"1230","grp":"44 45","grp2":"02","maj":"20110723","numfich":"211211"},[["appl",{},["{(?1CXB)(DCD10)(%B0F136)(B0G04)/($,,1,04192)/}"]],["sti",{"ident":"NL211201"},[]],["enssup",{},[["fourn",{},["13286R"]],["refd",{},["2525577A-B-C"]]]],["img",{"numfich":"d2112110","path":"/img/pr/10/d211/d2112110.jpg","ext":"jpg"},[]],["repere",{"rep":"05"},[["pr",{"codesi":"005554","obsnfp":"NFP","ref":"00005904N3","refpg":"5904 N3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002116","obsnfp":"NFP","ref":"0000594031","refpg":"5940 31"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

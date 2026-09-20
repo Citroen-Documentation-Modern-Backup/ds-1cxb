@@ -1,18 +1,1 @@
-{
- "ref": "123006235603",
- "refDisplay": "1230 06 235603",
- "title": "BOITIER DE SORTIE D’EAU",
- "nature": "",
- "applicability": "(XT) EXPORT ET ESSENCE ET 1,360L ET INJ MONOPOINT ET CARTER CYLINDRE FONTE DEPUIS OPR 05440",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0009"
-  }
- ]
-}
+{"ref":"123006235603","refDisplay":"1230 06 235603","title":"BOITIER DE SORTIE D’EAU","nature":"","applicability":"(XT) EXPORT ET ESSENCE ET 1,360L ET INJ MONOPOINT ET CARTER CYLINDRE FONTE DEPUIS OPR 05440","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0009"}],"kind":"pr","appl":"{(?1CXB)(%B0HXT)(DCD10)(%B0F136)(%DAZ07)(%CARTCF)/($1,05440,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000056"},[]],["thesaurus",{"type":"10","code":"000286"},[]],["thesaurus",{"type":"10","code":"004957"},[]],["thesaurus",{"type":"10","code":"007350"},[]],["thesaurus",{"type":"10","code":"006101"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004669"},[]],["thesaurus",{"type":"22","code":"P0000339"},[]],["mpr",{"catal":"1230","grp":"59","grp2":"06","maj":"20110723","numfich":"235603"},[["appl",{},["{(?1CXB)(%B0HXT)(DCD10)(%B0F136)(%DAZ07)(%CARTCF)/($1,05440,,)/}"]],["sti",{"ident":"NL235601"},[]],["obspage",{"ident":"P0000339"},[]],["img",{"numfich":"d2356030","path":"/img/pr/30/d235/d2356030.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000056","ref":"0000133681","refpg":"1336 81"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000286","obsnfp":"NFP","ref":"97536037","refpg":"97 536 037"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004957","obsnfp":"NFP","ref":"96064659","refpg":"96 064 659"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"007350","ref":"00001920C4","refpg":"1920 C4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 12X150"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"006101","ref":"0000133632","refpg":"1336 32"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["14X125"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004675","ref":"0000692110","refpg":"6921 10"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-40"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006921E2","refpg":"6921 E2"},[]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"004669","ref":"0000696294","refpg":"6962 94"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X11-0,7"]]]]]]]]]]]]}

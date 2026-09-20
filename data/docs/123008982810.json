@@ -1,18 +1,1 @@
-{
- "ref": "123008982810",
- "refDisplay": "1230 08 982810",
- "title": "PANNEAUX DE PORTE AVANT",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0135"
-  }
- ]
-}
+{"ref":"123008982810","refDisplay":"1230 08 982810","title":"PANNEAUX DE PORTE AVANT","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0135"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004588"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"354","grp2":"08","maj":"20110723","numfich":"982810"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL982801"},[]],["enssup",{},[["refd",{},["TEP"]]]],["img",{"numfich":"d9828100","path":"/img/pr/00/d982/d9828100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004588","cote":"G","obsnfp":"NFP","ref":"95632789TR","refpg":"95 632 789 TR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0J0P)/($1,04131,1,04928)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B)/($1,04131,1,04619)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%OPTION)/($1,04131,1,05655)/}"]]]]]],["pr",{"codesi":"004588","cote":"G","obsnfp":"NFP","ref":"95632789XX","refpg":"95 632 789 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%OPTION)/($1,05656,,)/}"]]]]]],["pr",{"codesi":"004588","cote":"D","obsnfp":"NFP","ref":"95632788TR","refpg":"95 632 788 TR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0J0P)/($1,04131,1,04928)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B)/($1,04131,1,04619)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%OPTION)/($1,04131,1,05655)/}"]]]]]],["pr",{"codesi":"004588","cote":"D","obsnfp":"NFP","ref":"95632788XX","refpg":"95 632 788 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%OPTION)/($1,05656,,)/}"]]]]]]]]]]]]}

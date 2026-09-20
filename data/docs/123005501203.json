@@ -1,18 +1,1 @@
-{
- "ref": "123005501203",
- "refDisplay": "1230 05 501203",
- "title": "FAISCEAU MOTEUR",
- "nature": "",
- "applicability": "1,360L ET CARTER CYLINDRE FONTE DEPUIS OPR 05440",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"123005501203","refDisplay":"1230 05 501203","title":"FAISCEAU MOTEUR","nature":"","applicability":"1,360L ET CARTER CYLINDRE FONTE DEPUIS OPR 05440","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CXB)(%B0F136)(DBW01)/($1,05440,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"003753"},[]],["mpr",{"catal":"1230","grp":"514","grp2":"05","maj":"20110723","numfich":"501203"},[["appl",{},["{(?1CXB)(%B0F136)(DBW01)/($1,05440,,)/}"]],["sti",{"ident":"NL501201"},[]],["img",{"numfich":"d5012030","path":"/img/pr/30/d501/d5012030.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96109734","refpg":"96 109 734"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ08)}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "123006183011",
- "refDisplay": "1230 06 183011",
- "title": "ECHAPPEMENT AVANT",
- "nature": "",
- "applicability": "1,580L ET CARBURATEUR ET (CH) SUISSE ET (S) SUEDE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0011"
-  }
- ]
-}
+{"ref":"123006183011","refDisplay":"1230 06 183011","title":"ECHAPPEMENT AVANT","nature":"","applicability":"1,580L ET CARBURATEUR ET (CH) SUISSE ET (S) SUEDE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0011"}],"kind":"pr","appl":"{(?1CXB)(%B0F158)(DAZ08)(B0H05)(B0H09)}","tree":["document",{},[["thesaurus",{"type":"7","code":"A005-"},[]],["thesaurus",{"type":"10","code":"000589"},[]],["thesaurus",{"type":"10","code":"000469"},[]],["thesaurus",{"type":"10","code":"004654"},[]],["thesaurus",{"type":"10","code":"000867"},[]],["mpr",{"catal":"1230","grp":"49","grp2":"06","maj":"20110723","numfich":"183011"},[["appl",{},["{(?1CXB)(%B0F158)(DAZ08)(B0H05)(B0H09)}"]],["sti",{"ident":"NL183001"},[]],["img",{"numfich":"d1830110","path":"/img/pr/10/d183/d1830110.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000589","obsnfp":"NFP","ref":"95600643","refpg":"95 600 643"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000469","obsnfp":"NFP","ref":"0000171064","refpg":"1710 64"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["complpr",{"matiere":"A005-"},[]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"004654","ref":"0000693586","refpg":"6935 86"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-5,5-10"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"000867","ref":"0000179876","refpg":"1798 76"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

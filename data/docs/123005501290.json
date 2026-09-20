@@ -1,18 +1,1 @@
-{
- "ref": "123005501290",
- "refDisplay": "1230 05 501290",
- "title": "FAISCEAU MOTEUR",
- "nature": "",
- "applicability": "INJECTION ET (XT) EXPORT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"123005501290","refDisplay":"1230 05 501290","title":"FAISCEAU MOTEUR","nature":"","applicability":"INJECTION ET (XT) EXPORT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CXB)(DAZ04)(%B0HXT)}","tree":["document",{},[["thesaurus",{"type":"10","code":"008265"},[]],["mpr",{"catal":"1230","grp":"514","grp2":"05","maj":"20110723","numfich":"501290"},[["appl",{},["{(?1CXB)(DAZ04)(%B0HXT)}"]],["sti",{"ident":"NL501201"},[]],["img",{"numfich":"d5012900","path":"/img/pr/00/d501/d5012900.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"008265","obsnfp":"NFP","ref":"96102074","refpg":"96 102 074"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F158)(DCK03)(B0H09)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H08)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H07)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F190)(%DDC02A)(DCK03)(B0H07)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H09)}"]]]]]]]]]]]]}

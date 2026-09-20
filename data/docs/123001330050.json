@@ -1,18 +1,1 @@
-{
- "ref": "123001330050",
- "refDisplay": "1230 01 330050",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "INJ MONOPOINT ET 1,905L JUSQU’A OPR 04529",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"123001330050","refDisplay":"1230 01 330050","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"INJ MONOPOINT ET 1,905L JUSQU’A OPR 04529","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CXB)(%DAZ07)(%B0F190)/($,,1,04529)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000047"},[]],["mpr",{"catal":"1230","grp":"67","grp2":"01","maj":"20110723","numfich":"330050"},[["appl",{},["{(?1CXB)(%DAZ07)(%B0F190)/($,,1,04529)/}"]],["sti",{"ident":"NL330001"},[]],["img",{"numfich":"d3300500","path":"/img/pr/00/d330/d3300500.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000047","obsnfp":"NFP","ref":"9451028980","refpg":"94 510 289 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0G05)}"]]]],["descomp",{},[["lib",{"langue":"01"},["C14X62 REP BP27"]]]]]]]]]]]]}

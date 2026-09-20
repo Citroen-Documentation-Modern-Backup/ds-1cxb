@@ -1,18 +1,1 @@
-{
- "ref": "123005501272",
- "refDisplay": "1230 05 501272",
- "title": "FAISCEAU MOTEUR",
- "nature": "",
- "applicability": "1,580L ET INJECTION",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"123005501272","refDisplay":"1230 05 501272","title":"FAISCEAU MOTEUR","nature":"","applicability":"1,580L ET INJECTION","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CXB)(%B0F158)(DAZ04)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003752"},[]],["mpr",{"catal":"1230","grp":"514","grp2":"05","maj":"20110723","numfich":"501272"},[["appl",{},["{(?1CXB)(%B0F158)(DAZ04)}"]],["sti",{"ident":"NL501201"},[]],["img",{"numfich":"d5012720","path":"/img/pr/20/d501/d5012720.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003752","obsnfp":"NFP","ref":"96107251","refpg":"96 107 251"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

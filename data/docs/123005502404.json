@@ -1,18 +1,1 @@
-{
- "ref": "123005502404",
- "refDisplay": "1230 05 502404",
- "title": "FAISCEAU INTERMEDIAIRE AVANT - ARRIERE",
- "nature": "",
- "applicability": "FINIT. TR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"123005502404","refDisplay":"1230 05 502404","title":"FAISCEAU INTERMEDIAIRE AVANT - ARRIERE","nature":"","applicability":"FINIT. TR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CXB)(%TR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006055"},[]],["mpr",{"catal":"1230","grp":"526","grp2":"05","maj":"20110723","numfich":"502404"},[["appl",{},["{(?1CXB)(%TR)}"]],["sti",{"ident":"NL502401"},[]],["enssup",{},[["refd",{},["CDE INFRAROUGE"]]]],["img",{"numfich":"d5024040","path":"/img/pr/40/d502/d5024040.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006055","obsnfp":"NFP","ref":"96009795","refpg":"96 009 795"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%16TRS)/($1,03857,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TRS)/($1,03857,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TRD)/($1,03857,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%DLB05)(%16TRS)/($1,03857,1,04738)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%DLB05)(%19TRS)/($1,03857,1,04738)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%DLB05)(%19TRD)/($1,03857,1,04738)/}"]]]]]],["pr",{"codesi":"006055","obsnfp":"NFP","ref":"96061046","refpg":"96 061 046"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%DLB05)(DRJ04)/($1,04739,,)/}"]]]]]]]]]]]]}

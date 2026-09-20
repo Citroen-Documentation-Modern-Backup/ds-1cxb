@@ -1,18 +1,1 @@
-{
- "ref": "123005502451",
- "refDisplay": "1230 05 502451",
- "title": "FAISCEAU INTERMEDIAIRE AVANT - ARRIERE",
- "nature": "",
- "applicability": "MONTAGE HP",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"123005502451","refDisplay":"1230 05 502451","title":"FAISCEAU INTERMEDIAIRE AVANT - ARRIERE","nature":"","applicability":"MONTAGE HP","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CXB)(DHB01)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006444"},[]],["thesaurus",{"type":"21","code":"L0059019"},[]],["mpr",{"catal":"1230","grp":"506","grp2":"05","maj":"20110723","numfich":"502451"},[["appl",{},["{(?1CXB)(DHB01)}"]],["sti",{"ident":"NL502401"},[]],["enssup",{},[["refd",{},["ARRIERE"]]]],["img",{"numfich":"d5024510","path":"/img/pr/10/d502/d5024510.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006444","obsnfp":"NFP","ref":"95637363","refpg":"95 637 363"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["pr",{"codesi":"006444","obsnfp":"NFP","ref":"96042841","refpg":"96 042 841"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0J39)}"]],["obsligne",{"ident":"L0059019"},[]]]],["descomp",{},[["lib",{"langue":"01"},["50 VOIES"]]]]]]]]]]]]}

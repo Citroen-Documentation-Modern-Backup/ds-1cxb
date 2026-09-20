@@ -1,18 +1,1 @@
-{
- "ref": "123001330010",
- "refDisplay": "1230 01 330010",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "ESSENCE ET 1,124L ET 1,360L JUSQU’A OPR 04193",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"123001330010","refDisplay":"1230 01 330010","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"ESSENCE ET 1,124L ET 1,360L JUSQU’A OPR 04193","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F11)(%B0F136)/($,,1,04193)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000047"},[]],["mpr",{"catal":"1230","grp":"67","grp2":"01","maj":"20110723","numfich":"330010"},[["appl",{},["{(?1CXB)(DCD10)(%B0F11)(%B0F136)/($,,1,04193)/}"]],["sti",{"ident":"NL330001"},[]],["img",{"numfich":"d3300100","path":"/img/pr/00/d330/d3300100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000047","obsnfp":"NFP","ref":"95611403","refpg":"95 611 403"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0G04)}"]]]],["descomp",{},[["lib",{"langue":"01"},["C15X58 REP BT78-BT69"]]]],["reporg",{},[["monte",{},[" BT78"]],["monte",{},[" BT69"]]]]]],["pr",{"codesi":"000047","obsnfp":"NFP","ref":"95611404","refpg":"95 611 404"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0G05)}"]]]],["descomp",{},[["lib",{"langue":"01"},["C15X58 REP BT84-BT73"]]]],["reporg",{},[["monte",{},[" BT84"]],["monte",{},[" BT73"]]]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"000047","obsnfp":"NFP","ref":"95616032","refpg":"95 616 032"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H01)(B0H04)(B0H06)}"]]]],["descomp",{},[["lib",{"langue":"01"},["C15X61 REP BT93"]]]]]]]]]]]]}

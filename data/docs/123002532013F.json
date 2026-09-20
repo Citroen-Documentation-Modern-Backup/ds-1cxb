@@ -1,18 +1,1 @@
-{
- "ref": "123002532013F",
- "refDisplay": "1230 02 532013F",
- "title": "ALTERNATEUR",
- "nature": "",
- "applicability": "ESSENCE ET 1,905L ET PAYS FROIDS ET CLIMATISEUR ET ATMOSPHERE POUSSIERES",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0303"
-  }
- ]
-}
+{"ref":"123002532013F","refDisplay":"1230 02 532013F","title":"ALTERNATEUR","nature":"","applicability":"ESSENCE ET 1,905L ET PAYS FROIDS ET CLIMATISEUR ET ATMOSPHERE POUSSIERES","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0303"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F190)(DCK02)(DCL10)(DAP02)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001783"},[]],["thesaurus",{"type":"10","code":"002257"},[]],["thesaurus",{"type":"10","code":"002253"},[]],["thesaurus",{"type":"10","code":"002319"},[]],["thesaurus",{"type":"10","code":"002083"},[]],["thesaurus",{"type":"10","code":"001843"},[]],["thesaurus",{"type":"10","code":"002208"},[]],["thesaurus",{"type":"10","code":"002081"},[]],["thesaurus",{"type":"10","code":"005577"},[]],["thesaurus",{"type":"13","code":"D"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"21","code":"L0055690"},[]],["mpr",{"catal":"1230","grp":"496","grp2":"02","maj":"20110723","numfich":"532013F"},[["appl",{},["{(?1CXB)(DCD10)(%B0F190)(DCK02)(DCL10)(DAP02)}"]],["sti",{"ident":"NL532001"},[]],["enssup",{},[["fourn",{},["71367X"]],["refd",{},["A003T45291"]]]],["img",{"numfich":"d532013f","path":"/img/pr/3f/d532/d532013f.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001783","obsnfp":"NFP","ref":"00005705A0","refpg":"5705 A0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0055690"},[]],["reffour",{},[["four",{},["71485A"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0055690"},[]],["reffour",{},[["four",{},["71367X"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CLASSE 8 - 80 AMP"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002257","obsnfp":"NFP","ref":"00005725C8","refpg":"5725 C8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002253","obsnfp":"NFP","ref":"0000572704","refpg":"5727 04"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002257","ref":"0000572413","refpg":"5724 13"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["13X32-10"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"002319","obsnfp":"NFP","ref":"0000572067","refpg":"5720 67"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"002083","obsnfp":"NFP","ref":"0000573369","refpg":"5733 69"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"001843","cote":"D","obsnfp":"NFP","ref":"0000574442","refpg":"5744 42"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"001843","cote":"G","obsnfp":"NFP","ref":"0000574443","refpg":"5744 43"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"12"},[["pr",{"codesi":"002208","obsnfp":"NFP","ref":"0000576160","refpg":"5761 60"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"13"},[["pr",{"codesi":"002081","obsnfp":"NFP","ref":"0000572845","refpg":"5728 45"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"14"},[["pr",{"codesi":"005577","obsnfp":"NFP","ref":"0000573006","refpg":"5730 06"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

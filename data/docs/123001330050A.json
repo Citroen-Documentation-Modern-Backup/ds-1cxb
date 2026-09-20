@@ -1,18 +1,1 @@
-{
- "ref": "123001330050A",
- "refDisplay": "1230 01 330050A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "INJ MONOPOINT ET 1,905L DEPUIS OPR 04530",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"123001330050A","refDisplay":"1230 01 330050A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"INJ MONOPOINT ET 1,905L DEPUIS OPR 04530","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CXB)(%DAZ07)(%B0F190)/($1,04530,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000047"},[]],["thesaurus",{"type":"10","code":"009390"},[]],["mpr",{"catal":"1230","grp":"67","grp2":"01","maj":"20110723","numfich":"330050A"},[["appl",{},["{(?1CXB)(%DAZ07)(%B0F190)/($1,04530,,)/}"]],["sti",{"ident":"NL330001"},[]],["img",{"numfich":"d330050a","path":"/img/pr/0a/d330/d330050a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000047","obsnfp":"NFP","ref":"9451067180","refpg":"94 510 671 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($,,1,04768)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP (14X62)"]]]],["reporg",{},[["monte",{},["CJ43"]],["monte",{},["(CJ4C)"]]]]]],["pr",{"codesi":"009390","obsnfp":"NFP","ref":"9455906180","refpg":"94 559 061 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,04769,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["C16X67"]]]],["reporg",{},[["monte",{},["(CL2F)"]],["monte",{},["CL26"]]]]]]]]]]]]}

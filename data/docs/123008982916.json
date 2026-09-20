@@ -1,18 +1,1 @@
-{
- "ref": "123008982916",
- "refDisplay": "1230 08 982916",
- "title": "PANNEAUX DE PORTE ARRIERE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0141"
-  }
- ]
-}
+{"ref":"123008982916","refDisplay":"1230 08 982916","title":"PANNEAUX DE PORTE ARRIERE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0141"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004258"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"363","grp2":"08","maj":"20110723","numfich":"982916"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL982901"},[]],["enssup",{},[["refd",{},["TISSU QUINZE"]]]],["img",{"numfich":"d9829160","path":"/img/pr/60/d982/d9829160.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004258","cote":"G","obsnfp":"NFP","ref":"95637171FLD","refpg":"95 637 171 FLD"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%R)/($,,1,03886)/}"]]]]]],["pr",{"codesi":"004258","cote":"G","obsnfp":"NFP","ref":"95632898FTL","refpg":"95 632 898 FTL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TR)/($,,1,03766)/}"]]]]]],["pr",{"codesi":"004258","cote":"D","obsnfp":"NFP","ref":"95632897FCD","refpg":"95 632 897 FCD"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TR)/($,,1,03766)/}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "123001331510",
- "refDisplay": "1230 01 331510",
- "title": "BOITE DE TRANSFERT - CARTER D’EMBRAYAGE",
- "nature": "",
- "applicability": "ESSENCE ET 1,124L ET 1,360L JUSQU’A OPR 04192",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0020"
-  }
- ]
-}
+{"ref":"123001331510","refDisplay":"1230 01 331510","title":"BOITE DE TRANSFERT - CARTER D’EMBRAYAGE","nature":"","applicability":"ESSENCE ET 1,124L ET 1,360L JUSQU’A OPR 04192","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0020"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F11)(%B0F136)/($,,1,04192)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000404"},[]],["thesaurus",{"type":"10","code":"001344"},[]],["thesaurus",{"type":"10","code":"000254"},[]],["thesaurus",{"type":"10","code":"004659"},[]],["thesaurus",{"type":"10","code":"004664"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004669"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"1230","grp":"111","grp2":"01","maj":"20110723","numfich":"331510"},[["appl",{},["{(?1CXB)(DCD10)(%B0F11)(%B0F136)/($,,1,04192)/}"]],["sti",{"ident":"NL331501"},[]],["img",{"numfich":"d3315100","path":"/img/pr/00/d331/d3315100.jpg","ext":"jpg"},[]],["repere",{"rep":"04"},[["pr",{"codesi":"000404","obsnfp":"NFP","ref":"0000210948","refpg":"2109 48"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001344","obsnfp":"NFP","ref":"0000210946","refpg":"2109 46"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000254","obsnfp":"NFP","ref":"0000210912","refpg":"2109 12"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"004659","ref":"0000696614","refpg":"6966 14"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X23"]]]]]]]],["repere",{"rep":"12"},[["pr",{"codesi":"004664","obsnfp":"NFP","ref":"0000030515","refpg":"0305 15"},[["pmont",{"coef":"12"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7,2X22,25-14"]]]]]]]],["repere",{"rep":"14"},[["pr",{"codesi":"008006","ref":"0000101112","refpg":"1011 12"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-85"]]]]]]]],["repere",{"rep":"15"},[["pr",{"codesi":"004675","obsnfp":"NFP","ref":"0000692156","refpg":"6921 56"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X100-70"]]]]]]]],["repere",{"rep":"18"},[["pr",{"codesi":"004675","ref":"00006917A5","refpg":"6917 A5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-16"]]]]]]]],["repere",{"rep":"19"},[["pr",{"codesi":"004669","ref":"0000695857","refpg":"6958 57"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7,3X12,3-0,7"]]]]]]]],["repere",{"rep":"20"},[["pr",{"codesi":"008588","ref":"0000696212","refpg":"6962 12"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X13,7-0,8"]]]]]]]],["repere",{"rep":"21"},[["pr",{"codesi":"004667","ref":"0000694777","refpg":"6947 77"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X12-1,2"]]]]]]]],["repere",{"rep":"22"},[["pr",{"codesi":"004651","ref":"0000693205","refpg":"6932 05"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-5"]]]]]]]]]]]]}

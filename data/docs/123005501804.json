@@ -1,18 +1,1 @@
-{
- "ref": "123005501804",
- "refDisplay": "1230 05 501804",
- "title": "FAISCEAU PLANCHE DE BORD ET CONSOLE",
- "nature": "",
- "applicability": "MILLESIME",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"123005501804","refDisplay":"1230 05 501804","title":"FAISCEAU PLANCHE DE BORD ET CONSOLE","nature":"","applicability":"MILLESIME","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CXB)(B0J3Y)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003742"},[]],["mpr",{"catal":"1230","grp":"503","grp2":"05","maj":"20110723","numfich":"501804"},[["appl",{},["{(?1CXB)(B0J3Y)}"]],["sti",{"ident":"NL501801"},[]],["img",{"numfich":"00059144","path":"/img/pr/44/0005/00059144.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96120174","refpg":"96 120 174"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0DA5)}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96125526","refpg":"96 125 526"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"236, 107, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96060846","refpg":"96 060 846"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0DA5)(DCX02)}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96125525","refpg":"96 125 525"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)(DCX02)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"262, 108, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "123008982955",
- "refDisplay": "1230 08 982955",
- "title": "PANNEAUX DE PORTE ARRIERE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0141"
-  }
- ]
-}
+{"ref":"123008982955","refDisplay":"1230 08 982955","title":"PANNEAUX DE PORTE ARRIERE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0141"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004258"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"363","grp2":"08","maj":"20110723","numfich":"982955"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL982901"},[]],["enssup",{},[["refd",{},["VELOURS RAYE PLAT"]]]],["img",{"numfich":"d9829550","path":"/img/pr/50/d982/d9829550.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004258","cote":"D","obsnfp":"NFP","ref":"0000939986","refpg":"9399 86"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%OPCUIR)}"]]]]]]]]]]]]}

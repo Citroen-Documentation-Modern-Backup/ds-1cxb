@@ -1,18 +1,1 @@
-{
- "ref": "123008982843",
- "refDisplay": "1230 08 982843",
- "title": "PANNEAUX DE PORTE AVANT",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0135"
-  }
- ]
-}
+{"ref":"123008982843","refDisplay":"1230 08 982843","title":"PANNEAUX DE PORTE AVANT","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0135"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004588"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["thesaurus",{"type":"22","code":"P0000364"},[]],["mpr",{"catal":"1230","grp":"354","grp2":"08","maj":"20110723","numfich":"982843"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL982801"},[]],["obspage",{"ident":"P0000364"},[]],["enssup",{},[["refd",{},["VELOURS HALLEY"]]]],["img",{"numfich":"d9828430","path":"/img/pr/30/d982/d9828430.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004588","cote":"G","obsnfp":"NFP","ref":"96083478XX","refpg":"96 083 478 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%IMAGE)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1 POS"]]]]]],["pr",{"codesi":"004588","cote":"G","obsnfp":"NFP","ref":"96083478UM","refpg":"96 083 478 UM"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%IMAGE)/($1,05278,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["2 POS"]]]]]],["pr",{"codesi":"004588","cote":"D","obsnfp":"NFP","ref":"96083476XX","refpg":"96 083 476 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%IMAGE)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1 POS"]]]]]],["pr",{"codesi":"004588","cote":"D","obsnfp":"NFP","ref":"96083476UM","refpg":"96 083 476 UM"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%IMAGE)/($1,05278,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["2 POS"]]]]]]]]]]]]}

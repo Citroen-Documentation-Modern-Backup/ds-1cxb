@@ -1,18 +1,1 @@
-{
- "ref": "123005521910",
- "refDisplay": "1230 05 521910",
- "title": "INTERRUPTEURS CONSOLE - PLANCHE DE BORD",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0216"
-  }
- ]
-}
+{"ref":"123005521910","refDisplay":"1230 05 521910","title":"INTERRUPTEURS CONSOLE - PLANCHE DE BORD","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0216"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002076"},[]],["thesaurus",{"type":"10","code":"006053"},[]],["thesaurus",{"type":"10","code":"003786"},[]],["thesaurus",{"type":"10","code":"004792"},[]],["mpr",{"catal":"1230","grp":"388 415","grp2":"05","maj":"20110723","numfich":"521910"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL521901"},[]],["img",{"numfich":"d5219100","path":"/img/pr/00/d521/d5219100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002076","ref":"0000655372","refpg":"6553 72"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002076","ref":"95635064","refpg":"95 635 064"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%GTI)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"006053","obsnfp":"NFP","ref":"95495142","refpg":"95 495 142"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)(B0H09)(DNA01)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002076","ref":"95495141","refpg":"95 495 141"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"003786","obsnfp":"NFP","ref":"96033775","refpg":"96 033 775"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%4X4)/($5,19890201,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["CDE CRABOTAGE"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"004792","ref":"0000637140","refpg":"6371 40"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

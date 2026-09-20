@@ -1,18 +1,1 @@
-{
- "ref": "123002143521",
- "refDisplay": "1230 02 143521",
- "title": "CARBURATEUR-STARTER AUTOMATIQUE",
- "nature": "",
- "applicability": "ESSENCE ET 1,905L ET BVA ET (TW) TAIWAN DEPUIS OPR 04496",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"123002143521","refDisplay":"1230 02 143521","title":"CARBURATEUR-STARTER AUTOMATIQUE","nature":"","applicability":"ESSENCE ET 1,905L ET BVA ET (TW) TAIWAN DEPUIS OPR 04496","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F190)(@BVA)(B0H42)/($1,04496,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000140"},[]],["thesaurus",{"type":"10","code":"000317"},[]],["thesaurus",{"type":"10","code":"007344"},[]],["thesaurus",{"type":"10","code":"000828"},[]],["thesaurus",{"type":"10","code":"005345"},[]],["thesaurus",{"type":"10","code":"000131"},[]],["thesaurus",{"type":"10","code":"000133"},[]],["thesaurus",{"type":"10","code":"000814"},[]],["thesaurus",{"type":"10","code":"000869"},[]],["thesaurus",{"type":"21","code":"L0052188"},[]],["mpr",{"catal":"1230","grp":"34","grp2":"02","maj":"20110723","numfich":"143521"},[["appl",{},["{(?1CXB)(DCD10)(%B0F190)(@BVA)(B0H42)/($1,04496,,)/}"]],["sti",{"ident":"NL143501"},[]],["enssup",{},[["fourn",{},["30565X"]],["refd",{},["34 DRTC 15/300"]]]],["img",{"numfich":"d1435210","path":"/img/pr/10/d143/d1435210.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000140","obsnfp":"NFP","ref":"96067157","refpg":"96 067 157"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0052188"},[]],["reffour",{},[["four",{},["30565X"]]]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000317","obsnfp":"NFP","ref":"00001405H1","refpg":"1405 H1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"007344","obsnfp":"NFP","ref":"00001403F4","refpg":"1403 F4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["REP W 130-50"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000828","obsnfp":"NFP","ref":"95593782","refpg":"95 593 782"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"005345","obsnfp":"NFP","ref":"00001403E0","refpg":"1403 E0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"000131","obsnfp":"NFP","ref":"00001407C1","refpg":"1407 C1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["REP W 130-50"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"000133","obsnfp":"NFP","ref":"00001408A5","refpg":"1408 A5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"000814","obsnfp":"NFP","ref":"00001417C0","refpg":"1417 C0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"12"},[["pr",{"codesi":"000869","ref":"00001417C1","refpg":"1417 C1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

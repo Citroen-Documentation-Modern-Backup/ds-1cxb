@@ -1,18 +1,1 @@
-{
- "ref": "123005502403",
- "refDisplay": "1230 05 502403",
- "title": "FAISCEAU INTERMEDIAIRE AVANT - ARRIERE",
- "nature": "",
- "applicability": "FINIT. TR ET CONDAMNAT CENTRAL CONDUC+PASSA ET LEVE VITRE AR CDE ELECTRIQUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"123005502403","refDisplay":"1230 05 502403","title":"FAISCEAU INTERMEDIAIRE AVANT - ARRIERE","nature":"","applicability":"FINIT. TR ET CONDAMNAT CENTRAL CONDUC+PASSA ET LEVE VITRE AR CDE ELECTRIQUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CXB)(%TR)(DEU02)(DLE02)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006055"},[]],["mpr",{"catal":"1230","grp":"526","grp2":"05","maj":"20110723","numfich":"502403"},[["appl",{},["{(?1CXB)(%TR)(DEU02)(DLE02)}"]],["sti",{"ident":"NL502401"},[]],["img",{"numfich":"00059159","path":"/img/pr/59/0005/00059159.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006055","obsnfp":"NFP","ref":"95637961","refpg":"95 637 961"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%16TRS)/($,,1,03856)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TRS)/($,,1,03856)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TRD)/($,,1,03856)/}"]]]]]],["pr",{"codesi":"006055","obsnfp":"NFP","ref":"96009793","refpg":"96 009 793"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%16TRS)/($1,03857,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TRS)/($1,03857,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TRD)/($1,03857,,)/}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"62, 380, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"006055","obsnfp":"NFP","ref":"96009793","refpg":"96 009 793"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H07)(B0H08)(B0H09)(%16TRS)/($1,03857,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H07)(B0H08)(B0H09)(%19TRS)/($1,03857,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H07)(B0H08)(B0H09)(%19TRD)/($1,03857,,)/}"]]]]]],["pr",{"codesi":"006055","obsnfp":"NFP","ref":"96009795","refpg":"96 009 795"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H09)(B0H08)(B0H07)(%19TRI)/($1,03857,1,05284)/}"]]]]]],["pr",{"codesi":"006055","obsnfp":"NFP","ref":"96133221","refpg":"96 133 221"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H09)(B0H08)(B0H07)(%19GTI)/($1,05285,,)/}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"89, 380, 11","shape":"circle"},[]]]]]]]]]]}

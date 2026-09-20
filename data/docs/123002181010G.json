@@ -1,18 +1,1 @@
-{
- "ref": "123002181010G",
- "refDisplay": "1230 02 181010G",
- "title": "TUBULURE D’ECHAPPEMENT",
- "nature": "",
- "applicability": "ESSENCE ET 1,124L ET (I) ITALIE ET (GR) GRECE DEPUIS OPR 04206 JUSQU’A OPR 05347",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0011"
-  }
- ]
-}
+{"ref":"123002181010G","refDisplay":"1230 02 181010G","title":"TUBULURE D’ECHAPPEMENT","nature":"","applicability":"ESSENCE ET 1,124L ET (I) ITALIE ET (GR) GRECE DEPUIS OPR 04206 JUSQU’A OPR 05347","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0011"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F11)(B0H01)(B0H38)/($1,04206,1,05347)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000181"},[]],["thesaurus",{"type":"10","code":"000390"},[]],["thesaurus",{"type":"10","code":"004660"},[]],["thesaurus",{"type":"10","code":"013981"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["mpr",{"catal":"1230","grp":"49","grp2":"02","maj":"20110723","numfich":"181010G"},[["appl",{},["{(?1CXB)(DCD10)(%B0F11)(B0H01)(B0H38)/($1,04206,1,05347)/}"]],["sti",{"ident":"NL181001"},[]],["img",{"numfich":"d181010g","path":"/img/pr/0g/d181/d181010g.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000181","ref":"0000034136","refpg":"0341 36"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000390","ref":"00000349A6","refpg":"0349 A6"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004660","ref":"0000035566","refpg":"0355 66"},[["pmont",{"coef":"08"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["M8X125-IM14-L36"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004660","ref":"0000693041","refpg":"6930 41"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-2012-17"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"013981","obsnfp":"NFP","ref":"95602469","refpg":"95 602 469"},[["pmont",{"coef":"08"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X20-3"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"006142","ref":"0000034122","refpg":"0341 22"},[["pmont",{"coef":"08"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-11-17,5"]]]]]]]]]]]]}

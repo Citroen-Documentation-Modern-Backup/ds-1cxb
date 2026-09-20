@@ -1,18 +1,1 @@
-{
- "ref": "123005501109",
- "refDisplay": "1230 05 501109",
- "title": "FAISCEAU AVANT PRINCIPAL",
- "nature": "",
- "applicability": "GTI 16S ET CLIMATISEUR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"123005501109","refDisplay":"1230 05 501109","title":"FAISCEAU AVANT PRINCIPAL","nature":"","applicability":"GTI 16S ET CLIMATISEUR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CXB)(%GTI16S)(DCL10)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003725"},[]],["mpr",{"catal":"1230","grp":"513","grp2":"05","maj":"20110723","numfich":"501109"},[["appl",{},["{(?1CXB)(%GTI16S)(DCL10)}"]],["sti",{"ident":"NL501101"},[]],["img",{"numfich":"00059105","path":"/img/pr/05/0005/00059105.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003725","obsnfp":"NFP","ref":"96030494","refpg":"96 030 494"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($,,1,04759)/}"]]]]]],["pr",{"codesi":"003725","obsnfp":"NFP","ref":"96088506","refpg":"96 088 506"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,04760,1,04922)/}"]]]]]],["pr",{"codesi":"003725","obsnfp":"NFP","ref":"96104474","refpg":"96 104 474"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,04923,,)/}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"86, 371, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"003725","obsnfp":"NFP","ref":"96030494","refpg":"96 030 494"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)/($,,1,04922)/}"]]]]]],["pr",{"codesi":"003725","obsnfp":"NFP","ref":"96101497","refpg":"96 101 497"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%GTI16V)(%DDC02A)(DCX02)/($1,04983,,)/}"]]]]]],["pr",{"codesi":"003725","obsnfp":"NFP","ref":"96104476","refpg":"96 104 476"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)/($1,04923,,)/}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"82, 395, 11","shape":"circle"},[]]]]]]]]]]}

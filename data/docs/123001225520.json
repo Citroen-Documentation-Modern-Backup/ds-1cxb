@@ -1,18 +1,1 @@
-{
- "ref": "123001225520",
- "refDisplay": "1230 01 225520",
- "title": "REMPLISSAGE D’HUILE-RENIFLARD",
- "nature": "",
- "applicability": "GTI 16S",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0008"
-  }
- ]
-}
+{"ref":"123001225520","refDisplay":"1230 01 225520","title":"REMPLISSAGE D’HUILE-RENIFLARD","nature":"","applicability":"GTI 16S","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0008"}],"kind":"pr","appl":"{(?1CXB)(%GTI16S)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000724"},[]],["thesaurus",{"type":"10","code":"000072"},[]],["thesaurus",{"type":"10","code":"000698"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["thesaurus",{"type":"10","code":"005611"},[]],["thesaurus",{"type":"10","code":"006386"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"21","code":"L0048103"},[]],["mpr",{"catal":"1230","grp":"33","grp2":"01","maj":"20110723","numfich":"225520"},[["appl",{},["{(?1CXB)(%GTI16S)}"]],["sti",{"ident":"NL225501"},[]],["img",{"numfich":"d2255200","path":"/img/pr/00/d225/d2255200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000724","ref":"0000117824","refpg":"1178 24"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000072","obsnfp":"NFP","ref":"0000025837","refpg":"0258 37"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"0000118045","refpg":"1180 45"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"0000118046","refpg":"1180 46"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"96012197","refpg":"96 012 197"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000698","obsnfp":"NFP","ref":"0000119263","refpg":"1192 63"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"004650","ref":"00006981L0","refpg":"6981 L0"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 25-47 LARG 9"]]]]]],["pr",{"codesi":"004650","ref":"00006981N2","refpg":"6981 N2"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 12 A 22 LARG 9"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"005611","obsnfp":"NFP","ref":"7903065065","refpg":"79 03 065 065"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 42X52X5"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"006386","obsnfp":"NFP","ref":"91541346","refpg":"91 541 346"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"004675","ref":"00006917A5","refpg":"6917 A5"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0048103"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-16"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"008588","ref":"0000696204","refpg":"6962 04"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X12,2-0,5"]]]]]]]]]]]]}

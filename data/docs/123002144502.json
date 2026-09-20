@@ -1,18 +1,1 @@
-{
- "ref": "123002144502",
- "refDisplay": "1230 02 144502",
- "title": "FAISCEAU D’INJECTION INJECTEUR",
- "nature": "",
- "applicability": "GTI 16S",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"123002144502","refDisplay":"1230 02 144502","title":"FAISCEAU D’INJECTION INJECTEUR","nature":"","applicability":"GTI 16S","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CXB)(%GTI16S)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000715"},[]],["thesaurus",{"type":"10","code":"000721"},[]],["thesaurus",{"type":"10","code":"011684"},[]],["thesaurus",{"type":"10","code":"000180"},[]],["thesaurus",{"type":"10","code":"007206"},[]],["thesaurus",{"type":"10","code":"000444"},[]],["thesaurus",{"type":"10","code":"006027"},[]],["mpr",{"catal":"1230","grp":"35","grp2":"02","maj":"20110723","numfich":"144502"},[["appl",{},["{(?1CXB)(%GTI16S)}"]],["sti",{"ident":"NL144501"},[]],["img",{"numfich":"d1440110","path":"/img/pr/10/d144/d1440110.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000715","obsnfp":"NFP","ref":"0000157036","refpg":"1570 36"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000721","ref":"0000156399","refpg":"1563 99"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["3 BARS"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"011684","obsnfp":"NFP","ref":"0000198455","refpg":"1984 55"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000180","ref":"0000198214","refpg":"1982 14"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"007206","obsnfp":"NFP","ref":"00001622A1","refpg":"1622 A1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LON 330"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000444","ref":"0000198125","refpg":"1981 25"},[["pmont",{"coef":"09"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7,8X3,6"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"006027","obsnfp":"NFP","ref":"7903101392","refpg":"79 03 101 392"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X1,00-16"]]]]]]]]]]]]}

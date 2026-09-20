@@ -1,18 +1,1 @@
-{
- "ref": "123005501123",
- "refDisplay": "1230 05 501123",
- "title": "FAISCEAU AVANT PRINCIPAL",
- "nature": "",
- "applicability": "GAZOLE ET CLIMATISEUR SAUF TURBO",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"123005501123","refDisplay":"1230 05 501123","title":"FAISCEAU AVANT PRINCIPAL","nature":"","applicability":"GAZOLE ET CLIMATISEUR SAUF TURBO","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(DCL10)[(DAZ09)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"003725"},[]],["mpr",{"catal":"1230","grp":"513","grp2":"05","maj":"20110723","numfich":"501123"},[["appl",{},["{(?1CXB)(DCD06)(DCL10)[(DAZ09)]}"]],["sti",{"ident":"NL501101"},[]],["img",{"numfich":"00059109","path":"/img/pr/09/0005/00059109.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003725","obsnfp":"NFP","ref":"95635394","refpg":"95 635 394"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($,,1,03856)/}"]]]]]],["pr",{"codesi":"003725","obsnfp":"NFP","ref":"96004517","refpg":"96 004 517"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,03857,,)/}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"78, 365, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"003725","obsnfp":"NFP","ref":"96047112","refpg":"96 047 112"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F190)(DCX02)}"]]]]]],["pr",{"codesi":"003725","obsnfp":"NFP","ref":"95635394","refpg":"95 635 394"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)(%B0F17)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)(%B0F190)}"]]]]]],["pr",{"codesi":"003725","obsnfp":"NFP","ref":"96061042","refpg":"96 061 042"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TZD)(DCX02)/($,,1,05074)/}"]]]]]],["pr",{"codesi":"003725","obsnfp":"NFP","ref":"96104486","refpg":"96 104 486"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TZD)(DCX02)/($1,05075,,)/}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"75, 390, 11","shape":"circle"},[]]]]]]]]]]}

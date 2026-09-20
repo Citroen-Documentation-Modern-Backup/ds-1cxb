@@ -1,18 +1,1 @@
-{
- "ref": "123002532225A",
- "refDisplay": "1230 02 532225A",
- "title": "ALTERNATEUR A REGULATEUR INCORPORE",
- "nature": "",
- "applicability": "GAZOLE ET TURBO DEPUIS OPR 04316 JUSQU’A OPR 05223",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0303"
-  }
- ]
-}
+{"ref":"123002532225A","refDisplay":"1230 02 532225A","title":"ALTERNATEUR A REGULATEUR INCORPORE","nature":"","applicability":"GAZOLE ET TURBO DEPUIS OPR 04316 JUSQU’A OPR 05223","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0303"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(DAZ09)/($1,04316,1,05223)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001783"},[]],["thesaurus",{"type":"10","code":"002253"},[]],["thesaurus",{"type":"10","code":"002208"},[]],["thesaurus",{"type":"10","code":"001843"},[]],["thesaurus",{"type":"10","code":"002257"},[]],["mpr",{"catal":"1230","grp":"496","grp2":"02","maj":"20110723","numfich":"532225A"},[["appl",{},["{(?1CXB)(DCD06)(DAZ09)/($1,04316,1,05223)/}"]],["sti",{"ident":"NL532201"},[]],["enssup",{},[["fourn",{},["72043G"]],["refd",{},["A 13 N 182"]]]],["img",{"numfich":"d532225a","path":"/img/pr/5a/d532/d532225a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001783","obsnfp":"NFP","ref":"0000570597","refpg":"5705 97"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["22969R"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["72043G"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CLASSE 5 - 50 AMP"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002253","obsnfp":"NFP","ref":"0000572738","refpg":"5727 38"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002208","ref":"0000576167","refpg":"5761 67"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001843","obsnfp":"NFP","ref":"00005744C8","refpg":"5744 C8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002257","obsnfp":"NFP","ref":"00005725F8","refpg":"5725 F8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

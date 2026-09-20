@@ -1,18 +1,1 @@
-{
- "ref": "123002212102",
- "refDisplay": "1230 02 212102",
- "title": "BOUGIES ET BOITIER DE PRECHAUFFAGE",
- "nature": "",
- "applicability": "GAZOLE ET 1,769L ET TURBO",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0304"
-  }
- ]
-}
+{"ref":"123002212102","refDisplay":"1230 02 212102","title":"BOUGIES ET BOITIER DE PRECHAUFFAGE","nature":"","applicability":"GAZOLE ET 1,769L ET TURBO","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0304"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(%B0F17)(DAZ09)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001849"},[]],["thesaurus",{"type":"10","code":"005382"},[]],["thesaurus",{"type":"10","code":"014153"},[]],["thesaurus",{"type":"10","code":"015878"},[]],["thesaurus",{"type":"10","code":"001888"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"1230","grp":"482","grp2":"02","maj":"20111206","numfich":"212102"},[["appl",{},["{(?1CXB)(DCD06)(%B0F17)(DAZ09)}"]],["sti",{"ident":"NL212101"},[]],["img",{"numfich":"d2121020","path":"/img/pr/20/d212/d2121020.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001849","ref":"0000598115","refpg":"5981 15"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["21800V"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["33350Z"]]]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005382","ref":"000059623J","refpg":"5962 3J"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"00005960G7","refpg":"5960 G7"},[]]]],["pr",{"codesi":"014153","ref":"E161003","refpg":"E161003","typecommercial":"EUROREPAR"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]]]],["pr",{"codesi":"015878","ref":"VGP147","refpg":"VGP147","typecommercial":"MOTAQUIP"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001888","ref":"0000596978","refpg":"5969 78"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"008588","ref":"0000696226","refpg":"6962 26"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["5X10,2-0,5"]]]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"004651","ref":"0000693322","refpg":"6933 22"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["5X80"]]]]]]]]]]]]}

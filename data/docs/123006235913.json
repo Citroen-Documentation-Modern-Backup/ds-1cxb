@@ -1,18 +1,1 @@
-{
- "ref": "123006235913",
- "refDisplay": "1230 06 235913",
- "title": "VASE D’EXPANSION",
- "nature": "",
- "applicability": "GAZOLE ET 1,769L ET TURBO ECH",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0009"
-  }
- ]
-}
+{"ref":"123006235913","refDisplay":"1230 06 235913","title":"VASE D’EXPANSION","nature":"","applicability":"GAZOLE ET 1,769L ET TURBO ECH","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0009"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(%B0F17)(DAZ10)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000045"},[]],["thesaurus",{"type":"10","code":"000084"},[]],["thesaurus",{"type":"10","code":"006729"},[]],["thesaurus",{"type":"10","code":"000658"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"006028"},[]],["mpr",{"catal":"1230","grp":"23","grp2":"06","maj":"20110723","numfich":"235913"},[["appl",{},["{(?1CXB)(DCD06)(%B0F17)(DAZ10)}"]],["sti",{"ident":"NL235901"},[]],["img",{"numfich":"00059351","path":"/img/pr/51/0005/00059351.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000045","ref":"95593183","refpg":"95 593 183"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"70, 112, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000084","ref":"95568321","refpg":"95 568 321"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["80383X"]]]]]],["descomp",{},[["lib",{"langue":"01"},["1 BAR"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"95, 10, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"006729","ref":"0000130647","refpg":"1306 47"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["33350Z"]]]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"242, 128, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000658","obsnfp":"NFP","ref":"95636988","refpg":"95 636 988"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"160, 306, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000658","obsnfp":"NFP","ref":"95636989","refpg":"95 636 989"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"295, 327, 11","shape":"circle"},[]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"008006","ref":"0000692297","refpg":"6922 97"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"386, 5, 11","shape":"circle"},[]],["area",{"coords":"428, 452, 11","shape":"circle"},[]],["area",{"coords":"308, 518, 11","shape":"circle"},[]],["area",{"coords":"97, 499, 11","shape":"circle"},[]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"006028","ref":"0000693427","refpg":"6934 27"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-6,25-10"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000693997","refpg":"6939 97"},[]]]],["interactivite",{"order":"07"},[["area",{"coords":"27, 444, 11","shape":"circle"},[]],["area",{"coords":"442, 5, 11","shape":"circle"},[]]]]]]]]]]}

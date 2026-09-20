@@ -1,18 +1,1 @@
-{
- "ref": "123002532011H",
- "refDisplay": "1230 02 532011H",
- "title": "ALTERNATEUR",
- "nature": "",
- "applicability": " DEPUIS OPR 05440",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0303"
-  }
- ]
-}
+{"ref":"123002532011H","refDisplay":"1230 02 532011H","title":"ALTERNATEUR","nature":"","applicability":" DEPUIS OPR 05440","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0303"}],"kind":"pr","appl":"{(?1CXB)/($1,05440,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001783"},[]],["thesaurus",{"type":"22","code":"P0000258"},[]],["mpr",{"catal":"1230","grp":"496","grp2":"02","maj":"20110723","numfich":"532011H"},[["appl",{},["{(?1CXB)/($1,05440,,)/}"]],["sti",{"ident":"NL532001"},[]],["obspage",{"ident":"P0000258"},[]],["enssup",{},[["fourn",{},["72043G"]],["refd",{},["A 11 VI 10"]]]],["img",{"numfich":"d532011h","path":"/img/pr/1h/d532/d532011h.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001783","ref":"00005705E1","refpg":"5705 E1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["22969R"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["70206K"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["72043G"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CLASSE 7 - 70 AMP"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "123005501501",
- "refDisplay": "1230 05 501501",
- "title": "FAISCEAU TRANSMISSION",
- "nature": "",
- "applicability": "4X4",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"123005501501","refDisplay":"1230 05 501501","title":"FAISCEAU TRANSMISSION","nature":"","applicability":"4X4","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CXB)(%4X4)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005242"},[]],["thesaurus",{"type":"10","code":"003729"},[]],["mpr",{"catal":"1230","grp":"517","grp2":"05","maj":"20110723","numfich":"501501"},[["appl",{},["{(?1CXB)(%4X4)}"]],["sti",{"ident":"NL501501"},[]],["img",{"numfich":"d5015010","path":"/img/pr/10/d501/d5015010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005242","obsnfp":"NFP","ref":"96052469","refpg":"96 052 469"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ04)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCD06)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005242","obsnfp":"NFP","ref":"96055645","refpg":"96 055 645"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"003729","obsnfp":"NFP","ref":"96052471","refpg":"96 052 471"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

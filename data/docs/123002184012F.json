@@ -1,18 +1,1 @@
-{
- "ref": "123002184012F",
- "refDisplay": "1230 02 184012F",
- "title": "ANTI POLLUTION-CIRCUIT DEPRESSION",
- "nature": "",
- "applicability": "1,580L ET CARBURATEUR ET (CH) SUISSE ET (A) AUTRICHE DEPUIS OPR 03887",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"123002184012F","refDisplay":"1230 02 184012F","title":"ANTI POLLUTION-CIRCUIT DEPRESSION","nature":"","applicability":"1,580L ET CARBURATEUR ET (CH) SUISSE ET (A) AUTRICHE DEPUIS OPR 03887","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CXB)(%B0F158)(DAZ08)(B0H05)(B0H06)/($1,03887,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"009767"},[]],["thesaurus",{"type":"10","code":"000677"},[]],["thesaurus",{"type":"10","code":"005836"},[]],["thesaurus",{"type":"10","code":"005832"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["thesaurus",{"type":"22","code":"P0000227"},[]],["mpr",{"catal":"1230","grp":"53","grp2":"02","maj":"20110723","numfich":"184012F"},[["appl",{},["{(?1CXB)(%B0F158)(DAZ08)(B0H05)(B0H06)/($1,03887,,)/}"]],["sti",{"ident":"NL184001"},[]],["obspage",{"ident":"P0000227"},[]],["img",{"numfich":"d184012f","path":"/img/pr/2f/d184/d184012f.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009767","obsnfp":"NFP","ref":"00001628J2","refpg":"1628 J2"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000677","obsnfp":"NFP","ref":"96995369","refpg":"96 995 369"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 570"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000677","obsnfp":"NFP","ref":"96995373","refpg":"96 995 373"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 27"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005836","obsnfp":"NFP","ref":"91518395","refpg":"91 518 395"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 600"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"005832","obsnfp":"NFP","ref":"95612758","refpg":"95 612 758"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"004675","ref":"0000692138","refpg":"6921 38"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 5X80-12"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"006142","ref":"0000693639","refpg":"6936 39"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["5 X 80 - 4 - 8"]]]]]]]]]]]]}

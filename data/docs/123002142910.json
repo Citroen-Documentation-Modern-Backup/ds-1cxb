@@ -1,18 +1,1 @@
-{
- "ref": "123002142910",
- "refDisplay": "1230 02 142910",
- "title": "RACCORD D’AERATION DE CARBURATEUR",
- "nature": "",
- "applicability": "1,580L ET 1,905L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"123002142910","refDisplay":"1230 02 142910","title":"RACCORD D’AERATION DE CARBURATEUR","nature":"","applicability":"1,580L ET 1,905L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CXB)(%B0F158)(%B0F190)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000590"},[]],["thesaurus",{"type":"10","code":"006440"},[]],["thesaurus",{"type":"10","code":"015290"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"21","code":"L0051798"},[]],["thesaurus",{"type":"21","code":"L0051799"},[]],["mpr",{"catal":"1230","grp":"34","grp2":"02","maj":"20110723","numfich":"142910"},[["appl",{},["{(?1CXB)(%B0F158)(%B0F190)}"]],["sti",{"ident":"NL142901"},[]],["img",{"numfich":"d1429100","path":"/img/pr/00/d142/d1429100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000590","obsnfp":"NFP","ref":"91505361","refpg":"91 505 361"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM INT 10 -510"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006440","obsnfp":"NFP","ref":"7905026723","refpg":"79 05 026 723"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM INT 13"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"015290","ref":"0000699471","refpg":"6994 71"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0051798"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 16-18"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004647","ref":"0000698791","refpg":"6987 91"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0051799"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 23"]]]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"006440","obsnfp":"NFP","ref":"96009736","refpg":"96 009 736"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H04)(B0H06)(B0H44)}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "123002184312",
- "refDisplay": "1230 02 184312",
- "title": "CIRCUIT ANTI POLLUTION",
- "nature": "",
- "applicability": "1,580L ET INJECTION ET (XT) EXPORT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"123002184312","refDisplay":"1230 02 184312","title":"CIRCUIT ANTI POLLUTION","nature":"","applicability":"1,580L ET INJECTION ET (XT) EXPORT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CXB)(%B0F158)(DAZ04)(%B0HXT)}","tree":["document",{},[["thesaurus",{"type":"10","code":"007081"},[]],["thesaurus",{"type":"10","code":"006107"},[]],["thesaurus",{"type":"22","code":"P0000228"},[]],["mpr",{"catal":"1230","grp":"53","grp2":"02","maj":"20110723","numfich":"184312"},[["appl",{},["{(?1CXB)(%B0F158)(DAZ04)(%B0HXT)}"]],["sti",{"ident":"NL184301"},[]],["obspage",{"ident":"P0000228"},[]],["img",{"numfich":"d1843120","path":"/img/pr/20/d184/d1843120.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"007081","obsnfp":"NFP","ref":"0000162235","refpg":"1622 35"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"006107","obsnfp":"NFP","ref":"95636680","refpg":"95 636 680"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

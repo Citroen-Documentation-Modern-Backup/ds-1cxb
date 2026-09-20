@@ -1,18 +1,1 @@
-{
- "ref": "123002184611",
- "refDisplay": "1230 02 184611",
- "title": "CIRCUIT RECYCLAGE-DEPRESSION",
- "nature": "",
- "applicability": "ESSENCE ET 16 RE ET BVM ET (TW) TAIWAN DEPUIS OPR 04496",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"123002184611","refDisplay":"1230 02 184611","title":"CIRCUIT RECYCLAGE-DEPRESSION","nature":"","applicability":"ESSENCE ET 16 RE ET BVM ET (TW) TAIWAN DEPUIS OPR 04496","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%16RE)(@BVM)(B0H42)/($1,04496,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"006821"},[]],["mpr",{"catal":"1230","grp":"53","grp2":"02","maj":"20110723","numfich":"184611"},[["appl",{},["{(?1CXB)(DCD10)(%16RE)(@BVM)(B0H42)/($1,04496,,)/}"]],["sti",{"ident":"NL184601"},[]],["img",{"numfich":"d1846110","path":"/img/pr/10/d184/d1846110.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006821","obsnfp":"NFP","ref":"96065250","refpg":"96 065 250"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM INT 4 ET 5-2000"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "123002143850A",
- "refDisplay": "1230 02 143850A",
- "title": "CARBURATEUR-NECESSAIRE DE REPARATION",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"123002143850A","refDisplay":"1230 02 143850A","title":"CARBURATEUR-NECESSAIRE DE REPARATION","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000828"},[]],["thesaurus",{"type":"10","code":"000291"},[]],["thesaurus",{"type":"10","code":"000882"},[]],["thesaurus",{"type":"10","code":"008121"},[]],["thesaurus",{"type":"10","code":"000869"},[]],["thesaurus",{"type":"22","code":"P0000188"},[]],["thesaurus",{"type":"21","code":"L0052373"},[]],["thesaurus",{"type":"21","code":"L0052374"},[]],["thesaurus",{"type":"21","code":"L0052375"},[]],["mpr",{"catal":"1230","grp":"34","grp2":"02","maj":"20110723","numfich":"143850A"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL143801"},[]],["obspage",{"ident":"P0000188"},[]],["enssup",{},[["fourn",{},["18770B"]]]],["img",{"numfich":"00057650","path":"/img/pr/50/0005/00057650.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000828","obsnfp":"NFP","ref":"00001412E3","refpg":"1412 E3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"368, 384, 11","shape":"circle"},[]],["area",{"coords":"83, 246, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000291","ref":"00001410C1","refpg":"1410 C1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"326, 28, 11","shape":"circle"},[]],["area",{"coords":"285, 222, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000882","ref":"00001408E7","refpg":"1408 E7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0052373"},[]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"123, 476, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000882","ref":"00001406E5","refpg":"1406 E5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0052374"},[]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"195, 267, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"008121","ref":"00001406E6","refpg":"1406 E6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0052375"},[]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"257, 488, 11","shape":"circle"},[]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"000869","ref":"00001417P5","refpg":"1417 P5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"368, 384, 11","shape":"circle"},[]],["area",{"coords":"123, 476, 11","shape":"circle"},[]],["area",{"coords":"326, 28, 11","shape":"circle"},[]],["area",{"coords":"83, 246, 11","shape":"circle"},[]],["area",{"coords":"195, 267, 11","shape":"circle"},[]],["area",{"coords":"285, 222, 11","shape":"circle"},[]],["area",{"coords":"347, 425, 11","shape":"circle"},[]],["area",{"coords":"257, 488, 11","shape":"circle"},[]]]]]]]]]]}

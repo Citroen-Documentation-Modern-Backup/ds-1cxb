@@ -1,18 +1,1 @@
-{
- "ref": "123002143918",
- "refDisplay": "1230 02 143918",
- "title": "CORPS D’INJECTION MONOPOINT",
- "nature": "",
- "applicability": "1,580L ET INJ MONOPOINT ET (XT) EXPORT JUSQU’A OPR 05225",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"123002143918","refDisplay":"1230 02 143918","title":"CORPS D’INJECTION MONOPOINT","nature":"","applicability":"1,580L ET INJ MONOPOINT ET (XT) EXPORT JUSQU’A OPR 05225","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CXB)(%B0F158)(%DAZ07)(%B0HXT)/($,,1,05225)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"007190"},[]],["thesaurus",{"type":"10","code":"000834"},[]],["thesaurus",{"type":"10","code":"010066"},[]],["thesaurus",{"type":"22","code":"P0000193"},[]],["mpr",{"catal":"1230","grp":"34","grp2":"02","maj":"20110723","numfich":"143918"},[["appl",{},["{(?1CXB)(%B0F158)(%DAZ07)(%B0HXT)/($,,1,05225)/}"]],["sti",{"ident":"NL143901"},[]],["obspage",{"ident":"P0000193"},[]],["enssup",{},[["fourn",{},["18770B"]],["refd",{},["16001 PSA 487"]]]],["img",{"numfich":"d1439180","path":"/img/pr/80/d143/d1439180.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"007190","obsnfp":"NFP","ref":"00001920A5","refpg":"1920 A5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["18770B"]]]]]],["descomp",{},[["lib",{"langue":"01"},["ENS SUP"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000834","obsnfp":"NFP","ref":"00001920E7","refpg":"1920 E7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"010066","obsnfp":"NFP","ref":"00001920E6","refpg":"1920 E6"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

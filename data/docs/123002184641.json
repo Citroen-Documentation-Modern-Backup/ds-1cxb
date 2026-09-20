@@ -1,18 +1,1 @@
-{
- "ref": "123002184641",
- "refDisplay": "1230 02 184641",
- "title": "CIRCUIT RECYCLAGE-DEPRESSION",
- "nature": "",
- "applicability": "1,905L ET INJECTION ET BVM ET (TW) TAIWAN DEPUIS OPR 04496",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"123002184641","refDisplay":"1230 02 184641","title":"CIRCUIT RECYCLAGE-DEPRESSION","nature":"","applicability":"1,905L ET INJECTION ET BVM ET (TW) TAIWAN DEPUIS OPR 04496","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CXB)(%B0F190)(DAZ04)(@BVM)(B0H42)/($1,04496,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"006821"},[]],["thesaurus",{"type":"10","code":"006400"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"004662"},[]],["mpr",{"catal":"1230","grp":"53","grp2":"02","maj":"20110723","numfich":"184641"},[["appl",{},["{(?1CXB)(%B0F190)(DAZ04)(@BVM)(B0H42)/($1,04496,,)/}"]],["sti",{"ident":"NL184601"},[]],["img",{"numfich":"d1846410","path":"/img/pr/10/d184/d1846410.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006821","obsnfp":"NFP","ref":"96065254","refpg":"96 065 254"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM INT 5 ET 7-2000"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006400","obsnfp":"NFP","ref":"96995380","refpg":"96 995 380"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["2T 4-11"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004647","ref":"0000698681","refpg":"6986 81"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 17"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004662","ref":"0000698030","refpg":"6980 30"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LG=100"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006980A7","refpg":"6980 A7"},[]]]]]]]]]]}

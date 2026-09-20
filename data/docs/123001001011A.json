@@ -1,18 +1,1 @@
-{
- "ref": "123001001011A",
- "refDisplay": "1230 01 001011A",
- "title": "MOTEUR - POCHETTE DE JOINTS",
- "nature": "",
- "applicability": "ESSENCE ET 1,360L DEPUIS OPR 04193",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"123001001011A","refDisplay":"1230 01 001011A","title":"MOTEUR - POCHETTE DE JOINTS","nature":"","applicability":"ESSENCE ET 1,360L DEPUIS OPR 04193","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F136)/($1,04193,,)/}","tree":["document",{},[["thesaurus",{"type":"7","code":"A005-"},[]],["thesaurus",{"type":"10","code":"013644"},[]],["thesaurus",{"type":"10","code":"013646"},[]],["thesaurus",{"type":"10","code":"000816"},[]],["thesaurus",{"type":"10","code":"000815"},[]],["thesaurus",{"type":"22","code":"P0000092"},[]],["mpr",{"catal":"1230","grp":"4","grp2":"01","maj":"20110723","numfich":"001011A"},[["appl",{},["{(?1CXB)(DCD10)(%B0F136)/($1,04193,,)/}"]],["sti",{"ident":"NL001001"},[]],["obspage",{"ident":"P0000092"},[]],["img",{"numfich":"00057216","path":"/img/pr/16/0005/00057216.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"013644","obsnfp":"NFP","ref":"00000135F2","refpg":"0135 F2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["reporg",{},[["monte",{},["K1G"]],["monte",{},["(K1G)"]]]]]],["pr",{"codesi":"013646","obsnfp":"NFP","ref":"0000013997","refpg":"0139 97"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(~2)}"]]]],["reporg",{},[["monte",{},["K1G"]],["monte",{},["(K1G)"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"347, 49, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000816","ref":"00000197H9","refpg":"0197 H9"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["complpr",{"matiere":"A005-"},[]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"391, 311, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000815","ref":"00000197H8","refpg":"0197 H8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["complpr",{"matiere":"A005-"},[]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"35, 262, 11","shape":"circle"},[]]]]]]]]]]}

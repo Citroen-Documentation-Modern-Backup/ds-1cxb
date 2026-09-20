@@ -1,18 +1,1 @@
-{
- "ref": "123005502101",
- "refDisplay": "1230 05 502101",
- "title": "FAISCEAU D’HABITACLE - PLAFONNIER",
- "nature": "",
- "applicability": "BERLINE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"123005502101","refDisplay":"1230 05 502101","title":"FAISCEAU D’HABITACLE - PLAFONNIER","nature":"","applicability":"BERLINE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CXB)(@BL)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003741"},[]],["mpr",{"catal":"1230","grp":"523","grp2":"05","maj":"20110723","numfich":"502101"},[["appl",{},["{(?1CXB)(@BL)}"]],["sti",{"ident":"NL502101"},[]],["img",{"numfich":"00059154","path":"/img/pr/54/0005/00059154.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003741","obsnfp":"NFP","ref":"95635386","refpg":"95 635 386"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%14E)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19D)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DTC01)}"]]]]]],["pr",{"codesi":"003741","obsnfp":"NFP","ref":"95632890","refpg":"95 632 890"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%14RE)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%16RS)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%16TRS)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TRS)}"]]]]]],["pr",{"codesi":"003741","obsnfp":"NFP","ref":"95631069","refpg":"95 631 069"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CDE INFRAROUGE"]]]]]],["pr",{"codesi":"003741","obsnfp":"NFP","ref":"95635385","refpg":"95 635 385"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DTC01)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CDE INFRAROUGE"]]]]]],["pr",{"codesi":"003741","obsnfp":"NFP","ref":"96042153","refpg":"96 042 153"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0J39)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"366, 312, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"003741","obsnfp":"NFP","ref":"95632890","refpg":"95 632 890"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)(%14E)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)(%19D)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"370, 336, 11","shape":"circle"},[]]]]]]]]]]}

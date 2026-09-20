@@ -1,18 +1,1 @@
-{
- "ref": "123008982970",
- "refDisplay": "1230 08 982970",
- "title": "PANNEAUX DE PORTE ARRIERE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0141"
-  }
- ]
-}
+{"ref":"123008982970","refDisplay":"1230 08 982970","title":"PANNEAUX DE PORTE ARRIERE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0141"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004258"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"363","grp2":"08","maj":"20110723","numfich":"982970"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL982901"},[]],["enssup",{},[["refd",{},["FIBRE DE VERRE"]]]],["img",{"numfich":"d9829700","path":"/img/pr/00/d982/d9829700.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004258","cote":"G","obsnfp":"NFP","ref":"95606513TR","refpg":"95 606 513 TR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0DAE)(%B)/($1,04131,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0DAE)(%R)/($1,04131,,)/}"]]]]]],["pr",{"codesi":"004258","cote":"D","obsnfp":"NFP","ref":"95606514TR","refpg":"95 606 514 TR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0DAE)(%B)/($1,04131,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0DAE)(%R)/($1,04131,,)/}"]]]]]]]]]]]]}

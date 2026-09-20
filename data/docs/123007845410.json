@@ -1,18 +1,1 @@
-{
- "ref": "123007845410",
- "refDisplay": "1230 07 845410",
- "title": "GLACE DE VOLET AR",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0117"
-  }
- ]
-}
+{"ref":"123007845410","refDisplay":"1230 07 845410","title":"GLACE DE VOLET AR","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0117"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003952"},[]],["thesaurus",{"type":"10","code":"003797"},[]],["thesaurus",{"type":"21","code":"L0065289"},[]],["thesaurus",{"type":"21","code":"L0065291"},[]],["thesaurus",{"type":"21","code":"L0065293"},[]],["mpr",{"catal":"1230","grp":"327","grp2":"07","maj":"20110723","numfich":"845410"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL845401"},[]],["img",{"numfich":"d8454100","path":"/img/pr/00/d845/d8454100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003952","obsnfp":"NFP","ref":"95496514","refpg":"95 496 514"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BL)(DVC02)(DVD01)}"]]]]]],["pr",{"codesi":"003952","obsnfp":"NFP","ref":"95606651","refpg":"95 606 651"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)(DVC02)(DVD01)}"]]]]]],["pr",{"codesi":"003952","obsnfp":"NFP","ref":"95496515","refpg":"95 496 515"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BL)(DVC02)/($,,1,04495)/}"]],["obsligne",{"ident":"L0065289"},[]]]]]],["pr",{"codesi":"003952","obsnfp":"NFP","ref":"95606652","refpg":"95 606 652"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)(DVC02)/($,,1,04557)/}"]],["obsligne",{"ident":"L0065291"},[]]]],["descomp",{},[["lib",{"langue":"01"},["TEINTEE BRONZE"]]]]]],["pr",{"codesi":"003952","obsnfp":"NFP","ref":"96051539","refpg":"96 051 539"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BL)(DVC02)/($1,04496,,)/}"]],["obsligne",{"ident":"L0065293"},[]]]]]],["pr",{"codesi":"003952","obsnfp":"NFP","ref":"96050509","refpg":"96 050 509"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)(DVC02)/($1,04558,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["TEINTEE VERT"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"003797","obsnfp":"NFP","ref":"95592669","refpg":"95 592 669"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BL)}"]]]]]],["pr",{"codesi":"003797","obsnfp":"NFP","ref":"95606487","refpg":"95 606 487"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "123005501302",
- "refDisplay": "1230 05 501302",
- "title": "FAISCEAU ELECTROVANNE ANTIPOLLUTION",
- "nature": "",
- "applicability": "INJECTION ET (J) JAPON",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"123005501302","refDisplay":"1230 05 501302","title":"FAISCEAU ELECTROVANNE ANTIPOLLUTION","nature":"","applicability":"INJECTION ET (J) JAPON","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CXB)(DAZ04)(B0H49)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005242"},[]],["thesaurus",{"type":"21","code":"L0058793"},[]],["mpr",{"catal":"1230","grp":"515","grp2":"05","maj":"20110723","numfich":"501302"},[["appl",{},["{(?1CXB)(DAZ04)(B0H49)}"]],["sti",{"ident":"NL501301"},[]],["img",{"numfich":"d5013020","path":"/img/pr/20/d501/d5013020.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005242","obsnfp":"NFP","ref":"96056155","refpg":"96 056 155"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F190)}"]],["obsligne",{"ident":"L0058793"},[]]]]]]]]]]]]}

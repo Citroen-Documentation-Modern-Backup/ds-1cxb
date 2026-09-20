@@ -1,18 +1,1 @@
-{
- "ref": "123001332315",
- "refDisplay": "1230 01 332315",
- "title": "COMMANDE DE COMPTEUR",
- "nature": "",
- "applicability": "4X4",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"123001332315","refDisplay":"1230 01 332315","title":"COMMANDE DE COMPTEUR","nature":"","applicability":"4X4","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CXB)(%4X4)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001309"},[]],["thesaurus",{"type":"10","code":"001460"},[]],["thesaurus",{"type":"10","code":"001342"},[]],["thesaurus",{"type":"10","code":"010148"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["mpr",{"catal":"1230","grp":"84","grp2":"01","maj":"20110723","numfich":"332315"},[["appl",{},["{(?1CXB)(%4X4)}"]],["sti",{"ident":"NL332301"},[]],["img",{"numfich":"d3323150","path":"/img/pr/50/d332/d3323150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001309","ref":"0000264150","refpg":"2641 50"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001460","obsnfp":"NFP","ref":"96052831","refpg":"96 052 831"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["15 DENT"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001342","ref":"0000264404","refpg":"2644 04"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8 X 16 X7/15,6 -21"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"010148","ref":"0000264512","refpg":"2645 12"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 24-TO 3"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004675","ref":"0000691731","refpg":"6917 31"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-16"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"008588","ref":"0000696212","refpg":"6962 12"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X13,7-0,8"]]]]]]]]]]]]}

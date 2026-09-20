@@ -1,18 +1,1 @@
-{
- "ref": "123001336010",
- "refDisplay": "1230 01 336010",
- "title": "LEVIER DE VITESSE ETANCHEITE",
- "nature": "",
- "applicability": "1,580L ET 1,769L ET 1,905L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0216"
-  }
- ]
-}
+{"ref":"123001336010","refDisplay":"1230 01 336010","title":"LEVIER DE VITESSE ETANCHEITE","nature":"","applicability":"1,580L ET 1,769L ET 1,905L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0216"}],"kind":"pr","appl":"{(?1CXB)(%B0F158)(%B0F17)(%B0F190)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003510"},[]],["thesaurus",{"type":"10","code":"005532"},[]],["mpr",{"catal":"1230","grp":"414","grp2":"01","maj":"20110723","numfich":"336010"},[["appl",{},["{(?1CXB)(%B0F158)(%B0F17)(%B0F190)}"]],["sti",{"ident":"NL336001"},[]],["img",{"numfich":"d3360100","path":"/img/pr/00/d336/d3360100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003510","obsnfp":"NFP","ref":"96017606","refpg":"96 017 606"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005532","obsnfp":"NFP","ref":"95562698","refpg":"95 562 698"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

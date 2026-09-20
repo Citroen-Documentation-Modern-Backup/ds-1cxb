@@ -1,18 +1,1 @@
-{
- "ref": "123005502405",
- "refDisplay": "1230 05 502405",
- "title": "FAISCEAU INTERMEDIAIRE AVANT - ARRIERE",
- "nature": "",
- "applicability": "GTI ET GTI 16S",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"123005502405","refDisplay":"1230 05 502405","title":"FAISCEAU INTERMEDIAIRE AVANT - ARRIERE","nature":"","applicability":"GTI ET GTI 16S","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CXB)(%GTI)(%GTI16S)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006055"},[]],["thesaurus",{"type":"22","code":"P0000294"},[]],["thesaurus",{"type":"21","code":"L0059004"},[]],["thesaurus",{"type":"21","code":"L0058999"},[]],["thesaurus",{"type":"21","code":"L0059000"},[]],["thesaurus",{"type":"21","code":"L0059002"},[]],["thesaurus",{"type":"21","code":"L0058998"},[]],["mpr",{"catal":"1230","grp":"526","grp2":"05","maj":"20110723","numfich":"502405"},[["appl",{},["{(?1CXB)(%GTI)(%GTI16S)}"]],["sti",{"ident":"NL502401"},[]],["obspage",{"ident":"P0000294"},[]],["img",{"numfich":"00059161","path":"/img/pr/61/0005/00059161.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006055","obsnfp":"NFP","ref":"96009795","refpg":"96 009 795"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19GTI)/($1,03857,1,04921)/}"]],["obsligne",{"ident":"L0059004"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%GTI16S)}"]],["obsligne",{"ident":"L0058999"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19GTI)(DLE02)/($1,03857,1,05284)/}"]],["obsligne",{"ident":"L0059000"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%GTI16S)(DLE02)/($1,03857,1,05284)/}"]],["obsligne",{"ident":"L0059002"},[]]]]]],["pr",{"codesi":"006055","obsnfp":"NFP","ref":"96133221","refpg":"96 133 221"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19GTI)/($1,04922,,)/}"]],["obsligne",{"ident":"L0058998"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19GTI)(DLE02)/($1,05285,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%GTI16S)(DLE02)/($1,05285,,)/}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"56, 376, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"006055","obsnfp":"NFP","ref":"96009795","refpg":"96 009 795"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H09)(B0H08)(B0H07)(DLE02)(%GTI16S)/($1,03857,1,05284)/}"]]]]]],["pr",{"codesi":"006055","obsnfp":"NFP","ref":"96133221","refpg":"96 133 221"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H09)(B0H08)(B0H07)(DLE02)(%GTI16S)/($1,05285,,)/}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"82, 375, 11","shape":"circle"},[]]]]]]]]]]}

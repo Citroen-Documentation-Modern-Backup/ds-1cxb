@@ -1,18 +1,1 @@
-{
- "ref": "123004314102",
- "refDisplay": "1230 04 314102",
- "title": "PEDALIER - FREIN",
- "nature": "",
- "applicability": "CONDUITE A DROITE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0047"
-  }
- ]
-}
+{"ref":"123004314102","refDisplay":"1230 04 314102","title":"PEDALIER - FREIN","nature":"","applicability":"CONDUITE A DROITE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0047"}],"kind":"pr","appl":"{(?1CXB)(DCX02)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005428"},[]],["thesaurus",{"type":"10","code":"000739"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"004654"},[]],["mpr",{"catal":"1230","grp":"240","grp2":"04","maj":"20110723","numfich":"314102"},[["appl",{},["{(?1CXB)(DCX02)}"]],["sti",{"ident":"NL314101"},[]],["img",{"numfich":"d3141020","path":"/img/pr/20/d314/d3141020.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005428","obsnfp":"NFP","ref":"95598986","refpg":"95 598 986"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000739","obsnfp":"NFP","ref":"95591608","refpg":"95 591 608"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004667","obsnfp":"NFP","ref":"95591611","refpg":"95 591 611"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X19,5-4"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004654","ref":"0000693586","refpg":"6935 86"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-5,5-10"]]]]]]]]]]]]}

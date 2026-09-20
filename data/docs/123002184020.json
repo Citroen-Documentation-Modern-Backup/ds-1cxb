@@ -1,18 +1,1 @@
-{
- "ref": "123002184020",
- "refDisplay": "1230 02 184020",
- "title": "ANTI POLLUTION-CIRCUIT DEPRESSION",
- "nature": "",
- "applicability": "GAZOLE ET 1,905L ET (CH) SUISSE ET (S) SUEDE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"123002184020","refDisplay":"1230 02 184020","title":"ANTI POLLUTION-CIRCUIT DEPRESSION","nature":"","applicability":"GAZOLE ET 1,905L ET (CH) SUISSE ET (S) SUEDE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(%B0F190)(B0H05)(B0H09)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000825"},[]],["thesaurus",{"type":"10","code":"009767"},[]],["thesaurus",{"type":"10","code":"005832"},[]],["thesaurus",{"type":"10","code":"007102"},[]],["thesaurus",{"type":"10","code":"000590"},[]],["thesaurus",{"type":"10","code":"000689"},[]],["thesaurus",{"type":"10","code":"005599"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["mpr",{"catal":"1230","grp":"53","grp2":"02","maj":"20110723","numfich":"184020"},[["appl",{},["{(?1CXB)(DCD06)(%B0F190)(B0H05)(B0H09)}"]],["sti",{"ident":"NL184001"},[]],["img",{"numfich":"00058847","path":"/img/pr/47/0005/00058847.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000825","obsnfp":"NFP","ref":"00001628R2","refpg":"1628 R2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"183, 81, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"009767","obsnfp":"NFP","ref":"96008841","refpg":"96 008 841"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"41, 78, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005832","obsnfp":"NFP","ref":"95612758","refpg":"95 612 758"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"151, 25, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"007102","ref":"0000143910","refpg":"1439 10"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-13"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"268, 42, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000590","obsnfp":"NFP","ref":"7905026911","refpg":"79 05 026 911"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM INT 4"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"198, 369, 11","shape":"circle"},[]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000689","ref":"0000595306","refpg":"5953 06"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CL 3,5X8-5000"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"278, 351, 11","shape":"circle"},[]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"005599","ref":"5416495","refpg":"5 416 495"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["interactivite",{"order":"07"},[["area",{"coords":"366, 114, 11","shape":"circle"},[]]]]]],["repere",{"rep":"12"},[["pr",{"codesi":"004647","ref":"0000698696","refpg":"6986 96"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10"]]]]]],["interactivite",{"order":"08"},[["area",{"coords":"438, 5, 11","shape":"circle"},[]],["area",{"coords":"69, 306, 11","shape":"circle"},[]]]]]]]]]]}

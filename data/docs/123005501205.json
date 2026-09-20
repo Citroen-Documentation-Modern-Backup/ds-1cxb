@@ -1,18 +1,1 @@
-{
- "ref": "123005501205",
- "refDisplay": "1230 05 501205",
- "title": "FAISCEAU MOTEUR",
- "nature": "",
- "applicability": "1,580L ET CARBURATEUR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"123005501205","refDisplay":"1230 05 501205","title":"FAISCEAU MOTEUR","nature":"","applicability":"1,580L ET CARBURATEUR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CXB)(%B0F158)(DAZ08)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003753"},[]],["thesaurus",{"type":"10","code":"005242"},[]],["mpr",{"catal":"1230","grp":"514","grp2":"05","maj":"20110723","numfich":"501205"},[["appl",{},["{(?1CXB)(%B0F158)(DAZ08)}"]],["sti",{"ident":"NL501201"},[]],["img",{"numfich":"00059117","path":"/img/pr/17/0005/00059117.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96036175","refpg":"96 036 175"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%16RS)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%16TRS)}"]]]]]],["pr",{"codesi":"003753","obsnfp":"NFP","ref":"95634918","refpg":"95 634 918"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BVA)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"380, 305, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005242","obsnfp":"NFP","ref":"95599760","refpg":"95 599 760"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BVA)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"378, 190, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"003753","obsnfp":"NFP","ref":"95637396","refpg":"95 637 396"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%16TRS)(B0H09)(B0H08)(B0H07)/($,,1,04529)/}"]]]]]],["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96081480","refpg":"96 081 480"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%16TRS)(B0H09)(B0H08)(B0H07)/($1,04530,,)/}"]]]]]],["pr",{"codesi":"003753","obsnfp":"NFP","ref":"95637395","refpg":"95 637 395"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%16TRS)(@BVA)(B0H09)(B0H08)(B0H07)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"383, 330, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "123005564110",
- "refDisplay": "1230 05 564110",
- "title": "LAVE VITRE AVANT - ARRIERE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0321"
-  }
- ]
-}
+{"ref":"123005564110","refDisplay":"1230 05 564110","title":"LAVE VITRE AVANT - ARRIERE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0321"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002814"},[]],["thesaurus",{"type":"10","code":"002867"},[]],["thesaurus",{"type":"10","code":"004694"},[]],["thesaurus",{"type":"10","code":"002441"},[]],["thesaurus",{"type":"10","code":"005855"},[]],["thesaurus",{"type":"10","code":"003008"},[]],["thesaurus",{"type":"10","code":"002697"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"004670"},[]],["thesaurus",{"type":"10","code":"002487"},[]],["mpr",{"catal":"1230","grp":"385","grp2":"05","maj":"20110723","numfich":"564110"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL564101"},[]],["img",{"numfich":"d5641100","path":"/img/pr/00/d564/d5641100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002814","ref":"0000643466","refpg":"6434 66"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002867","obsnfp":"NFP","ref":"95633058","refpg":"95 633 058"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004694","obsnfp":"NFP","ref":"95610342","refpg":"95 610 342"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002441","ref":"0000643230","refpg":"6432 30"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005855","obsnfp":"NFP","ref":"95499014","refpg":"95 499 014"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 3,5X6,5-3500"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"003008","ref":"95495714","refpg":"95 495 714"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"002697","ref":"0000643445","refpg":"6434 45"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"004647","ref":"0000698679","refpg":"6986 79"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1T 6,2"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"008006","ref":"00006922H3","refpg":"6922 H3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-25"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"004670","ref":"7903058063","refpg":"79 03 058 063"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X18-1,7"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"002487","ref":"0000643370","refpg":"6433 70"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)}"]]]]]]]]]]]]}

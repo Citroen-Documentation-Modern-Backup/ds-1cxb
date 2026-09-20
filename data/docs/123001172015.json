@@ -1,18 +1,1 @@
-{
- "ref": "123001172015",
- "refDisplay": "1230 01 172015",
- "title": "TURBO - RACCORDS - ECHANGEUR",
- "nature": "",
- "applicability": "GAZOLE ET 1,769L ET TURBO JUSQU’A OPR 05439",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0014"
-  }
- ]
-}
+{"ref":"123001172015","refDisplay":"1230 01 172015","title":"TURBO - RACCORDS - ECHANGEUR","nature":"","applicability":"GAZOLE ET 1,769L ET TURBO JUSQU’A OPR 05439","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0014"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(%B0F17)(DAZ09)/($,,1,05439)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000586"},[]],["thesaurus",{"type":"10","code":"000585"},[]],["thesaurus",{"type":"10","code":"004682"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"22","code":"P0000134"},[]],["thesaurus",{"type":"21","code":"L0047784"},[]],["thesaurus",{"type":"21","code":"L0047783"},[]],["mpr",{"catal":"1230","grp":"43","grp2":"01","maj":"20110723","numfich":"172015"},[["appl",{},["{(?1CXB)(DCD06)(%B0F17)(DAZ09)/($,,1,05439)/}"]],["sti",{"ident":"NL172001"},[]],["obspage",{"ident":"P0000134"},[]],["enssup",{},[["fourn",{},["31636L"]]]],["img",{"numfich":"d1720150","path":"/img/pr/50/d172/d1720150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000586","obsnfp":"NFP","ref":"0000037538","refpg":"0375 38"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0047784"},[]],["reffour",{},[["four",{},["31636L"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0047784"},[]],["reffour",{},[["four",{},["60010C"]]]]]]]],["pr",{"codesi":"000585","obsnfp":"NFP","ref":"0000037533","refpg":"0375 33"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(~2)}"]],["obsligne",{"ident":"L0047783"},[]],["reffour",{},[["four",{},["60010C"]]]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004682","ref":"0000037608","refpg":"0376 08"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-25"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004675","ref":"0000037605","refpg":"0376 05"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10X150-27"]]]]]]]]]]]]}

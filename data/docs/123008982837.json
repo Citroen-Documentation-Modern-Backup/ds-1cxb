@@ -1,18 +1,1 @@
-{
- "ref": "123008982837",
- "refDisplay": "1230 08 982837",
- "title": "PANNEAUX DE PORTE AVANT",
- "nature": "",
- "applicability": " JUSQU’A OPR 04922",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0135"
-  }
- ]
-}
+{"ref":"123008982837","refDisplay":"1230 08 982837","title":"PANNEAUX DE PORTE AVANT","nature":"","applicability":" JUSQU’A OPR 04922","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0135"}],"kind":"pr","appl":"{(?1CXB)/($,,1,04922)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"004588"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"354","grp2":"08","maj":"20110723","numfich":"982837"},[["appl",{},["{(?1CXB)/($,,1,04922)/}"]],["sti",{"ident":"NL982801"},[]],["enssup",{},[["refd",{},["VELOURS DIAPHITE"]]]],["img",{"numfich":"d9828370","path":"/img/pr/70/d982/d9828370.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004588","cote":"G","obsnfp":"NFP","ref":"95640656XL","refpg":"95 640 656 XL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%GTI16S)}"]]]]]],["pr",{"codesi":"004588","cote":"D","obsnfp":"NFP","ref":"95640655XL","refpg":"95 640 655 XL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%GTI16S)}"]]]]]]]]]]]]}

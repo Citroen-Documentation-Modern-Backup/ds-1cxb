@@ -1,18 +1,1 @@
-{
- "ref": "123008982943",
- "refDisplay": "1230 08 982943",
- "title": "PANNEAUX DE PORTE ARRIERE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0141"
-  }
- ]
-}
+{"ref":"123008982943","refDisplay":"1230 08 982943","title":"PANNEAUX DE PORTE ARRIERE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0141"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004258"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["thesaurus",{"type":"22","code":"P0000365"},[]],["thesaurus",{"type":"21","code":"L0067494"},[]],["thesaurus",{"type":"21","code":"L0067493"},[]],["thesaurus",{"type":"21","code":"L0067492"},[]],["thesaurus",{"type":"21","code":"L0067491"},[]],["mpr",{"catal":"1230","grp":"363","grp2":"08","maj":"20110723","numfich":"982943"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL982901"},[]],["obspage",{"ident":"P0000365"},[]],["enssup",{},[["refd",{},["VELOURS HALLEY"]]]],["img",{"numfich":"d9829430","path":"/img/pr/30/d982/d9829430.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004258","cote":"G","obsnfp":"NFP","ref":"96083482XX","refpg":"96 083 482 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0J3T)}"]],["obsligne",{"ident":"L0067494"},[]]]],["descomp",{},[["lib",{"langue":"01"},["1 POS"]]]]]],["pr",{"codesi":"004258","cote":"G","obsnfp":"NFP","ref":"96083482UM","refpg":"96 083 482 UM"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0J3T)/($1,05278,,)/}"]],["obsligne",{"ident":"L0067493"},[]]]],["descomp",{},[["lib",{"langue":"01"},["2 POS"]]]]]],["pr",{"codesi":"004258","cote":"D","obsnfp":"NFP","ref":"96083480XX","refpg":"96 083 480 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0J3T)}"]],["obsligne",{"ident":"L0067492"},[]]]],["descomp",{},[["lib",{"langue":"01"},["1 POS"]]]]]],["pr",{"codesi":"004258","cote":"D","obsnfp":"NFP","ref":"96083480UM","refpg":"96 083 480 UM"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0J3T)/($1,05278,,)/}"]],["obsligne",{"ident":"L0067491"},[]]]],["descomp",{},[["lib",{"langue":"01"},["2 POS"]]]]]]]]]]]]}

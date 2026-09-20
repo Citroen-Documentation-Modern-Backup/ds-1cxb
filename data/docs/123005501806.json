@@ -1,18 +1,1 @@
-{
- "ref": "123005501806",
- "refDisplay": "1230 05 501806",
- "title": "FAISCEAU PLANCHE DE BORD ET CONSOLE",
- "nature": "",
- "applicability": "GAZOLE ET TURBO ET FINIT. R ET FINIT. TR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"123005501806","refDisplay":"1230 05 501806","title":"FAISCEAU PLANCHE DE BORD ET CONSOLE","nature":"","applicability":"GAZOLE ET TURBO ET FINIT. R ET FINIT. TR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(DAZ09)(%R)(%TR)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003742"},[]],["mpr",{"catal":"1230","grp":"503","grp2":"05","maj":"20110723","numfich":"501806"},[["appl",{},["{(?1CXB)(DCD06)(DAZ09)(%R)(%TR)}"]],["sti",{"ident":"NL501801"},[]],["img",{"numfich":"00059146","path":"/img/pr/46/0005/00059146.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96023603","refpg":"96 023 603"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DNC05)(%RDTU)(@BL)/($,,1,05347)/}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96125466","refpg":"96 125 466"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DNC05)(%RDTU)(@BL)/($1,05348,,)/}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96020284","refpg":"96 020 284"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DNC05)(@BL)/($1,04131,,)/}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96023600","refpg":"96 023 600"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DNC05)(%RDTU)(@BK)/($1,04131,1,05347)/}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96125468","refpg":"96 125 468"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DNC05)(%RDTU)(@BK)/($1,05348,,)/}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96020286","refpg":"96 020 286"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DNC05)(@BK)/($1,04131,,)/}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"242, 80, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96020285","refpg":"96 020 285"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)(DNC05)(%TRDTU)(@BL)/($1,04131,,)/}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96023604","refpg":"96 023 604"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)(DNC05)(%TGDTU)(@BL)/($1,04131,1,05201)/}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96125467","refpg":"96 125 467"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)(DNC05)(%TGDTU)(@BL)/($1,05202,,)/}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96125469","refpg":"96 125 469"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)(DNC05)(%TGDTU)(@BK)}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96020287","refpg":"96 020 287"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)(DNC05)(%TRDTU)(@BK)/($1,04131,,)/}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"266, 81, 11","shape":"circle"},[]]]]]]]]]]}

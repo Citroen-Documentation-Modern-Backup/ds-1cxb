@@ -1,18 +1,1 @@
-{
- "ref": "123008982846",
- "refDisplay": "1230 08 982846",
- "title": "PANNEAUX DE PORTE AVANT",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0135"
-  }
- ]
-}
+{"ref":"123008982846","refDisplay":"1230 08 982846","title":"PANNEAUX DE PORTE AVANT","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0135"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004588"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"354","grp2":"08","maj":"20110723","numfich":"982846"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL982801"},[]],["enssup",{},[["refd",{},["VELOURS ETNA"]]]],["img",{"numfich":"d9828460","path":"/img/pr/60/d982/d9828460.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004588","cote":"G","obsnfp":"NFP","ref":"96139704XX","refpg":"96 139 704 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0J4V)/($1,05411,,)/}"]]]]]],["pr",{"codesi":"004588","cote":"D","obsnfp":"NFP","ref":"96139702XX","refpg":"96 139 702 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0J4V)/($1,05411,,)/}"]]]]]]]]]]]]}

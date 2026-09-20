@@ -1,18 +1,1 @@
-{
- "ref": "123006641710",
- "refDisplay": "1230 06 641710",
- "title": "BOITIER DE RECYCLAGE",
- "nature": "",
- "applicability": "CLIMATISEUR ET PAYS FROIDS ET (SF) FINLANDE ET (N) NORVEGE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"123006641710","refDisplay":"1230 06 641710","title":"BOITIER DE RECYCLAGE","nature":"","applicability":"CLIMATISEUR ET PAYS FROIDS ET (SF) FINLANDE ET (N) NORVEGE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?1CXB)(DCL10)(DCK02)(B0H07)(B0H08)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006075"},[]],["thesaurus",{"type":"10","code":"005846"},[]],["thesaurus",{"type":"10","code":"002685"},[]],["thesaurus",{"type":"10","code":"004673"},[]],["thesaurus",{"type":"10","code":"004669"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["thesaurus",{"type":"21","code":"L0064376"},[]],["thesaurus",{"type":"21","code":"L0064377"},[]],["mpr",{"catal":"1230","grp":"462","grp2":"06","maj":"20110723","numfich":"641710"},[["appl",{},["{(?1CXB)(DCL10)(DCK02)(B0H07)(B0H08)}"]],["sti",{"ident":"NL641701"},[]],["img",{"numfich":"d6417100","path":"/img/pr/00/d641/d6417100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006075","cote":"G","obsnfp":"NFP","ref":"95603852","refpg":"95 603 852"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006075","cote":"D","obsnfp":"NFP","ref":"95603853","refpg":"95 603 853"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005846","obsnfp":"NFP","ref":"95639000","refpg":"95 639 000"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002685","cote":"D","obsnfp":"NFP","ref":"96118615","refpg":"96 118 615"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,05110,,)/}"]],["obsligne",{"ident":"L0064376"},[]]]],["descomp",{},[["lib",{"langue":"01"},["111X129 EP 13"]]]]]],["pr",{"codesi":"002685","cote":"G","obsnfp":"NFP","ref":"96118616","refpg":"96 118 616"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,05110,,)/}"]],["obsligne",{"ident":"L0064377"},[]]]],["descomp",{},[["lib",{"langue":"01"},["111X129 EP 13"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004673","obsnfp":"NFP","ref":"95586683","refpg":"95 586 683"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["2,5X45-10"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004669","obsnfp":"NFP","ref":"95586684","refpg":"95 586 684"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["2,6X5,5-0,8"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"004651","ref":"7903232016","refpg":"79 03 232 016"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-5,5"]]]]]]]]]]]]}

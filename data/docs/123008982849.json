@@ -1,18 +1,1 @@
-{
- "ref": "123008982849",
- "refDisplay": "1230 08 982849",
- "title": "PANNEAUX DE PORTE AVANT",
- "nature": "",
- "applicability": " JUSQU’A OPR 05929",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0135"
-  }
- ]
-}
+{"ref":"123008982849","refDisplay":"1230 08 982849","title":"PANNEAUX DE PORTE AVANT","nature":"","applicability":" JUSQU’A OPR 05929","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0135"}],"kind":"pr","appl":"{(?1CXB)/($,,1,05929)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"004588"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"354","grp2":"08","maj":"20110723","numfich":"982849"},[["appl",{},["{(?1CXB)/($,,1,05929)/}"]],["sti",{"ident":"NL982801"},[]],["enssup",{},[["refd",{},["JERSEY UNI"]]]],["img",{"numfich":"d9828490","path":"/img/pr/90/d982/d9828490.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004588","cote":"G","obsnfp":"NFP","ref":"96109547TL","refpg":"96 109 547 TL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0J4E)}"]]]]]],["pr",{"codesi":"004588","cote":"D","obsnfp":"NFP","ref":"96109545TL","refpg":"96 109 545 TL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0J4E)}"]]]]]]]]]]]]}

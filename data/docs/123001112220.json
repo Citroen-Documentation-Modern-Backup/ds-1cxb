@@ -1,18 +1,1 @@
-{
- "ref": "123001112220",
- "refDisplay": "1230 01 112220",
- "title": "COUVRE CULASSE",
- "nature": "",
- "applicability": "ESSENCE ET 1,580L ET 1,905L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0006"
-  }
- ]
-}
+{"ref":"123001112220","refDisplay":"1230 01 112220","title":"COUVRE CULASSE","nature":"","applicability":"ESSENCE ET 1,580L ET 1,905L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0006"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F158)(%B0F190)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000217"},[]],["thesaurus",{"type":"10","code":"000415"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"005670"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["mpr",{"catal":"1230","grp":"11","grp2":"01","maj":"20110723","numfich":"112220"},[["appl",{},["{(?1CXB)(DCD10)(%B0F158)(%B0F190)}"]],["sti",{"ident":"NL112201"},[]],["img",{"numfich":"d1122200","path":"/img/pr/00/d112/d1122200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000217","obsnfp":"NFP","ref":"0000024895","refpg":"0248 95"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000415","ref":"0000024948","refpg":"0249 48"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004675","ref":"0000691792","refpg":"6917 92"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($,,1,04009)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]],["pr",{"codesi":"005670","ref":"0000025017","refpg":"0250 17"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,04010,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X100-12-20"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004667","ref":"0000694777","refpg":"6947 77"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X12-1,2"]]]]]]]]]]]]}

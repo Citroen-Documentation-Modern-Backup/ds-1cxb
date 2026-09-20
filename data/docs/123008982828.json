@@ -1,18 +1,1 @@
-{
- "ref": "123008982828",
- "refDisplay": "1230 08 982828",
- "title": "PANNEAUX DE PORTE AVANT",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0135"
-  }
- ]
-}
+{"ref":"123008982828","refDisplay":"1230 08 982828","title":"PANNEAUX DE PORTE AVANT","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0135"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004588"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"354","grp2":"08","maj":"20110723","numfich":"982828"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL982801"},[]],["enssup",{},[["refd",{},["JERSEY TWEED TRAVERS"]]]],["img",{"numfich":"d9828280","path":"/img/pr/80/d982/d9828280.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004588","cote":"G","obsnfp":"NFP","ref":"96020903MA","refpg":"96 020 903 MA"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TG)/($,,1,05618)/}"]]]]]],["pr",{"codesi":"004588","cote":"G","obsnfp":"NFP","ref":"96020903VV","refpg":"96 020 903 VV"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TG)/($,,1,05655)/}"]]]]]],["pr",{"codesi":"004588","cote":"G","obsnfp":"NFP","ref":"96020903XX","refpg":"96 020 903 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TG)/($1,05656,,)/}"]]]]]],["pr",{"codesi":"004588","cote":"D","obsnfp":"NFP","ref":"96020902MA","refpg":"96 020 902 MA"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TG)/($,,1,05618)/}"]]]]]],["pr",{"codesi":"004588","cote":"D","obsnfp":"NFP","ref":"96020902VV","refpg":"96 020 902 VV"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TG)/($,,1,05655)/}"]]]]]],["pr",{"codesi":"004588","cote":"D","obsnfp":"NFP","ref":"96020902XX","refpg":"96 020 902 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TG)/($1,05656,,)/}"]]]]]]]]]]]]}

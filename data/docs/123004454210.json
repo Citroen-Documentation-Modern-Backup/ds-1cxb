@@ -1,18 +1,1 @@
-{
- "ref": "123004454210",
- "refDisplay": "1230 04 454210",
- "title": "FREIN - BLOC HYDRAULIQUE",
- "nature": "",
- "applicability": "ANTI-BLOCAGE ROUE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0340"
-  }
- ]
-}
+{"ref":"123004454210","refDisplay":"1230 04 454210","title":"FREIN - BLOC HYDRAULIQUE","nature":"","applicability":"ANTI-BLOCAGE ROUE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0340"}],"kind":"pr","appl":"{(?1CXB)(DAF01)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005357"},[]],["thesaurus",{"type":"10","code":"000275"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"004656"},[]],["mpr",{"catal":"1230","grp":"251","grp2":"04","maj":"20110723","numfich":"454210"},[["appl",{},["{(?1CXB)(DAF01)}"]],["sti",{"ident":"NL454201"},[]],["img",{"numfich":"d4542100","path":"/img/pr/00/d454/d4542100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005357","obsnfp":"NFP","ref":"95634507","refpg":"95 634 507"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["REP VIOLET"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000275","obsnfp":"NFP","ref":"95650901","refpg":"95 650 901"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"008006","ref":"0000692276","refpg":"6922 76"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-30"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006922F0","refpg":"6922 F0"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004656","ref":"0000694194","refpg":"6941 94"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125"]]]]]]]]]]]]}

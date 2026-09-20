@@ -1,18 +1,1 @@
-{
- "ref": "123001112245",
- "refDisplay": "1230 01 112245",
- "title": "COUVRE CULASSE",
- "nature": "",
- "applicability": "GAZOLE ET 1,769L ET TURBO",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0006"
-  }
- ]
-}
+{"ref":"123001112245","refDisplay":"1230 01 112245","title":"COUVRE CULASSE","nature":"","applicability":"GAZOLE ET 1,769L ET TURBO","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0006"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(%B0F17)(DAZ09)}","tree":["document",{},[["thesaurus",{"type":"7","code":"A005-"},[]],["thesaurus",{"type":"10","code":"000217"},[]],["thesaurus",{"type":"10","code":"000415"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"005282"},[]],["mpr",{"catal":"1230","grp":"11","grp2":"01","maj":"20110723","numfich":"112245"},[["appl",{},["{(?1CXB)(DCD06)(%B0F17)(DAZ09)}"]],["sti",{"ident":"NL112201"},[]],["img",{"numfich":"d1122450","path":"/img/pr/50/d112/d1122450.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000217","ref":"0000024898","refpg":"0248 98"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000415","ref":"0000024991","refpg":"0249 91"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"008006","ref":"00006922C7","refpg":"6922 C7"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-30"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"005282","ref":"0000025317","refpg":"0253 17"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]],["complpr",{"matiere":"A005-"},[]]]]]]]]]]]]}

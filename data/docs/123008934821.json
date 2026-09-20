@@ -1,18 +1,1 @@
-{
- "ref": "123008934821",
- "refDisplay": "1230 08 934821",
- "title": "BANQUETTE ARRIERE - GARNITURES",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0231"
-  }
- ]
-}
+{"ref":"123008934821","refDisplay":"1230 08 934821","title":"BANQUETTE ARRIERE - GARNITURES","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0231"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004379"},[]],["mpr",{"catal":"1230","grp":"437","grp2":"08","maj":"20110723","numfich":"934821"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL934801"},[]],["enssup",{},[["refd",{},["DOSSIER"]]]],["repere",{"rep":"01"},[["pr",{"codesi":"004379","obsnfp":"NFP","ref":"96032713VR","refpg":"96 032 713 VR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,04131,,)/}"]]]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"004379","obsnfp":"NFP","ref":"95634360TL","refpg":"95 634 360 TL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H01)/($1,04377,,)/}"]]]]]]]]]]]]}

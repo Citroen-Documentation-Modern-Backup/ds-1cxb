@@ -1,18 +1,1 @@
-{
- "ref": "123008982852",
- "refDisplay": "1230 08 982852",
- "title": "PANNEAUX DE PORTE AVANT",
- "nature": "",
- "applicability": "BREAK 5PTES ET COTTAGE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0135"
-  }
- ]
-}
+{"ref":"123008982852","refDisplay":"1230 08 982852","title":"PANNEAUX DE PORTE AVANT","nature":"","applicability":"BREAK 5PTES ET COTTAGE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0135"}],"kind":"pr","appl":"{(?1CXB)(B0DC5)(%B0J1H)}","tree":["document",{},[["thesaurus",{"type":"7","code":"T080-"},[]],["thesaurus",{"type":"6","code":"FTR-"},[]],["thesaurus",{"type":"10","code":"004588"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"354","grp2":"08","maj":"20110723","numfich":"982852"},[["appl",{},["{(?1CXB)(B0DC5)(%B0J1H)}"]],["sti",{"ident":"NL982801"},[]],["enssup",{},[["refd",{},["TISSU PRACTICE"]]]],["img",{"numfich":"d9828520","path":"/img/pr/20/d982/d9828520.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004588","cote":"G","obsnfp":"NFP","ref":"00009391QA","refpg":"9391 QA"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,05901,,)/}"]],["complpr",{"couleur":"FTR-","matiere":"T080-"},[]]]]]],["pr",{"codesi":"004588","cote":"D","obsnfp":"NFP","ref":"00009391QC","refpg":"9391 QC"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,05901,,)/}"]],["complpr",{"couleur":"FTR-","matiere":"T080-"},[]]]]]]]]]]]]}

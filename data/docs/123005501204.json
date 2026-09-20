@@ -1,18 +1,1 @@
-{
- "ref": "123005501204",
- "refDisplay": "1230 05 501204",
- "title": "FAISCEAU MOTEUR",
- "nature": "",
- "applicability": "(XT) EXPORT ET 1,360L ET INJ MONOPOINT DEPUIS OPR 04193",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"123005501204","refDisplay":"1230 05 501204","title":"FAISCEAU MOTEUR","nature":"","applicability":"(XT) EXPORT ET 1,360L ET INJ MONOPOINT DEPUIS OPR 04193","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CXB)(%B0HXT)(%B0F136)(%DAZ07)/($1,04193,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"003753"},[]],["thesaurus",{"type":"21","code":"L0058639"},[]],["thesaurus",{"type":"21","code":"L0058640"},[]],["mpr",{"catal":"1230","grp":"514","grp2":"05","maj":"20110723","numfich":"501204"},[["appl",{},["{(?1CXB)(%B0HXT)(%B0F136)(%DAZ07)/($1,04193,,)/}"]],["sti",{"ident":"NL501201"},[]],["img",{"numfich":"00059116","path":"/img/pr/16/0005/00059116.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96082018","refpg":"96 082 018"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0058639"},[]]]]]],["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96109741","refpg":"96 109 741"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,05440,,)/}"]],["obsligne",{"ident":"L0058640"},[]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"58, 102, 11","shape":"circle"},[]]]]]]]]]]}

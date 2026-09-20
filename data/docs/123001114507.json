@@ -1,18 +1,1 @@
-{
- "ref": "123001114507",
- "refDisplay": "1230 01 114507",
- "title": "CAPOTAGE DE DISTRIBUTION",
- "nature": "",
- "applicability": "ESSENCE ET 1,360L ET CARTER CYLINDRE FONTE DEPUIS OPR 05440",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0007"
-  }
- ]
-}
+{"ref":"123001114507","refDisplay":"1230 01 114507","title":"CAPOTAGE DE DISTRIBUTION","nature":"","applicability":"ESSENCE ET 1,360L ET CARTER CYLINDRE FONTE DEPUIS OPR 05440","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0007"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F136)(%CARTCF)/($1,05440,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000150"},[]],["thesaurus",{"type":"10","code":"008579"},[]],["thesaurus",{"type":"10","code":"005670"},[]],["thesaurus",{"type":"21","code":"L0045612"},[]],["mpr",{"catal":"1230","grp":"14","grp2":"01","maj":"20110723","numfich":"114507"},[["appl",{},["{(?1CXB)(DCD10)(%B0F136)(%CARTCF)/($1,05440,,)/}"]],["sti",{"ident":"NL114501"},[]],["img",{"numfich":"d1145070","path":"/img/pr/70/d114/d1145070.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000150","ref":"0000032080","refpg":"0320 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000150","ref":"00000320A7","refpg":"0320 A7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]],["prremp",{"coef":"01","palges":"P","ref":"00000320L3","refpg":"0320 L3"},[]],["prremp",{"coef":"01","ref":"00000320L9","refpg":"0320 L9"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000150","ref":"00000320L3","refpg":"0320 L3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0045612"},[]]]],["descomp",{},[["lib",{"langue":"01"},["SUP"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"008579","ref":"0000032427","refpg":"0324 27"},[["pmont",{"coef":"07"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-12"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005670","ref":"0000032438","refpg":"0324 38"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

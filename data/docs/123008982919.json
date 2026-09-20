@@ -1,18 +1,1 @@
-{
- "ref": "123008982919",
- "refDisplay": "1230 08 982919",
- "title": "PANNEAUX DE PORTE ARRIERE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0141"
-  }
- ]
-}
+{"ref":"123008982919","refDisplay":"1230 08 982919","title":"PANNEAUX DE PORTE ARRIERE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0141"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004258"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"363","grp2":"08","maj":"20110723","numfich":"982919"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL982901"},[]],["enssup",{},[["refd",{},["TISSU EPICEA"]]]],["img",{"numfich":"d9829190","path":"/img/pr/90/d982/d9829190.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004258","cote":"G","obsnfp":"NFP","ref":"96032128LE","refpg":"96 032 128 LE"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%R)/($1,04131,1,04982)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%T)/($1,05348,1,05618)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TG)/($1,04620,1,05618)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%4X4)(@BL)/($1,04620,1,05618)/}"]]]]]],["pr",{"codesi":"004258","cote":"G","obsnfp":"NFP","ref":"96032128VR","refpg":"96 032 128 VR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%R)/($1,04131,1,04982)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%T)/($1,05348,1,05655)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TG)/($1,04620,1,05655)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%4X4)(@BL)/($1,04620,1,05655)/}"]]]]]],["pr",{"codesi":"004258","cote":"G","obsnfp":"NFP","ref":"96032128XX","refpg":"96 032 128 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%T)/($1,05656,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TG)/($1,05656,,)/}"]]]]]],["pr",{"codesi":"004258","cote":"D","obsnfp":"NFP","ref":"96032127LE","refpg":"96 032 127 LE"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%R)/($1,04131,1,04982)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%T)/($1,05348,1,05618)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TG)/($1,04620,1,05618)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%4X4)(@BL)/($1,04620,1,05618)/}"]]]]]],["pr",{"codesi":"004258","cote":"D","obsnfp":"NFP","ref":"96032127VR","refpg":"96 032 127 VR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%R)/($1,04131,1,04982)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%T)/($1,05348,1,05655)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TG)/($1,04620,1,05655)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%4X4)(@BL)/($1,04620,1,05655)/}"]]]]]],["pr",{"codesi":"004258","cote":"D","obsnfp":"NFP","ref":"96032127XX","refpg":"96 032 127 XX"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%T)/($1,05656,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TG)/($1,05656,,)/}"]]]]]]]]]]]]}

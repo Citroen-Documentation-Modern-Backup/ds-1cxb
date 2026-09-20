@@ -1,18 +1,1 @@
-{
- "ref": "123008982952",
- "refDisplay": "1230 08 982952",
- "title": "PANNEAUX DE PORTE ARRIERE",
- "nature": "",
- "applicability": "BREAK 5PTES ET COTTAGE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0141"
-  }
- ]
-}
+{"ref":"123008982952","refDisplay":"1230 08 982952","title":"PANNEAUX DE PORTE ARRIERE","nature":"","applicability":"BREAK 5PTES ET COTTAGE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0141"}],"kind":"pr","appl":"{(?1CXB)(B0DC5)(%B0J1H)}","tree":["document",{},[["thesaurus",{"type":"7","code":"T080-"},[]],["thesaurus",{"type":"6","code":"FTR-"},[]],["thesaurus",{"type":"10","code":"004258"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"363","grp2":"08","maj":"20110723","numfich":"982952"},[["appl",{},["{(?1CXB)(B0DC5)(%B0J1H)}"]],["sti",{"ident":"NL982901"},[]],["enssup",{},[["refd",{},["TISSU PRACTICE"]]]],["img",{"numfich":"d9829520","path":"/img/pr/20/d982/d9829520.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004258","cote":"G","obsnfp":"NFP","ref":"00009398YS","refpg":"9398 YS"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,05901,,)/}"]],["complpr",{"couleur":"FTR-","matiere":"T080-"},[]]]]]],["pr",{"codesi":"004258","cote":"D","obsnfp":"NFP","ref":"00009398YT","refpg":"9398 YT"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,05901,,)/}"]],["complpr",{"couleur":"FTR-","matiere":"T080-"},[]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "123002146001",
- "refDisplay": "1230 02 146001",
- "title": "DISPOSITIF DE DOSAGE",
- "nature": "",
- "applicability": "(CH) SUISSE ET (A) AUTRICHE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"123002146001","refDisplay":"1230 02 146001","title":"DISPOSITIF DE DOSAGE","nature":"","applicability":"(CH) SUISSE ET (A) AUTRICHE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CXB)(B0H05)(B0H06)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005267"},[]],["thesaurus",{"type":"10","code":"005327"},[]],["thesaurus",{"type":"10","code":"007290"},[]],["thesaurus",{"type":"10","code":"016934"},[]],["thesaurus",{"type":"10","code":"010757"},[]],["mpr",{"catal":"1230","grp":"35","grp2":"02","maj":"20110723","numfich":"146001"},[["appl",{},["{(?1CXB)(B0H05)(B0H06)}"]],["sti",{"ident":"NL146001"},[]],["enssup",{},[["fourn",{},["18770B"]]]],["img",{"numfich":"d1433100","path":"/img/pr/00/d143/d1433100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005267","obsnfp":"NFP","ref":"00001628E5","refpg":"1628 E5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F136)}"]],["reffour",{},[["four",{},["18770B"]]]]]],["descomp",{},[["lib",{"langue":"01"},["18155001"]]]]]],["pr",{"codesi":"005267","obsnfp":"NFP","ref":"96012626","refpg":"96 012 626"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F158)/($1,03887,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["18222001"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005327","obsnfp":"NFP","ref":"95637271","refpg":"95 637 271"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F136)(%B0F158)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"007290","obsnfp":"NFP","ref":"0000153834","refpg":"1538 34"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F136)(%B0F158)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"016934","ref":"00006992G2","refpg":"6992 G2"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)(%B0F136)(%B0F158)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,2"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"010757","ref":"0000691091","refpg":"6910 91"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)(%B0F136)(%B0F158)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,2-13"]]]]]]]]]]]]}

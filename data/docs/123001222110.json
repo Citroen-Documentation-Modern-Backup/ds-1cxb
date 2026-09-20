@@ -1,18 +1,1 @@
-{
- "ref": "123001222110",
- "refDisplay": "1230 01 222110",
- "title": "POMPE A HUILE-CARTOUCHE FILTRANTE",
- "nature": "",
- "applicability": "ESSENCE ET 1,124L ET 1,360L JUSQU’A OPR 04192",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0008"
-  }
- ]
-}
+{"ref":"123001222110","refDisplay":"1230 01 222110","title":"POMPE A HUILE-CARTOUCHE FILTRANTE","nature":"","applicability":"ESSENCE ET 1,124L ET 1,360L JUSQU’A OPR 04192","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0008"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F11)(%B0F136)/($,,1,04192)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000823"},[]],["thesaurus",{"type":"10","code":"000160"},[]],["thesaurus",{"type":"10","code":"014171"},[]],["thesaurus",{"type":"10","code":"005705"},[]],["thesaurus",{"type":"10","code":"000797"},[]],["thesaurus",{"type":"10","code":"000233"},[]],["thesaurus",{"type":"10","code":"004659"},[]],["thesaurus",{"type":"10","code":"004669"},[]],["mpr",{"catal":"1230","grp":"17 18","grp2":"01","maj":"20110723","numfich":"222110"},[["appl",{},["{(?1CXB)(DCD10)(%B0F11)(%B0F136)/($,,1,04192)/}"]],["sti",{"ident":"NL222101"},[]],["img",{"numfich":"d2221100","path":"/img/pr/00/d222/d2221100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000823","obsnfp":"NFP","ref":"0000100139","refpg":"1001 39"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000160","obsnfp":"NFP","ref":"95638829","refpg":"95 638 829"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1POS LS 498 C"]]]]]],["pr",{"codesi":"000160","obsnfp":"NFP","ref":"95637804","refpg":"95 637 804"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["41845H"]]]]]],["descomp",{},[["lib",{"langue":"01"},["2POS"]]]]]],["pr",{"codesi":"014171","ref":"E149004","refpg":"E149004","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005705","ref":"0000254120","refpg":"2541 20"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 15X21-3"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000797","ref":"0000113313","refpg":"1133 13"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 16X25"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"000233","obsnfp":"NFP","ref":"0000115806","refpg":"1158 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"004659","ref":"0000696852","refpg":"6968 52"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X17,5"]]]]]]]],["repere",{"rep":"14"},[["pr",{"codesi":"004669","ref":"0000695527","refpg":"6955 27"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X12,5-0,7"]]]]]]]]]]]]}

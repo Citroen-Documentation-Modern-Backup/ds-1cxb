@@ -1,18 +1,1 @@
-{
- "ref": "123001172211",
- "refDisplay": "1230 01 172211",
- "title": "TURBO-COMPRESSEUR - CIRCUIT D’HUILE",
- "nature": "",
- "applicability": "GAZOLE ET 1,769L ET TURBO DEPUIS OPR 05440",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0014"
-  }
- ]
-}
+{"ref":"123001172211","refDisplay":"1230 01 172211","title":"TURBO-COMPRESSEUR - CIRCUIT D’HUILE","nature":"","applicability":"GAZOLE ET 1,769L ET TURBO DEPUIS OPR 05440","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0014"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(%B0F17)(DAZ09)/($1,05440,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000603"},[]],["thesaurus",{"type":"10","code":"000581"},[]],["thesaurus",{"type":"10","code":"006727"},[]],["thesaurus",{"type":"10","code":"000690"},[]],["thesaurus",{"type":"10","code":"000783"},[]],["thesaurus",{"type":"10","code":"006200"},[]],["thesaurus",{"type":"10","code":"004681"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["thesaurus",{"type":"10","code":"004682"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"21","code":"L0047801"},[]],["mpr",{"catal":"1230","grp":"57","grp2":"01","maj":"20110723","numfich":"172211"},[["appl",{},["{(?1CXB)(DCD06)(%B0F17)(DAZ09)/($1,05440,,)/}"]],["sti",{"ident":"NL172201"},[]],["img",{"numfich":"d1722110","path":"/img/pr/10/d172/d1722110.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000603","ref":"0000116426","refpg":"1164 26"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0047801"},[]]]],["descomp",{},[["lib",{"langue":"01"},["6X8-M16X150"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000581","obsnfp":"NFP","ref":"0000037910","refpg":"0379 10"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"006727","ref":"0000038013","refpg":"0380 13"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 15X24-42"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000690","obsnfp":"NFP","ref":"0000038107","refpg":"0381 07"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000783","obsnfp":"NFP","ref":"0000116721","refpg":"1167 21"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"000783","obsnfp":"NFP","ref":"0000116717","refpg":"1167 17"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"006200","obsnfp":"NFP","ref":"0000116716","refpg":"1167 16"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"30"},[["pr",{"codesi":"004681","obsnfp":"NFP","ref":"0000692499","refpg":"6924 99"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,8-13"]]]]]]]],["repere",{"rep":"31"},[["pr",{"codesi":"004650","ref":"00006981N2","refpg":"6981 N2"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 12 A 22 LARG 9"]]]]]]]],["repere",{"rep":"32"},[["pr",{"codesi":"004682","ref":"0000422822","refpg":"4228 22"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-20"]]]]]]]],["repere",{"rep":"33"},[["pr",{"codesi":"008588","ref":"0000696213","refpg":"6962 13"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X17-0,8"]]]]]]]]]]]]}

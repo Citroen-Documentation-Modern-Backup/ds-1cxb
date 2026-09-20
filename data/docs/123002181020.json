@@ -1,18 +1,1 @@
-{
- "ref": "123002181020",
- "refDisplay": "1230 02 181020",
- "title": "TUBULURE D’ECHAPPEMENT",
- "nature": "",
- "applicability": "GAZOLE ET 1,769L ET TURBO",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0011"
-  }
- ]
-}
+{"ref":"123002181020","refDisplay":"1230 02 181020","title":"TUBULURE D’ECHAPPEMENT","nature":"","applicability":"GAZOLE ET 1,769L ET TURBO","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0011"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(%B0F17)(DAZ09)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000181"},[]],["thesaurus",{"type":"10","code":"000412"},[]],["thesaurus",{"type":"10","code":"000390"},[]],["thesaurus",{"type":"10","code":"000308"},[]],["thesaurus",{"type":"10","code":"004660"},[]],["thesaurus",{"type":"10","code":"004669"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["thesaurus",{"type":"21","code":"L0053988"},[]],["mpr",{"catal":"1230","grp":"49","grp2":"02","maj":"20110723","numfich":"181020"},[["appl",{},["{(?1CXB)(DCD06)(%B0F17)(DAZ09)}"]],["sti",{"ident":"NL181001"},[]],["img",{"numfich":"d1810200","path":"/img/pr/00/d181/d1810200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000181","obsnfp":"NFP","ref":"0000034157","refpg":"0341 57"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,05048,,)/}"]],["obsligne",{"ident":"L0053988"},[]]]],["reporg",{},[["monte",{},["D8A"]],["monte",{},["DHY"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000412","obsnfp":"NFP","ref":"0000034889","refpg":"0348 89"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($,,1,05047)/}"]]]]]],["pr",{"codesi":"000390","ref":"00000348J0","refpg":"0348 J0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,05048,,)/}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000308","ref":"0000035307","refpg":"0353 07"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X16-40"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004660","obsnfp":"NFP","ref":"7903027335","refpg":"79 03 027 335"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($,,1,04891)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-81"]]]]]],["pr",{"codesi":"004660","ref":"0000693092","refpg":"6930 92"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CXB)/($1,04892,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-70"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004669","ref":"0000696266","refpg":"6962 66"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X18-1,4"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"006142","ref":"0000693651","refpg":"6936 51"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-8-13"]]]]]]]]]]]]}

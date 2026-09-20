@@ -1,18 +1,1 @@
-{
- "ref": "123006182224",
- "refDisplay": "1230 06 182224",
- "title": "ECHAPPEMENT POT DE DETENTE SILENCIEUX",
- "nature": "",
- "applicability": "1,905L ET 4X4",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0011"
-  }
- ]
-}
+{"ref":"123006182224","refDisplay":"1230 06 182224","title":"ECHAPPEMENT POT DE DETENTE SILENCIEUX","nature":"","applicability":"1,905L ET 4X4","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0011"}],"kind":"pr","appl":"{(?1CXB)(%B0F190)(%4X4)}","tree":["document",{},[["thesaurus",{"type":"7","code":"C001-"},[]],["thesaurus",{"type":"10","code":"000833"},[]],["thesaurus",{"type":"10","code":"000623"},[]],["thesaurus",{"type":"10","code":"006789"},[]],["thesaurus",{"type":"10","code":"000662"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"006028"},[]],["mpr",{"catal":"1230","grp":"50","grp2":"06","maj":"20110723","numfich":"182224"},[["appl",{},["{(?1CXB)(%B0F190)(%4X4)}"]],["sti",{"ident":"NL182201"},[]],["img",{"numfich":"d1822240","path":"/img/pr/40/d182/d1822240.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000833","obsnfp":"NFP","ref":"96008321","refpg":"96 008 321"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ08)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ04)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%DAZ07)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000623","obsnfp":"NFP","ref":"96061589","refpg":"96 061 589"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BL)(DAZ08)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ04)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%DAZ07)}"]]]]]],["pr",{"codesi":"000623","obsnfp":"NFP","ref":"96061590","refpg":"96 061 590"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)(DAZ08)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%DAZ07)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ04)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"006789","ref":"0000171356","refpg":"1713 56"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000662","obsnfp":"NFP","ref":"96048340","refpg":"96 048 340"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000662","ref":"0000175559","refpg":"1755 59"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]],["complpr",{"matiere":"C001-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["LARG 38"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"004675","ref":"0000693304","refpg":"6933 04"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-50"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"006028","ref":"0000693680","refpg":"6936 80"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-9,7-13"]]]]]]]]]]]]}

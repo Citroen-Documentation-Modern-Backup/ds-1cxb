@@ -1,18 +1,1 @@
-{
- "ref": "123001330045",
- "refDisplay": "1230 01 330045",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "GAZOLE ET TURBO ET 1,769L JUSQU’A OPR 04529",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"123001330045","refDisplay":"1230 01 330045","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"GAZOLE ET TURBO ET 1,769L JUSQU’A OPR 04529","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(DAZ09)(%B0F17)/($,,1,04529)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000047"},[]],["thesaurus",{"type":"10","code":"000046"},[]],["mpr",{"catal":"1230","grp":"67","grp2":"01","maj":"20110723","numfich":"330045"},[["appl",{},["{(?1CXB)(DCD06)(DAZ09)(%B0F17)/($,,1,04529)/}"]],["sti",{"ident":"NL330001"},[]],["img",{"numfich":"d3300450","path":"/img/pr/50/d330/d3300450.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000047","obsnfp":"NFP","ref":"9451002680","refpg":"94 510 026 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["C16X63 REP BN49"]]]],["reporg",{},[["monte",{},["(BN49)"]],["monte",{},[" BN49"]]]]]],["pr",{"codesi":"000046","obsnfp":"NFP","ref":"95650900","refpg":"95 650 900"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["C16X63 REP 2BND9"]]]],["reporg",{},[["monte",{},[" BN49"]]]]]]]]]]]]}

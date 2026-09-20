@@ -1,18 +1,1 @@
-{
- "ref": "123001330021A",
- "refDisplay": "1230 01 330021A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "ESSENCE ET 1,580L ET BVM DEPUIS OPR 04530",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"123001330021A","refDisplay":"1230 01 330021A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"ESSENCE ET 1,580L ET BVM DEPUIS OPR 04530","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F158)(@BVM)/($1,04530,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000047"},[]],["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"000048"},[]],["thesaurus",{"type":"10","code":"009391"},[]],["thesaurus",{"type":"22","code":"P0000141"},[]],["thesaurus",{"type":"21","code":"L0048412"},[]],["mpr",{"catal":"1230","grp":"67","grp2":"01","maj":"20110723","numfich":"330021A"},[["appl",{},["{(?1CXB)(DCD10)(%B0F158)(@BVM)/($1,04530,,)/}"]],["sti",{"ident":"NL330001"},[]],["obspage",{"ident":"P0000141"},[]],["img",{"numfich":"d330021a","path":"/img/pr/1a/d330/d330021a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000047","obsnfp":"NFP","ref":"9451066680","refpg":"94 510 666 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ08)/($,,1,04981)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ04)/($,,1,04981)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 14X62"]]]],["reporg",{},[["monte",{},["2CJ31"]]]]]],["pr",{"codesi":"009390","obsnfp":"NFP","ref":"9455905780","refpg":"94 559 057 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ04)/($,,1,05688)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 16X63"]]]],["reporg",{},[["monte",{},["(CL2C)"]],["monte",{},["CL23"]],["monte",{},["CJ38"]]]]]],["pr",{"codesi":"009390","obsnfp":"NFP","ref":"9455906080","refpg":"94 559 060 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ08)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 16X63"]]]],["reporg",{},[["monte",{},["CL25"]],["monte",{},["(CL2E)"]]]]]],["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002205ST","refpg":"2205 ST"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ08)/($,,1,05795)/}"]],["obsligne",{"ident":"L0048412"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ04)/($,,1,05795)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X79"]]]],["reporg",{},[["monte",{},["CJ35"]],["monte",{},["(CLGN)"]],["monte",{},["CJ56"]],["monte",{},["CL21"]],["monte",{},["CJ34"]],["monte",{},["CL72"]]]]]],["pr",{"codesi":"000048","obsnfp":"NFP","ref":"95666877","refpg":"95 666 877"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ08)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 16X63"]]]],["reporg",{},[["monte",{},["(CLBE)"]],["monte",{},[" CJ46"]],["monte",{},[" CL25"]]]]]],["pr",{"codesi":"009391","obsnfp":"NFP","ref":"00002201ZR","refpg":"2201 ZR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ08)/($,,1,05795)/(~2)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ04)/($,,1,05795)/(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 19X79 OU 16X67"]]]],["reporg",{},[["monte",{},["CJ35"]],["monte",{},["(CLW2)"]],["monte",{},["(CLWN)"]],["monte",{},["(CLGB)"]],["monte",{},["CJ56"]],["monte",{},["CL21"]],["monte",{},["CJ34"]],["monte",{},["CL72"]]]]]]]]]]]]}

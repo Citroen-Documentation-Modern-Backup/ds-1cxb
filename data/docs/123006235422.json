@@ -1,18 +1,1 @@
-{
- "ref": "123006235422",
- "refDisplay": "1230 06 235422",
- "title": "CANALISATION D’EAU - FIXATION",
- "nature": "",
- "applicability": "GAZOLE ET 1,905L DEPUIS OPR 03796",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0009"
-  }
- ]
-}
+{"ref":"123006235422","refDisplay":"1230 06 235422","title":"CANALISATION D’EAU - FIXATION","nature":"","applicability":"GAZOLE ET 1,905L DEPUIS OPR 03796","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0009"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(%B0F190)/($1,03796,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"006350"},[]],["thesaurus",{"type":"10","code":"005435"},[]],["thesaurus",{"type":"10","code":"015290"},[]],["thesaurus",{"type":"10","code":"004777"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["thesaurus",{"type":"21","code":"L0063328"},[]],["mpr",{"catal":"1230","grp":"22","grp2":"06","maj":"20110723","numfich":"235422"},[["appl",{},["{(?1CXB)(DCD06)(%B0F190)/($1,03796,,)/}"]],["sti",{"ident":"NL235401"},[]],["img",{"numfich":"d2354220","path":"/img/pr/20/d235/d2354220.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006350","obsnfp":"NFP","ref":"95593181","refpg":"95 593 181"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005435","obsnfp":"NFP","ref":"95635035","refpg":"95 635 035"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"015290","ref":"0000699471","refpg":"6994 71"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0063328"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 16-18"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004777","obsnfp":"NFP","ref":"95586920","refpg":"95 586 920"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6,5X20EP7"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004650","ref":"00006981L0","refpg":"6981 L0"},[["pmont",{"coef":"16"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 25-47 LARG 9"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004650","ref":"00006981L1","refpg":"6981 L1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 30 A 50 LARG 9"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"004650","ref":"00006981N3","refpg":"6981 N3"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 20 A 35 LARG 9"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"004650","ref":"00006981N2","refpg":"6981 N2"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 12 A 22 LARG 9"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"008006","ref":"00006922H3","refpg":"6922 H3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-25"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"008006","ref":"0000503739","refpg":"5037 39"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-16"]]]]]]]],["repere",{"rep":"12"},[["pr",{"codesi":"008588","ref":"0000696213","refpg":"6962 13"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X17-0,8"]]]]]]]],["repere",{"rep":"13"},[["pr",{"codesi":"004651","ref":"7903232016","refpg":"79 03 232 016"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-5,5"]]]]]]]]]]]]}

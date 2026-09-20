@@ -1,18 +1,1 @@
-{
- "ref": "123005501803",
- "refDisplay": "1230 05 501803",
- "title": "FAISCEAU PLANCHE DE BORD ET CONSOLE",
- "nature": "",
- "applicability": "FINIT. TZ",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"123005501803","refDisplay":"1230 05 501803","title":"FAISCEAU PLANCHE DE BORD ET CONSOLE","nature":"","applicability":"FINIT. TZ","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CXB)(%TZ)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003742"},[]],["mpr",{"catal":"1230","grp":"503","grp2":"05","maj":"20110723","numfich":"501803"},[["appl",{},["{(?1CXB)(%TZ)}"]],["sti",{"ident":"NL501801"},[]],["img",{"numfich":"00059143","path":"/img/pr/43/0005/00059143.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96060844","refpg":"96 060 844"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%16TZI)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%16TZS)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TZD)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TZDTU)}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96060851","refpg":"96 060 851"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TZS)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TZI)}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96081551","refpg":"96 081 551"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TZI)(@BK)(%GT)}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96060852","refpg":"96 060 852"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)(%16TZI)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)(%16TZS)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)(%19TZI)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)(%19TZS)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)(%19TZD)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)(%TZDTU)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"240, 105, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96060846","refpg":"96 060 846"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)(%16TZE)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)(%16TZS)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)(%19TZD)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)(%TZDTU)}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96060853","refpg":"96 060 853"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TZS)(DCX02)}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96081569","refpg":"96 081 569"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TZI)(@BK)(%GT)(DCX02)}"]]]]]],["pr",{"codesi":"003742","obsnfp":"NFP","ref":"96060854","refpg":"96 060 854"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)(DCX02)(%16TZE)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)(DCX02)(%16TZS)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)(DCX02)(%19TZS)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)(DCX02)(%19TZD)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BK)(DCX02)(%TZDTU)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"266, 106, 11","shape":"circle"},[]]]]]]]]]]}

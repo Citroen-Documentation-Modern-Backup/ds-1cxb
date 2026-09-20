@@ -1,18 +1,1 @@
-{
- "ref": "123008922010A",
- "refDisplay": "1230 08 922010A",
- "title": "SIEGES AVANT - GARNITURES",
- "nature": "",
- "applicability": " DEPUIS OPR 03767",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0220"
-  }
- ]
-}
+{"ref":"123008922010A","refDisplay":"1230 08 922010A","title":"SIEGES AVANT - GARNITURES","nature":"","applicability":" DEPUIS OPR 03767","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0220"}],"kind":"pr","appl":"{(?1CXB)/($1,03767,,)/}","tree":["document",{},[["thesaurus",{"type":"7","code":"A008-"},[]],["thesaurus",{"type":"10","code":"004376"},[]],["thesaurus",{"type":"10","code":"006022"},[]],["thesaurus",{"type":"10","code":"004483"},[]],["thesaurus",{"type":"10","code":"006531"},[]],["thesaurus",{"type":"21","code":"L0066082"},[]],["thesaurus",{"type":"21","code":"L0066083"},[]],["mpr",{"catal":"1230","grp":"423","grp2":"08","maj":"20110723","numfich":"922010A"},[["appl",{},["{(?1CXB)/($1,03767,,)/}"]],["sti",{"ident":"NL922001"},[]],["enssup",{},[["refd",{},["DOSSIER"]]]],["repere",{"rep":"01"},[["pr",{"codesi":"004376","obsnfp":"NFP","ref":"96032674TR","refpg":"96 032 674 TR"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)/($1,04131,,)/}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"006022","obsnfp":"NFP","ref":"96031221","refpg":"96 031 221"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0066082"},[]],["complpr",{"matiere":"A008-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 3 L: 610"]]]]]],["pr",{"codesi":"004483","obsnfp":"NFP","ref":"96024265","refpg":"96 024 265"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0066083"},[]],["complpr",{"matiere":"A008-"},[]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM: 3 L: 468"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"006531","ref":"00008978Q5","refpg":"8978 Q5"},[["pmont",{"coef":"10"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 50 E2"]]]]]]]]]]]]}

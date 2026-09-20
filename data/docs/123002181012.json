@@ -1,18 +1,1 @@
-{
- "ref": "123002181012",
- "refDisplay": "1230 02 181012",
- "title": "TUBULURE D’ECHAPPEMENT",
- "nature": "",
- "applicability": "GTI 16S",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0011"
-  }
- ]
-}
+{"ref":"123002181012","refDisplay":"1230 02 181012","title":"TUBULURE D’ECHAPPEMENT","nature":"","applicability":"GTI 16S","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0011"}],"kind":"pr","appl":"{(?1CXB)(%GTI16S)}","tree":["document",{},[["thesaurus",{"type":"7","code":"A005-"},[]],["thesaurus",{"type":"10","code":"000181"},[]],["thesaurus",{"type":"10","code":"000390"},[]],["thesaurus",{"type":"10","code":"004660"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["mpr",{"catal":"1230","grp":"49","grp2":"02","maj":"20110723","numfich":"181012"},[["appl",{},["{(?1CXB)(%GTI16S)}"]],["sti",{"ident":"NL181001"},[]],["img",{"numfich":"d1810120","path":"/img/pr/20/d181/d1810120.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000181","obsnfp":"NFP","ref":"0000034137","refpg":"0341 37"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000390","ref":"00000349E8","refpg":"0349 E8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["complpr",{"matiere":"A005-"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004660","obsnfp":"NFP","ref":"0000035554","refpg":"0355 54"},[["pmont",{"coef":"09"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-30-12-20"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004667","ref":"0000694778","refpg":"6947 78"},[["pmont",{"coef":"09"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X16-1,5"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"006142","ref":"0000034122","refpg":"0341 22"},[["pmont",{"coef":"09"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-11-17,5"]]]]]]]]]]]]}

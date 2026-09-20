@@ -1,18 +1,1 @@
-{
- "ref": "123001330021",
- "refDisplay": "1230 01 330021",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "ESSENCE ET 1,580L ET BVM JUSQU’A OPR 04529",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"123001330021","refDisplay":"1230 01 330021","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"ESSENCE ET 1,580L ET BVM JUSQU’A OPR 04529","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F158)(@BVM)/($,,1,04529)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000047"},[]],["thesaurus",{"type":"10","code":"000046"},[]],["mpr",{"catal":"1230","grp":"67","grp2":"01","maj":"20110723","numfich":"330021"},[["appl",{},["{(?1CXB)(DCD10)(%B0F158)(@BVM)/($,,1,04529)/}"]],["sti",{"ident":"NL330001"},[]],["img",{"numfich":"d3300210","path":"/img/pr/10/d330/d3300210.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000047","obsnfp":"NFP","ref":"9451030380","refpg":"94 510 303 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 16X67"]]]],["reporg",{},[["monte",{},[" BL64"]],["monte",{},[" BP24"]],["monte",{},[" BN45"]],["monte",{},["(BP24)"]]]]]],["pr",{"codesi":"000046","obsnfp":"NFP","ref":"95655193","refpg":"95 655 193"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["C16X67 REP BPB4"]]]],["reporg",{},[["monte",{},[" BP24"]]]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"000047","obsnfp":"NFP","ref":"9451001642","refpg":"94 51 001 642"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ04)(B0H04)/($1,03732,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 14X62"]]]],["reporg",{},[["monte",{},["BN11"]],["monte",{},["BN42"]],["monte",{},["(BN42)"]]]]]],["pr",{"codesi":"000047","obsnfp":"NFP","ref":"9451041180","refpg":"94 510 411 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H01)(DAZ04)/($1,04253,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H10)(DAZ04)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 16X63 - CT 19X17"]]]],["reporg",{},[["monte",{},["(BP28)"]],["monte",{},["BP28"]]]]]]]]]]]]}

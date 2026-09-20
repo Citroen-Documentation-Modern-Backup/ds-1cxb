@@ -1,18 +1,1 @@
-{
- "ref": "123001241030",
- "refDisplay": "1230 01 241030",
- "title": "MOTOVENTILATEUR",
- "nature": "",
- "applicability": "GAZOLE ET 1,769L ET TURBO",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0009"
-  }
- ]
-}
+{"ref":"123001241030","refDisplay":"1230 01 241030","title":"MOTOVENTILATEUR","nature":"","applicability":"GAZOLE ET 1,769L ET TURBO","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0009"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(%B0F17)(DAZ09)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000889"},[]],["thesaurus",{"type":"10","code":"000667"},[]],["thesaurus",{"type":"10","code":"000363"},[]],["thesaurus",{"type":"10","code":"004777"},[]],["thesaurus",{"type":"10","code":"005955"},[]],["thesaurus",{"type":"10","code":"004662"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"006027"},[]],["thesaurus",{"type":"10","code":"004656"},[]],["mpr",{"catal":"1230","grp":"36","grp2":"01","maj":"20110723","numfich":"241030"},[["appl",{},["{(?1CXB)(DCD06)(%B0F17)(DAZ09)}"]],["sti",{"ident":"NL241001"},[]],["img",{"numfich":"d2410300","path":"/img/pr/00/d241/d2410300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000889","obsnfp":"NFP","ref":"96011668","refpg":"96 011 668"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["26843B02"]],["refa",{},["*"]]]]]],["descomp",{},[["lib",{"langue":"01"},["300 W"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000667","obsnfp":"NFP","ref":"95601821","refpg":"95 601 821"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["26843B02"]],["refa",{},["*"]]]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000363","obsnfp":"NFP","ref":"00001250C2","refpg":"1250 C2"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["26843B"]],["refa",{},["-"]]]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004777","ref":"0000038253","refpg":"0382 53"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000667","obsnfp":"NFP","ref":"95608293","refpg":"95 608 293"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000667","obsnfp":"NFP","ref":"95591751","refpg":"95 591 751"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"005955","ref":"95592530","refpg":"95 592 530"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 12 EXT 24"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"004662","ref":"00006981G9","refpg":"6981 G9"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 200 LARG 5"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006980A1","refpg":"6980 A1"},[]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"004675","ref":"0000692153","refpg":"6921 53"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-35"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"006027","obsnfp":"NFP","ref":"7903001894","refpg":"79 03 001 894"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X1,00-14"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"004656","ref":"0000694193","refpg":"6941 93"},[["pmont",{"coef":"05"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100"]]]]]]]]]]]]}

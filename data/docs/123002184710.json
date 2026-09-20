@@ -1,18 +1,1 @@
-{
- "ref": "123002184710",
- "refDisplay": "1230 02 184710",
- "title": "ANTI POLLUTION-CIRCUIT RGE",
- "nature": "",
- "applicability": "CARBURATEUR ET INJECTION ET 1,580L ET (CH) SUISSE ET (S) SUEDE JUSQU’A OPR 05100",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"123002184710","refDisplay":"1230 02 184710","title":"ANTI POLLUTION-CIRCUIT RGE","nature":"","applicability":"CARBURATEUR ET INJECTION ET 1,580L ET (CH) SUISSE ET (S) SUEDE JUSQU’A OPR 05100","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CXB)(DAZ08)(DAZ04)(%B0F158)(B0H05)(B0H09)/($,,1,05100)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000689"},[]],["thesaurus",{"type":"10","code":"004647"},[]],["thesaurus",{"type":"10","code":"004662"},[]],["mpr",{"catal":"1230","grp":"73 95","grp2":"02","maj":"20110723","numfich":"184710"},[["appl",{},["{(?1CXB)(DAZ08)(DAZ04)(%B0F158)(B0H05)(B0H09)/($,,1,05100)/}"]],["sti",{"ident":"NL184701"},[]],["img",{"numfich":"d1847100","path":"/img/pr/00/d184/d1847100.jpg","ext":"jpg"},[]],["repere",{"rep":"08"},[["pr",{"codesi":"000689","ref":"0000595306","refpg":"5953 06"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CL 3,5X8-5000"]]]]]]]],["repere",{"rep":"12"},[["pr",{"codesi":"004647","ref":"0000699173","refpg":"6991 73"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["2,5-4,5"]]]]]]]],["repere",{"rep":"13"},[["pr",{"codesi":"004662","ref":"0000698028","refpg":"6980 28"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 275 LARG 5"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006980A8","refpg":"6980 A8"},[]]]]]]]]]]}

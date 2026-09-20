@@ -1,18 +1,1 @@
-{
- "ref": "123005501701",
- "refDisplay": "1230 05 501701",
- "title": "FAISCEAU FREINS",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"123005501701","refDisplay":"1230 05 501701","title":"FAISCEAU FREINS","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006059"},[]],["thesaurus",{"type":"10","code":"005955"},[]],["mpr",{"catal":"1230","grp":"519","grp2":"05","maj":"20110723","numfich":"501701"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL501701"},[]],["img",{"numfich":"d5017010","path":"/img/pr/10/d501/d5017010.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006059","obsnfp":"NFP","ref":"95637364","refpg":"95 637 364"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["USURE FREINS"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005955","obsnfp":"NFP","ref":"21435009","refpg":"21 435 009"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AV DIAM 2,5"]]]]]]]]]]]]}

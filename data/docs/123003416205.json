@@ -1,18 +1,1 @@
-{
- "ref": "123003416205",
- "refDisplay": "1230 03 416205",
- "title": "ENJOLIVEURS DE ROUES",
- "nature": "",
- "applicability": "ESSENCE ET 1,124L ET (I) ITALIE ET (GR) GRECE ET 1,360L JUSQU’A OPR 04740",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0023"
-  }
- ]
-}
+{"ref":"123003416205","refDisplay":"1230 03 416205","title":"ENJOLIVEURS DE ROUES","nature":"","applicability":"ESSENCE ET 1,124L ET (I) ITALIE ET (GR) GRECE ET 1,360L JUSQU’A OPR 04740","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0023"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F11)(B0H01)(B0H38)(%B0F136)/($,,1,04740)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"002007"},[]],["thesaurus",{"type":"10","code":"002304"},[]],["mpr",{"catal":"1230","grp":"144","grp2":"03","maj":"20110723","numfich":"416205"},[["appl",{},["{(?1CXB)(DCD10)(%B0F11)(B0H01)(B0H38)(%B0F136)/($,,1,04740)/}"]],["sti",{"ident":"NL416201"},[]],["img",{"numfich":"d4162050","path":"/img/pr/50/d416/d4162050.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"002007","obsnfp":"NFP","ref":"95634284","refpg":"95 634 284"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)(%14RE)/($,,1,04467)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 347"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002007","obsnfp":"NFP","ref":"95624126","refpg":"95 624 126"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)(%14TGE)/($1,04468,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 390"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002304","obsnfp":"NFP","ref":"95612961","refpg":"95 612 961"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

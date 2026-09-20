@@ -1,18 +1,1 @@
-{
- "ref": "123007748020",
- "refDisplay": "1230 07 748020",
- "title": "PLANCHER DE CHARGE CLOISON DE SEPARATION",
- "nature": "",
- "applicability": "BREAK ENTREPRIS 3PTS",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0116"
-  }
- ]
-}
+{"ref":"123007748020","refDisplay":"1230 07 748020","title":"PLANCHER DE CHARGE CLOISON DE SEPARATION","nature":"","applicability":"BREAK ENTREPRIS 3PTS","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0116"}],"kind":"pr","appl":"{(?1CXB)(B0DCE)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005118"},[]],["thesaurus",{"type":"10","code":"005311"},[]],["thesaurus",{"type":"10","code":"002620"},[]],["thesaurus",{"type":"10","code":"005296"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"323","grp2":"07","maj":"20110723","numfich":"748020"},[["appl",{},["{(?1CXB)(B0DCE)}"]],["sti",{"ident":"NL748001"},[]],["img",{"numfich":"d7480200","path":"/img/pr/00/d748/d7480200.jpg","ext":"jpg"},[]],["repere",{"rep":"03"},[["pr",{"codesi":"005118","obsnfp":"NFP","ref":"95635482","refpg":"95 635 482"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005311","obsnfp":"NFP","ref":"95635488","refpg":"95 635 488"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002620","cote":"G","obsnfp":"NFP","ref":"95635484","refpg":"95 635 484"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["pr",{"codesi":"002620","cote":"D","obsnfp":"NFP","ref":"95635483","refpg":"95 635 483"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"005296","cote":"G","obsnfp":"NFP","ref":"95635490","refpg":"95 635 490"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["pr",{"codesi":"005296","cote":"D","obsnfp":"NFP","ref":"95635489","refpg":"95 635 489"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

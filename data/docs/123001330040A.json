@@ -1,18 +1,1 @@
-{
- "ref": "123001330040A",
- "refDisplay": "1230 01 330040A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "GTI 16S DEPUIS OPR 04530",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"123001330040A","refDisplay":"1230 01 330040A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"GTI 16S DEPUIS OPR 04530","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CXB)(%GTI16S)/($1,04530,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"10","code":"000048"},[]],["mpr",{"catal":"1230","grp":"67","grp2":"01","maj":"20110723","numfich":"330040A"},[["appl",{},["{(?1CXB)(%GTI16S)/($1,04530,,)/}"]],["sti",{"ident":"NL330001"},[]],["img",{"numfich":"d330040a","path":"/img/pr/0a/d330/d330040a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","obsnfp":"NFP","ref":"9455737980","refpg":"94 557 379 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 14X62"]]]],["reporg",{},[["monte",{},["CJ82"]],["monte",{},["(CJ8B)"]]]]]],["pr",{"codesi":"000048","obsnfp":"NFP","ref":"95666875","refpg":"95 666 875"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP14X62(CJD4)(CJH2)"]]]],["reporg",{},[["monte",{},[" CJ44"]],["monte",{},["(CJHB)"]],["monte",{},[" CJ82"]],["monte",{},[" CJH2"]],["monte",{},[" CJD4"]]]]]]]]]]]]}

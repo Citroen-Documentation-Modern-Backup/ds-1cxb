@@ -1,18 +1,1 @@
-{
- "ref": "123005501275",
- "refDisplay": "1230 05 501275",
- "title": "FAISCEAU MOTEUR",
- "nature": "",
- "applicability": "GTI 16S",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"123005501275","refDisplay":"1230 05 501275","title":"FAISCEAU MOTEUR","nature":"","applicability":"GTI 16S","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CXB)(%GTI16S)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003752"},[]],["mpr",{"catal":"1230","grp":"514","grp2":"05","maj":"20110723","numfich":"501275"},[["appl",{},["{(?1CXB)(%GTI16S)}"]],["sti",{"ident":"NL501201"},[]],["img",{"numfich":"d5012750","path":"/img/pr/50/d501/d5012750.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003752","obsnfp":"NFP","ref":"96031602","refpg":"96 031 602"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($,,1,04922)/[(DCL10)]}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCL10)}"]]]]]],["pr",{"codesi":"003752","obsnfp":"NFP","ref":"96103849","refpg":"96 103 849"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,04923,,)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,04923,,)/[(DCL10)]}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCL10)}"]]]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"003752","obsnfp":"NFP","ref":"96031889","refpg":"96 031 889"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%DDC02A)(B0H04)/($,,1,04922)/}"]]]]]],["pr",{"codesi":"003752","obsnfp":"NFP","ref":"96104394","refpg":"96 104 394"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%GTI16V)(%DDC02A)(B0H04)/($1,04923,,)/}"]]]]]]]]]]]]}

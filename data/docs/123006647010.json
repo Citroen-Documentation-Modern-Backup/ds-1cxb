@@ -1,18 +1,1 @@
-{
- "ref": "123006647010",
- "refDisplay": "1230 06 647010",
- "title": "CONDUIT D’AERATION",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0347"
-  }
- ]
-}
+{"ref":"123006647010","refDisplay":"1230 06 647010","title":"CONDUIT D’AERATION","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0347"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002514"},[]],["thesaurus",{"type":"10","code":"002519"},[]],["thesaurus",{"type":"10","code":"002452"},[]],["thesaurus",{"type":"10","code":"002687"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"469","grp2":"06","maj":"20110723","numfich":"647010"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL647001"},[]],["img",{"numfich":"00059371","path":"/img/pr/71/0005/00059371.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002514","obsnfp":"NFP","ref":"95574982","refpg":"95 574 982"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["pr",{"codesi":"002519","obsnfp":"NFP","ref":"96004022","refpg":"96 004 022"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%4X4)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"229, 417, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002514","cote":"G","obsnfp":"NFP","ref":"95631246","refpg":"95 631 246"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LAT"]]]]]],["pr",{"codesi":"002514","cote":"D","obsnfp":"NFP","ref":"95631245","refpg":"95 631 245"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LAT"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"49, 267, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002514","obsnfp":"NFP","ref":"95631224","refpg":"95 631 224"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CENT"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"414, 280, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"002452","obsnfp":"NFP","ref":"95603489","refpg":"95 603 489"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"214, 79, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002687","obsnfp":"NFP","ref":"95562921","refpg":"95 562 921"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"342, 172, 11","shape":"circle"},[]]]]]],["repere",{"rep":"52"},[["pr",{"codesi":"002514","cote":"D","obsnfp":"NFP","ref":"95631278","refpg":"95 631 278"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LAT"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"80, 269, 11","shape":"circle"},[]]]]]]]]]]}

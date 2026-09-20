@@ -1,18 +1,1 @@
-{
- "ref": "123002211219F",
- "refDisplay": "1230 02 211219F",
- "title": "ALLUMEUR",
- "nature": "",
- "applicability": "1,905L ET CARBURATEUR JUSQU’A OPR 04578 SAUF 4X4",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"123002211219F","refDisplay":"1230 02 211219F","title":"ALLUMEUR","nature":"","applicability":"1,905L ET CARBURATEUR JUSQU’A OPR 04578 SAUF 4X4","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0013"}],"kind":"pr","appl":"{(?1CXB)(%B0F190)(DAZ08)/($,,1,04578)/[(%4X4)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"001781"},[]],["thesaurus",{"type":"10","code":"005554"},[]],["thesaurus",{"type":"10","code":"002116"},[]],["thesaurus",{"type":"10","code":"000689"},[]],["mpr",{"catal":"1230","grp":"44 45","grp2":"02","maj":"20110723","numfich":"211219F"},[["appl",{},["{(?1CXB)(%B0F190)(DAZ08)/($,,1,04578)/[(%4X4)]}"]],["sti",{"ident":"NL211201"},[]],["enssup",{},[["fourn",{},["13286R"]],["refd",{},["2525692A-B"]]]],["img",{"numfich":"d211219f","path":"/img/pr/9f/d211/d211219f.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001781","obsnfp":"NFP","ref":"00005900E4","refpg":"5900 E4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["22969R"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["13286R"]]]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005554","obsnfp":"NFP","ref":"00005904K3","refpg":"5904 K3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002116","obsnfp":"NFP","ref":"0000594031","refpg":"5940 31"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000689","ref":"0000595306","refpg":"5953 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CL 3,5X8-5000"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "123007748010",
- "refDisplay": "1230 07 748010",
- "title": "PLANCHER DE CHARGE CLOISON DE SEPARATION",
- "nature": "",
- "applicability": "BERLINE ENTREPRISE 3PTES",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0116"
-  }
- ]
-}
+{"ref":"123007748010","refDisplay":"1230 07 748010","title":"PLANCHER DE CHARGE CLOISON DE SEPARATION","nature":"","applicability":"BERLINE ENTREPRISE 3PTES","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0116"}],"kind":"pr","appl":"{(?1CXB)(B0DAE)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002796"},[]],["thesaurus",{"type":"10","code":"005118"},[]],["thesaurus",{"type":"10","code":"005326"},[]],["thesaurus",{"type":"10","code":"005111"},[]],["thesaurus",{"type":"10","code":"005311"},[]],["thesaurus",{"type":"10","code":"002620"},[]],["thesaurus",{"type":"10","code":"005325"},[]],["thesaurus",{"type":"10","code":"002823"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"323","grp2":"07","maj":"20110723","numfich":"748010"},[["appl",{},["{(?1CXB)(B0DAE)}"]],["sti",{"ident":"NL748001"},[]],["img",{"numfich":"d7480100","path":"/img/pr/00/d748/d7480100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"002796","obsnfp":"NFP","ref":"95606402","refpg":"95 606 402"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AV"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002796","obsnfp":"NFP","ref":"95606403","refpg":"95 606 403"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"005118","obsnfp":"NFP","ref":"95606398","refpg":"95 606 398"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"005326","obsnfp":"NFP","ref":"95606405","refpg":"95 606 405"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005111","obsnfp":"NFP","ref":"95606400","refpg":"95 606 400"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"005311","obsnfp":"NFP","ref":"95606329","refpg":"95 606 329"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"002620","obsnfp":"NFP","ref":"95606330","refpg":"95 606 330"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"60"},[["pr",{"codesi":"005325","cote":"G","obsnfp":"NFP","ref":"95630475","refpg":"95 630 475"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H03)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H44)}"]]]]]],["pr",{"codesi":"005325","cote":"D","obsnfp":"NFP","ref":"95630474","refpg":"95 630 474"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H03)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H44)}"]]]]]]]],["repere",{"rep":"61"},[["pr",{"codesi":"002823","obsnfp":"NFP","ref":"95630442","refpg":"95 630 442"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H03)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H44)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LAT"]]]]]]]]]]]]}

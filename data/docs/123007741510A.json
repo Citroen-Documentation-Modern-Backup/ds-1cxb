@@ -1,18 +1,1 @@
-{
- "ref": "123007741510A",
- "refDisplay": "1230 07 741510A",
- "title": "BERCEAU AVANT",
- "nature": "",
- "applicability": "ESSENCE ET 1,360L ET 1,124L ET (I) ITALIE DEPUIS OPR 04192",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0109"
-  }
- ]
-}
+{"ref":"123007741510A","refDisplay":"1230 07 741510A","title":"BERCEAU AVANT","nature":"","applicability":"ESSENCE ET 1,360L ET 1,124L ET (I) ITALIE DEPUIS OPR 04192","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0109"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F136)(%B0F11)(B0H01)/($1,04192,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001836"},[]],["thesaurus",{"type":"10","code":"002354"},[]],["thesaurus",{"type":"10","code":"013981"},[]],["thesaurus",{"type":"10","code":"002241"},[]],["thesaurus",{"type":"10","code":"004654"},[]],["mpr",{"catal":"1230","grp":"313","grp2":"07","maj":"20110723","numfich":"741510A"},[["appl",{},["{(?1CXB)(DCD10)(%B0F136)(%B0F11)(B0H01)/($1,04192,,)/}"]],["sti",{"ident":"NL741501"},[]],["img",{"numfich":"d741510a","path":"/img/pr/0a/d741/d741510a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001836","obsnfp":"NFP","ref":"96000232","refpg":"96 000 232"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"002354","obsnfp":"NFP","ref":"7903001979","refpg":"79 03 001 979"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X1,50 LONG 90"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"002354","obsnfp":"NFP","ref":"95613502","refpg":"95 613 502"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["12X1,25 LONG 56"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"013981","ref":"96143825","refpg":"96 143 825"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"002241","obsnfp":"NFP","ref":"7903053477","refpg":"79 03 053 477"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM12,5X32EP5"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002241","obsnfp":"NFP","ref":"95499034","refpg":"95 499 034"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM12,5X40EP5"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"004654","ref":"0000693971","refpg":"6939 71"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 12X125-15-18"]]]]]]]]]]]]}

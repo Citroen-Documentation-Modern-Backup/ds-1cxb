@@ -1,18 +1,1 @@
-{
- "ref": "123003434610",
- "refDisplay": "1230 03 434610",
- "title": "CYLINDRE DE SUSPENSION - DETAILS",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0027"
-  }
- ]
-}
+{"ref":"123003434610","refDisplay":"1230 03 434610","title":"CYLINDRE DE SUSPENSION - DETAILS","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0027"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001139"},[]],["thesaurus",{"type":"10","code":"001173"},[]],["thesaurus",{"type":"10","code":"001471"},[]],["thesaurus",{"type":"10","code":"000998"},[]],["thesaurus",{"type":"10","code":"001442"},[]],["thesaurus",{"type":"10","code":"001372"},[]],["thesaurus",{"type":"10","code":"001421"},[]],["thesaurus",{"type":"22","code":"P0000276"},[]],["thesaurus",{"type":"21","code":"L0057505"},[]],["thesaurus",{"type":"21","code":"L0057508"},[]],["mpr",{"catal":"1230","grp":"161","grp2":"03","maj":"20110723","numfich":"434610"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL434601"},[]],["obspage",{"ident":"P0000276"},[]],["img",{"numfich":"d4346100","path":"/img/pr/00/d434/d4346100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001139","obsnfp":"NFP","ref":"95598748","refpg":"95 598 748"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001173","obsnfp":"NFP","ref":"95607546","refpg":"95 607 546"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001471","obsnfp":"NFP","ref":"95607545","refpg":"95 607 545"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000998","obsnfp":"NFP","ref":"95598746","refpg":"95 598 746"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001442","obsnfp":"NFP","ref":"96004372","refpg":"96 004 372"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0057505"},[]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"001372","ref":"24826009","refpg":"24 826 009"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"001421","obsnfp":"NFP","ref":"95597221","refpg":"95 597 221"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"001421","obsnfp":"NFP","ref":"95650941","refpg":"95 650 941"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0057508"},[]]]],["descomp",{},[["lib",{"langue":"01"},["AV"]]]]]]]]]]]]}

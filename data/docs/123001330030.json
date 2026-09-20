@@ -1,18 +1,1 @@
-{
- "ref": "123001330030",
- "refDisplay": "1230 01 330030",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "GAZOLE ET BVM JUSQU’A OPR 04529",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"123001330030","refDisplay":"1230 01 330030","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"GAZOLE ET BVM JUSQU’A OPR 04529","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(@BVM)/($,,1,04529)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000047"},[]],["thesaurus",{"type":"10","code":"000046"},[]],["mpr",{"catal":"1230","grp":"67","grp2":"01","maj":"20110723","numfich":"330030"},[["appl",{},["{(?1CXB)(DCD06)(@BVM)/($,,1,04529)/}"]],["sti",{"ident":"NL330001"},[]],["img",{"numfich":"d3300300","path":"/img/pr/00/d330/d3300300.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000047","obsnfp":"NFP","ref":"9451030380","refpg":"94 510 303 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F17)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP 16X67"]]]],["reporg",{},[["monte",{},[" BL64"]],["monte",{},[" BP24"]],["monte",{},[" BN45"]],["monte",{},["(BP24)"]]]]]],["pr",{"codesi":"000046","obsnfp":"NFP","ref":"95655193","refpg":"95 655 193"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F17)(~2)}"]]]],["descomp",{},[["lib",{"langue":"01"},["C16X67 REP BPB4"]]]],["reporg",{},[["monte",{},[" BP24"]]]]]],["pr",{"codesi":"000047","obsnfp":"NFP","ref":"9451001643","refpg":"94 51 001 643"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F190)(@BL)/($1,03732,,)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["C16X63 REP 2BN43"]]]],["reporg",{},[["monte",{},[" BN43"]]]]]],["pr",{"codesi":"000047","obsnfp":"NFP","ref":"9451001644","refpg":"94 51 001 644"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F190)(@BK)}"]]]],["descomp",{},[["lib",{"langue":"01"},["C16X65 REP 2BN44"]]]]]]]]]]]]}

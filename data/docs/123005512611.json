@@ -1,18 +1,1 @@
-{
- "ref": "123005512611",
- "refDisplay": "1230 05 512611",
- "title": "BRIDAGE DE CABLERIES",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0307"
-  }
- ]
-}
+{"ref":"123005512611","refDisplay":"1230 05 512611","title":"BRIDAGE DE CABLERIES","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0307"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"007534"},[]],["thesaurus",{"type":"22","code":"P0000296"},[]],["thesaurus",{"type":"21","code":"L0059074"},[]],["mpr",{"catal":"1230","grp":"501","grp2":"05","maj":"20110723","numfich":"512611"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL512601"},[]],["obspage",{"ident":"P0000296"},[]],["img",{"numfich":"d5126110","path":"/img/pr/10/d512/d5126110.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"007534","obsnfp":"NFP","ref":"96142463","refpg":"96 142 463"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DAZ04)(%B0F190)}"]],["obsligne",{"ident":"L0059074"},[]]]]]]]]]]]]}

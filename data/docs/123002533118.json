@@ -1,18 +1,1 @@
-{
- "ref": "123002533118",
- "refDisplay": "1230 02 533118",
- "title": "DEMARREUR - FIXATION",
- "nature": "",
- "applicability": "ESSENCE ET 1,580L ET 1,905L ET (XT) EXPORT DEPUIS OPR 04893",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0302"
-  }
- ]
-}
+{"ref":"123002533118","refDisplay":"1230 02 533118","title":"DEMARREUR - FIXATION","nature":"","applicability":"ESSENCE ET 1,580L ET 1,905L ET (XT) EXPORT DEPUIS OPR 04893","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0302"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F158)(%B0F190)(%B0HXT)/($1,04893,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"006906"},[]],["thesaurus",{"type":"10","code":"004682"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["thesaurus",{"type":"22","code":"P0000264"},[]],["mpr",{"catal":"1230","grp":"491","grp2":"02","maj":"20110723","numfich":"533118"},[["appl",{},["{(?1CXB)(DCD10)(%B0F158)(%B0F190)(%B0HXT)/($1,04893,,)/}"]],["sti",{"ident":"NL533101"},[]],["obspage",{"ident":"P0000264"},[]],["img",{"numfich":"d5331180","path":"/img/pr/80/d533/d5331180.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006906","ref":"0000696843","refpg":"6968 43"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 11X14 LG 15"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"004682","ref":"00006913D0","refpg":"6913 D0"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10X150-60"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"008588","ref":"0000696211","refpg":"6962 11"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X21,3-1"]]]]]]]]]]]]}

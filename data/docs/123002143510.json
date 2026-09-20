@@ -1,18 +1,1 @@
-{
- "ref": "123002143510",
- "refDisplay": "1230 02 143510",
- "title": "CARBURATEUR-STARTER AUTOMATIQUE",
- "nature": "",
- "applicability": "1,360L ET (CH) SUISSE JUSQU’A OPR 04192",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"123002143510","refDisplay":"1230 02 143510","title":"CARBURATEUR-STARTER AUTOMATIQUE","nature":"","applicability":"1,360L ET (CH) SUISSE JUSQU’A OPR 04192","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CXB)(%B0F136)(B0H05)/($,,1,04192)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000819"},[]],["thesaurus",{"type":"10","code":"000076"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"1230","grp":"34","grp2":"02","maj":"20110723","numfich":"143510"},[["appl",{},["{(?1CXB)(%B0F136)(B0H05)/($,,1,04192)/}"]],["sti",{"ident":"NL143501"},[]],["enssup",{},[["fourn",{},["18770B"]],["refd",{},["32-35 TACIC REP 367"]]]],["img",{"numfich":"d1435100","path":"/img/pr/00/d143/d1435100.jpg","ext":"jpg"},[]],["repere",{"rep":"08"},[["pr",{"codesi":"000819","obsnfp":"NFP","ref":"0000140384","refpg":"1403 84"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"000076","obsnfp":"NFP","ref":"0000140943","refpg":"1409 43"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 9,2-10 HAUT13,4"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004651","ref":"0000693205","refpg":"6932 05"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X100-5"]]]]]]]]]]]]}

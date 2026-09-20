@@ -1,18 +1,1 @@
-{
- "ref": "123002211815",
- "refDisplay": "1230 02 211815",
- "title": "DISTRIBUTEUR D’ALLUMAGE",
- "nature": "",
- "applicability": "ESSENCE ET 1,905L ET INJ MONOPOINT ET (CH) SUISSE ET (S) SUEDE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"123002211815","refDisplay":"1230 02 211815","title":"DISTRIBUTEUR D’ALLUMAGE","nature":"","applicability":"ESSENCE ET 1,905L ET INJ MONOPOINT ET (CH) SUISSE ET (S) SUEDE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0013"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F190)(%DAZ07)(B0H05)(B0H09)}","tree":["document",{},[["thesaurus",{"type":"10","code":"002116"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["mpr",{"catal":"1230","grp":"44 45","grp2":"02","maj":"20110723","numfich":"211815"},[["appl",{},["{(?1CXB)(DCD10)(%B0F190)(%DAZ07)(B0H05)(B0H09)}"]],["sti",{"ident":"NL211801"},[]],["enssup",{},[["fourn",{},["33350Z"]],["refd",{},["DUCELLIER 2525655A"]]]],["img",{"numfich":"d2118150","path":"/img/pr/50/d211/d2118150.jpg","ext":"jpg"},[]],["repere",{"rep":"04"},[["pr",{"codesi":"002116","ref":"0000594035","refpg":"5940 35"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"008006","ref":"0000692254","refpg":"6922 54"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]]]]]]]]}

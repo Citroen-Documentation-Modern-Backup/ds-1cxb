@@ -1,18 +1,1 @@
-{
- "ref": "123002184314",
- "refDisplay": "1230 02 184314",
- "title": "CIRCUIT ANTI POLLUTION",
- "nature": "",
- "applicability": "1,905L ET CARBURATEUR ET (D) ALLEMAGNE ET (A) AUTRICHE ET (NL) PAYS BAS",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"123002184314","refDisplay":"1230 02 184314","title":"CIRCUIT ANTI POLLUTION","nature":"","applicability":"1,905L ET CARBURATEUR ET (D) ALLEMAGNE ET (A) AUTRICHE ET (NL) PAYS BAS","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CXB)(%B0F190)(DAZ08)(B0H04)(B0H06)(B0H44)}","tree":["document",{},[["thesaurus",{"type":"10","code":"007081"},[]],["thesaurus",{"type":"10","code":"000590"},[]],["thesaurus",{"type":"10","code":"000689"},[]],["mpr",{"catal":"1230","grp":"53","grp2":"02","maj":"20110723","numfich":"184314"},[["appl",{},["{(?1CXB)(%B0F190)(DAZ08)(B0H04)(B0H06)(B0H44)}"]],["sti",{"ident":"NL184301"},[]],["img",{"numfich":"d1843140","path":"/img/pr/40/d184/d1843140.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"007081","obsnfp":"NFP","ref":"0000162235","refpg":"1622 35"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000590","obsnfp":"NFP","ref":"96006386","refpg":"96 006 386"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000689","obsnfp":"NFP","ref":"95631794","refpg":"95 631 794"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

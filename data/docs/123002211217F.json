@@ -1,18 +1,1 @@
-{
- "ref": "123002211217F",
- "refDisplay": "1230 02 211217F",
- "title": "ALLUMEUR",
- "nature": "",
- "applicability": "1,580L ET CARBURATEUR JUSQU’A OPR 04157",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"123002211217F","refDisplay":"1230 02 211217F","title":"ALLUMEUR","nature":"","applicability":"1,580L ET CARBURATEUR JUSQU’A OPR 04157","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0013"}],"kind":"pr","appl":"{(?1CXB)(%B0F158)(DAZ08)/($,,1,04157)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"005554"},[]],["thesaurus",{"type":"10","code":"002116"},[]],["thesaurus",{"type":"10","code":"002095"},[]],["mpr",{"catal":"1230","grp":"44 45","grp2":"02","maj":"20110723","numfich":"211217F"},[["appl",{},["{(?1CXB)(%B0F158)(DAZ08)/($,,1,04157)/}"]],["sti",{"ident":"NL211201"},[]],["enssup",{},[["fourn",{},["13286R"]],["refd",{},["2525587B"]]]],["img",{"numfich":"d211217f","path":"/img/pr/7f/d211/d211217f.jpg","ext":"jpg"},[]],["repere",{"rep":"05"},[["pr",{"codesi":"005554","obsnfp":"NFP","ref":"00005904N3","refpg":"5904 N3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"002116","ref":"0000594029","refpg":"5940 29"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"002095","ref":"0000594235","refpg":"5942 35"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

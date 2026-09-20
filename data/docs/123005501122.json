@@ -1,18 +1,1 @@
-{
- "ref": "123005501122",
- "refDisplay": "1230 05 501122",
- "title": "FAISCEAU AVANT PRINCIPAL",
- "nature": "",
- "applicability": "GAZOLE ET FINIT TG ET IMAGE ET MILLESIME SAUF TURBO",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"123005501122","refDisplay":"1230 05 501122","title":"FAISCEAU AVANT PRINCIPAL","nature":"","applicability":"GAZOLE ET FINIT TG ET IMAGE ET MILLESIME SAUF TURBO","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(%TG)(%IMAGE)(%MILLES)[(DAZ09)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"003725"},[]],["mpr",{"catal":"1230","grp":"513","grp2":"05","maj":"20110723","numfich":"501122"},[["appl",{},["{(?1CXB)(DCD06)(%TG)(%IMAGE)(%MILLES)[(DAZ09)]}"]],["sti",{"ident":"NL501101"},[]],["img",{"numfich":"00059108","path":"/img/pr/08/0005/00059108.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003725","obsnfp":"NFP","ref":"96104259","refpg":"96 104 259"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TGD)/($1,05075,,)/}"]]]]]],["pr",{"codesi":"003725","obsnfp":"NFP","ref":"00006502QQ","refpg":"6502 QQ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TGD)/($1,05915,,)/}"]],["nlcfr",{},[["livre",{},["9612263980"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%IMAGE)/($1,05915,,)/}"]],["nlcfr",{},[["livre",{},["9612263980"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%MILLES)/($1,05915,,)/}"]],["nlcfr",{},[["livre",{},["9612263980"]]]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"86, 371, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"003725","obsnfp":"NFP","ref":"96104282","refpg":"96 104 282"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%XUD9A)(%19TGD)(%CAD)/($1,05915,,)/}"]],["nlcfr",{},[["livre",{},["9610428280"]]]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"82, 395, 11","shape":"circle"},[]]]]]]]]]]}

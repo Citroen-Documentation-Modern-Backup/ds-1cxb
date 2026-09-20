@@ -1,18 +1,1 @@
-{
- "ref": "123002142510",
- "refDisplay": "1230 02 142510",
- "title": "CIRCUIT DE DEPRESSION DE RALENTI",
- "nature": "",
- "applicability": "1,580L ET 1,905L ET CARBURATEUR ET CLIMATISEUR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"123002142510","refDisplay":"1230 02 142510","title":"CIRCUIT DE DEPRESSION DE RALENTI","nature":"","applicability":"1,580L ET 1,905L ET CARBURATEUR ET CLIMATISEUR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CXB)(%B0F158)(%B0F190)(DAZ08)(DCL10)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009767"},[]],["thesaurus",{"type":"10","code":"000689"},[]],["thesaurus",{"type":"10","code":"003763"},[]],["mpr",{"catal":"1230","grp":"34","grp2":"02","maj":"20110723","numfich":"142510"},[["appl",{},["{(?1CXB)(%B0F158)(%B0F190)(DAZ08)(DCL10)}"]],["sti",{"ident":"NL142501"},[]],["img",{"numfich":"d1425100","path":"/img/pr/00/d142/d1425100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009767","obsnfp":"NFP","ref":"96008841","refpg":"96 008 841"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000689","ref":"0000595306","refpg":"5953 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CL 3,5X8-5000"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"003763","obsnfp":"NFP","ref":"7905026922","refpg":"79 05 026 922"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

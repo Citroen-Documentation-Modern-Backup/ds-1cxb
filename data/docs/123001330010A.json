@@ -1,18 +1,1 @@
-{
- "ref": "123001330010A",
- "refDisplay": "1230 01 330010A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "ESSENCE ET 1,124L ET (I) ITALIE ET (GR) GRECE DEPUIS OPR 04194",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"123001330010A","refDisplay":"1230 01 330010A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"ESSENCE ET 1,124L ET (I) ITALIE ET (GR) GRECE DEPUIS OPR 04194","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F11)(B0H01)(B0H38)/($1,04194,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["thesaurus",{"type":"21","code":"L0048392"},[]],["mpr",{"catal":"1230","grp":"67","grp2":"01","maj":"20110723","numfich":"330010A"},[["appl",{},["{(?1CXB)(DCD10)(%B0F11)(B0H01)(B0H38)/($1,04194,,)/}"]],["sti",{"ident":"NL330001"},[]],["img",{"numfich":"d330010a","path":"/img/pr/0a/d330/d330010a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","obsnfp":"NFP","ref":"00002205HC","refpg":"2205 HC"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($,,1,05714)/}"]],["obsligne",{"ident":"L0048392"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0G05)/($,,1,05089)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["CP (13X59)"]]]],["reporg",{},[["monte",{},["CC36"]],["monte",{},["(CE17)"]],["monte",{},["CE17"]]]]]]]]]]]]}

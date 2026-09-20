@@ -1,18 +1,1 @@
-{
- "ref": "123005501208",
- "refDisplay": "1230 05 501208",
- "title": "FAISCEAU MOTEUR",
- "nature": "",
- "applicability": "1,905L ET CARBURATEUR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"123005501208","refDisplay":"1230 05 501208","title":"FAISCEAU MOTEUR","nature":"","applicability":"1,905L ET CARBURATEUR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CXB)(%B0F190)(DAZ08)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003753"},[]],["mpr",{"catal":"1230","grp":"514","grp2":"05","maj":"20110723","numfich":"501208"},[["appl",{},["{(?1CXB)(%B0F190)(DAZ08)}"]],["sti",{"ident":"NL501201"},[]],["img",{"numfich":"00059120","path":"/img/pr/20/0005/00059120.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003753","obsnfp":"NFP","ref":"96036175","refpg":"96 036 175"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%4X4)}"]]]]]],["pr",{"codesi":"003753","obsnfp":"NFP","ref":"95634918","refpg":"95 634 918"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(@BVA)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"357, 327, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"003753","obsnfp":"NFP","ref":"95637396","refpg":"95 637 396"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TRS)(B0H09)(B0H08)(B0H07)}"]]]]]],["pr",{"codesi":"003753","obsnfp":"NFP","ref":"95637395","refpg":"95 637 395"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%19TRS)(@BVA)(B0H09)(B0H08)(B0H07)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"362, 352, 11","shape":"circle"},[]]]]]]]]]]}

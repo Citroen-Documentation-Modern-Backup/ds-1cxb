@@ -1,18 +1,1 @@
-{
- "ref": "123008982858",
- "refDisplay": "1230 08 982858",
- "title": "PANNEAUX DE PORTE AVANT",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0135"
-  }
- ]
-}
+{"ref":"123008982858","refDisplay":"1230 08 982858","title":"PANNEAUX DE PORTE AVANT","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0135"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004588"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["thesaurus",{"type":"21","code":"L0067370"},[]],["thesaurus",{"type":"21","code":"L0067372"},[]],["thesaurus",{"type":"21","code":"L0067374"},[]],["thesaurus",{"type":"21","code":"L0067375"},[]],["thesaurus",{"type":"21","code":"L0067371"},[]],["thesaurus",{"type":"21","code":"L0067373"},[]],["mpr",{"catal":"1230","grp":"354","grp2":"08","maj":"20110723","numfich":"982858"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL982801"},[]],["enssup",{},[["refd",{},["VELOURS CASPIENNE"]]]],["img",{"numfich":"d9828580","path":"/img/pr/80/d982/d9828580.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004588","cote":"G","obsnfp":"NFP","ref":"96106566XL","refpg":"96 106 566 XL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0J3Y)/($,,1,05683)/}"]],["obsligne",{"ident":"L0067370"},[]]]]]],["pr",{"codesi":"004588","cote":"G","obsnfp":"NFP","ref":"96138055XL","refpg":"96 138 055 XL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0J3Y)/($1,05278,1,05683)/}"]],["obsligne",{"ident":"L0067372"},[]]]]]],["pr",{"codesi":"004588","cote":"G","obsnfp":"NFP","ref":"96167643XL","refpg":"96 167 643 XL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0J3Y)/($1,05684,,)/}"]],["obsligne",{"ident":"L0067374"},[]]]]]],["pr",{"codesi":"004588","cote":"D","obsnfp":"NFP","ref":"96106564XL","refpg":"96 106 564 XL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0J3Y)/($,,1,05683)/}"]],["obsligne",{"ident":"L0067375"},[]]]]]],["pr",{"codesi":"004588","cote":"D","obsnfp":"NFP","ref":"96138053XL","refpg":"96 138 053 XL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0J3Y)/($1,05278,1,05683)/}"]],["obsligne",{"ident":"L0067371"},[]]]]]],["pr",{"codesi":"004588","cote":"D","obsnfp":"NFP","ref":"96167641XL","refpg":"96 167 641 XL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0J3Y)/($1,05684,,)/}"]],["obsligne",{"ident":"L0067373"},[]]]]]]]]]]]]}

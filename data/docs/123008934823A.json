@@ -1,18 +1,1 @@
-{
- "ref": "123008934823A",
- "refDisplay": "1230 08 934823A",
- "title": "BANQUETTE ARRIERE - GARNITURES",
- "nature": "",
- "applicability": " DEPUIS OPR 04131",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0231"
-  }
- ]
-}
+{"ref":"123008934823A","refDisplay":"1230 08 934823A","title":"BANQUETTE ARRIERE - GARNITURES","nature":"","applicability":" DEPUIS OPR 04131","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0231"}],"kind":"pr","appl":"{(?1CXB)/($1,04131,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"005796"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"437","grp2":"08","maj":"20110723","numfich":"934823A"},[["appl",{},["{(?1CXB)/($1,04131,,)/}"]],["sti",{"ident":"NL934801"},[]],["enssup",{},[["refd",{},["DORMANT"]]]],["repere",{"rep":"01"},[["pr",{"codesi":"005796","cote":"G","obsnfp":"NFP","ref":"96032723VR","refpg":"96 032 723 VR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["pr",{"codesi":"005796","cote":"D","obsnfp":"NFP","ref":"96032722VR","refpg":"96 032 722 VR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

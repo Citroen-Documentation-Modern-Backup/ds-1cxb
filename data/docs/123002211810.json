@@ -1,18 +1,1 @@
-{
- "ref": "123002211810",
- "refDisplay": "1230 02 211810",
- "title": "DISTRIBUTEUR D’ALLUMAGE",
- "nature": "",
- "applicability": "GTI 16S",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0013"
-  }
- ]
-}
+{"ref":"123002211810","refDisplay":"1230 02 211810","title":"DISTRIBUTEUR D’ALLUMAGE","nature":"","applicability":"GTI 16S","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0013"}],"kind":"pr","appl":"{(?1CXB)(%GTI16S)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006796"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"008588"},[]],["mpr",{"catal":"1230","grp":"44 45","grp2":"02","maj":"20110723","numfich":"211810"},[["appl",{},["{(?1CXB)(%GTI16S)}"]],["sti",{"ident":"NL211801"},[]],["enssup",{},[["fourn",{},["13286R"]],["refd",{},["2525628"]]]],["img",{"numfich":"d2118100","path":"/img/pr/00/d211/d2118100.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006796","obsnfp":"NFP","ref":"96038183","refpg":"96 038 183"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"008006","ref":"00006922H3","refpg":"6922 H3"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-25"]]]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"008588","ref":"0000696299","refpg":"6962 99"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X12-1,7"]]]]]]]]]]]]}

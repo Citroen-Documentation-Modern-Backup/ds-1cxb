@@ -1,18 +1,1 @@
-{
- "ref": "123001334430",
- "refDisplay": "1230 01 334430",
- "title": "LIGNE SECONDAIRE",
- "nature": "",
- "applicability": "ESSENCE ET 1,360L ET BVM5 4X2 JUSQU’A OPR 04192",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"123001334430","refDisplay":"1230 01 334430","title":"LIGNE SECONDAIRE","nature":"","applicability":"ESSENCE ET 1,360L ET BVM5 4X2 JUSQU’A OPR 04192","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F136)(B0G05)/($,,1,04192)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001105"},[]],["thesaurus",{"type":"10","code":"001677"},[]],["thesaurus",{"type":"10","code":"004654"},[]],["mpr",{"catal":"1230","grp":"82","grp2":"01","maj":"20110723","numfich":"334430"},[["appl",{},["{(?1CXB)(DCD10)(%B0F136)(B0G05)/($,,1,04192)/}"]],["sti",{"ident":"NL334401"},[]],["img",{"numfich":"00058658","path":"/img/pr/58/0005/00058658.jpg","ext":"jpg"},[]],["repere",{"rep":"09"},[["pr",{"codesi":"001105","obsnfp":"NFP","ref":"0000235917","refpg":"2359 17"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["LONG 65 LARG 8,2"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"280, 20, 11","shape":"circle"},[]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"001677","obsnfp":"NFP","ref":"0000232344","refpg":"2323 44"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1ERE/2EME 23DTS"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"285, 343, 11","shape":"circle"},[]]]]]],["repere",{"rep":"14"},[["pr",{"codesi":"004654","obsnfp":"NFP","ref":"0000693557","refpg":"6935 57"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["20X150-10-30"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"54, 235, 11","shape":"circle"},[]],["area",{"coords":"101, 5, 11","shape":"circle"},[]]]]]]]]]]}

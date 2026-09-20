@@ -1,18 +1,1 @@
-{
- "ref": "123002146015",
- "refDisplay": "1230 02 146015",
- "title": "DISPOSITIF DE DOSAGE",
- "nature": "",
- "applicability": "(XT) EXPORT ET ESSENCE ET 1,905L ET INJ MONOPOINT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"123002146015","refDisplay":"1230 02 146015","title":"DISPOSITIF DE DOSAGE","nature":"","applicability":"(XT) EXPORT ET ESSENCE ET 1,905L ET INJ MONOPOINT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CXB)(%B0HXT)(DCD10)(%B0F190)(%DAZ07)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000119"},[]],["thesaurus",{"type":"10","code":"000636"},[]],["thesaurus",{"type":"10","code":"007290"},[]],["thesaurus",{"type":"10","code":"016934"},[]],["thesaurus",{"type":"10","code":"005920"},[]],["thesaurus",{"type":"22","code":"P0000201"},[]],["mpr",{"catal":"1230","grp":"35","grp2":"02","maj":"20110723","numfich":"146015"},[["appl",{},["{(?1CXB)(%B0HXT)(DCD10)(%B0F190)(%DAZ07)}"]],["sti",{"ident":"NL146001"},[]],["obspage",{"ident":"P0000201"},[]],["img",{"numfich":"d1441150","path":"/img/pr/50/d144/d1441150.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000119","obsnfp":"NFP","ref":"00001920A3","refpg":"1920 A3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000636","obsnfp":"NFP","ref":"96006536","refpg":"96 006 536"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"007290","obsnfp":"NFP","ref":"0000153834","refpg":"1538 34"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"016934","ref":"00006992G2","refpg":"6992 G2"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,2"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005920","ref":"00006925S7","refpg":"6925 S7"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,5-20"]]]],["prremp",{"coef":"01","palges":"P","ref":"0000692410","refpg":"6924 10"},[]]]]]]]]]]}

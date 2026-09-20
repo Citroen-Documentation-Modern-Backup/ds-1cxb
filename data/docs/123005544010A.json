@@ -1,18 +1,1 @@
-{
- "ref": "123005544010A",
- "refDisplay": "1230 05 544010A",
- "title": "ECLAIRAGE ARRIERE",
- "nature": "",
- "applicability": "BERLINE ET (AUS) AUSTRALIE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0314"
-  }
- ]
-}
+{"ref":"123005544010A","refDisplay":"1230 05 544010A","title":"ECLAIRAGE ARRIERE","nature":"","applicability":"BERLINE ET (AUS) AUSTRALIE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0314"}],"kind":"pr","appl":"{(?1CXB)(@BL)(B0H75)}","tree":["document",{},[["thesaurus",{"type":"10","code":"003569"},[]],["thesaurus",{"type":"10","code":"005494"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"21","code":"L0059468"},[]],["thesaurus",{"type":"21","code":"L0059469"},[]],["mpr",{"catal":"1230","grp":"439","grp2":"05","maj":"20110723","numfich":"544010A"},[["appl",{},["{(?1CXB)(@BL)(B0H75)}"]],["sti",{"ident":"NL544001"},[]],["img",{"numfich":"d544010a","path":"/img/pr/0a/d544/d544010a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"003569","obsnfp":"NFP","ref":"96050127","refpg":"96 050 127"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0059468"},[]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005494","obsnfp":"NFP","ref":"96054073","refpg":"96 054 073"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["obsligne",{"ident":"L0059469"},[]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"008006","ref":"0000692254","refpg":"6922 54"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-20"]]]]]]]]]]]]}

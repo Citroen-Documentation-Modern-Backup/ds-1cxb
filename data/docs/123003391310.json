@@ -1,18 +1,1 @@
-{
- "ref": "123003391310",
- "refDisplay": "1230 03 391310",
- "title": "POMPE HP-SUPPORT-TENDEUR-FIXATION",
- "nature": "",
- "applicability": "ESSENCE ET 1,124L ET (I) ITALIE ET (GR) GRECE JUSQU’A OPR 04205",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0337"
-  }
- ]
-}
+{"ref":"123003391310","refDisplay":"1230 03 391310","title":"POMPE HP-SUPPORT-TENDEUR-FIXATION","nature":"","applicability":"ESSENCE ET 1,124L ET (I) ITALIE ET (GR) GRECE JUSQU’A OPR 04205","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0337"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F11)(B0H01)(B0H38)/($,,1,04205)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001283"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["thesaurus",{"type":"10","code":"013981"},[]],["thesaurus",{"type":"10","code":"004651"},[]],["mpr",{"catal":"1230","grp":"267","grp2":"03","maj":"20110723","numfich":"391310"},[["appl",{},["{(?1CXB)(DCD10)(%B0F11)(B0H01)(B0H38)/($,,1,04205)/}"]],["sti",{"ident":"NL391301"},[]],["img",{"numfich":"d3913100","path":"/img/pr/00/d391/d3913100.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"001283","obsnfp":"NFP","ref":"95495358","refpg":"95 495 358"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"008006","ref":"00006923G7","refpg":"6923 G7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-35"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004675","obsnfp":"NFP","ref":"0000692216","refpg":"6922 16"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10X150-80"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"004667","ref":"0000694677","refpg":"6946 77"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["10X20-2"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"013981","ref":"96143825","refpg":"96 143 825"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"004651","ref":"0000693257","refpg":"6932 57"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10X150-8,3"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006936E1","refpg":"6936 E1"},[]]]]]]]]]]}

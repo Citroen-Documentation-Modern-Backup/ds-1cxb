@@ -1,18 +1,1 @@
-{
- "ref": "123008982813",
- "refDisplay": "1230 08 982813",
- "title": "PANNEAUX DE PORTE AVANT",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0135"
-  }
- ]
-}
+{"ref":"123008982813","refDisplay":"1230 08 982813","title":"PANNEAUX DE PORTE AVANT","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0135"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004588"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"1230","grp":"354","grp2":"08","maj":"20110723","numfich":"982813"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL982801"},[]],["enssup",{},[["refd",{},["JERSEY BELUGA"]]]],["img",{"numfich":"d9828130","path":"/img/pr/30/d982/d9828130.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004588","cote":"G","obsnfp":"NFP","ref":"96035214CH","refpg":"96 035 214 CH"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B)/($1,04468,1,04982)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%T)/($1,04619,1,04982)/}"]]]]]],["pr",{"codesi":"004588","cote":"G","obsnfp":"NFP","ref":"96035214TR","refpg":"96 035 214 TR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B)/($1,04468,1,04982)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%T)/($1,04619,1,05347)/}"]]]]]],["pr",{"codesi":"004588","cote":"D","obsnfp":"NFP","ref":"96035213TR","refpg":"96 035 213 TR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B)/($1,04468,1,04982)/}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%T)/($1,04619,1,05347)/}"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "123002184311",
- "refDisplay": "1230 02 184311",
- "title": "CIRCUIT ANTI POLLUTION",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0012"
-  }
- ]
-}
+{"ref":"123002184311","refDisplay":"1230 02 184311","title":"CIRCUIT ANTI POLLUTION","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0012"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000689"},[]],["thesaurus",{"type":"10","code":"005599"},[]],["mpr",{"catal":"1230","grp":"53","grp2":"02","maj":"20110723","numfich":"184311"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL184301"},[]],["img",{"numfich":"d1843110","path":"/img/pr/10/d184/d1843110.jpg","ext":"jpg"},[]],["repere",{"rep":"03"},[["pr",{"codesi":"000689","ref":"0000595306","refpg":"5953 06"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CL 3,5X8-5000"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"005599","ref":"5416495","refpg":"5 416 495"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H05)(B0H09)(DAZ08)(%B0F158)}"]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H05)(B0H09)(DAZ08)(%B0F190)}"]]]]]]]]]]]]}

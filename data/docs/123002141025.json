@@ -1,18 +1,1 @@
-{
- "ref": "123002141025",
- "refDisplay": "1230 02 141025",
- "title": "COLLECTEUR ADMISSION",
- "nature": "",
- "applicability": "1,769L ET GAZOLE ET TURBO",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"123002141025","refDisplay":"1230 02 141025","title":"COLLECTEUR ADMISSION","nature":"","applicability":"1,769L ET GAZOLE ET TURBO","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CXB)(%B0F17)(DCD06)(DAZ09)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000184"},[]],["thesaurus",{"type":"10","code":"000412"},[]],["thesaurus",{"type":"10","code":"004682"},[]],["mpr",{"catal":"1230","grp":"26","grp2":"02","maj":"20110723","numfich":"141025"},[["appl",{},["{(?1CXB)(%B0F17)(DCD06)(DAZ09)}"]],["sti",{"ident":"NL141001"},[]],["img",{"numfich":"d1410250","path":"/img/pr/50/d141/d1410250.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000184","obsnfp":"NFP","ref":"00000342A1","refpg":"0342 A1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000412","obsnfp":"NFP","ref":"0000034889","refpg":"0348 89"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004682","ref":"0000691307","refpg":"6913 07"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-25"]]]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"004682","obsnfp":"NFP","ref":"0000691380","refpg":"6913 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-70"]]]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "123001331405",
- "refDisplay": "1230 01 331405",
- "title": "CARTER BOITE DE VITESSES - FIXATION",
- "nature": "",
- "applicability": "ESSENCE ET 1,124L ET 1,360L DEPUIS OPR 04193",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"123001331405","refDisplay":"1230 01 331405","title":"CARTER BOITE DE VITESSES - FIXATION","nature":"","applicability":"ESSENCE ET 1,124L ET 1,360L DEPUIS OPR 04193","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F11)(%B0F136)/($1,04193,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"006906"},[]],["thesaurus",{"type":"10","code":"005646"},[]],["thesaurus",{"type":"10","code":"006815"},[]],["thesaurus",{"type":"10","code":"005669"},[]],["thesaurus",{"type":"10","code":"005670"},[]],["thesaurus",{"type":"10","code":"009440"},[]],["mpr",{"catal":"1230","grp":"75","grp2":"01","maj":"20110723","numfich":"331405"},[["appl",{},["{(?1CXB)(DCD10)(%B0F11)(%B0F136)/($1,04193,,)/}"]],["sti",{"ident":"NL331401"},[]],["img",{"numfich":"d3314050","path":"/img/pr/50/d331/d3314050.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006906","ref":"0000696843","refpg":"6968 43"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 11X14 LG 15"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"005646","ref":"0000221083","refpg":"2210 83"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X125-20-6-26"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"006815","ref":"0000692599","refpg":"6925 99"},[["pmont",{"coef":"12"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-45"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"005669","obsnfp":"NFP","ref":"0000221016","refpg":"2210 16"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-75"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"005670","ref":"0000221017","refpg":"2210 17"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-75,5"]]]],["prremp",{"coef":"01","palges":"P","ref":"9673033880","refpg":"96 730 338 80"},[]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"009440","ref":"0000210314","refpg":"2103 14"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10X150-65"]]]],["prremp",{"coef":"01","palges":"P","ref":"00006925V0","refpg":"6925 V0"},[]]]]]]]]]]}

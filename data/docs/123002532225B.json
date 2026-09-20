@@ -1,18 +1,1 @@
-{
- "ref": "123002532225B",
- "refDisplay": "1230 02 532225B",
- "title": "ALTERNATEUR A REGULATEUR INCORPORE",
- "nature": "",
- "applicability": "GAZOLE ET TURBO DEPUIS OPR 05224",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0303"
-  }
- ]
-}
+{"ref":"123002532225B","refDisplay":"1230 02 532225B","title":"ALTERNATEUR A REGULATEUR INCORPORE","nature":"","applicability":"GAZOLE ET TURBO DEPUIS OPR 05224","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0303"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(DAZ09)/($1,05224,,)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"001783"},[]],["mpr",{"catal":"1230","grp":"496","grp2":"02","maj":"20110723","numfich":"532225B"},[["appl",{},["{(?1CXB)(DCD06)(DAZ09)/($1,05224,,)/}"]],["sti",{"ident":"NL532201"},[]],["enssup",{},[["fourn",{},["72043G"]],["refd",{},["A13N219"]]]],["img",{"numfich":"d532225b","path":"/img/pr/5b/d532/d532225b.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001783","obsnfp":"NFP","ref":"0000570597","refpg":"5705 97"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["22969R"]]]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["72043G"]]]]]],["descomp",{},[["lib",{"langue":"01"},["CLASSE 5 - 50 AMP"]]]]]]]]]]]]}

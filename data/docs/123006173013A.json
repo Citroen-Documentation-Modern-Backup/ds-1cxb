@@ -1,18 +1,1 @@
-{
- "ref": "123006173013A",
- "refDisplay": "1230 06 173013A",
- "title": "CANALISATIONS CARBURANT",
- "nature": "",
- "applicability": "1,360L ET INJ MONOPOINT ET (CH) SUISSE ET (S) SUEDE ET (A) AUTRICHE JUSQU’A OPR 05565",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"123006173013A","refDisplay":"1230 06 173013A","title":"CANALISATIONS CARBURANT","nature":"","applicability":"1,360L ET INJ MONOPOINT ET (CH) SUISSE ET (S) SUEDE ET (A) AUTRICHE JUSQU’A OPR 05565","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CXB)(%B0F136)(%DAZ07)(B0H05)(B0H09)(B0H06)/($,,1,05565)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000587"},[]],["thesaurus",{"type":"10","code":"000677"},[]],["thesaurus",{"type":"10","code":"006116"},[]],["thesaurus",{"type":"10","code":"000321"},[]],["thesaurus",{"type":"10","code":"014174"},[]],["mpr",{"catal":"1230","grp":"40 55","grp2":"06","maj":"20110723","numfich":"173013A"},[["appl",{},["{(?1CXB)(%B0F136)(%DAZ07)(B0H05)(B0H09)(B0H06)/($,,1,05565)/}"]],["sti",{"ident":"NL173001"},[]],["img",{"numfich":"d173013a","path":"/img/pr/3a/d173/d173013a.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000587","obsnfp":"NFP","ref":"96995465","refpg":"96 995 465"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X9 - 1370"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000587","obsnfp":"NFP","ref":"95499103","refpg":"95 499 103"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM INT 7,5-9,5"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000587","obsnfp":"NFP","ref":"95633801","refpg":"95 633 801"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM EXT 10-1535"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000677","ref":"00001574C4","refpg":"1574 C4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 7X13"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"006116","ref":"95594178","refpg":"95 594 178"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM EXT 8 LON 1645"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"000321","obsnfp":"NFP","ref":"SRV000503","refpg":"SRV  000 503"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]],["pr",{"codesi":"014174","ref":"E145001","refpg":"E145001","typecommercial":"EUROREPAR"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["prremp",{"coef":"01","palges":"P","ref":"E145057","refpg":"E145057"},[]]]]]]]]]]}

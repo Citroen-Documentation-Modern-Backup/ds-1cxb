@@ -1,18 +1,1 @@
-{
- "ref": "123006133010B",
- "refDisplay": "1230 06 133010B",
- "title": "SUSPENSION MOTEUR - BOITE DE VITESSES",
- "nature": "",
- "applicability": "1,360L ET INJ MONOPOINT",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0049"
-  }
- ]
-}
+{"ref":"123006133010B","refDisplay":"1230 06 133010B","title":"SUSPENSION MOTEUR - BOITE DE VITESSES","nature":"","applicability":"1,360L ET INJ MONOPOINT","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0049"}],"kind":"pr","appl":"{(?1CXB)(%B0F136)(%DAZ07)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000666"},[]],["thesaurus",{"type":"10","code":"000660"},[]],["thesaurus",{"type":"10","code":"000165"},[]],["thesaurus",{"type":"10","code":"000111"},[]],["thesaurus",{"type":"10","code":"000122"},[]],["thesaurus",{"type":"13","code":"D"},[]],["thesaurus",{"type":"13","code":"G"},[]],["mpr",{"catal":"1230","grp":"5","grp2":"06","maj":"20110723","numfich":"133010B"},[["appl",{},["{(?1CXB)(%B0F136)(%DAZ07)}"]],["sti",{"ident":"NL133001"},[]],["img",{"numfich":"d133010b","path":"/img/pr/0b/d133/d133010b.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000666","cote":"D","ref":"0000183920","refpg":"1839 20"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000666","ref":"00001807P0","refpg":"1807 P0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["ASS"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000666","cote":"G","obsnfp":"NFP","ref":"0000181324","refpg":"1813 24"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000660","cote":"G","ref":"0000184395","refpg":"1843 95"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000660","cote":"D","ref":"0000184472","refpg":"1844 72"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000165","cote":"D","ref":"0000180608","refpg":"1806 08"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"000111","obsnfp":"NFP","ref":"91521582","refpg":"91 521 582"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"000122","obsnfp":"NFP","ref":"91510763","refpg":"91 510 763"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["EP 2"]]]]]]]]]]]]}

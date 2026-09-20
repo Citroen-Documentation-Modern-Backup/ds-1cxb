@@ -1,18 +1,1 @@
-{
- "ref": "123005501840",
- "refDisplay": "1230 05 501840",
- "title": "FAISCEAU PLANCHE DE BORD ET CONSOLE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0309"
-  }
- ]
-}
+{"ref":"123005501840","refDisplay":"1230 05 501840","title":"FAISCEAU PLANCHE DE BORD ET CONSOLE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0309"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006114"},[]],["thesaurus",{"type":"22","code":"P0000292"},[]],["mpr",{"catal":"1230","grp":"503","grp2":"05","maj":"20110723","numfich":"501840"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL501801"},[]],["obspage",{"ident":"P0000292"},[]],["img",{"numfich":"00059147","path":"/img/pr/47/0005/00059147.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006114","obsnfp":"NFP","ref":"96006487","refpg":"96 006 487"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DNC05)/($1,03710,,)/}"]]]]]],["pr",{"codesi":"006114","obsnfp":"NFP","ref":"96006482","refpg":"96 006 482"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCL10)(DNC05)/($1,03710,,)/}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"188, 81, 11","shape":"circle"},[]]]]]],["repere",{"rep":"51"},[["pr",{"codesi":"006114","obsnfp":"NFP","ref":"96006487","refpg":"96 006 487"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(B0H08)/($1,03710,,)/}"]]]]]],["pr",{"codesi":"006114","obsnfp":"NFP","ref":"96019023","refpg":"96 019 023"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)(DNC05)/($1,03857,,)/}"]]]]]],["pr",{"codesi":"006114","obsnfp":"NFP","ref":"96019021","refpg":"96 019 021"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(DCX02)(DNC05)(DCL10)/($1,03857,,)/}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"215, 81, 11","shape":"circle"},[]]]]]]]]]]}

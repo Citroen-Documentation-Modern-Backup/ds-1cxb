@@ -1,18 +1,1 @@
-{
- "ref": "123005501002",
- "refDisplay": "1230 05 501002",
- "title": "FAISCEAU AVANT",
- "nature": "",
- "applicability": "MONTAGE REPETITEURS LATERAUX",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0308"
-  }
- ]
-}
+{"ref":"123005501002","refDisplay":"1230 05 501002","title":"FAISCEAU AVANT","nature":"","applicability":"MONTAGE REPETITEURS LATERAUX","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0308"}],"kind":"pr","appl":"{(?1CXB)(DFD01)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006058"},[]],["mpr",{"catal":"1230","grp":"512","grp2":"05","maj":"20110723","numfich":"501002"},[["appl",{},["{(?1CXB)(DFD01)}"]],["sti",{"ident":"NL501001"},[]],["img",{"numfich":"d5010020","path":"/img/pr/20/d501/d5010020.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"006058","obsnfp":"NFP","ref":"95637318","refpg":"95 637 318"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]]]]]]}

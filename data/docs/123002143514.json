@@ -1,18 +1,1 @@
-{
- "ref": "123002143514",
- "refDisplay": "1230 02 143514",
- "title": "CARBURATEUR-STARTER AUTOMATIQUE",
- "nature": "",
- "applicability": "ESSENCE ET 1,580L DEPUIS OPR 04158 JUSQU’A OPR 04620 SAUF BVA SAUF CLIMATISEUR",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"123002143514","refDisplay":"1230 02 143514","title":"CARBURATEUR-STARTER AUTOMATIQUE","nature":"","applicability":"ESSENCE ET 1,580L DEPUIS OPR 04158 JUSQU’A OPR 04620 SAUF BVA SAUF CLIMATISEUR","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CXB)(DCD10)(%B0F158)/($1,04158,1,04620)/[(@BVA)][(DCL10)]}","tree":["document",{},[["thesaurus",{"type":"10","code":"000140"},[]],["thesaurus",{"type":"10","code":"000819"},[]],["thesaurus",{"type":"10","code":"000331"},[]],["thesaurus",{"type":"10","code":"000050"},[]],["thesaurus",{"type":"10","code":"007344"},[]],["thesaurus",{"type":"10","code":"000740"},[]],["thesaurus",{"type":"10","code":"006078"},[]],["thesaurus",{"type":"10","code":"000814"},[]],["thesaurus",{"type":"10","code":"000869"},[]],["thesaurus",{"type":"10","code":"006142"},[]],["mpr",{"catal":"1230","grp":"34","grp2":"02","maj":"20110723","numfich":"143514"},[["appl",{},["{(?1CXB)(DCD10)(%B0F158)/($1,04158,1,04620)/[(@BVA)][(DCL10)]}"]],["sti",{"ident":"NL143501"},[]],["enssup",{},[["fourn",{},["18770B"]],["refd",{},["32 34 Z1 PSA 464"]]]],["img",{"numfich":"d1435140","path":"/img/pr/40/d143/d1435140.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000140","obsnfp":"NFP","ref":"00001401D7","refpg":"1401 D7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]],["reffour",{},[["four",{},["18770B"]]]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000819","ref":"0000143355","refpg":"1433 55"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000331","ref":"0000143356","refpg":"1433 56"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000050","ref":"00001407C5","refpg":"1407 C5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"007344","obsnfp":"NFP","ref":"00001403C3","refpg":"1403 C3"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"000740","ref":"0000165471","refpg":"1654 71"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"006078","ref":"00001416F2","refpg":"1416 F2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["EP 3,5"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"000814","ref":"00001417N4","refpg":"1417 N4"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"000869","ref":"00001417N5","refpg":"1417 N5"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"006142","ref":"0000025103","refpg":"0251 03"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["7X100-6-14"]]]]]]]]]]]]}

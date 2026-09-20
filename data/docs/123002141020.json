@@ -1,18 +1,1 @@
-{
- "ref": "123002141020",
- "refDisplay": "1230 02 141020",
- "title": "COLLECTEUR ADMISSION",
- "nature": "",
- "applicability": "GAZOLE ET 1,769L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"123002141020","refDisplay":"1230 02 141020","title":"COLLECTEUR ADMISSION","nature":"","applicability":"GAZOLE ET 1,769L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(%B0F17)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000184"},[]],["thesaurus",{"type":"10","code":"000086"},[]],["thesaurus",{"type":"10","code":"004682"},[]],["mpr",{"catal":"1230","grp":"26","grp2":"02","maj":"20110723","numfich":"141020"},[["appl",{},["{(?1CXB)(DCD06)(%B0F17)}"]],["sti",{"ident":"NL141001"},[]],["img",{"numfich":"d1410200","path":"/img/pr/00/d141/d1410200.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000184","obsnfp":"NFP","ref":"0000034230","refpg":"0342 30"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F190)/($,,1,03795)/}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000086","ref":"0000520910","refpg":"5209 10"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%B0F190)/($,,1,03795)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 19,5X25,5 E =22"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004682","ref":"0000691307","refpg":"6913 07"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)(%B0F190)/($,,1,03795)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-25"]]]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"004682","obsnfp":"NFP","ref":"0000691380","refpg":"6913 80"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)(%B0F190)/($,,1,03795)/}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-70"]]]]]]]]]]]]}

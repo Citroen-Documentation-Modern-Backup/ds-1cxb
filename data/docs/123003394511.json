@@ -1,18 +1,1 @@
-{
- "ref": "123003394511",
- "refDisplay": "1230 03 394511",
- "title": "FIXATION DE CANALISATIONS HYDRAULIQUES",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0337"
-  }
- ]
-}
+{"ref":"123003394511","refDisplay":"1230 03 394511","title":"FIXATION DE CANALISATIONS HYDRAULIQUES","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0337"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001647"},[]],["thesaurus",{"type":"22","code":"P0000269"},[]],["mpr",{"catal":"1230","grp":"272","grp2":"03","maj":"20110723","numfich":"394511"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL394501"},[]],["obspage",{"ident":"P0000269"},[]],["img",{"numfich":"d3945110","path":"/img/pr/10/d394/d3945110.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001647","ref":"00006997F8","refpg":"6997 F8"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 4,8"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001647","obsnfp":"NFP","ref":"7903079197","refpg":"79 03 079 197"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["4 DIAM"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"001647","obsnfp":"NFP","ref":"95499149","refpg":"95 499 149"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["4T 3,5A4,5"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001647","obsnfp":"NFP","ref":"7903079199","refpg":"79 03 079 199"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["4T 3,5 PINC 0,5A3"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"001647","obsnfp":"NFP","ref":"7903079200","refpg":"79 03 079 200"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["2 T 3"]]]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"001647","obsnfp":"NFP","ref":"96093880","refpg":"96 093 880"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["4T 8 LONG 74"]]]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"001647","obsnfp":"NFP","ref":"96995410","refpg":"96 995 410"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1T 4,5A4,8 PINC 2,8"]]]]]]]],["repere",{"rep":"09"},[["pr",{"codesi":"001647","obsnfp":"NFP","ref":"96118504","refpg":"96 118 504"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CXB)(DAF01)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1T 4,8 PINC E0,5A3"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"001647","obsnfp":"NFP","ref":"96118503","refpg":"96 118 503"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1T 3,5 PINC E0,5A3"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"001647","obsnfp":"NFP","ref":"96111243","refpg":"96 111 243"},[["pmont",{"coef":"99"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["1T 13,2A15"]]]]]]]]]]]]}

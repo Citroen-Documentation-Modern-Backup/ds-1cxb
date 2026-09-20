@@ -1,18 +1,1 @@
-{
- "ref": "123002533120",
- "refDisplay": "1230 02 533120",
- "title": "DEMARREUR - FIXATION",
- "nature": "",
- "applicability": "GAZOLE ET 1,769L ET 1,905L",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0302"
-  }
- ]
-}
+{"ref":"123002533120","refDisplay":"1230 02 533120","title":"DEMARREUR - FIXATION","nature":"","applicability":"GAZOLE ET 1,769L ET 1,905L","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0302"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(%B0F17)(%B0F190)}","tree":["document",{},[["thesaurus",{"type":"10","code":"006906"},[]],["thesaurus",{"type":"10","code":"004650"},[]],["thesaurus",{"type":"10","code":"004682"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["thesaurus",{"type":"10","code":"004667"},[]],["mpr",{"catal":"1230","grp":"491","grp2":"02","maj":"20110723","numfich":"533120"},[["appl",{},["{(?1CXB)(DCD06)(%B0F17)(%B0F190)}"]],["sti",{"ident":"NL533101"},[]],["img",{"numfich":"d5331200","path":"/img/pr/00/d533/d5331200.jpg","ext":"jpg"},[]],["repere",{"rep":"02"},[["pr",{"codesi":"006906","ref":"0000696843","refpg":"6968 43"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 11X14 LG 15"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"004650","ref":"00006981L8","refpg":"6981 L8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 145-180 LARG 14"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"004682","ref":"00006913D0","refpg":"6913 D0"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 10X150-60"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"004675","ref":"0000692493","refpg":"6924 93"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-20"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"004667","ref":"0000694778","refpg":"6947 78"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X16-1,5"]]]]]]]]]]]]}

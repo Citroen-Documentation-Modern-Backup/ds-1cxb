@@ -1,18 +1,1 @@
-{
- "ref": "123008982834",
- "refDisplay": "1230 08 982834",
- "title": "PANNEAUX DE PORTE AVANT",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0135"
-  }
- ]
-}
+{"ref":"123008982834","refDisplay":"1230 08 982834","title":"PANNEAUX DE PORTE AVANT","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0135"}],"kind":"pr","appl":"{(?1CXB)}","tree":["document",{},[["thesaurus",{"type":"10","code":"004588"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["thesaurus",{"type":"21","code":"L0067344"},[]],["thesaurus",{"type":"21","code":"L0067352"},[]],["thesaurus",{"type":"21","code":"L0067346"},[]],["thesaurus",{"type":"21","code":"L0067350"},[]],["thesaurus",{"type":"21","code":"L0067348"},[]],["thesaurus",{"type":"21","code":"L0067353"},[]],["thesaurus",{"type":"21","code":"L0067351"},[]],["thesaurus",{"type":"21","code":"L0067345"},[]],["thesaurus",{"type":"21","code":"L0067349"},[]],["thesaurus",{"type":"21","code":"L0067347"},[]],["mpr",{"catal":"1230","grp":"354","grp2":"08","maj":"20110723","numfich":"982834"},[["appl",{},["{(?1CXB)}"]],["sti",{"ident":"NL982801"},[]],["enssup",{},[["refd",{},["VELOURS KERKIRA"]]]],["img",{"numfich":"d9828340","path":"/img/pr/40/d982/d9828340.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"004588","cote":"G","obsnfp":"NFP","ref":"96058589XL","refpg":"96 058 589 XL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TR)(%OPTION)/($1,04508,1,04920)/}"]],["obsligne",{"ident":"L0067344"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TZ)(%OPTION)/($1,04921,,)/}"]],["obsligne",{"ident":"L0067352"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%4X4)(%OPTION)/($1,04508,,)/}"]],["obsligne",{"ident":"L0067346"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%GTI)/($1,04508,,)/}"]],["obsligne",{"ident":"L0067350"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%GTI4X4)/($1,04508,,)/}"]],["obsligne",{"ident":"L0067348"},[]]]]]],["pr",{"codesi":"004588","cote":"D","obsnfp":"NFP","ref":"96058588XL","refpg":"96 058 588 XL"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TR)(%OPTION)/($1,04508,1,04920)/}"]],["obsligne",{"ident":"L0067353"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%TZ)(%OPTION)/($1,04508,,)/}"]],["obsligne",{"ident":"L0067351"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%4X4)(%OPTION)/($1,04508,,)/}"]],["obsligne",{"ident":"L0067345"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%GTI)/($1,04508,,)/}"]],["obsligne",{"ident":"L0067349"},[]]]],["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)(%GTI4X4)/($1,04508,,)/}"]],["obsligne",{"ident":"L0067347"},[]]]]]]]]]]]]}

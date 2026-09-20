@@ -1,18 +1,1 @@
-{
- "ref": "123002141022",
- "refDisplay": "1230 02 141022",
- "title": "COLLECTEUR ADMISSION",
- "nature": "",
- "applicability": "GAZOLE ET 1,905L ET (CH) SUISSE ET (S) SUEDE",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CXB",
-   "variantKey": "",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"123002141022","refDisplay":"1230 02 141022","title":"COLLECTEUR ADMISSION","nature":"","applicability":"GAZOLE ET 1,905L ET (CH) SUISSE ET (S) SUEDE","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CXB","variantKey":"","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CXB)(DCD06)(%B0F190)(B0H05)(B0H09)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000184"},[]],["thesaurus",{"type":"10","code":"000412"},[]],["thesaurus",{"type":"10","code":"000086"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["mpr",{"catal":"1230","grp":"26","grp2":"02","maj":"20110723","numfich":"141022"},[["appl",{},["{(?1CXB)(DCD06)(%B0F190)(B0H05)(B0H09)}"]],["sti",{"ident":"NL141001"},[]],["img",{"numfich":"d1410220","path":"/img/pr/20/d141/d1410220.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000184","obsnfp":"NFP","ref":"0000034266","refpg":"0342 66"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["reporg",{},[["monte",{},["DJZ"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000412","obsnfp":"NFP","ref":"0000034898","refpg":"0348 98"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)/($1,03887,,)/}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000412","obsnfp":"NFP","ref":"0000034899","refpg":"0348 99"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CXB)/($,,1,03552)/}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000086","ref":"0000520910","refpg":"5209 10"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 19,5X25,5 E =22"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004675","obsnfp":"NFP","ref":"0000580408","refpg":"5804 08"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CXB)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8X125-25"]]]]]]]]]]]]}
